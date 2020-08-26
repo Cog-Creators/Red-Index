@@ -1,0 +1,17 @@
+# List of repositories that need to be indexed
+#
+# Please refer to repositories-example.yaml to fill out this configuration
+# file properly
+#
+
+# List of approved repos
+# Will be parsed and categorized as "approved" by the indexer
+approved:
+
+# List of approved repos.
+# Will be parsed and categorized as "unapproved" by the indexer
+unapproved:
+
+# List of flagged cogs
+# Cogs present in this list will be ignored by the indexer
+flagged-cogs:
