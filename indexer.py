@@ -116,6 +116,11 @@ class Cog:
         and as such they have this prefix to avoid future conflicts"""
         self._name = name
         self._path = path
+        self.author = []
+        self.description = ""
+        self.end_user_data_statement = ""
+        self.permissions = []
+        self.short = ""
         self.min_bot_version = ""
         self.max_bot_version = ""
         self.min_python_version = ""
@@ -147,6 +152,11 @@ class Cog:
             self._error = "Error reading cog info.json. Possibly invalid."
             return
 
+        self.author = data.get("author", [])
+        self.description = data.get("description", "")
+        self.end_user_data_statement = data.get("end_user_data_statement", "")
+        self.short = data.get("short", "")
+        self.permissions = data.get("permissions", [])
         self.min_bot_version = data.get("min_bot_version", "")
         self.max_bot_version = data.get("max_bot_version", "")
         self.min_python_version = data.get("min_python_version", "")
