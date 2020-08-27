@@ -7012,5 +7012,227 @@
         "description": "Thanks for using FlapJack Cogs. If you have any issues, please join the Cog Support server and post in the support_flapjack-cogs channel: <https://discord.gg/k5xbRqG> or open an issue on the repo.",
         "name": "FlapJack-Cogs",
         "short": "Cogs by FlapJack"
+    },
+    {
+        "author": [
+            "baiumbg"
+        ],
+        "branch": "",
+        "category": "unapproved",
+        "cogs": [
+            {
+                "nickometer": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [],
+                    "type": ""
+                }
+            },
+            {
+                "rpg": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "tabulate"
+                    ],
+                    "tags": [
+                        "duel",
+                        "fun",
+                        "fight",
+                        "combat",
+                        "rpg",
+                        "adventure",
+                        "pvp"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "duel": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "duel",
+                        "fun",
+                        "fight",
+                        "combat"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "mxl": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "beautifulsoup4",
+                        "requests",
+                        "flickrapi",
+                        "imgkit"
+                    ],
+                    "tags": [
+                        "fun",
+                        "utility"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "sfx": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "gTTS",
+                        "red-lavalink",
+                        "pydub",
+                        "aiohttp"
+                    ],
+                    "tags": [
+                        "tts",
+                        "audio"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "penis": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "fun"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "zalgo": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "zalgo",
+                        "fun"
+                    ],
+                    "type": ""
+                }
+            }
+        ],
+        "description": "A bunch of useless cogs (and some questionably useful ones).",
+        "name": "baiumbg-Cogs",
+        "short": "A bunch of useless cogs"
+    },
+    {
+        "author": [
+            "Will (tekulvw)"
+        ],
+        "branch": "V3",
+        "category": "unapproved",
+        "cogs": [
+            {
+                "karma": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "tabulate"
+                    ],
+                    "tags": [
+                        "karma",
+                        "points",
+                        "rep"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "quotes": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "quotes",
+                        "quote"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "bankvampire": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "vampires",
+                        "bank",
+                        "credits"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "logger": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "tabulate"
+                    ],
+                    "tags": [
+                        "utility",
+                        "log",
+                        "logger"
+                    ],
+                    "type": ""
+                }
+            }
+        ],
+        "description": "Squid Plugins for Red v3",
+        "name": "Squid-Plugins",
+        "short": "Growing collection of useful plugins"
     }
 ]
