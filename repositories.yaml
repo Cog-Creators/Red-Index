@@ -7,6 +7,8 @@
 # List of approved repos
 # Will be parsed and categorized as "approved" by the indexer
 approved:
+  - https://github.com/aikaterna/aikaterna-cogs
+  - https://github.com/skeith/MayuYukirin
 
 # List of approved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
