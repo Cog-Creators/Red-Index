@@ -1,0 +1,39 @@
+name: Run indexer
+
+on:
+#  schedule: # When it's ready!
+#  - cron: "*/15 * * * *"
+  workflow_dispatch:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+        persist-credentials: false
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Create bash file for cloning
+      run: |
+        python -m pip install pyyaml
+        python parser.py repositories.yaml clonerepos.sh
+        chmod +x clonerepos.sh
+    - name: Clone repos
+      run: ./clonerepos.sh
+    - name: Run indexer
+      run: python indexer.py repositories.yaml
+    - name: Commit files
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "Indexer"
+        git add index/*.json
+        git commit -m "Index update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
