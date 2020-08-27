@@ -7,23 +7,23 @@
 # List of approved repos
 # Will be parsed and categorized as "approved" by the indexer
 approved:
-  - User1/RepoName
-  - User2/RepoName@branchname
-  - User3/RepoName
+  - https://github.com/User1/RepoName
+  - https://github.com/User2/RepoName@branchname
+  - https://github.com/User3/RepoName
 
 # List of approved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
-  - User4/RepoName
-  - User5/RepoName@branchname
+  - https://github.com/User4/RepoName@branchname
+  - https://gitlab.com/User5/RepoName
 
 # List of flagged cogs
-# Cogs present in this list will be ignored by the indexer
+# Cogs present in this list will be ignored by the indexer.
 flagged-cogs:
-  - User1/RepoName
+  https://gitlab.com/User5/RepoName:   # <- Mind the colon!
     - cogname1
     - cogname2
-  - User4/RepoName
+  https://github.com/User3/RepoName:
     - cogname1
-  - User5/RepoName@branchname
+  https://github.com/User1/RepoName:
     - cogname8
