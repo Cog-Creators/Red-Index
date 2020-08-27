@@ -40,7 +40,7 @@ approved:
   - https://github.com/grayconcaves/FanCogs
   - https://github.com/flapjax/FlapJack-Cogs
 
-# List of approved repos.
+# List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
   - https://github.com/baiumbg/baiumbg-Cogs

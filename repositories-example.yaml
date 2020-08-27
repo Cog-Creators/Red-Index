@@ -11,7 +11,7 @@ approved:
   - https://github.com/User2/RepoName@branchname
   - https://github.com/User3/RepoName
 
-# List of approved repos.
+# List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
   - https://github.com/User4/RepoName@branchname
