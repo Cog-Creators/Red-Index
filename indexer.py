@@ -106,8 +106,7 @@ class Repo:
             cog.check_cog_validity()
 
     def __json__(self):
-        _dict = {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
-        return {self._url: _dict}
+        return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
 
 class Cog:
     def __init__(self, name: str, path: Path):
@@ -201,14 +200,19 @@ def main():
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
     if repos:
+        # Final format URL : Repo
+        repos_index = {}
+        for r in repos:
+            repos_index[r._url] = r
+
         if not GEN_PATH.exists():
             GEN_PATH.mkdir()
 
         with open(str(GEN_MIN_FILE), "w") as f:
-            json.dump(repos, f, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
+            json.dump(repos_index, f, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
 
         with open(str(GEN_FILE), "w") as f:
-            json.dump(repos, f, indent=4, sort_keys=True, cls=CustomEncoder)
+            json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
 
 
 if __name__ == "__main__":
