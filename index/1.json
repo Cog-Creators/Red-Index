@@ -1,0 +1,655 @@
+[
+    {
+        "author": [
+            "aikaterna (aikaterna#1393)"
+        ],
+        "branch": "",
+        "category": "approved",
+        "cogs": [
+            {
+                "otherbot": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "bots"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "away": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "away"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "cah": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "CAH",
+                        "cards",
+                        "games"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "hunting": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "hunting",
+                        "hunt",
+                        "game"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "noflippedtables": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "noflippedtables",
+                        "no flip",
+                        "tables"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "quiz": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "trivia",
+                        "quiz"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "icyparser": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "audio",
+                        "icecast",
+                        "shoutcast"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "rndstatus": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "3.3.6",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "status"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "pupper": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "pets"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "chatchart": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "matplotlib"
+                    ],
+                    "tags": [
+                        "data",
+                        "chart",
+                        "activity"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "dungeon": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "dungeon",
+                        "autoban"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "blurplefy": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "pillow",
+                        "python-resize-image"
+                    ],
+                    "tags": [
+                        "blurple",
+                        "image",
+                        "profile"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "pingtime": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "pingtime",
+                        "latency"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "luigipoker": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "poker",
+                        "game"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "wolfram": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "pillow"
+                    ],
+                    "tags": [
+                        "wolfram"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "youtube": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "youtube"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "partycrash": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "invite"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "dadjokes": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "jokes",
+                        "dad",
+                        "dadjokes"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "antiphoneclapper": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "pillow"
+                    ],
+                    "tags": [],
+                    "type": "COG"
+                }
+            },
+            {
+                "inspirobot": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "inspire",
+                        "inspirobot"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "nolinks": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "links",
+                        "automod"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "warcraftlogs": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "warcraft"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "region": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "voice region",
+                        "region"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "snacktime": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "snack",
+                        "snacktime",
+                        "snackburr",
+                        "party",
+                        "party time"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "pressf": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "pressf",
+                        "respects"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "seen": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "seen",
+                        "activity"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "invites": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "3.3.10",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "invites"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "trickortreat": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "trick or treat",
+                        "candy",
+                        "pick"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "tools": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        8,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [
+                        "tabulate"
+                    ],
+                    "tags": [
+                        "tools"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "dictionary": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "beautifulsoup4"
+                    ],
+                    "tags": [
+                        "dictionary"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "retrosign": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "bs4"
+                    ],
+                    "tags": [
+                        "retro",
+                        "80s"
+                    ],
+                    "type": "COG"
+                }
+            },
+            {
+                "timezone": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": "",
+                    "required_cogs": {},
+                    "requirements": [
+                        "pytz"
+                    ],
+                    "tags": [
+                        "time",
+                        "timezone"
+                    ],
+                    "type": "COG"
+                }
+            }
+        ],
+        "description": "Cogs requested by others, personal cogs, or orphaned cogs.",
+        "name": "aikaterna-cogs",
+        "short": "Utility and fun cogs"
+    },
+    {
+        "author": [
+            "Yukirin (Yukirin#0048)"
+        ],
+        "branch": "",
+        "category": "approved",
+        "cogs": [
+            {
+                "pda": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "love",
+                        "affection",
+                        "pat"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "doujin": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "nsfw",
+                        "doujin",
+                        "image"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "animal": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "animal",
+                        "image",
+                        "picture",
+                        "cat",
+                        "dog",
+                        "fox",
+                        "pug"
+                    ],
+                    "type": ""
+                }
+            },
+            {
+                "avatar": {
+                    "disabled": false,
+                    "hidden": false,
+                    "max_bot_version": "",
+                    "min_bot_version": "",
+                    "min_python_version": [
+                        3,
+                        6,
+                        0
+                    ],
+                    "required_cogs": {},
+                    "requirements": [],
+                    "tags": [
+                        "avatar",
+                        "Utility"
+                    ],
+                    "type": ""
+                }
+            }
+        ],
+        "description": "48G/46G related cogs and miscellaneous..",
+        "name": "MayuYukirin",
+        "short": "48G/46G related cogs and miscellaneous."
+    }
+]
