@@ -43,6 +43,8 @@ approved:
 # List of approved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
+  - https://github.com/baiumbg/baiumbg-Cogs
+  - https://github.com/tekulvw/Squid-Plugins@V3
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
