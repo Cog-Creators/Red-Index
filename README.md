@@ -1,4 +1,10 @@
 # Red-Index
-Auto-indexer of repositories and cogs
+Auto-indexer of repositories and cogs.  
+Scheduled to run every 15 minutes and provide an up-to-date [index list](https://github.com/Cog-Creators/Red-Index/tree/master/index) of every repo listed in [repositories.yaml](repositories.yaml)  
+See [repositories-example.yaml](repositories-example.yaml) to learn how to compile it
 
-(Work in progress!)
+### TODO:
+- Exit code 0 if no changes are committed
+- Further checks for cog package validity
+- Error log generation in index folder
+- Interface this thing with Downloader :-)
