@@ -3769,6 +3769,42 @@
         },
         "short": "Cogs by TrustyJAID inspired by many."
     },
+    "https://github.com/Twentysix26/x26-Cogs": {
+        "author": [
+            "Twentysix (Twentysix#5252)"
+        ],
+        "description": "General purpose cogs by Twentysix (Twentysix#5252)",
+        "name": "x26-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "index": {
+                "author": [
+                    "Twentysix (Twentysix#5252)",
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Browse, search and install repos / cogs from a Red-Index",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Easy cog discoverability with Red-Index",
+                "tags": [
+                    "index",
+                    "discoverability",
+                    "cogs",
+                    "finder"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "General purpose cogs by Twentysix (Twentysix#5252)"
+    },
     "https://github.com/WildStriker/WildCogs": {
         "author": [
             "WildStriker (WildStriker#6222)"
