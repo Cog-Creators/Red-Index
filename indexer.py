@@ -168,8 +168,7 @@ class Cog:
         self.type = data.get("type", "")
 
     def __json__(self):
-        _dict = {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
-        return {self._name: _dict}
+        return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
 
 def main():
     yamlfile = sys.argv[1]
@@ -210,9 +209,16 @@ def main():
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
     if repos:
-        # Final format URL : Repo
+        # Final format URL : Repo...
         repos_index = {}
+
         for r in repos:
+            cogs_dict = {}
+            for c in r.rx_cogs:
+                cogs_dict[c._name] = c
+
+            # ... and CogName : Cog
+            r.rx_cogs = cogs_dict
             repos_index[r._url] = r
 
         if not GEN_PATH.exists():
