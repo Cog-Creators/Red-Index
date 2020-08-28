@@ -6055,7 +6055,7 @@
         "author": [
             "Fixator10"
         ],
-        "description": "",
+        "description": "Cogs for Red-DiscordBot. Including port of V2 leveler by Stevy.",
         "name": "Fixator10-Cogs",
         "rx_branch": "",
         "rx_category": "approved",
@@ -6425,7 +6425,7 @@
                 "type": ""
             }
         },
-        "short": "Cogs from my edition of DiNitride's selfbot and moar"
+        "short": "Cogs for Red-DiscordBot."
     },
     "https://github.com/flapjax/FlapJack-Cogs": {
         "author": [
