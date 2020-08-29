@@ -72,7 +72,7 @@ class Repo:
         self._path = base_path
 
         infofile = base_path / Path("info.json")
-        if not path.is_file():
+        if not infofile.is_file():
             self._error = "No repo info.json found."
             return
 
