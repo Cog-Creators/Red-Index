@@ -35,6 +35,9 @@ jobs:
         cd cache
         git add .
         git commit -m "Index update"
+    - name: No changes # Commit with no changes = exit code <> 0
+      if: ${{ failure() }}
+      run: exit 0
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
