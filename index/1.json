@@ -1141,6 +1141,179 @@
         },
         "short": "Miscellaneous cogs"
     },
+    "https://github.com/NNTin/nntin-cogs": {
+        "author": [],
+        "description": "",
+        "name": "nntin-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "crossbar": {
+                "author": [
+                    "Linley#8686"
+                ],
+                "description": "Control your Discord Bot through RPC. See what the bot sees.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A crossbar client written as a cog",
+                "tags": [
+                    "crossbar",
+                    "utility",
+                    "RPC",
+                    "PubSub"
+                ],
+                "type": ""
+            },
+            "icu": {
+                "author": [
+                    "NNTin (Linley#8686)"
+                ],
+                "description": "Teach a valuable lesson about pinging @everyone or hand out roles for pinging certain users or roles.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "icu",
+                "tags": [
+                    "lesson",
+                    "troll",
+                    "meme"
+                ],
+                "type": ""
+            },
+            "pc": {
+                "author": [
+                    "NNTin (Linley#8686)"
+                ],
+                "description": "Voice users get a private room to talk. After they are done talking the room is deleted.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "pc",
+                "tags": [
+                    "private"
+                ],
+                "type": ""
+            },
+            "presence": {
+                "author": [
+                    "NNTin (Linley#8686)"
+                ],
+                "description": "Give out roles depending on the status/presence of your members.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "presence",
+                "tags": [
+                    "utility",
+                    "status",
+                    "presence",
+                    "role"
+                ],
+                "type": ""
+            },
+            "reddit": {
+                "author": [
+                    "NNTin (Linley#8686)"
+                ],
+                "description": "Display the front page (of a subreddit) in a text channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "reddit",
+                "tags": [
+                    "utility",
+                    "reddit"
+                ],
+                "type": ""
+            },
+            "remindme": {
+                "author": [],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "tamagotchi": {
+                "author": [
+                    "NNTin (Linley#8686)"
+                ],
+                "description": "Everyone knows Tamagotchis. Does this need a description?",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "tama",
+                "tags": [
+                    "tamagotchi",
+                    "pet",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "tweets": {
+                "author": [],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": ""
+    },
     "https://github.com/NeuroAssassin/Toxic-Cogs": {
         "author": [
             "Neuro Assassin"
@@ -1998,6 +2171,128 @@
             }
         },
         "short": "Various cogs."
+    },
+    "https://github.com/Predeactor/Predeactor-Cogs": {
+        "author": [
+            "Predeactor"
+        ],
+        "description": "Cogs made for Red, created by the Captain'!",
+        "name": "Predeactor-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "captcher": {
+                "author": [],
+                "description": "Let users complete a captcha before entering the server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "captcha"
+                ],
+                "short": "Captcha cog.",
+                "tags": [],
+                "type": ""
+            },
+            "cleverbot": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "A free cog for talking to Cleverbot!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "async_cleverbot"
+                ],
+                "short": "Talk to Cleverbot in Discord.",
+                "tags": [],
+                "type": ""
+            },
+            "coronavirus": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "Retrieve statistics about the Covid-19.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Retrieve statistics about the Covid-19.",
+                "tags": [],
+                "type": ""
+            },
+            "customcooldown": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "CustomCooldown moderated by bot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog store data about users persistently for required reasons. Red may store where and when you send your last message, depending cog's parameter (If sent in a cooldowned channel/category) as your Discord's ID.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "CustomCooldown moderated by bot.",
+                "tags": [],
+                "type": ""
+            },
+            "leaderboard": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "A global reputation system using points.",
+                "disabled": false,
+                "end_user_data_statement": "This cog store data about users persistently for saving datas. Red may store your discord ID with your settings you set and how many points you got.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Global reputation points.",
+                "tags": [],
+                "type": ""
+            },
+            "learning": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "Learn Python on Discord.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Learn Python on Discord.",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Utility cogs made for Red."
     },
     "https://github.com/Redjumpman/Jumper-Plugins": {
         "author": [
@@ -8894,6 +9189,40 @@
             }
         },
         "short": "B\u0336o\u0336d\u0336y\u0336 Cogs by tmerc."
+    },
+    "https://github.com/yamikaitou/YamiCogs": {
+        "author": [
+            "YamiKaitou#8975"
+        ],
+        "description": "Just some random cogs that I wrote/ported/modified and want to share back to the public",
+        "name": "YamiCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "kill": {
+                "author": [
+                    "YamiKaitou#8975",
+                    "Paddolicious#8880"
+                ],
+                "description": "Add kills and kill people with them! You can also slap someone with a trout! Originally made for v2 by Paddo",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Have you always wanted to kill someone? If so, do it in a creative way!",
+                "tags": [
+                    "kill",
+                    "fun"
+                ],
+                "type": ""
+            }
+        },
+        "short": "A random group of cogs"
     },
     "https://github.com/zephyrkul/FluffyCogs": {
         "author": [
