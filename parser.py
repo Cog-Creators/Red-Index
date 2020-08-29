@@ -39,11 +39,11 @@ if __name__ == "__main__":
         if branch:
             sha = sha1_digest(f"{url}@{branch}")
             dest = CACHE / Path(sha)
-            sh += f"git clone {repo} --branch {branch} --single-branch {dest}\n"
+            sh += f"git clone {url} --branch {branch} --single-branch {dest}\n"
         else:
             sha = sha1_digest(url)
             dest = CACHE / Path(sha)
-            sh += f"git clone {r} {dest}\n"
+            sh += f"git clone {url} {dest}\n"
 
     with open(outfile, "w") as f:
         f.write(sh)
