@@ -2,6 +2,7 @@ import json
 import yaml
 import sys
 from pathlib import Path
+from .parser import CACHE, sha1_digest
 
 RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
 GEN_PATH = Path("index")
@@ -61,7 +62,7 @@ class Repo:
         if self._error:
             return
 
-        path = Path(self.name)
+        path = CACHE / Path(sha1_digest(self._url))
         if not path.is_dir():
             self._error = "Repo path does not exist. Cloning failed?"
             return

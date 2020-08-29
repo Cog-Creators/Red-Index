@@ -1,8 +1,8 @@
 name: Run indexer
 
 on:
-  schedule:
-  - cron: "*/15 * * * *"
+  # schedule:
+  # - cron: "*/15 * * * *"
   workflow_dispatch:
     branches: [ master ]
 
@@ -20,6 +20,7 @@ jobs:
         python-version: 3.8
     - name: Create bash file for cloning
       run: |
+        mkdir cache
         python -m pip install pyyaml
         python parser.py repositories.yaml clonerepos.sh
         chmod +x clonerepos.sh
@@ -31,7 +32,8 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Indexer"
-        git add index/*.json
+        cd cache
+        git add .
         git commit -m "Index update"
     - name: Push changes
       uses: ad-m/github-push-action@master
