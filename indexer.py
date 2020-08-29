@@ -2,6 +2,9 @@ import json
 import yaml
 import sys
 from pathlib import Path
+from hashlib import sha1
+
+CACHE = Path("cache")
 
 RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
 GEN_PATH = Path("index")
@@ -61,20 +64,20 @@ class Repo:
         if self._error:
             return
 
-        path = Path(self.name)
-        if not path.is_dir():
+        base_path = CACHE / Path(sha1_digest(self._url))
+        if not base_path.is_dir():
             self._error = "Repo path does not exist. Cloning failed?"
             return
 
-        self._path = path
+        self._path = base_path
 
-        path = Path(self.name) / Path("info.json")
-        if not path.is_file():
+        infofile = base_path / Path("info.json")
+        if not infofile.is_file():
             self._error = "No repo info.json found."
             return
 
         try:
-            with open(str(path)) as f:
+            with open(str(infofile)) as f:
                 info = json.load(f)
         except:
             self._error = "Error reading repo info.json. Possibly invalid."
@@ -169,6 +172,9 @@ class Cog:
 
     def __json__(self):
         return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
+
+def sha1_digest(url):
+    return sha1(url.encode('utf-8')).hexdigest()
 
 def main():
     yamlfile = sys.argv[1]
