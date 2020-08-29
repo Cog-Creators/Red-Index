@@ -35,7 +35,7 @@ if __name__ == "__main__":
         repos.extend(data["unapproved"])
 
     for r in repos:
-        branch, url = get_clean_url(r)
+        url, branch = get_clean_url(r)
         if branch:
             sha = sha1_digest(f"{url}@{branch}")
             dest = CACHE / Path(sha)
