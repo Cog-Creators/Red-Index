@@ -64,20 +64,20 @@ class Repo:
         if self._error:
             return
 
-        path = CACHE / Path(sha1_digest(self._url))
-        if not path.is_dir():
+        base_path = CACHE / Path(sha1_digest(self._url))
+        if not base_path.is_dir():
             self._error = "Repo path does not exist. Cloning failed?"
             return
 
-        self._path = path
+        self._path = base_path
 
-        path = Path(self.name) / Path("info.json")
+        infofile = base_path / Path("info.json")
         if not path.is_file():
             self._error = "No repo info.json found."
             return
 
         try:
-            with open(str(path)) as f:
+            with open(str(infofile)) as f:
                 info = json.load(f)
         except:
             self._error = "Error reading repo info.json. Possibly invalid."
