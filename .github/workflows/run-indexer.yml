@@ -33,7 +33,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Indexer"
-        cd cache
+        cd index
         git add .
         git commit -m "Index update"
     - name: Push changes
