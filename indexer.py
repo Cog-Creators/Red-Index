@@ -2,7 +2,9 @@ import json
 import yaml
 import sys
 from pathlib import Path
-from .parser import CACHE, sha1_digest
+from hashlib import sha1
+
+CACHE = Path("cache")
 
 RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
 GEN_PATH = Path("index")
@@ -170,6 +172,9 @@ class Cog:
 
     def __json__(self):
         return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
+
+def sha1_digest(url):
+    return sha1(url.encode('utf-8')).hexdigest()
 
 def main():
     yamlfile = sys.argv[1]
