@@ -10,6 +10,7 @@ RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format
 GEN_PATH = Path("index")
 GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json") # Pretty, for QA checking
 GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json") # Minified, for user download
+GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml") # Error log
 
 
 class CustomEncoder(json.JSONEncoder):
@@ -176,6 +177,25 @@ class Cog:
 def sha1_digest(url):
     return sha1(url.encode('utf-8')).hexdigest()
 
+def make_error_log(repos):
+    log = {}
+
+    for r in repos:
+        if r._error:
+            log[r._url] = r._error
+            continue
+        for c in r.rx_cogs:
+            if not c._error:
+                continue
+            if r._url not in log:
+                log[r._url] = {}
+            log[r._url][c._name] = c._error
+
+    if log:
+        return yaml.safe_dump(log, sort_keys=True, default_flow_style=False)
+    else:
+        return ""
+
 def main():
     yamlfile = sys.argv[1]
 
@@ -215,6 +235,8 @@ def main():
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
     if repos:
+        error_log = make_error_log(repos)
+
         # Final format URL : Repo...
         repos_index = {}
 
@@ -235,6 +257,9 @@ def main():
 
         with open(str(GEN_FILE), "w") as f:
             json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
+
+        with open(str(GEN_ERROR_LOG), "w") as f:
+            f.write(error_log)
 
 
 if __name__ == "__main__":

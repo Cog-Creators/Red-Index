@@ -10,8 +10,6 @@ def sha1_digest(url):
 
 def get_clean_url(url):
     branch = ""
-    if "/@" in url:
-        url.replace("/@", "@")
     if "@" in url:
         url, branch = url.split("@")
     if url.endswith("/"):
