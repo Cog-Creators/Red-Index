@@ -5430,7 +5430,7 @@
                     "Bobloy",
                     "SnappyDragon"
                 ],
-                "description": "Calculate the love percentage for two users",
+                "description": "Calculate the love percentage for two users. Shows gif result and description of their love",
                 "disabled": false,
                 "end_user_data_statement": "This cog uses the core Bank cog. It store no End User Data otherwise.",
                 "hidden": false,
@@ -5442,7 +5442,7 @@
                 "requirements": [
                     "beautifulsoup4"
                 ],
-                "short": "Calculate love percentage",
+                "short": "Calculate love percentage for two users.",
                 "tags": [
                     "bobloy",
                     "fun",
