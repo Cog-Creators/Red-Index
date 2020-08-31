@@ -4435,6 +4435,29 @@
                 ],
                 "type": "COG"
             },
+            "latex": {
+                "author": [
+                    "aikaterna",
+                    "Stevy"
+                ],
+                "description": "Generates an image for a LaTeX expression.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Generates an image for a LaTeX expression.",
+                "tags": [
+                    "latex"
+                ],
+                "type": "COG"
+            },
             "luigipoker": {
                 "author": [
                     "aikaterna",
