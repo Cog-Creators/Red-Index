@@ -7726,6 +7726,32 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "autogist": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Auto-upload files with configured extension sent by users to gist.github.com.",
+                "disabled": false,
+                "end_user_data_statement": "This cog auto-uploads attachments to gist.github.com uploaded by users as configured by the guild administrators.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "cachetools~=4.1",
+                    "gidgethub~=4.1"
+                ],
+                "short": "Auto-upload files with configured extension sent by users to gist.github.com.",
+                "tags": [
+                    "autogist",
+                    "github",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "banmessage": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
