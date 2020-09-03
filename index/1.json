@@ -5310,6 +5310,39 @@
                 ],
                 "type": ""
             },
+            "fifo": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "[ALPHA] Schedule commands to be run at certain times or intervals",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "apscheduler",
+                    "dateutil"
+                ],
+                "short": "[ALPHA] Schedule commands to be run at certain times or intervals\"",
+                "tags": [
+                    "bobloy",
+                    "utilities",
+                    "tool",
+                    "roles",
+                    "schedule",
+                    "cron",
+                    "interval",
+                    "date",
+                    "datetime",
+                    "time",
+                    "calendar"
+                ],
+                "type": ""
+            },
             "flag": {
                 "author": [
                     "Bobloy"
