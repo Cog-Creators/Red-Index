@@ -5327,7 +5327,7 @@
                     "apscheduler",
                     "dateutil"
                 ],
-                "short": "[ALPHA] Schedule commands to be run at certain times or intervals\"",
+                "short": "[ALPHA] Schedule commands to be run at certain times or intervals",
                 "tags": [
                     "bobloy",
                     "utilities",
