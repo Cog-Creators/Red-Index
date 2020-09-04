@@ -9378,6 +9378,27 @@
                 ],
                 "type": ""
             },
+            "dev": {
+                "author": [
+                    "Cog-Creators",
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "A fork of Red's Dev cog containing various features that wouldn't make it into core Red.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Custom fork of Red's Dev cog.",
+                "tags": [
+                    "dev"
+                ],
+                "type": ""
+            },
             "heartattack": {
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)"
@@ -9514,6 +9535,27 @@
                     "fun",
                     "trolling",
                     "impersonation"
+                ],
+                "type": ""
+            },
+            "rtfs": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Allows users to read the source of publicly-sourced commands. The bot owner can also read the source of any Python object if `--dev` is enabled.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Read The Source\u2122\ufe0f",
+                "tags": [
+                    "dev",
+                    "utilities"
                 ],
                 "type": ""
             },
