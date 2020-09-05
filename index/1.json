@@ -6553,7 +6553,8 @@
             "adminutils": {
                 "author": [
                     "Fixator10",
-                    "DiNitride"
+                    "DiNitride",
+                    "kablekompany"
                 ],
                 "description": "Useful commands for server administrators.",
                 "disabled": false,
