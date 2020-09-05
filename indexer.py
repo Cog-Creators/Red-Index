@@ -214,7 +214,8 @@ def main():
         r.populate_cogs()
         r.process_cogs()
 
-    # Remove errored repos and cogs. TODO: Write an error log for QA
+    # Remove errored repos and cogs.
+    error_log = make_error_log(repos)
     repos = [r for r in repos if not r._error]
 
     for r in repos:
@@ -235,8 +236,6 @@ def main():
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
     if repos:
-        error_log = make_error_log(repos)
-
         # Final format URL : Repo...
         repos_index = {}
 
