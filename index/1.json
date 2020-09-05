@@ -991,6 +991,109 @@
         },
         "short": "Cogs made by the Jintaku community"
     },
+    "https://github.com/Kowlin/Sentinel": {
+        "author": [
+            "Kowlin#2536"
+        ],
+        "description": "Moderation orianted cogs build for Red-DiscordBot",
+        "name": "Sentinel",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "antirp": {
+                "author": [
+                    "Kowlin"
+                ],
+                "description": "Block any type of rich presence invites",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no personal data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Block any type of rich presence invites",
+                "tags": [
+                    "Moderation",
+                    "Rich Presence"
+                ],
+                "type": "COG"
+            },
+            "freshmeat": {
+                "author": [
+                    "Kowlin",
+                    "JennJenn",
+                    "Irdumb (v2 iteration)"
+                ],
+                "description": "Check out the latest bunch of members with Freshmeat",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no personal data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Check out the latest bunch of members with Freshmeat",
+                "tags": [
+                    "moderation",
+                    "members"
+                ],
+                "type": "COG"
+            },
+            "githubcards": {
+                "author": [
+                    "Kowlin (Kowlin#2536)",
+                    "jack1142 (Jackenmen#6607)",
+                    "mikeshardmind (Sinbad#1871)"
+                ],
+                "description": "Ever wanted to embed a github issue?! Well **now** you can! With GitHubCards, this sweet cog allows you to embed any issue from any public repo you like by using a unique prefix!\n*Warning: GithubCards will blow your mind!*",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no personal data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.2.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Embed GitHub issues on your discord chat.",
+                "tags": [
+                    "api",
+                    "github",
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "massmove": {
+                "author": [
+                    "Kowlin"
+                ],
+                "description": "Massmove members out of voice channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no personal data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Massmove members out of voice channels.",
+                "tags": [
+                    "moderation",
+                    "massmove",
+                    "voice",
+                    "voicemoderation"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Moderation orianted cogs build for Red-DiscordBot"
+    },
     "https://github.com/Malarne/discord_cogs": {
         "author": [
             "Malarne (Malarne#1418)"
