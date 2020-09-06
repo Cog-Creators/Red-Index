@@ -4194,6 +4194,29 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "defender": {
+                "author": [
+                    "Twentysix (Twentysix#5252)"
+                ],
+                "description": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for the purpose of counting the messages a user sends and/or send the DM notifications the user has subscribed to.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
+                "tags": [
+                    "automod",
+                    "monitoring",
+                    "moderation",
+                    "voteban"
+                ],
+                "type": "COG"
+            },
             "index": {
                 "author": [
                     "Twentysix (Twentysix#5252)",
