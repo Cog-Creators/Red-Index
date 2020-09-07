@@ -11,7 +11,7 @@ See [repositories-example.yaml](repositories-example.yaml) to learn how to compi
 Made a service that uses Red-Index as a source? [Make a PR](https://github.com/Cog-Creators/Red-Index/pulls) and we'll add it here!
 
 ### Can I use this as a source for my project and provide a new service to browse repos / cogs?
-Yes! This is exactly the point of this project. Fetch the [minified version](https://raw.githubusercontent.com/Cog-Creators/Red-Index/master/index/1-min.json) from whatever website / service you're building and parse it. In case of substantial changes to the data format we'll increase the version number and the link will change.
+Yes! This is exactly the point of this project. Fetch the [minified version](https://raw.githubusercontent.com/Cog-Creators/Red-Index/master/index/1-min.json) (or [gzip](https://raw.githubusercontent.com/Cog-Creators/Red-Index/master/index/1-min.json.gz)) from whatever website / service you're building and parse it. In case of substantial changes to the data format we'll increase the version number and the link will change.
 
 ### Can I add my repo to the list?
 Yes! You can create a [Cog Creator application](https://cogboard.red/c/apps/12) to become a Cog Creator and have your repo added to the approved category (along with a few other perks). If you're still waiting for your application to be reviewed or you're not quite ready to apply, you can [make a PR](https://github.com/Cog-Creators/Red-Index/pulls) to have your repo potentially added to the unapproved category.

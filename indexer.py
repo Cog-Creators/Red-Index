@@ -1,6 +1,7 @@
 import json
 import yaml
 import sys
+from gzip import GzipFile
 from pathlib import Path
 from hashlib import sha1
 
@@ -10,6 +11,7 @@ RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format
 GEN_PATH = Path("index")
 GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json") # Pretty, for QA checking
 GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json") # Minified, for user download
+GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz") # Gzipped
 GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml") # Error log
 
 
@@ -251,12 +253,23 @@ def main():
         if not GEN_PATH.exists():
             GEN_PATH.mkdir()
 
-        with open(str(GEN_MIN_FILE), "w") as f:
-            json.dump(repos_index, f, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
+        minified_str = json.dumps(repos_index, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
 
+        # Minified json file
+        with open(str(GEN_MIN_FILE), "w") as f:
+            f.write(minified_str)
+
+        # Gzipped minified json file
+        with open(str(GEN_GZ_FILE), "wb") as f:
+            gz = GzipFile(GEN_MIN_FILE.name, "wb", 9, f, 0.)
+            gz.write(minified_str.encode())
+            gz.close()
+
+        # Pretty json file
         with open(str(GEN_FILE), "w") as f:
             json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
 
+        # YAML error log
         with open(str(GEN_ERROR_LOG), "w") as f:
             f.write(error_log)
 
