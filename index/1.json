@@ -8004,7 +8004,7 @@
                 "description": "Get information about emojis and see how to use them in your code.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
                 "min_python_version": "",
