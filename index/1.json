@@ -7997,6 +7997,32 @@
                 ],
                 "type": "COG"
             },
+            "emojiinfo": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Get information about emojis and see how to use them in your code.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji~=0.6.0"
+                ],
+                "short": "Get information about emojis and see how to use them in your code.",
+                "tags": [
+                    "dev",
+                    "development",
+                    "emojiinfo",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "mee6rank": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
