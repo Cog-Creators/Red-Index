@@ -2285,7 +2285,9 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "captcher": {
-                "author": [],
+                "author": [
+                    "Predeactor"
+                ],
                 "description": "Let users complete a captcha before entering the server.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not save data about users persistently.",
