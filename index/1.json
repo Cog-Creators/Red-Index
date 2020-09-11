@@ -9760,7 +9760,7 @@
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)"
                 ],
-                "description": "Allows users to read the source of publicly-sourced commands. The bot owner can also read the source of any Python object if `--dev` is enabled.",
+                "description": "Allows users to read the source of publicly-sourced commands. The bot owner can also read the source of any Python object if developer mode is enabled.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
