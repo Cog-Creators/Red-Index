@@ -2282,7 +2282,7 @@
         "description": "Cogs made for Red, created by the Captain'!",
         "name": "Predeactor-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "captcher": {
                 "author": [
