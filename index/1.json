@@ -2342,24 +2342,6 @@
                 "tags": [],
                 "type": ""
             },
-            "coronavirus": {
-                "author": [
-                    "Predeactor"
-                ],
-                "description": "Retrieve statistics about the Covid-19.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not save data about users persistently.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Retrieve statistics about the Covid-19.",
-                "tags": [],
-                "type": ""
-            },
             "customcooldown": {
                 "author": [
                     "Predeactor"
