@@ -7595,6 +7595,28 @@
                 ],
                 "type": ""
             },
+            "jsk": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Jishaku ported to Red.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/flaree/jishaku"
+                ],
+                "short": "Jishaku ported to Red.",
+                "tags": [
+                    "jsk"
+                ],
+                "type": ""
+            },
             "mod": {
                 "author": [
                     "flare(flare#0001)"
