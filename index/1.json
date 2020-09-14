@@ -5462,6 +5462,7 @@
                     "bobloy",
                     "utilities",
                     "tool",
+                    "tools",
                     "roles",
                     "schedule",
                     "cron",
@@ -5491,7 +5492,8 @@
                 "tags": [
                     "bobloy",
                     "utilities",
-                    "tool"
+                    "tool",
+                    "tools"
                 ],
                 "type": ""
             },
@@ -5602,7 +5604,8 @@
                 "tags": [
                     "bobloy",
                     "utilities",
-                    "tool"
+                    "tool",
+                    "tools"
                 ],
                 "type": ""
             },
