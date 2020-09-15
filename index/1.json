@@ -7791,6 +7791,28 @@
                 ],
                 "type": ""
             },
+            "stickbugged": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Get stickbugged.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "get-stick-bugged-lol"
+                ],
+                "short": "Get stickbugged.",
+                "tags": [
+                    "stickbugged"
+                ],
+                "type": ""
+            },
             "unbelievaboat": {
                 "author": [
                     "flare(flare#0001)"
