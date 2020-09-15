@@ -9561,9 +9561,9 @@
                     "YamiKaitou#8975",
                     "Paddolicious#8880"
                 ],
-                "description": "Add kills and kill people with them! You can also slap someone with a trout! Originally made for v2 by Paddo",
+                "description": "Add kill methods and kill people with them! Originally made for v2 by Paddo",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
