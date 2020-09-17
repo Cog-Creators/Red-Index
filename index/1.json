@@ -8225,6 +8225,34 @@
                 ],
                 "type": "COG"
             },
+            "qupyter": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Run IPython kernel within Red and connect to it with Jupyter Console.\nNOTE: This cog currently DOES NOT work on Windows.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "ipykernel~=5.3",
+                    "ipyparallel",
+                    "jedi<0.16.0"
+                ],
+                "short": "Run IPython kernel within Red and connect to it with Jupyter Console.",
+                "tags": [
+                    "dev",
+                    "development",
+                    "qupyter",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "rlstats": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
