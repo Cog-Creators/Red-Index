@@ -9657,6 +9657,29 @@
                     "fun"
                 ],
                 "type": ""
+            },
+            "payday": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Customize your Bot's PayDay system with Hourly (1 hour), Daily (1 day), Weekly (7 days), Monthly (30 days), Quarterly (122 days), and Yearly (365 days) payday amounts",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord UserIDs as needed for operation.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Customizable PayDay system",
+                "tags": [
+                    "utility",
+                    "economy"
+                ],
+                "type": ""
             }
         },
         "short": "A random group of cogs"
