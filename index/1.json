@@ -8229,7 +8229,7 @@
                 "author": [
                     "jack1142 (Jackenmen#6607)"
                 ],
-                "description": "Run IPython kernel within Red and connect to it with Jupyter Console.\nNOTE: This cog currently DOES NOT work on Windows.",
+                "description": "Run IPython kernel within Red and connect to it with Jupyter Console. This is a development tool.\n\nWARNING: This cog is meant for development instances and should NOT ever be used in production environment.\n\nNOTE: This cog currently DOES NOT work on Windows.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -8243,7 +8243,7 @@
                     "ipyparallel",
                     "jedi<0.16.0"
                 ],
-                "short": "Run IPython kernel within Red and connect to it with Jupyter Console.",
+                "short": "Run IPython kernel within Red and connect to it with Jupyter Console. This is a development tool.",
                 "tags": [
                     "dev",
                     "development",
