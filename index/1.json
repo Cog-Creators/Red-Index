@@ -9026,6 +9026,287 @@
         },
         "short": "Various cogs"
     },
+    "https://github.com/phenom4n4n/phen-cogs": {
+        "author": [
+            "PhenoM4n4n"
+        ],
+        "description": "Utility and fun cogs developed my PhenoM4n4n.",
+        "name": "phen-cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "altdentifier": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Check users with AltDentifier API",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Check users with AltDentifier API",
+                "tags": [],
+                "type": ""
+            },
+            "customping": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Creates a custom ping embed to display latency statistics.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "speedtest-cli"
+                ],
+                "short": "Creates a custom ping embed to display latency statistics.",
+                "tags": [
+                    "ping"
+                ],
+                "type": ""
+            },
+            "disboardreminder": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Set a reminder to bump on Disboard.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Set a reminder to bump on Disboard.",
+                "tags": [
+                    "Disboard",
+                    "Reminder"
+                ],
+                "type": ""
+            },
+            "embedutils": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Create, post, and store embeds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores End User Data when storing the author of an embed.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create, post, and store embeds",
+                "tags": [
+                    "embed"
+                ],
+                "type": ""
+            },
+            "forcemention": {
+                "author": [
+                    "Bobloy",
+                    "PhenoM4n4n"
+                ],
+                "description": "Mentions roles that are unmentionable",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mention unmentionables",
+                "tags": [
+                    "bobloy",
+                    "utils"
+                ],
+                "type": ""
+            },
+            "linkquoter": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Quote Discord message links.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "lock": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Lock channels or the whole server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lock channels",
+                "tags": [
+                    "utility",
+                    "server"
+                ],
+                "type": "COG"
+            },
+            "permissionslocker": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Lock bot commands to a certain permissions set.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Force permissions for the bot.",
+                "tags": [
+                    "permissions"
+                ],
+                "type": "COG"
+            },
+            "pfpimgen": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Make images from avatars!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Make images from avatars!",
+                "tags": [
+                    "image"
+                ],
+                "type": "COG"
+            },
+            "phenutils": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Various developer utilities.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Various developer utilities.",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "plaguegame": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Plague game with a doctor and plaguebearer.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data on users based off their interactions within the game. Examples of such data are their 'health state' (healthy or infected) or their 'game role' (user, doctor, plaguebearer).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Infect users with the plague!",
+                "tags": [
+                    "fun",
+                    "plague"
+                ],
+                "type": ""
+            },
+            "prefix": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Manage guild prefixes more extensively.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage guild prefixes.",
+                "tags": [
+                    "server",
+                    "prefix"
+                ],
+                "type": ""
+            },
+            "simplecalculator": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Calculate stuff",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "simplecalculator"
+                ],
+                "short": "Calculate stuff",
+                "tags": [
+                    "utility",
+                    "calculator"
+                ],
+                "type": ""
+            }
+        },
+        "short": "General bot cogs."
+    },
     "https://github.com/retke/Laggrons-Dumb-Cogs": {
         "author": [
             "El Laggron"
