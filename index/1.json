@@ -9152,7 +9152,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Quote Discord message links.",
                 "tags": [],
                 "type": ""
             },
