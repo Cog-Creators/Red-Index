@@ -9295,7 +9295,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "simplecalculator"
+                    "PyParsing",
+                    "git+https://github.com/JonSnowbd/TagScript.git"
                 ],
                 "short": "Calculate stuff",
                 "tags": [
