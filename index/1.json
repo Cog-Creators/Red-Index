@@ -9466,6 +9466,29 @@
                 ],
                 "type": ""
             },
+            "roleutils": {
+                "author": [
+                    "PhenoM4n4n",
+                    "TrustyJaid"
+                ],
+                "description": "Useful role commands including mass roling (and reaction roles soon:tm:).",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "[WIP] Useful role commands including mass roling (and reaction roles soon:tm:).",
+                "tags": [
+                    "utility",
+                    "server",
+                    "roles"
+                ],
+                "type": "COG"
+            },
             "simplecalculator": {
                 "author": [
                     "PhenoM4n4n"
