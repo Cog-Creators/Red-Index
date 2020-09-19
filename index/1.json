@@ -10103,6 +10103,72 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "fourinarow": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Play a game of 4 in a Row, aka Connect 4",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "numpy"
+                ],
+                "short": "Play a game of 4 in a Row",
+                "tags": [
+                    "games"
+                ],
+                "type": ""
+            },
+            "gameservers": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Monitor and Lookup info on configured game servers",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Monitor and Lookup info on configured game servers",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "hermitron": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Originally created in Minecraft on the Hermitcraft Season 4 world by RenDog. A more detailed description of the original can be found on Reddit, `https://bitly.com/3cFlSKj+`",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Hermitron in Discord (Collection minigame)",
+                "tags": [
+                    "utilities",
+                    "game",
+                    "economy"
+                ],
+                "type": ""
+            },
             "kill": {
                 "author": [
                     "YamiKaitou#8975",
@@ -10121,6 +10187,48 @@
                 "short": "Have you always wanted to kill someone? If so, do it in a creative way!",
                 "tags": [
                     "kill",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "lottery": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Play some Lottery games",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play some Lottery games",
+                "tags": [
+                    "economy",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "mccasino": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Play various Casino games using various information from Minecraft",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Casino games with random Minecraft stuff",
+                "tags": [
+                    "economy",
                     "fun"
                 ],
                 "type": ""
@@ -10145,6 +10253,26 @@
                 "tags": [
                     "utility",
                     "economy"
+                ],
+                "type": ""
+            },
+            "pogo": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Lookup various stats of Pokemon for Pokemon Go",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lookup various stats of Pokemon for Pokemon Go",
+                "tags": [
+                    "utilities"
                 ],
                 "type": ""
             }
