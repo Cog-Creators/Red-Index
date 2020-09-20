@@ -10665,6 +10665,92 @@
         },
         "short": "Only the fluffiest of cogs go here."
     },
+    "https://gitlab.com/CrunchBangDev/cbd-cogs": {
+        "author": [
+            "CrunchBangDev"
+        ],
+        "description": "Put this in your bot and smoke it",
+        "name": "cbd-cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "Bio": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Add information to your player bio and lookup information others have shared.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Add player bios",
+                "tags": [],
+                "type": "COG"
+            },
+            "Bookmark": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Allow users to use a reaction in order to bookmark messages for later review",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Let users bookmark posts",
+                "tags": [],
+                "type": "COG"
+            },
+            "Scrub": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Applies a set of rules to remove undesireable elements from hyperlinks such as campaign tracking tokens.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Scrub dirty links clean",
+                "tags": [],
+                "type": "COG"
+            },
+            "Tube": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Posts in a channel every time a new video is added to a YouTube channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser"
+                ],
+                "short": "Subscribe to channels on the 'tube",
+                "tags": [],
+                "type": "COG"
+            }
+        },
+        "short": "Got cogs?"
+    },
     "https://gitlab.com/Eragon5779/TechCogsV3": {
         "author": [
             "Eragon5779"
