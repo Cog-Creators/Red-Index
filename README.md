@@ -6,7 +6,7 @@ See [repositories-example.yaml](repositories-example.yaml) to learn how to compi
 ## FAQ
 ### What services are using this?
 [https://index.discord.red/](https://index.discord.red/), web interface for Red-Index  
-[Index](https://github.com/Twentysix26/x26-Cogs/tree/master/index), cog to search Red-Index and easily install repos / cogs directly from your Red instance (NOTE: **QA approval pending!**)  
+[Index](https://github.com/Twentysix26/x26-Cogs/), cog to search Red-Index and easily install repos / cogs directly from your Red instance  
 
 Made a service that uses Red-Index as a source? [Make a PR](https://github.com/Cog-Creators/Red-Index/pulls) and we'll add it here!
 
