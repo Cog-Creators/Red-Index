@@ -4362,7 +4362,7 @@
         "description": "General purpose cogs by Twentysix (Twentysix#5252)",
         "name": "x26-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "defender": {
                 "author": [
