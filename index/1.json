@@ -2395,6 +2395,44 @@
                 "short": "Learn Python on Discord.",
                 "tags": [],
                 "type": ""
+            },
+            "lyrics": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "ksoftapi"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "sxcu": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Utility cogs made for Red."
