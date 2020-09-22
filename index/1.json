@@ -5095,8 +5095,10 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
+                    "bs4",
                     "feedparser>=6.0.0",
-                    "bs4"
+                    "scipy",
+                    "webcolors==1.3"
                 ],
                 "short": "Read RSS feeds",
                 "tags": [
