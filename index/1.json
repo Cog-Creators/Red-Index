@@ -8504,6 +8504,32 @@
                 ],
                 "type": "COG"
             },
+            "rssnotifier": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Get role and/or user mentions about feed updates. This cog requires RSS cog from aikaterna-cogs repo to work.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord user IDs when the user explicitly opts in receiving mentions about feed updates.\nNo personal identifiable data is stored by this cog.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "rss": "https://github.com/aikaterna/aikaterna-cogs"
+                },
+                "requirements": [],
+                "short": "Get role and/or user mentions about feed updates. This cog requires RSS cog from aikaterna-cogs repo to work.",
+                "tags": [
+                    "notifications",
+                    "rss",
+                    "rssnotifier",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "shell": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
