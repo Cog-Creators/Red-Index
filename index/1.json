@@ -5695,7 +5695,7 @@
                 "author": [
                     "Bobloy"
                 ],
-                "description": "[ALPHA] Schedule commands to be run at certain times or intervals",
+                "description": "[BETA] Schedule commands to be run at certain times or intervals",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data",
                 "hidden": false,
@@ -5706,9 +5706,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "apscheduler",
-                    "python-dateutil"
+                    "pytz"
                 ],
-                "short": "[ALPHA] Schedule commands to be run at certain times or intervals",
+                "short": "[BETA] Schedule commands to be run at certain times or intervals",
                 "tags": [
                     "bobloy",
                     "utilities",
@@ -5721,7 +5721,8 @@
                     "date",
                     "datetime",
                     "time",
-                    "calendar"
+                    "calendar",
+                    "timezone"
                 ],
                 "type": ""
             },
