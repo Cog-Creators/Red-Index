@@ -9555,6 +9555,28 @@
                 ],
                 "type": ""
             },
+            "ratings": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Rate yourself on many things.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Find out how (simp|sane|smart) you are.",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3"
+                ],
+                "type": "COG"
+            },
             "roleutils": {
                 "author": [
                     "PhenoM4n4n",
