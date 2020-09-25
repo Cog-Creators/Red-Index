@@ -3270,7 +3270,7 @@
                     "Twentysix",
                     "TrustyJAID"
                 ],
-                "description": "Have your bot respond with cleverbot responses.",
+                "description": "Have your bot respond with cleverbot responses. Supports tweaks to customize the responses!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. However, this cog does pass user data to an external API for the purposes of simulated conversation responses.",
                 "hidden": false,
@@ -3366,7 +3366,7 @@
                     "TrustyJAID",
                     "thisisjvgrace"
                 ],
-                "description": "Create your very own Crab Rave videos with custom text!",
+                "description": "Create your very own Crab Rave videos with custom text! This cog requires FFMPEG, moviepy (https://github.com/Zulko/moviepy), and imagemagick to work. This cog downloads a template video and font file which is then saved locally and generates crab rave videos from the template. Old videos are deleted after uploading. This cog may consume heavy resources rendering videos.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3395,7 +3395,7 @@
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Show Destiny 2 information from the Bungie's API.",
+                "description": "Show Information from the Destin 2 API. Note: This cog requires downloading a manifest ~160 MB. You must acquire an API key from https://www.bungie.net/en/Application. select create a new application choose **Confidential** OAuth client type. Select the scope you would like the bot to have access to. Set the redirect URL to https://localhost/. Users wishing to access commands after you have supplied the tokens will be asked to authorize their account on your app. Once they have approved it they will be granted access to use commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores User ID's linked to an external API token for the purposes of granting OAuth access and information about the external API for the user.",
                 "hidden": false,
@@ -3582,7 +3582,7 @@
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Create reaction messages to kick or ban users!",
+                "description": "Create reaction messages to kick or ban users! https://tenor.com/view/order66-gif-9116581",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3799,7 +3799,7 @@
                     "JennJenn",
                     "TrustyJAID"
                 ],
-                "description": "Insult people in a creative way",
+                "description": "Insult people in a creative way ![goteem](https://cdn.discordapp.com/emojis/350653489044652052.png?v=1)",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3895,7 +3895,7 @@
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Mock another user!",
+                "description": "Mock another user! If you need the core dev commands start the bot without the `--dev` flag and install the loaddev cog in my repo that allows you to replace `mock` with whatever you choose.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3923,7 +3923,7 @@
                     "NotSoSuper",
                     "TrustyJAID"
                 ],
-                "description": "Magick, trigger and manipulate images with many commands from NotSoSuper's NotSoBot.",
+                "description": "Magick, trigger and manipulate images with many commands from NotSoSuper's NotSoBot. This cog has a lot of requirements, view the [cog README.md](https://github.com/TrustyJAID/Trusty-cogs/blob/master/notsobot/README.md) for details. ",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3943,7 +3943,8 @@
                     "numpy",
                     "pillow",
                     "git+https://github.com/Kareeeeem/jpglitch",
-                    "wand"
+                    "wand",
+                    "unidecode"
                 ],
                 "short": "Some working commands from NotSoBot",
                 "tags": [
@@ -4001,7 +4002,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "REKT",
+                "short": "Get REKT",
                 "tags": [
                     "rekt"
                 ],
@@ -4040,7 +4041,7 @@
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Trigger events based on regex!",
+                "description": "Trigger events based on regex! Check out <https://regex101.com/> and <https://github.com/TrustyJAID/Trusty-cogs/blob/master/retrigger/README.md> for help setting up the cog. Note: This cog can become quite resource heavy. Optional features are available if the requirements are present such as pillow for image resizing and pytesseract to scan images for text (OCR).",
                 "disabled": false,
                 "end_user_data_statement": "This cog may store attachments and command information provided by Users for the purposes of performing actions.\nSome User ID's may be stored in the bots logging information.\nUsers may delete their own data with or without making a data request.",
                 "hidden": false,
@@ -4056,7 +4057,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "ReTrigger",
+                "short": "Trigger events via Regular Expressions!",
                 "tags": [
                     "trigger",
                     "reactions"
@@ -4085,7 +4086,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "short": "Runescape",
+                "short": "Show your Runescape stats in discord!",
                 "tags": [
                     "runescape",
                     "games",
@@ -4357,7 +4358,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Weather",
+                "short": "Show the current weather in specified locations!",
                 "tags": [
                     "weather",
                     "utility"
