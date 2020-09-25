@@ -9356,7 +9356,7 @@
                 ],
                 "description": "Set a reminder to bump on Disboard.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
+                "end_user_data_statement": "This cog stores the number of times a member has bumped.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
