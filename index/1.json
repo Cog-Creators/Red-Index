@@ -2400,7 +2400,7 @@
                 "author": [
                     "Predeactor"
                 ],
-                "description": "",
+                "description": "Obtain lyrics from music you want to search.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2412,7 +2412,7 @@
                 "requirements": [
                     "ksoftapi"
                 ],
-                "short": "",
+                "short": "Obtain lyrics from a music.",
                 "tags": [],
                 "type": ""
             },
