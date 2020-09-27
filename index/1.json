@@ -7235,12 +7235,16 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pybase64"
+                ],
                 "short": "Useful (and not) translators",
                 "tags": [
                     "translation",
-                    "yandex",
-                    "translate"
+                    "translate",
+                    "encode",
+                    "decode",
+                    "encoding"
                 ],
                 "type": ""
             },
