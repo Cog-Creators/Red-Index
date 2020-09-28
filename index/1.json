@@ -4144,7 +4144,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tekore"
+                    "tekore",
+                    "tabulate"
                 ],
                 "short": "Control Spotify through Discord!",
                 "tags": [
