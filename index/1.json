@@ -1194,6 +1194,29 @@
                 ],
                 "type": ""
             },
+            "apex": {
+                "author": [
+                    "Malarne",
+                    "Malarne#1418"
+                ],
+                "description": "An Apex Legends cog !\nUse [p]help Apex for all commands !",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": [],
+                "requirements": [],
+                "short": "Apex legend cog",
+                "tags": [
+                    "apex",
+                    "game",
+                    "legend"
+                ],
+                "type": ""
+            },
             "heist": {
                 "author": [
                     "Redjumpman",
