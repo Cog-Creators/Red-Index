@@ -5168,7 +5168,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "bs4",
+                    "bs4>=4.9.1",
                     "feedparser>=6.0.0",
                     "scipy",
                     "webcolors==1.3"
