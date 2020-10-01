@@ -1207,7 +1207,7 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": [],
+                "required_cogs": {},
                 "requirements": [],
                 "short": "Apex legend cog",
                 "tags": [
