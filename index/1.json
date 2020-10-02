@@ -4151,7 +4151,8 @@
             },
             "spotify": {
                 "author": [
-                    "TrustyJAID"
+                    "TrustyJAID",
+                    "NeuroAssassin"
                 ],
                 "description": "This cog allows you to control Spotify via OAuth through the bot on discord. Use `[p]spotify` to see available commands.",
                 "disabled": false,
