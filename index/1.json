@@ -1139,7 +1139,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow==5.3.0"
+                    "Pillow"
                 ],
                 "short": "Leveler tool, better than MEE6",
                 "tags": [
