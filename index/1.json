@@ -9255,7 +9255,8 @@
             },
             "disboardreminder": {
                 "author": [
-                    "PhenoM4n4n"
+                    "PhenoM4n4n",
+                    "aikaterna"
                 ],
                 "description": "Set a reminder to bump on Disboard.",
                 "disabled": false,
