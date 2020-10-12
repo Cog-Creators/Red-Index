@@ -10301,10 +10301,10 @@
                 "author": [
                     "YamiKaitou#8975"
                 ],
-                "description": "Customize your Bot's PayDay system with Hourly (1 hour), Daily (1 day), Weekly (7 days), Monthly (30 days), Quarterly (122 days), and Yearly (365 days) payday amounts",
+                "description": "Give bonus credits for daily and other times",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord UserIDs as needed for operation.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
@@ -10313,10 +10313,12 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "short": "Customizable PayDay system",
+                "short": "More PayDay options",
                 "tags": [
                     "utility",
-                    "economy"
+                    "economy",
+                    "daily",
+                    "payday"
                 ],
                 "type": ""
             },
