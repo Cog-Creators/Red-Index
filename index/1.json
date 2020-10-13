@@ -998,7 +998,7 @@
         "description": "Moderation orianted cogs build for Red-DiscordBot",
         "name": "Sentinel",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "antirp": {
                 "author": [
