@@ -43,6 +43,7 @@ approved:
   - https://github.com/phenom4n4n/phen-cogs
   - https://github.com/SharkyTheKing/Sharky
   - https://github.com/Twentysix26/x26-Cogs
+  - https://github.com/Kowlin/Sentinel
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -51,7 +52,6 @@ unapproved:
   - https://github.com/tekulvw/Squid-Plugins@V3
   - https://github.com/NNTin/nntin-cogs
   - https://github.com/yamikaitou/YamiCogs
-  - https://github.com/Kowlin/Sentinel
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
