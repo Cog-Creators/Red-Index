@@ -309,6 +309,32 @@
                 ],
                 "type": ""
             },
+            "stickymember": {
+                "author": [
+                    "Dav",
+                    "Idea: Daniel_Edits"
+                ],
+                "description": "Make members sticky so they keep their roles when re-joining.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores roles that have been assigned to a member so that these roles can be reassigned on rejoin. This data is only stored on members that have been added via command. You may delete this information by making a data deletion request.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Make members sticky. Ewww. Gross.",
+                "tags": [
+                    "sticky",
+                    "roles",
+                    "moderation",
+                    "member",
+                    "guild",
+                    "tools"
+                ],
+                "type": ""
+            },
             "ticketer": {
                 "author": [
                     "Dav"
