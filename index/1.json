@@ -7260,7 +7260,9 @@
                     "manage_roles"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "webcolors==1.3"
+                ],
                 "short": "Allow users to manage the color of their own name.",
                 "tags": [
                     "color",
