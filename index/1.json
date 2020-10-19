@@ -10224,7 +10224,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Monitor and Lookup info on configured game servers",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "",
@@ -10246,7 +10246,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Originally created in Minecraft on the Hermitcraft Season 4 world by RenDog. A more detailed description of the original can be found on Reddit, `https://bitly.com/3cFlSKj+`",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
@@ -10290,7 +10290,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Play a Lucky3 'scratcher', a Daily Drawing, or a Weekly Drawing",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "",
@@ -10311,7 +10311,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Play various Casino games using various information from Minecraft",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
@@ -10357,7 +10357,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Lookup various stats of Pokemon for Pokemon Go",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
