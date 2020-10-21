@@ -9517,7 +9517,7 @@
                     "PhenoM4n4n",
                     "TrustyJaid"
                 ],
-                "description": "Useful role commands including mass roling (and reaction roles soon:tm:).",
+                "description": "Useful role commands including mass roling.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -9529,7 +9529,7 @@
                 "requirements": [
                     "unidecode"
                 ],
-                "short": "[WIP] Useful role commands including mass roling (and reaction roles soon:tm:).",
+                "short": "[WIP] Useful role commands including mass roling.",
                 "tags": [
                     "utility",
                     "server",
