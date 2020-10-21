@@ -864,7 +864,7 @@
                 "author": [
                     "Jintaku"
                 ],
-                "description": "Displays information about games from IGDB with reaction menus",
+                "description": "Displays information about games from Rawg with reaction menus",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -876,7 +876,7 @@
                 "requirements": [
                     "async_lru"
                 ],
-                "short": "Display game information from IGDB",
+                "short": "Display game information from Rawg",
                 "tags": [
                     "games",
                     "information"
