@@ -226,7 +226,7 @@
                 ],
                 "description": "Multiple Nickname tools",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores nicknames and user IDs to allow for the freezing of nicknames and the temporary changing and restoring of nickanems.",
+                "end_user_data_statement": "This cog stores nicknames and user IDs to allow for the freezing of nicknames and the temporary changing and restoring of nicknames.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
