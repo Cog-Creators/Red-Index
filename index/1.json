@@ -9406,6 +9406,29 @@
                 ],
                 "type": "COG"
             },
+            "petpet": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Make petpet gifs!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Make petpet gifs!",
+                "tags": [
+                    "fun",
+                    "image"
+                ],
+                "type": "COG"
+            },
             "pfpimgen": {
                 "author": [
                     "PhenoM4n4n"
