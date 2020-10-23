@@ -8804,6 +8804,52 @@
         },
         "short": "General purpose cogs"
     },
+    "https://github.com/maxbooiii/maxcogs": {
+        "author": [],
+        "description": "",
+        "name": "maxcogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "ping": {
+                "author": [
+                    "Nesroht, preda, max, fixator10."
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "pokeseries": {
+                "author": [
+                    "MAX"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Random cogs for people's use."
+    },
     "https://github.com/nmbook/FalcomBot-cogs": {
         "author": [
             "Ribose#1243"
@@ -8973,6 +9019,63 @@
             }
         },
         "short": "General utilities for Falcom discord"
+    },
+    "https://github.com/npc203/npc-cogs": {
+        "author": [
+            "epic guy#0715"
+        ],
+        "description": "A simple set of cogs that I wrote for people to enjoy",
+        "name": "npc-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "speak": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "Ever wanted to speak as someone else or other bots? or you didn't have the right words to say? This cog speaks for you! or mimics other's identity as well, except that it adds a bot tag. It uses webhooks",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that speaks for you or speaks what you type as others",
+                "tags": [
+                    "speak",
+                    "tell",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "weeb": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "a random bunch of emoticons for the otakus",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bunch of weeb emoticons OwO",
+                "tags": [
+                    "emoticons",
+                    "emojis",
+                    "weeb",
+                    "fun"
+                ],
+                "type": ""
+            }
+        },
+        "short": "A decent bunch of cogs aimed for having fun"
     },
     "https://github.com/palmtree5/palmtree5-cogs": {
         "author": [
