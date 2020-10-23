@@ -874,7 +874,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "async_lru"
+                    "aiocache"
                 ],
                 "short": "Display game information from Rawg",
                 "tags": [
