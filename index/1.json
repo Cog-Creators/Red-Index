@@ -2697,7 +2697,8 @@
             },
             "verify": {
                 "author": [
-                    "Sharky The King"
+                    "Sharky The King",
+                    "Predeactor"
                 ],
                 "description": "Verification System",
                 "disabled": false,
