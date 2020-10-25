@@ -2177,7 +2177,13 @@
                     "captcha"
                 ],
                 "short": "Captcha cog.",
-                "tags": [],
+                "tags": [
+                    "security",
+                    "protection",
+                    "captcha",
+                    "new",
+                    "defender"
+                ],
                 "type": ""
             },
             "cleverbot": {
@@ -2197,7 +2203,36 @@
                     "async_cleverbot"
                 ],
                 "short": "Talk to Cleverbot in Discord.",
-                "tags": [],
+                "tags": [
+                    "cleverbot",
+                    "talk",
+                    "fun",
+                    "ai"
+                ],
+                "type": ""
+            },
+            "codesource": {
+                "author": [
+                    "Predeactor",
+                    "The person who gave me the eval originally."
+                ],
+                "description": "Get source of commands.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get source of commands.",
+                "tags": [
+                    "dev",
+                    "tools",
+                    "code",
+                    "source"
+                ],
                 "type": ""
             },
             "commandscounter": {
@@ -2215,7 +2250,11 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "A simple commands counter statistics",
-                "tags": [],
+                "tags": [
+                    "info",
+                    "count",
+                    "tools"
+                ],
                 "type": ""
             },
             "customcooldown": {
@@ -2233,7 +2272,13 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "CustomCooldown moderated by bot.",
-                "tags": [],
+                "tags": [
+                    "utility",
+                    "tools",
+                    "cooldown",
+                    "moderation",
+                    "spam"
+                ],
                 "type": ""
             },
             "leaderboard": {
@@ -2251,7 +2296,9 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Global reputation points.",
-                "tags": [],
+                "tags": [
+                    "fun"
+                ],
                 "type": ""
             },
             "learning": {
@@ -2269,44 +2316,6 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Learn Python on Discord.",
-                "tags": [],
-                "type": ""
-            },
-            "lyrics": {
-                "author": [
-                    "Predeactor"
-                ],
-                "description": "Obtain lyrics from music you want to search.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "ksoftapi"
-                ],
-                "short": "Obtain lyrics from a music.",
-                "tags": [],
-                "type": ""
-            },
-            "sxcu": {
-                "author": [
-                    "Predeactor"
-                ],
-                "description": "",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "",
                 "tags": [],
                 "type": ""
             }
