@@ -2318,6 +2318,58 @@
                 "short": "Learn Python on Discord.",
                 "tags": [],
                 "type": ""
+            },
+            "lyrics": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "Obtain lyrics from music you want to search.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "ksoftapi"
+                ],
+                "short": "Obtain lyrics from a music.",
+                "tags": [
+                    "audio",
+                    "fun",
+                    "lyrics",
+                    "sing",
+                    "songs"
+                ],
+                "type": ""
+            },
+            "sxcu": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "Send your image and shorten your URL with your own subdomain.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Shorten your link and send your image through a link.",
+                "tags": [
+                    "utility",
+                    "upload",
+                    "tools",
+                    "dev",
+                    "shorten",
+                    "link",
+                    "image"
+                ],
+                "type": ""
             }
         },
         "short": "Utility cogs made for Red."
