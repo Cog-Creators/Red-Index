@@ -9709,6 +9709,26 @@
                     "tags"
                 ],
                 "type": "COG"
+            },
+            "webhook": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Various webhook commands to create and send messages along webhooks.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Webhook related commands.",
+                "tags": [
+                    "webhook"
+                ],
+                "type": "COG"
             }
         },
         "short": "General bot cogs."
