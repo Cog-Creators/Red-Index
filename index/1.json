@@ -8966,6 +8966,27 @@
                 ],
                 "type": ""
             },
+            "hiback": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Responds to \"I'm X\" with \"Hi, X\".",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Responds to \"I'm X\" with \"Hi, X\".",
+                "tags": [
+                    "dadjokes",
+                    "jokes"
+                ],
+                "type": ""
+            },
             "randt": {
                 "author": [
                     "Ribose"
