@@ -9155,6 +9155,27 @@
                 ],
                 "type": ""
             },
+            "typeracer": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "This cog can be used to check your typing speed, it isnt that accurate cause of ping issues, otherwise it's a decent one",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about the created custom api commands",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A fun typing speed test cog",
+                "tags": [
+                    "utility",
+                    "fun"
+                ],
+                "type": ""
+            },
             "weeb": {
                 "author": [
                     "epic guy#0715"
