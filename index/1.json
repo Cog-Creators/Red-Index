@@ -9586,7 +9586,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "unidecode"
+                    "unidecode",
+                    "rapidfuzz"
                 ],
                 "short": "Lock channels",
                 "tags": [
