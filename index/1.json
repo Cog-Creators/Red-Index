@@ -9674,7 +9674,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow"
+                    "Pillow",
+                    "unidecode",
+                    "rapidfuzz"
                 ],
                 "short": "Make images from avatars!",
                 "tags": [
@@ -9715,7 +9717,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz"
+                ],
                 "short": "Infect users with the plague!",
                 "tags": [
                     "fun",
