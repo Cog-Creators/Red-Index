@@ -6372,6 +6372,34 @@
                     "SS13"
                 ],
                 "type": ""
+            },
+            "verifyckey": {
+                "author": [
+                    "Crossedfall (Crossedfall#1001)"
+                ],
+                "description": "Allows users to link their CKEY to their Discord account and obtain roles for doing so. Used as a form of Discord user verification.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Manage Messages",
+                    "Embed Links",
+                    "Manage Roles"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Verify ckeys in discord!",
+                "tags": [
+                    "Space Station 13",
+                    "Game",
+                    "Administration",
+                    "Utility",
+                    "SS13"
+                ],
+                "type": ""
             }
         },
         "short": "SS13 cogs"
