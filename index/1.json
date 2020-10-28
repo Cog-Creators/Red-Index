@@ -9189,7 +9189,7 @@
                 ],
                 "description": "This cog can be used to check your typing speed, it isnt that accurate cause of ping issues, otherwise it's a decent one",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores data about the created custom api commands",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -9197,8 +9197,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "essential-generators"
+                    "tabulate"
                 ],
                 "short": "A fun typing speed test cog",
                 "tags": [
