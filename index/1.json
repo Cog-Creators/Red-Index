@@ -9168,7 +9168,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate",
+                    "essential-generators"
+                ],
                 "short": "A fun typing speed test cog",
                 "tags": [
                     "utility",
