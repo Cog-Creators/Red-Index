@@ -9461,7 +9461,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz"
+                ],
                 "short": "Check users with AltDentifier API",
                 "tags": [],
                 "type": ""
