@@ -11158,5 +11158,101 @@
             }
         },
         "short": "Got cogs?"
+    },
+    "https://gitlab.com/Eragon5779/TechCogsV3": {
+        "author": [
+            "Eragon5779"
+        ],
+        "description": "A collection of cogs for gathering information about technology, and other tech utility commands.\nThis repo is for V3 only!",
+        "name": "TechCogsV3",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "cpucompare": {
+                "author": [
+                    "Eragon5779"
+                ],
+                "description": "Searches for CPUs from both Intel and AMD.\nAlso has the ability to compare 2 CPUs spec-for-spec",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Compare the top CPUs for your build needs",
+                "tags": [
+                    "utility",
+                    "search"
+                ],
+                "type": ""
+            },
+            "encode": {
+                "author": [
+                    "Eragon5779"
+                ],
+                "description": "Wrapper for Python base64 library. Supports the following bases: 16,32,64,85",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Wrapper for Python base64 library",
+                "tags": [
+                    "utility",
+                    "encode"
+                ],
+                "type": ""
+            },
+            "genid": {
+                "author": [
+                    "Eragon5779"
+                ],
+                "description": "Wrapper for Python UUID and ULID libraries. Supports the following UUIDs: 3, 4, 5\nULID spec defined here: https://github.com/ulid/spec",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Wrapper for Python UUID and ULID libraries",
+                "tags": [
+                    "utility",
+                    "identity"
+                ],
+                "type": ""
+            },
+            "hash": {
+                "author": [
+                    "Eragon5779"
+                ],
+                "description": "Hash files or text using any hash guaranteed by hashlib",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Hash files and text",
+                "tags": [
+                    "utility",
+                    "hash"
+                ],
+                "type": ""
+            }
+        },
+        "short": "A collection of cogs for technology purposes"
     }
 }
