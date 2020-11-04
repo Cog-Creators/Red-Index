@@ -9649,7 +9649,8 @@
             },
             "baron": {
                 "author": [
-                    "PhenoM4n4n"
+                    "PhenoM4n4n",
+                    "DragDev Studios"
                 ],
                 "description": "Tools for managing guild joins and leaves.",
                 "disabled": false,
@@ -9660,7 +9661,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "matplotlib"
+                ],
                 "short": "Tools for managing guild joins and leaves.",
                 "tags": [
                     "utility",
