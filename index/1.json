@@ -9100,7 +9100,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "psutil",
+                    "tabulate"
+                ],
                 "short": "",
                 "tags": [],
                 "type": ""
