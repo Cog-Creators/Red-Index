@@ -198,6 +198,29 @@
                 ],
                 "type": ""
             },
+            "modlogstats": {
+                "author": [
+                    "Dav"
+                ],
+                "description": "Get statistics about your modlog cases.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Modlog statistics",
+                "tags": [
+                    "stats",
+                    "modlog",
+                    "statistics",
+                    "long-ass-command"
+                ],
+                "type": ""
+            },
             "mover": {
                 "author": [
                     "Dav"
