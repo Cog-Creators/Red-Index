@@ -7106,7 +7106,6 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "matplotlib",
                     "tabulate",
                     "wcwidth"
                 ],
