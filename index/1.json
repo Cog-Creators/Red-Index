@@ -9374,7 +9374,9 @@
                 "short": "A fun typing speed test cog",
                 "tags": [
                     "utility",
-                    "fun"
+                    "fun",
+                    "speed test",
+                    "race"
                 ],
                 "type": ""
             },
