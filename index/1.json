@@ -9355,6 +9355,29 @@
                 ],
                 "type": ""
             },
+            "theapi": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "The major aim of this cog is to port in any kind of apis and assign to a custom-command",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about the created custom api commands",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "An attempt to make contact with REST apis purely using commands and no code",
+                "tags": [
+                    "utility",
+                    "fun"
+                ],
+                "type": ""
+            },
             "typeracer": {
                 "author": [
                     "epic guy#0715"
