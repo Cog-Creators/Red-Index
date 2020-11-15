@@ -1890,7 +1890,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "python-dateutil"
+                ],
                 "short": "Automatically check for updates to Red-Discordbot.",
                 "tags": [
                     "update",
@@ -1931,7 +1933,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "python-dateutil"
+                ],
                 "short": "Look up articles on Wikipedia.",
                 "tags": [
                     "utility",
