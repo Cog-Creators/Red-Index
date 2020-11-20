@@ -4458,7 +4458,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pyyaml"
+                    "pyyaml",
+                    "emoji"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
                 "tags": [
