@@ -7203,7 +7203,7 @@
                 "author": [
                     "Fixator10"
                 ],
-                "description": "\u26a0Cog for doing things in bulk.\u26a0\n\u26a0\ufe0f This cog may contain commands that may (or may not) be against Discord API terms. Use this at your own risk, i'm not responsible for anything that happens during usage of this cog.",
+                "description": "\u26a0Cog for doing things in bulk.\u26a0\n\u26a0\ufe0f This cog may contain commands that may (or may not) be against Discord API terms. Use this at your own risk, cog author is not responsible for anything that happens during usage of this cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
