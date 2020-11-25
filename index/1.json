@@ -2081,7 +2081,7 @@
                     "Pred\u00e4",
                     "Draper"
                 ],
-                "description": "Multiple tools that are originally used on Martine (https://martinethebot.com).",
+                "description": "Multiple tools that are originally used on Martine (https://martinebot.com).",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -2094,7 +2094,7 @@
                     "apsw-wheels",
                     "babel"
                 ],
-                "short": "Multiple tools that are originally used on Martine (https://martinethebot.com).",
+                "short": "Multiple tools that are originally used on Martine (https://martinebot.com).",
                 "tags": [
                     "tools",
                     "utility",
