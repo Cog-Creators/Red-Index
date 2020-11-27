@@ -9144,6 +9144,24 @@
                 "tags": [],
                 "type": ""
             },
+            "mjolnir": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Try to lift Thor's hammer!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "robthebank": {
                 "author": [
                     "Kreusada"
