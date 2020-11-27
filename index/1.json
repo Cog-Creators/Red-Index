@@ -9071,6 +9071,137 @@
         },
         "short": "General purpose cogs"
     },
+    "https://github.com/kreus7/kreusadacogs": {
+        "author": [
+            "Kreusada (kreusada#0518)"
+        ],
+        "description": "Games, gambling and tool related cogs from Kreusada.",
+        "name": "kreusadacogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "alliance": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "This is a cog for your Marvel Contest of Champions alliance.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "hotpotato": {
+                "author": [
+                    "Redjumpman (Redjumpman#1337)"
+                ],
+                "description": "Play a game of hot potato where the winner takes all. You can change the table size that gets served, the wait time before starting the game, and the cost to play!",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord IDs as needed for operation temporarily during the game which are automatically deleted when it ends.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play a game of Hot Potato!",
+                "tags": [
+                    "Games",
+                    "Economy",
+                    "Fun",
+                    "Russian"
+                ],
+                "type": ""
+            },
+            "mcoc": {
+                "author": [
+                    "Kreusada",
+                    "Jojo"
+                ],
+                "description": "MCOC Tools, MCOC Fun and Games.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "MCOC Tools, MCOC Fun and Games.",
+                "tags": [],
+                "type": ""
+            },
+            "robthebank": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Attempt to rob the bank. Gain, or get fined!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "staff": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "This is a cog for alerting staff.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "voicenick": {
+                "author": [
+                    "Kreusada",
+                    "Snowflake"
+                ],
+                "description": "Bots change their nickname and role when they join a Voice Chat.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bot nickname and role config in VCs.",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Games, gambling and tool related cogs from Kreusada."
+    },
     "https://github.com/maxbooiii/maxcogs": {
         "author": [],
         "description": "",
