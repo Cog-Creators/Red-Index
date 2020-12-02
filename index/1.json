@@ -5295,6 +5295,32 @@
                 ],
                 "type": "COG"
             },
+            "ttt": {
+                "author": [
+                    "aikaterna",
+                    "HizkiFW"
+                ],
+                "description": "Tic Tac Toe",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.2",
+                "min_python_version": "",
+                "permissions": [
+                    "add_reactions"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Tic Tac Toe",
+                "tags": [
+                    "game",
+                    "games",
+                    "tic tac toe",
+                    "ttt"
+                ],
+                "type": "COG"
+            },
             "warcraftlogs": {
                 "author": [
                     "aikaterna"
