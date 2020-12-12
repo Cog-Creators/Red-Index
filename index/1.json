@@ -9122,6 +9122,29 @@
                 "tags": [],
                 "type": ""
             },
+            "festivecards": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Send cards to your friends!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send cards to users.",
+                "tags": [
+                    "cards",
+                    "christmas",
+                    "birthday",
+                    "dm"
+                ],
+                "type": "COG"
+            },
             "hotpotato": {
                 "author": [
                     "Redjumpman (Redjumpman#1337)"
