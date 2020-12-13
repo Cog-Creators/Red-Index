@@ -10472,6 +10472,36 @@
                 ],
                 "type": ""
             },
+            "tournaments": {
+                "author": [
+                    "retke (El Laggron)",
+                    "Wonderfall",
+                    "Xyleff"
+                ],
+                "description": "Create and manage huge tournaments in your server!\nWorking with Challonge (and more to come), players will be able to join without any account and play on Discord. They have private channels for their matches, commands for reporting their scores, and the tournament organizers have a lot of tools for managing the tournament.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/retke/Laggron-utils.git",
+                    "apychal==1.10.0",
+                    "aiofiles"
+                ],
+                "short": "Tools for managing your tournaments on Discord.",
+                "tags": [
+                    "tournament",
+                    "challonge",
+                    "smash.gg",
+                    "game",
+                    "smash"
+                ],
+                "type": ""
+            },
             "warnsystem": {
                 "author": [
                     "retke (El Laggron)"
