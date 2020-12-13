@@ -9122,11 +9122,11 @@
                 "tags": [],
                 "type": ""
             },
-            "backslashemoji": {
+            "appendbackslash": {
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Backslash emojis into unicode.",
+                "description": "Append backslashes to the start of input.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -9136,7 +9136,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Backslash emojis into unicode.",
+                "short": "Append backslashes",
                 "tags": [
                     "backslash",
                     "emoji",
