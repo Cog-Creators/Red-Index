@@ -9309,6 +9309,28 @@
                 "tags": [],
                 "type": ""
             },
+            "textmanipulator": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Manipulate text with different tools.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manipulate text.",
+                "tags": [
+                    "text",
+                    "editor",
+                    "format"
+                ],
+                "type": "COG"
+            },
             "voicenick": {
                 "author": [
                     "Kreusada",
