@@ -9647,29 +9647,6 @@
                 ],
                 "type": ""
             },
-            "theapi": {
-                "author": [
-                    "epic guy#0715"
-                ],
-                "description": "The major aim of this cog is to port in any kind of apis and assign to a custom-command",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores data about the created custom api commands",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "An attempt to make contact with REST apis purely using commands and no code",
-                "tags": [
-                    "utility",
-                    "fun"
-                ],
-                "type": ""
-            },
             "typeracer": {
                 "author": [
                     "epic guy#0715"
@@ -9716,24 +9693,6 @@
                     "weeb",
                     "fun"
                 ],
-                "type": ""
-            },
-            "wssfix": {
-                "author": [
-                    "Stealing fixator's"
-                ],
-                "description": "DO NOT INSTALL THIS",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "NOpe",
-                "tags": [],
                 "type": ""
             }
         },
