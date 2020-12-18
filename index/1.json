@@ -9190,7 +9190,7 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Tallying system for your guild.",
+                "description": "Lower your number to win cash.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -9200,10 +9200,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Tallying system.",
+                "short": "Lower number for cash.",
                 "tags": [
-                    "tally",
-                    "count"
+                    "number",
+                    "economy"
                 ],
                 "type": "COG"
             },
