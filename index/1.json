@@ -9148,28 +9148,6 @@
                 ],
                 "type": "COG"
             },
-            "customping": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Override the default ping response with a custom message.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Custom ping response.",
-                "tags": [
-                    "ping",
-                    "pong",
-                    "custom"
-                ],
-                "type": "COG"
-            },
             "fancyuptime": {
                 "author": [
                     "Kreusada"
@@ -9211,33 +9189,6 @@
                 ],
                 "type": "COG"
             },
-            "hotpotato": {
-                "author": [
-                    "Redjumpman (Redjumpman#1337)"
-                ],
-                "description": "Play a game of hot potato where the winner takes all. You can change the table size that gets served, the wait time before starting the game, and the cost to play!",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores Discord IDs as needed for operation temporarily during the game which are automatically deleted when it ends.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Play a game of Hot Potato!",
-                "tags": [
-                    "Games",
-                    "Economy",
-                    "Fun",
-                    "Russian"
-                ],
-                "type": ""
-            },
             "mjolnir": {
                 "author": [
                     "Kreusada"
@@ -9255,6 +9206,28 @@
                 "short": "",
                 "tags": [],
                 "type": ""
+            },
+            "pingcustommessage": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Override the default ping response with a custom message.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Custom ping response.",
+                "tags": [
+                    "ping",
+                    "pong",
+                    "custom"
+                ],
+                "type": "COG"
             },
             "robthebank": {
                 "author": [
