@@ -9104,13 +9104,13 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "alliance": {
+            "antibotrole": {
                 "author": [
                     "Kreusada"
                 ],
-                "description": "This is a cog for your Marvel Contest of Champions alliance.",
+                "description": "Invite a bot without their permissions role.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -9118,9 +9118,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
+                "short": "Invite bot without perms.",
+                "tags": [
+                    "bot",
+                    "invite",
+                    "permissions"
+                ],
+                "type": "COG"
             },
             "appendbackslash": {
                 "author": [
@@ -9232,25 +9236,6 @@
                     "Fun",
                     "Russian"
                 ],
-                "type": ""
-            },
-            "mcoc": {
-                "author": [
-                    "Kreusada",
-                    "Jojo"
-                ],
-                "description": "MCOC Tools, MCOC Fun and Games.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "MCOC Tools, MCOC Fun and Games.",
-                "tags": [],
                 "type": ""
             },
             "mjolnir": {
