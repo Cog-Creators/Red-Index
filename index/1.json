@@ -311,9 +311,9 @@
                 "author": [
                     "Dav"
                 ],
-                "description": "Tools for voicechannels. \n - Automated voicechannel creation \n - Private voicechannels BETA",
+                "description": "Tools for voicechannels. \n - Automated voicechannel creation \n - Private voicechannels \n - Private textchannels",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data yet, but it will in the future.",
+                "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -326,8 +326,10 @@
                     "members",
                     "vc",
                     "voicechannel",
+                    "textchannel",
                     "automation",
                     "private",
+                    "private channels",
                     "tools"
                 ],
                 "type": ""
