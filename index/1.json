@@ -314,7 +314,7 @@
                 "description": "Tools for voicechannels. \n - Automated voicechannel creation \n - Private voicechannels \n - Private textchannels",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
