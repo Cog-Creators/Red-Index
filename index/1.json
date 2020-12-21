@@ -9443,6 +9443,93 @@
         },
         "short": "Games, gambling and tool related cogs from Kreusada."
     },
+    "https://github.com/maxbooiii/maxcogs": {
+        "author": [
+            "MAX"
+        ],
+        "description": "Cogs for Red-DiscordBot V3.",
+        "name": "maxcogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "ping": {
+                "author": [
+                    "Nesroht, preda, max, fixator10."
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "quotes": {
+                "author": [
+                    "max"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "uptime": {
+                "author": [
+                    "max"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "utility": {
+                "author": [
+                    "max, fixator10."
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "psutil",
+                    "tabulate"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Cogs for Red-DiscordBot V3."
+    },
     "https://github.com/nmbook/FalcomBot-cogs": {
         "author": [
             "Ribose#1243"
