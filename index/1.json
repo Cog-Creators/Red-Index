@@ -2244,9 +2244,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiodns",
-                    "cchardet",
-                    "akinator.py[fast_async]"
+                    "akinator.py[async]"
                 ],
                 "short": "Akinator will guess a real or fictitious character by answering questions.",
                 "tags": [],
@@ -9274,7 +9272,7 @@
                 "tags": [],
                 "type": ""
             },
-            "ping": {
+            "pingoveride": {
                 "author": [
                     "Kreusada"
                 ],
