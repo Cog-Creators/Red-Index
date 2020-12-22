@@ -9516,6 +9516,24 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "count": {
+                "author": [
+                    "max, preda"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "ping": {
                 "author": [
                     "Nesroht, preda, max, fixator10."
