@@ -5840,7 +5840,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "apscheduler",
-                    "pytz"
+                    "pytz",
+                    "python-dateutil"
                 ],
                 "short": "[BETA] Schedule commands to be run at certain times or intervals",
                 "tags": [
