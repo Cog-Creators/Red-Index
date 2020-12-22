@@ -2229,6 +2229,29 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "akinatorgame": {
+                "author": [
+                    "Predeactor",
+                    "A bit of everyone who helped"
+                ],
+                "description": "Akinator, the genius, will read in your mind and guess who you are thinking of! Answer Akinator's questions and get impressed by his talent!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiodns",
+                    "cchardet",
+                    "akinator.py[fast_async]"
+                ],
+                "short": "Akinator will guess a real or fictitious character by answering questions.",
+                "tags": [],
+                "type": ""
+            },
             "captcher": {
                 "author": [
                     "Predeactor"
