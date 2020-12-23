@@ -9214,6 +9214,28 @@
                 ],
                 "type": "COG"
             },
+            "dice": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Roll dice with a custom number of sides",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Roll dice.",
+                "tags": [
+                    "dice",
+                    "roll",
+                    "random"
+                ],
+                "type": "COG"
+            },
             "fancyuptime": {
                 "author": [
                     "Kreusada"
