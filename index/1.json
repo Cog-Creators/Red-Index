@@ -9449,9 +9449,9 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "This is a cog for alerting staff.",
+                "description": "Alert staff for inconspicuous activity.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -9459,9 +9459,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
+                "short": "Alert the staff.",
+                "tags": [
+                    "Staff",
+                    "Alert",
+                    "Moderation"
+                ],
+                "type": "COG"
             },
             "tally": {
                 "author": [
