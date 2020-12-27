@@ -1579,6 +1579,27 @@
                 ],
                 "type": ""
             },
+            "reacticket": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allow users to create ticket channels by clicking on a set reaction on a set message.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create a reaction-based ticketing system.",
+                "tags": [
+                    "tools",
+                    "utility"
+                ],
+                "type": ""
+            },
             "scanner": {
                 "author": [
                     "Neuro Assassin"
