@@ -9359,6 +9359,28 @@
                 ],
                 "type": "COG"
             },
+            "relax": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Set a timer in minutes so that you can relax.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Relax.",
+                "tags": [
+                    "relax",
+                    "sport",
+                    "break"
+                ],
+                "type": "COG"
+            },
             "reminder": {
                 "author": [
                     "Kreusada"
