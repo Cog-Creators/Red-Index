@@ -9571,6 +9571,28 @@
                 "short": "Bot nickname and role config in VCs.",
                 "tags": [],
                 "type": ""
+            },
+            "wallestacker": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Stack up WALL-E trash!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "WALL-E Trash Stacker.",
+                "tags": [
+                    "WALL-E",
+                    "Trash",
+                    "Stack"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs by Kreusada for Red-DiscordBot V3."
