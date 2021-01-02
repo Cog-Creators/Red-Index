@@ -9443,6 +9443,28 @@
                 "tags": [],
                 "type": ""
             },
+            "romanconverter": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Convert roman numerals to numbers, and vise versa. Results may become unprecedented above 10,000.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Roman numerals.",
+                "tags": [
+                    "roman",
+                    "numerals",
+                    "number"
+                ],
+                "type": "COG"
+            },
             "searchengine": {
                 "author": [
                     "Kreusada"
