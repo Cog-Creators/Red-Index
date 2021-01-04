@@ -7182,8 +7182,7 @@
                 "tags": [
                     "admin",
                     "emoj",
-                    "purge",
-                    "massnick"
+                    "purge"
                 ],
                 "type": ""
             },
@@ -8365,9 +8364,9 @@
                 "description": "Randomly apply a tip message to a bot message randomly.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.4.dev1",
+                "min_bot_version": "3.4.4",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -9184,35 +9183,13 @@
     },
     "https://github.com/kreus7/kreusadacogs": {
         "author": [
-            "Kreusada (kreusada#0518)"
+            "Kreusada"
         ],
         "description": "Cogs by Kreusada for Red-DiscordBot V3.",
         "name": "kreusadacogs",
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "antibotrole": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Invite a bot without their permissions role.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Invite bot without perms.",
-                "tags": [
-                    "bot",
-                    "invite",
-                    "permissions"
-                ],
-                "type": "COG"
-            },
             "appendbackslash": {
                 "author": [
                     "Kreusada"
@@ -9232,28 +9209,6 @@
                     "backslash",
                     "emoji",
                     "unicode"
-                ],
-                "type": "COG"
-            },
-            "dice": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Roll dice with a custom number of sides",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Roll dice.",
-                "tags": [
-                    "dice",
-                    "roll",
-                    "random"
                 ],
                 "type": "COG"
             },
@@ -9320,25 +9275,7 @@
                 ],
                 "type": "COG"
             },
-            "mjolnir": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Try to lift Thor's hammer!",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
-            },
-            "pingoveride": {
+            "pingoverride": {
                 "author": [
                     "Kreusada"
                 ],
@@ -9381,57 +9318,13 @@
                 ],
                 "type": "COG"
             },
-            "relax": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Set a timer in minutes so that you can relax.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Relax.",
-                "tags": [
-                    "relax",
-                    "sport",
-                    "break"
-                ],
-                "type": "COG"
-            },
-            "reminder": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Remind yourself in a certain amount of time.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Reminder cog.",
-                "tags": [
-                    "reminder",
-                    "time",
-                    "busy"
-                ],
-                "type": "COG"
-            },
             "robthebank": {
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Attempt to rob the bank. Gain, or get fined!",
+                "description": "Rob the bank: gain or get fined!",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -9439,9 +9332,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
+                "short": "Rob the bank.",
+                "tags": [
+                    "rob",
+                    "economy",
+                    "bank"
+                ],
+                "type": "COG"
             },
             "romanconverter": {
                 "author": [
@@ -9554,27 +9451,6 @@
                 ],
                 "type": "COG"
             },
-            "tally": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Tallying system for your guild.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Tallying system.",
-                "tags": [
-                    "tally",
-                    "count"
-                ],
-                "type": "COG"
-            },
             "textmanipulator": {
                 "author": [
                     "Kreusada"
@@ -9612,9 +9488,30 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Bot nickname and role config in VCs.",
+                "short": "Bot nickname and role configuration in VCs.",
                 "tags": [],
                 "type": ""
+            },
+            "votesystem": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Vote system for a particular channel. All messages sent within one channel will have an up or down arrow applied to them.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Vote system.",
+                "tags": [
+                    "Vote",
+                    "Poll"
+                ],
+                "type": "COG"
             },
             "wallestacker": {
                 "author": [
@@ -9755,7 +9652,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil",
-                    "tabulate"
+                    "tabulate",
+                    "humanize"
                 ],
                 "short": "",
                 "tags": [],
