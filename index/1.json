@@ -9537,9 +9537,9 @@
                 "tags": [],
                 "type": ""
             },
-            "ping": {
+            "modcheck": {
                 "author": [
-                    "Nesroht, preda, max, fixator10."
+                    "max."
                 ],
                 "description": "",
                 "disabled": false,
@@ -9555,9 +9555,9 @@
                 "tags": [],
                 "type": ""
             },
-            "uptime": {
+            "ping": {
                 "author": [
-                    "max"
+                    "Nesroht, preda, max, fixator10."
                 ],
                 "description": "",
                 "disabled": false,
