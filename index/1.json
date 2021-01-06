@@ -9408,27 +9408,6 @@
                 ],
                 "type": "COG"
             },
-            "shoppingcart": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Add and remove items from your shopping list!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Shopping cog.",
-                "tags": [
-                    "Shopping",
-                    "List"
-                ],
-                "type": "COG"
-            },
             "staff": {
                 "author": [
                     "Kreusada"
@@ -9491,49 +9470,6 @@
                 "short": "Bot nickname and role configuration in VCs.",
                 "tags": [],
                 "type": ""
-            },
-            "votesystem": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Vote system for a particular channel. All messages sent within one channel will have an up or down arrow applied to them.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Vote system.",
-                "tags": [
-                    "Vote",
-                    "Poll"
-                ],
-                "type": "COG"
-            },
-            "wallestacker": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Stack up WALL-E trash!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "WALL-E Trash Stacker.",
-                "tags": [
-                    "WALL-E",
-                    "Trash",
-                    "Stack"
-                ],
-                "type": "COG"
             }
         },
         "short": "Cogs by Kreusada for Red-DiscordBot V3."
