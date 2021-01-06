@@ -9487,7 +9487,7 @@
                 "author": [
                     "max, preda"
                 ],
-                "description": "",
+                "description": "Christmas, halloween and Discord birthday's day countdown.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9497,7 +9497,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Event countdowns.",
                 "tags": [],
                 "type": ""
             },
@@ -9505,7 +9505,7 @@
                 "author": [
                     "max."
                 ],
-                "description": "",
+                "description": "Fun commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9515,7 +9515,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Fun commands.",
                 "tags": [],
                 "type": ""
             },
@@ -9523,7 +9523,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "",
+                "description": "Cog for looking at images.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9533,7 +9533,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Look at images.",
                 "tags": [],
                 "type": ""
             },
@@ -9541,7 +9541,7 @@
                 "author": [
                     "max."
                 ],
-                "description": "",
+                "description": "Check which mods are online.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9551,7 +9551,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Check which mods are online.",
                 "tags": [],
                 "type": ""
             },
@@ -9559,7 +9559,7 @@
                 "author": [
                     "Nesroht, preda, max, fixator10."
                 ],
-                "description": "",
+                "description": "Ping command which shows bot latency in response.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9569,7 +9569,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Ping, which shows bot latency.",
                 "tags": [],
                 "type": ""
             },
@@ -9577,7 +9577,7 @@
                 "author": [
                     "max, fixator10."
                 ],
-                "description": "",
+                "description": "Utility for your bot and your guilds.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9591,7 +9591,7 @@
                     "tabulate",
                     "humanize"
                 ],
-                "short": "",
+                "short": "Bot and guild utility.",
                 "tags": [],
                 "type": ""
             }
