@@ -11337,6 +11337,51 @@
                     "utilities"
                 ],
                 "type": ""
+            },
+            "russianroulette": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Play a game of Russian Roulette. Place a bet on your chance of staying alive, lose if you die",
+                "disabled": true,
+                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord UserIDs as needed for operation.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play the simple game of Russian Roulette",
+                "tags": [
+                    "economy",
+                    "game"
+                ],
+                "type": ""
+            },
+            "trickle": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Trickle credits into your economy",
+                "disabled": true,
+                "end_user_data_statement": "This cog does not persistently store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Trickle credits into your economy",
+                "tags": [
+                    "economy",
+                    "economytrickle",
+                    "trickle"
+                ],
+                "type": ""
             }
         },
         "short": "A random group of cogs"
