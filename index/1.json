@@ -9210,28 +9210,6 @@
                 ],
                 "type": "COG"
             },
-            "appendbackslash": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Append backslashes to the start of input.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Append backslashes",
-                "tags": [
-                    "backslash",
-                    "emoji",
-                    "unicode"
-                ],
-                "type": "COG"
-            },
             "edition": {
                 "author": [
                     "Kreusada"
@@ -9251,27 +9229,6 @@
                     "edition",
                     "nick",
                     "nikcname"
-                ],
-                "type": "COG"
-            },
-            "forcedown": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Lower your number to win cash.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Lower number for cash.",
-                "tags": [
-                    "number",
-                    "economy"
                 ],
                 "type": "COG"
             },
@@ -9451,25 +9408,6 @@
                     "format"
                 ],
                 "type": "COG"
-            },
-            "voicenick": {
-                "author": [
-                    "Kreusada",
-                    "Snowflake"
-                ],
-                "description": "Bots change their nickname and role when they join a Voice Chat.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bot nickname and role configuration in VCs.",
-                "tags": [],
-                "type": ""
             }
         },
         "short": "Cogs by Kreusada for Red-DiscordBot V3."
