@@ -9758,6 +9758,26 @@
                 ],
                 "type": ""
             },
+            "todo": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "A simple todo list cog with add remove and list todos",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the todos associated with uids",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple todo list",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "typeracer": {
                 "author": [
                     "epic guy#0715"
