@@ -10882,7 +10882,8 @@
                     "dataclasses-json",
                     "html2markdown",
                     "inflect",
-                    "timeago"
+                    "timeago",
+                    "asyncio-throttle"
                 ],
                 "short": "Commands using the iNat API v1.",
                 "tags": [
