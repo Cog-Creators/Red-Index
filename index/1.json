@@ -11385,7 +11385,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Trickle credits into your economy",
-                "disabled": true,
+                "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data.",
                 "hidden": true,
                 "max_bot_version": "",
