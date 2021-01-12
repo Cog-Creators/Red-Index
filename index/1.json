@@ -9191,9 +9191,7 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "advanceduptime": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "An authentic looking uptime message.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9205,15 +9203,11 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Bot uptime, customised.",
-                "tags": [
-                    "uptime"
-                ],
+                "tags": "Uptime",
                 "type": "COG"
             },
             "edition": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Cog for setting your nickname as an edition for someone. Inspired by the Twentysix Edition at Red.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9226,16 +9220,14 @@
                 "requirements": [],
                 "short": "Edition nickname",
                 "tags": [
-                    "edition",
-                    "nick",
-                    "nikcname"
+                    "Edition",
+                    "Nick",
+                    "Nickname"
                 ],
                 "type": "COG"
             },
             "higherorlower": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Play the higher or lower card game.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9248,15 +9240,13 @@
                 "requirements": [],
                 "short": "Higher or Lower",
                 "tags": [
-                    "card",
-                    "game"
+                    "Card",
+                    "Game"
                 ],
                 "type": "COG"
             },
             "pingoverride": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Override the default ping response with a custom message.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9269,16 +9259,14 @@
                 "requirements": [],
                 "short": "Custom ping response.",
                 "tags": [
-                    "ping",
-                    "pong",
-                    "custom"
+                    "Ping",
+                    "Pong",
+                    "Custom"
                 ],
                 "type": "COG"
             },
             "publishcogs": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Publish your new cogs to a specific channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9291,15 +9279,13 @@
                 "requirements": [],
                 "short": "Publish new cogs in your guild.",
                 "tags": [
-                    "cogs",
-                    "publish"
+                    "Cogs",
+                    "Publish"
                 ],
                 "type": "COG"
             },
             "robthebank": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Rob the bank: gain or get fined!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9312,16 +9298,14 @@
                 "requirements": [],
                 "short": "Rob the bank.",
                 "tags": [
-                    "rob",
-                    "economy",
-                    "bank"
+                    "Rob",
+                    "Economy",
+                    "Bank"
                 ],
                 "type": "COG"
             },
             "romanconverter": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Convert roman numerals to numbers, and vise versa. Results may become unprecedented above 10,000.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9334,9 +9318,10 @@
                 "requirements": [],
                 "short": "Roman numerals.",
                 "tags": [
-                    "roman",
-                    "numerals",
-                    "number"
+                    "Roman",
+                    "Numerals",
+                    "Number",
+                    "Converter"
                 ],
                 "type": "COG"
             },
@@ -9357,16 +9342,14 @@
                 "short": "Search Websites",
                 "tags": [
                     "Google",
-                    "search",
-                    "internet",
-                    "pinterest"
+                    "Search",
+                    "Internet",
+                    "Pinterest"
                 ],
                 "type": "COG"
             },
             "sendcards": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Send cards to your friends!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9379,17 +9362,15 @@
                 "requirements": [],
                 "short": "Send cards to users.",
                 "tags": [
-                    "cards",
-                    "christmas",
-                    "birthday",
-                    "dm"
+                    "Cards",
+                    "Christmas",
+                    "Birthday",
+                    "DM"
                 ],
                 "type": "COG"
             },
             "staff": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Alert staff for inconspicuous activity.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9409,9 +9390,7 @@
                 "type": "COG"
             },
             "textmanipulator": {
-                "author": [
-                    "Kreusada"
-                ],
+                "author": "Kreusada",
                 "description": "Manipulate text with different tools.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9424,9 +9403,9 @@
                 "requirements": [],
                 "short": "Manipulate text.",
                 "tags": [
-                    "text",
-                    "editor",
-                    "format"
+                    "Text",
+                    "Editor",
+                    "Format"
                 ],
                 "type": "COG"
             }
