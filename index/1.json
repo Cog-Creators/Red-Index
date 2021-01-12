@@ -11184,6 +11184,27 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "economytrickle": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Trickle credits into your economy",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Trickle credits into your economy",
+                "tags": [
+                    "economy",
+                    "trickle"
+                ],
+                "type": ""
+            },
             "fourinarow": {
                 "author": [
                     "YamiKaitou#8975"
@@ -11377,30 +11398,6 @@
                 "tags": [
                     "economy",
                     "game"
-                ],
-                "type": ""
-            },
-            "trickle": {
-                "author": [
-                    "YamiKaitou#8975"
-                ],
-                "description": "Trickle credits into your economy",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Trickle credits into your economy",
-                "tags": [
-                    "economy",
-                    "economytrickle",
-                    "trickle"
                 ],
                 "type": ""
             }
