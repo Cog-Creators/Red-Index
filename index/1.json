@@ -11188,10 +11188,10 @@
                 "author": [
                     "YamiKaitou#8975"
                 ],
-                "description": "Trickle credits into your economy",
+                "description": "Automatically trickle some credits into your bot's economy",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
