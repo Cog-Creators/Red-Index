@@ -10883,7 +10883,7 @@
                     "html2markdown",
                     "inflect",
                     "timeago",
-                    "asyncio-throttle"
+                    "aiolimiter"
                 ],
                 "short": "Commands using the iNat API v1.",
                 "tags": [
