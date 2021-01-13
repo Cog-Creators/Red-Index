@@ -9496,7 +9496,7 @@
             },
             "ping": {
                 "author": [
-                    "Nesroht, preda, max, fixator10."
+                    "preda, max, fixator10."
                 ],
                 "description": "Ping command which shows bot latency in response.",
                 "disabled": false,
@@ -9737,6 +9737,31 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "customhelp": {
+                "author": [
+                    "epic guy",
+                    "Every other bot's help menu's design"
+                ],
+                "description": "This is customisable help, kindly read the readme of this cog, to set it up",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "A custom help",
+                "tags": [
+                    "help",
+                    "utility",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "speak": {
                 "author": [
                     "epic guy#0715"
