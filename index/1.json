@@ -9192,7 +9192,9 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "advanceduptime": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "An authentic looking uptime message.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9204,11 +9206,15 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Bot uptime, customised.",
-                "tags": "Uptime",
+                "tags": [
+                    "Uptime"
+                ],
                 "type": "COG"
             },
             "edition": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Cog for setting your nickname as an edition for someone. Inspired by the Twentysix Edition at Red.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9228,7 +9234,9 @@
                 "type": "COG"
             },
             "higherorlower": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Play the higher or lower card game.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9247,7 +9255,9 @@
                 "type": "COG"
             },
             "pingoverride": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Override the default ping response with a custom message.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9267,7 +9277,9 @@
                 "type": "COG"
             },
             "publishcogs": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Publish your new cogs to a specific channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9286,7 +9298,9 @@
                 "type": "COG"
             },
             "robthebank": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Rob the bank: gain or get fined!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9306,7 +9320,9 @@
                 "type": "COG"
             },
             "romanconverter": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Convert roman numerals to numbers, and vise versa. Results may become unprecedented above 10,000.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9350,7 +9366,9 @@
                 "type": "COG"
             },
             "sendcards": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Send cards to your friends!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9371,7 +9389,9 @@
                 "type": "COG"
             },
             "staff": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Alert staff for inconspicuous activity.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
@@ -9391,7 +9411,9 @@
                 "type": "COG"
             },
             "textmanipulator": {
-                "author": "Kreusada",
+                "author": [
+                    "Kreusada"
+                ],
                 "description": "Manipulate text with different tools.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
