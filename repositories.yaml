@@ -44,13 +44,13 @@ approved:
   - https://github.com/SharkyTheKing/Sharky
   - https://github.com/Twentysix26/x26-Cogs
   - https://github.com/Kowlin/Sentinel
+  - https://github.com/yamikaitou/YamiCogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
   - https://github.com/baiumbg/baiumbg-Cogs
   - https://github.com/tekulvw/Squid-Plugins@V3
-  - https://github.com/yamikaitou/YamiCogs
   - https://github.com/maxbooiii/maxcogs
   - https://github.com/npc203/npc-cogs
   - https://github.com/kreus7/kreusadacogs
