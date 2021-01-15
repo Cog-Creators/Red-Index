@@ -2526,6 +2526,29 @@
                 ],
                 "type": ""
             },
+            "coupon": {
+                "author": [
+                    "Redjumpman",
+                    "aikaterna"
+                ],
+                "description": "Admins can generate a unique coupon id that can be redeemed for a set number of points only once. DM the code to the user of your choice.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Creates coupons redeemable for credits",
+                "tags": [
+                    "coupon",
+                    "economy",
+                    "credits"
+                ],
+                "type": ""
+            },
             "dicetable": {
                 "author": [
                     "Redjumpman (Redjumpman#1337)"
@@ -11252,7 +11275,7 @@
         "description": "Just some random cogs that I wrote/ported/modified and want to share back to the public",
         "name": "YamiCogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "economytrickle": {
                 "author": [
