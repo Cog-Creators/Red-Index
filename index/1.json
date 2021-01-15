@@ -9470,7 +9470,8 @@
         "rx_cogs": {
             "count": {
                 "author": [
-                    "max, preda"
+                    "max",
+                    "preda"
                 ],
                 "description": "Christmas, halloween and Discord birthday's day countdown.",
                 "disabled": false,
@@ -9524,7 +9525,8 @@
             },
             "modcheck": {
                 "author": [
-                    "max."
+                    "max",
+                    "AlexFlipnote"
                 ],
                 "description": "Check which mods are online.",
                 "disabled": false,
@@ -9560,7 +9562,8 @@
             },
             "utility": {
                 "author": [
-                    "max, fixator10."
+                    "max",
+                    "fixator10."
                 ],
                 "description": "Utility for your bot and your guilds.",
                 "disabled": false,
