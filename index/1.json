@@ -9529,7 +9529,6 @@
                 "author": [
                     "max",
                     "Senroht#5179",
-                    "Preda",
                     "Fixator10"
                 ],
                 "description": "Ping command which shows bot latency in response.",
