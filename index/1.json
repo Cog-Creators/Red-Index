@@ -8646,17 +8646,17 @@
                 "author": [
                     "jack1142 (Jackenmen#6607)"
                 ],
-                "description": "Search for cogs in approved repos on CogBoard.",
+                "description": "CogBoard cog has been removed from JackCogs repo on 16.01.2021 and is no longer supported.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Search for cogs in approved repos on CogBoard.",
+                "short": "CogBoard cog has been removed from JackCogs repo on 16.01.2021 and is no longer supported.",
                 "tags": [
                     "cogboard",
                     "tools",
