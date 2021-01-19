@@ -10244,7 +10244,8 @@
             "baron": {
                 "author": [
                     "PhenoM4n4n",
-                    "DragDev Studios"
+                    "DragDev Studios",
+                    "KableKompany"
                 ],
                 "description": "Tools for managing guild joins and leaves.",
                 "disabled": false,
