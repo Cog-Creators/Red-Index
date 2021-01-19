@@ -45,6 +45,7 @@ approved:
   - https://github.com/Twentysix26/x26-Cogs
   - https://github.com/Kowlin/Sentinel
   - https://github.com/yamikaitou/YamiCogs
+  - https://github.com/flaree/pokecord-red
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
