@@ -5413,7 +5413,8 @@
             },
             "warcraftlogs": {
                 "author": [
-                    "aikaterna"
+                    "aikaterna",
+                    "Kowlin"
                 ],
                 "description": "Check WarcraftLogs for data on players of World of Warcraft Classic.",
                 "disabled": false,
@@ -5422,9 +5423,13 @@
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow"
+                ],
                 "short": "WarcraftLogs data for World of Warcraft Classic players.",
                 "tags": [
                     "warcraft"
