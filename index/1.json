@@ -4546,7 +4546,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pyyaml",
+                    "pyyaml==5.3.1",
                     "emoji"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
