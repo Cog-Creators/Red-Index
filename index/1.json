@@ -9887,9 +9887,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "emoji"
-                ],
+                "requirements": [],
                 "short": "A custom help",
                 "tags": [
                     "help",
