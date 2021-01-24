@@ -9400,7 +9400,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "psutil"
+                ],
                 "short": "Random Access Memory",
                 "tags": [
                     "RAM",
