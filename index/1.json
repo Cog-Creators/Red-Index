@@ -9354,7 +9354,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": "names",
+                "requirements": [
+                    "names"
+                ],
                 "short": "Name generator",
                 "tags": [
                     "Name",
