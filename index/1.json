@@ -1726,6 +1726,355 @@
         },
         "short": "Holds cogs made by Neuro Assassin."
     },
+    "https://github.com/Obi-Wan3/OB13-Cogs": {
+        "author": [
+            "Obi-Wan3"
+        ],
+        "description": "Assorted Utility Cogs for Red v3",
+        "name": "OB13-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "announcements": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Server announcements in a particular channel w/ role ping.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send Message w/ Role Ping",
+                "tags": [],
+                "type": ""
+            },
+            "brainshop": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "An artificial intelligence chatbot using BrainShop (https://brainshop.ai/).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "AI Chatbot Using BrainShop",
+                "tags": [],
+                "type": ""
+            },
+            "counting": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Counting channel",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Counting channel",
+                "tags": [],
+                "type": ""
+            },
+            "createchannels": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Create VCs via command",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create VCs via command\"",
+                "tags": [],
+                "type": ""
+            },
+            "directmessage": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Send DMs as the bot",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "DM as bot",
+                "tags": [],
+                "type": ""
+            },
+            "embedreact": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Automatic Reactions to Embedded Images",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Auto-EmbedReact",
+                "tags": [],
+                "type": ""
+            },
+            "emojitools": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Various tools for managing custom emojis in servers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiofiles",
+                    "aiozipstream",
+                    "asynctempfile"
+                ],
+                "short": "Tools for Managing Custom Emojis",
+                "tags": [],
+                "type": ""
+            },
+            "fah": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Folding@Home Team & Donor Statistics",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Folding@Home Stats",
+                "tags": [],
+                "type": ""
+            },
+            "github": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Sends Github commit messages exactly as the webhook would.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser"
+                ],
+                "short": "Github RSS Commit Feeds",
+                "tags": [
+                    "github",
+                    "rss"
+                ],
+                "type": ""
+            },
+            "improvtime": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Story improv, one word at a time.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "One word story improv.",
+                "tags": [],
+                "type": ""
+            },
+            "mentionhelp": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Custom Message on Bot Mention",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Custom MentionHelp",
+                "tags": [],
+                "type": ""
+            },
+            "privaterooms": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Private VCs that are created automatically, with permission overrides for a lobby channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatic Private VCs with Lobby",
+                "tags": [],
+                "type": ""
+            },
+            "publicrooms": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Private VCs that are created automatically, with customizable channel naming templates and support for multiple systems.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatic Public VC Creation",
+                "tags": [],
+                "type": ""
+            },
+            "quizrole": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Take a Quiz to Gain a Role",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "QuizRole",
+                "tags": [],
+                "type": ""
+            },
+            "referrals": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Allows users who refer others to the server to gain credits.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Server Referrals -> Credits",
+                "tags": [],
+                "type": ""
+            },
+            "restrictedroleperms": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Gives restricted permissions to certain roles to mention/assign other roles.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Restricted Permissions for Roles",
+                "tags": [],
+                "type": ""
+            },
+            "templateposts": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Requires any messages in a channel which a template is set to follow that template (or be auto-removed).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Posts w/ Template Requirements",
+                "tags": [],
+                "type": ""
+            },
+            "translate": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Translate some text using Google Translate.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "googletrans==3.1.0a0"
+                ],
+                "short": "Google Translate",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Assorted Utility Cogs for Red v3"
+    },
     "https://github.com/PhasecoreX/PCXCogs": {
         "author": [
             "PhasecoreX (PhasecoreX#0635)"
