@@ -10438,7 +10438,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiopixel==0.2.8"
+                    "aiopixel==0.2.9"
                 ],
                 "short": "Cog for getting info from the Hypixel API",
                 "tags": [
