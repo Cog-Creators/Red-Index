@@ -2088,7 +2088,7 @@
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
                 ],
-                "description": "Allows for designating voice channels as AutoRoom sources. When a user joins an AutoRoom source, they will be moved into their own personal on-demand voice channel (AutoRoom). Once all users have left the AutoRoom, it is automatically deleted.",
+                "description": "This cog facilitates automatic voice channel creation. When a member joins an AutoRoom Source (voice channel), this cog will move them to a brand new AutoRoom that they have control over. Once everyone leaves the AutoRoom, it is automatically deleted.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -2113,7 +2113,7 @@
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
                 ],
-                "description": "This cog automatically checks new users against multiple global ban lists, and optionally bans them on the spot. You can also manually check users already on the server.",
+                "description": "This cog allows server admins to check their members against multiple external ban lists. It can also automatically check new members that join the server, and optionally ban them if they appear in a list.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
