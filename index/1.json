@@ -2071,6 +2071,24 @@
                 "short": "Google Translate",
                 "tags": [],
                 "type": ""
+            },
+            "uploadstreaks": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "A leaderboard with points and streaks for uploading attachments in specific channels per interval of time.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Streaks & Points for Uploads",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Assorted Utility Cogs for Red v3"
