@@ -9926,7 +9926,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "",
+                "description": "Commands to look for anime images",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9936,7 +9936,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Anime images.",
                 "tags": [],
                 "type": ""
             },
@@ -9963,7 +9963,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "",
+                "description": "Random images from earch and space.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9973,7 +9973,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Random images.",
                 "tags": [],
                 "type": ""
             },
