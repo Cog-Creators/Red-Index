@@ -3279,6 +3279,129 @@
         },
         "short": "Cogs from Sharky"
     },
+    "https://github.com/TheWyn/Wyn-RedV3Cogs": {
+        "author": [
+            "Wyn"
+        ],
+        "description": "Cogs I've created or ported for personal use.  Look up song lyrics, search anime torrents and more.",
+        "name": "Wyn-RedV3Cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "anisearch": {
+                "author": [
+                    "Jintaku, Wyn"
+                ],
+                "description": "You can search anime, manga, users and characters!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to search the anilist API",
+                "tags": [
+                    "anime",
+                    "manga",
+                    "anilist",
+                    "list"
+                ],
+                "type": ""
+            },
+            "lyrics": {
+                "author": [
+                    "Wyn"
+                ],
+                "description": "Obtain song lyrics",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "bs4",
+                    "requests-futures"
+                ],
+                "short": "Obtains song lyrics",
+                "tags": [
+                    "lyrics"
+                ],
+                "type": ""
+            },
+            "nyaa": {
+                "author": [
+                    "Wyn"
+                ],
+                "description": "Obtains torrent info from nyaa.si",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "bs4",
+                    "requests-futures"
+                ],
+                "short": "Obtains torrent info",
+                "tags": [
+                    "nyaa"
+                ],
+                "type": ""
+            },
+            "sysinfo": {
+                "author": [
+                    "kagami#6142, Wyn"
+                ],
+                "description": "Uses psutil to show various system information for the machine running the bot",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "psutil"
+                ],
+                "short": "Display system information",
+                "tags": [
+                    "utility",
+                    "tools",
+                    "system",
+                    "info"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Cogs by/edited Wyn"
+    },
     "https://github.com/Tobotimus/Tobo-Cogs": {
         "author": [
             "Tobotimus"
