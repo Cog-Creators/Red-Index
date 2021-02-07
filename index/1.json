@@ -9226,7 +9226,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji~=0.6.0"
+                    "emoji~=1.2"
                 ],
                 "short": "Get information about emojis and see how to use them in your code.",
                 "tags": [
