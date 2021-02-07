@@ -2038,7 +2038,7 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Send DMs as the bot",
+                "description": "Monitor the Statuses of Websites",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2048,7 +2048,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "DM as bot",
+                "short": "Display Website Statuses",
                 "tags": [],
                 "type": ""
             },
