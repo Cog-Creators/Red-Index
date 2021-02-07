@@ -2034,6 +2034,24 @@
                 "tags": [],
                 "type": ""
             },
+            "sitestatus": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Send DMs as the bot",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "DM as bot",
+                "tags": [],
+                "type": ""
+            },
             "templateposts": {
                 "author": [
                     "Obi-Wan3"
