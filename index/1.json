@@ -40,7 +40,7 @@
                 "description": "Grants a specified birthday role for 24h",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs for the duration of approximately 24h to revoke the birthday role 24h after assignment.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
