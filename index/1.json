@@ -1730,7 +1730,7 @@
         "author": [
             "Obi-Wan3"
         ],
-        "description": "Assorted Utility Cogs for Red v3",
+        "description": "Assorted utility cogs for Red v3: custom emoji management, free translations, public/private VC system creation, custom bot mentionhelp, and more!",
         "name": "OB13-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -1775,7 +1775,7 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Counting channel",
+                "description": "Create a counting channel for your server, with various additional management options!",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -1785,7 +1785,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Counting channel",
+                "short": "Counting Channel",
                 "tags": [],
                 "type": ""
             },
@@ -1793,7 +1793,7 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Create VCs via command",
+                "description": "Create voice and text channels via a command.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -1803,7 +1803,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create VCs via command\"",
+                "short": "Channel Creation via Commands",
                 "tags": [],
                 "type": ""
             },
