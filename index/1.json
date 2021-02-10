@@ -5919,6 +5919,26 @@
                 ],
                 "type": "COG"
             },
+            "urlfetch": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Fetch text from a URL.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch text from a URL.",
+                "tags": [
+                    "api"
+                ],
+                "type": ""
+            },
             "warcraftlogs": {
                 "author": [
                     "aikaterna",
