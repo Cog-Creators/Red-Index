@@ -2052,6 +2052,24 @@
                 "tags": [],
                 "type": ""
             },
+            "statusrole": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Assign roles to users for the duration in which they have certain custom statuses.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Roles for Certain Custom Statuses",
+                "tags": [],
+                "type": ""
+            },
             "templateposts": {
                 "author": [
                     "Obi-Wan3"
