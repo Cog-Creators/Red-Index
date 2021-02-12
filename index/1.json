@@ -10355,7 +10355,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "emoji"
                 ],
                 "short": "A custom help",
                 "tags": [
