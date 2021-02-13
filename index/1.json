@@ -10068,6 +10068,30 @@
                     "Format"
                 ],
                 "type": "COG"
+            },
+            "timestables": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Learn your times tables!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Times tables.",
+                "tags": [
+                    "Maths",
+                    "Times",
+                    "Multiply",
+                    "Revision",
+                    "School"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs by Kreusada for Red-DiscordBot V3."
