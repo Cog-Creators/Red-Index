@@ -2016,6 +2016,24 @@
                 "tags": [],
                 "type": ""
             },
+            "reply": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Reply to a message using the Discord reply feature.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bot Replies",
+                "tags": [],
+                "type": ""
+            },
             "restrictedroleperms": {
                 "author": [
                     "Obi-Wan3"
