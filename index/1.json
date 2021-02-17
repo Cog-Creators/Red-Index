@@ -9454,7 +9454,7 @@
                     "ipykernel~=5.4",
                     "ipyparallel",
                     "jedi<0.16.0",
-                    "tornado>=6.0"
+                    "tornado>=6.1"
                 ],
                 "short": "Run IPython kernel within Red and connect to it with Jupyter Console. This is a development tool.",
                 "tags": [
