@@ -12064,7 +12064,7 @@
                     "YamiKaitou#8975"
                 ],
                 "description": "Play a Lucky3 'scratcher', a Daily Drawing, or a Weekly Drawing",
-                "disabled": true,
+                "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "",
