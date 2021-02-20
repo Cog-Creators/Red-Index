@@ -9912,7 +9912,7 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Detect hoisted usernames and change their nicknames as a result.",
+                "description": "Detect hoisted usernames and change their nicknames as a result. A variety of tools to 'protect' your guild from hoisted users. Features include automatic dehoisting of usernames into configured nicknames, scanning against hoisted users, changing all hoisted display names at once, and more.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -9972,6 +9972,28 @@
                     "Name",
                     "Random",
                     "Generator"
+                ],
+                "type": "COG"
+            },
+            "pinginvoke": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Invoke the ping command when calling for your bot. For example, if your bot was named `dave`, typing `dave?` will invoke dave's ping command.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Invoke your bot.",
+                "tags": [
+                    "Invoke",
+                    "Bot",
+                    "Ping"
                 ],
                 "type": "COG"
             },
