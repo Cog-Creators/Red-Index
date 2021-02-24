@@ -6649,7 +6649,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "python-launch-library>=1.0.6"
+                    "python-launch-library>=2.0.3"
                 ],
                 "short": "Access launch data for space flights",
                 "tags": [
