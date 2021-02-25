@@ -5115,8 +5115,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pyyaml==5.3.1",
-                    "emoji"
+                    "pyyaml~=5.4.1",
+                    "emoji~=1.2"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
                 "tags": [
