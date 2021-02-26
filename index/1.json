@@ -9859,12 +9859,12 @@
         },
         "short": "General purpose cogs"
     },
-    "https://github.com/kreus7/kreusadacogs": {
+    "https://github.com/kreusada/Kreusada-Cogs": {
         "author": [
             "Kreusada"
         ],
         "description": "Cogs by Kreusada for Red-DiscordBot V3.",
-        "name": "kreusadacogs",
+        "name": "Kreusada-Cogs",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
