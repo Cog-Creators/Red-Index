@@ -9678,7 +9678,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "bs4"
+                ],
                 "short": "Get currently playing and recently played tracks from Last.fm",
                 "tags": [
                     "last.fm",
