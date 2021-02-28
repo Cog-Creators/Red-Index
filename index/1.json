@@ -2902,6 +2902,30 @@
                 ],
                 "type": ""
             },
+            "miku": {
+                "author": [
+                    "Predeactor"
+                ],
+                "description": "Obtain one of the most beautiful image representing Hatsune Miku!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Obtain a random image of Miku.",
+                "tags": [
+                    "miku",
+                    "hatsune",
+                    "image",
+                    "images",
+                    "api"
+                ],
+                "type": ""
+            },
             "sxcu": {
                 "author": [
                     "Predeactor"
