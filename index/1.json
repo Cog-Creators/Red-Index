@@ -10769,7 +10769,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiopixel==0.2.12"
+                    "aiopixel==0.2.13"
                 ],
                 "short": "Cog for getting info from the Hypixel API",
                 "tags": [
