@@ -10324,7 +10324,6 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "psutil",
                     "tabulate",
                     "humanize"
                 ],
