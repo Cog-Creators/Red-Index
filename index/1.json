@@ -5200,6 +5200,114 @@
         },
         "short": "General purpose cogs by Twentysix (Twentysix#5252)"
     },
+    "https://github.com/Vexed01/Vex-Cogs": {
+        "author": [
+            "Vexed (Vexed#3211)"
+        ],
+        "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#3211",
+        "name": "Vex-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "aliases": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Get all the information you could ever need about a command's aliases.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get all the information you could ever need about a command's aliases.",
+                "tags": [
+                    "utility",
+                    "alias"
+                ],
+                "type": ""
+            },
+            "anotherpingcog": {
+                "author": [
+                    "Vexed (Vexed#3211"
+                ],
+                "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate>=0.8.9"
+                ],
+                "short": "Just another ping cog... But this one has fancy colours in an embed!",
+                "tags": [
+                    "utility",
+                    "ping",
+                    "pingtime"
+                ],
+                "type": ""
+            },
+            "status": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "This cog can automatically send updates form various services. Primarily supports Statuspage and Status.io.\n\nIf you think I'm missing a service, contact Vexed#3211 in the main Red server or Cog Support, or my DMs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser",
+                    "tabulate"
+                ],
+                "short": "Get automatic status updates from various services!",
+                "tags": [
+                    "utility",
+                    "status",
+                    "trust",
+                    "discord status",
+                    "rss"
+                ],
+                "type": ""
+            },
+            "system": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Check system metrics on the host device, such as CPU, RAM or network",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "psutil>=5.8.0"
+                ],
+                "short": "Check system metrics on the host device.",
+                "tags": [
+                    "utility",
+                    "system",
+                    "metrics"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Mainly utility cogs."
+    },
     "https://github.com/WildStriker/WildCogs": {
         "author": [
             "WildStriker (WildStriker#6222)"
