@@ -10324,7 +10324,7 @@
                     "max",
                     "preda"
                 ],
-                "description": "Christmas, halloween and Discord birthday's day countdown.",
+                "description": "A countdown cog that shows countdown for xmas, Discord Anniversary, Halloween amd Earth day.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -10334,7 +10334,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Event countdowns.",
+                "short": "Event countdown cog.",
                 "tags": [],
                 "type": ""
             },
