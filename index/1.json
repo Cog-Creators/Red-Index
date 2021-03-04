@@ -3983,7 +3983,7 @@
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Conversions for BTC, currencies, precious metals, and stocks.",
+                "description": "Conversions for currencies, crypto-currencies, and stocks.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -3999,7 +3999,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Conversions for BTC, currencies, precious metals, and stocks.",
+                "short": "Conversions for currencies, crypto-currencies, and stocks.",
                 "tags": [],
                 "type": "COG"
             },
