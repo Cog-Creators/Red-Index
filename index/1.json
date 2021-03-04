@@ -5232,7 +5232,7 @@
             },
             "anotherpingcog": {
                 "author": [
-                    "Vexed (Vexed#3211"
+                    "Vexed (Vexed#3211)"
                 ],
                 "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green.",
                 "disabled": false,
@@ -5258,7 +5258,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "This cog can automatically send updates form various services. Primarily supports Statuspage and Status.io.\n\nIf you think I'm missing a service, contact Vexed#3211 in the main Red server or Cog Support, or my DMs.",
+                "description": "This cog can automatically send updates form various services including Discord, Cloudflare and GitHub. Primarily supports Statuspage and Status.io pages but has exceptions for AWS and GCP.\n\nIf you think I'm missing a service, contact Vexed#3211 in the main Red server or Cog Support, or my DMs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
