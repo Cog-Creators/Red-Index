@@ -8121,7 +8121,7 @@
                 "requirements": [
                     "tabulate",
                     "wcwidth",
-                    "mcstatus"
+                    "mcstatus>=5.1.1"
                 ],
                 "short": "This cog show minecraft-related data",
                 "tags": [
