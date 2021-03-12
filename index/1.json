@@ -5256,6 +5256,30 @@
                 ],
                 "type": ""
             },
+            "github": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "gidgethub>=5.0.0"
+                ],
+                "short": "Create, comment, labelify and close GitHub issues.",
+                "tags": [
+                    "utility",
+                    "github",
+                    "issues"
+                ],
+                "type": ""
+            },
             "status": {
                 "author": [
                     "Vexed (Vexed#3211)"
