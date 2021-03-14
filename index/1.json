@@ -1730,7 +1730,7 @@
         "author": [
             "Obi-Wan3"
         ],
-        "description": "Assorted utility cogs for Red v3: custom emoji management, free translations, public/private VC system creation, custom bot mentionhelp, and more!",
+        "description": "Assorted utility cogs for Red v3: custom emoji management, website status monitoring, public/private VC system creation, custom bot mentionhelp, and more!",
         "name": "OB13-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -1739,19 +1739,26 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Server announcements in a particular channel w/ role ping.",
+                "description": "Send an announcement message w/ role ping in a particular channel.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Send Message w/ Role Ping",
-                "tags": [],
-                "type": ""
+                "short": "Send an announcement message w/ role ping in a particular channel.",
+                "tags": [
+                    "announcement",
+                    "role ping"
+                ],
+                "type": "COG"
             },
             "brainshop": {
                 "author": [
@@ -1759,17 +1766,24 @@
                 ],
                 "description": "An artificial intelligence chatbot using BrainShop (https://brainshop.ai/).",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog uses the BrainShop API (https://brainshop.ai/), sending the contents of a message and its author's user ID to BrainShop in order to receive a response. Please see BrainShop's ToS at https://brainshop.ai/terms. The cog itself only stores settings data (i.e. global/guild toggles and guild auto-reply channels).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "AI Chatbot Using BrainShop",
-                "tags": [],
-                "type": ""
+                "short": "An artificial intelligence chatbot using BrainShop (https://brainshop.ai/).",
+                "tags": [
+                    "brainshop",
+                    "chatbot"
+                ],
+                "type": "COG"
             },
             "counting": {
                 "author": [
@@ -1777,17 +1791,26 @@
                 ],
                 "description": "Create a counting channel for your server, with various additional management options!",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (e.g. toggle, channel, role, etc.), as well as the amount of times a user (identified by their Discord ID) has counted wrong, for the purpose of a wrong-count penalty.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.1",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Counting Channel",
-                "tags": [],
-                "type": ""
+                "short": "Create a counting channel for your server, with various additional management options!",
+                "tags": [
+                    "counting",
+                    "channel",
+                    "role",
+                    "mute"
+                ],
+                "type": "COG"
             },
             "createchannels": {
                 "author": [
@@ -1795,53 +1818,81 @@
                 ],
                 "description": "Create voice and text channels via a command.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as the current channels created through the cog.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_channels"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Channel Creation via Commands",
-                "tags": [],
-                "type": ""
+                "short": "Create voice and text channels via a command.",
+                "tags": [
+                    "create",
+                    "channels",
+                    "text",
+                    "voice"
+                ],
+                "type": "COG"
             },
             "directmessage": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Send DMs as the bot",
+                "description": "Send DMs as the bot!",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "DM as bot",
-                "tags": [],
-                "type": ""
+                "short": "Send DMs as the bot!",
+                "tags": [
+                    "DM",
+                    "direct message"
+                ],
+                "type": "COG"
             },
             "embedreact": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Automatic Reactions to Embedded Images",
+                "description": "Automatically add reactions to messages with embedded content.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (toggles, channels to listen for, and the reactions to add).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "add_reactions"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Auto-EmbedReact",
-                "tags": [],
-                "type": ""
+                "short": "Automatically add reactions to messages with embedded content.",
+                "tags": [
+                    "embeds",
+                    "reactions",
+                    "automatic"
+                ],
+                "type": "COG"
             },
             "emojitools": {
                 "author": [
@@ -1849,39 +1900,59 @@
                 ],
                 "description": "Various tools for managing custom emojis in servers.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. If enabled, the `[p]emojitools save` command group saves to folders in the cog data path image files of emojis that server administrators select.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_emojis"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "aiofiles",
                     "aiozipstream",
                     "asynctempfile"
                 ],
-                "short": "Tools for Managing Custom Emojis",
-                "tags": [],
-                "type": ""
+                "short": "Various tools for managing custom emojis in servers.",
+                "tags": [
+                    "emojis",
+                    "management",
+                    "save",
+                    "tools"
+                ],
+                "type": "COG"
             },
             "fah": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Folding@Home Team & Donor Statistics",
+                "description": "Various Folding@Home team & donor statistics (https://foldingathome.org/).",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Folding@Home Stats",
-                "tags": [],
-                "type": ""
+                "short": "Various Folding@Home team & donor statistics (https://foldingathome.org/).",
+                "tags": [
+                    "Folding@Home",
+                    "stats"
+                ],
+                "type": "COG"
             },
             "github": {
                 "author": [
@@ -1889,11 +1960,15 @@
                 ],
                 "description": "Sends Github commit messages exactly as the webhook would.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as the Github commit RSS feed links provided by users (in order to periodically check and fetch new commit info from).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [
                     "embed_links"
                 ],
@@ -1901,12 +1976,14 @@
                 "requirements": [
                     "feedparser"
                 ],
-                "short": "Github RSS Commit Feeds",
+                "short": "Sends Github commit messages exactly as the webhook would.",
                 "tags": [
                     "github",
-                    "rss"
+                    "rss",
+                    "feed",
+                    "commits"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "improvtime": {
                 "author": [
@@ -1914,35 +1991,51 @@
                 ],
                 "description": "Story improv, one word at a time.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (e.g. toggles, word limits, whether to allow repeats, etc.).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "One word story improv.",
-                "tags": [],
-                "type": ""
+                "short": "Story improv, one word at a time.",
+                "tags": [
+                    "improv",
+                    "story",
+                    "channel"
+                ],
+                "type": "COG"
             },
             "mentionhelp": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Custom Message on Bot Mention",
+                "description": "Set a custom message to be sent on bot mention.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server and global settings.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Custom MentionHelp",
-                "tags": [],
-                "type": ""
+                "short": "Set a custom message to be sent on bot mention.",
+                "tags": [
+                    "mentionhelp",
+                    "custom",
+                    "message"
+                ],
+                "type": "COG"
             },
             "privaterooms": {
                 "author": [
@@ -1950,53 +2043,83 @@
                 ],
                 "description": "Private VCs that are created automatically, with permission overrides for a lobby channel.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as information about the active VCs (and their owners) created through this cog, identified by Discord IDs.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_channels"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatic Private VCs with Lobby",
-                "tags": [],
-                "type": ""
+                "short": "Private VCs that are created automatically, with permission overrides for a lobby channel.",
+                "tags": [
+                    "privaterooms",
+                    "voice channels",
+                    "automatic",
+                    "creation"
+                ],
+                "type": "COG"
             },
             "publicrooms": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Private VCs that are created automatically, with customizable channel naming templates and support for multiple systems.",
+                "description": "Public VCs that are created automatically, with customizable channel naming templates and support for multiple systems.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as information about the active VCs (and their creators) created through this cog, identified by Discord IDs.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_channels"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatic Public VC Creation",
-                "tags": [],
-                "type": ""
+                "short": "Public VCs that are created automatically, with customizable channel naming templates and support for multiple systems.",
+                "tags": [
+                    "publicrooms",
+                    "voice channels",
+                    "automatic",
+                    "creation"
+                ],
+                "type": "COG"
             },
             "quizrole": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Take a Quiz to Gain a Role",
+                "description": "Automatically assign roles to users who have taken and successfully passed a quiz through DMs.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as the last time a member (identified by UserID) has taken a quiz.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "QuizRole",
-                "tags": [],
-                "type": ""
+                "short": "Automatically assign roles to users who have taken and successfully passed a quiz through DMs.",
+                "tags": [
+                    "quiz",
+                    "role",
+                    "auto"
+                ],
+                "type": "COG"
             },
             "referrals": {
                 "author": [
@@ -2004,17 +2127,25 @@
                 ],
                 "description": "Allows users who refer others to the server to gain credits.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as users who have already redeemed their credits (identified by UserIDs).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Server Referrals -> Credits",
-                "tags": [],
-                "type": ""
+                "short": "Allows users who refer others to the server to gain credits.",
+                "tags": [
+                    "referrals",
+                    "reward",
+                    "invite"
+                ],
+                "type": "COG"
             },
             "reply": {
                 "author": [
@@ -2022,17 +2153,23 @@
                 ],
                 "description": "Reply to a message using the Discord reply feature.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Bot Replies",
-                "tags": [],
-                "type": ""
+                "short": "Reply to a message using the Discord reply feature.",
+                "tags": [
+                    "replies"
+                ],
+                "type": "COG"
             },
             "restrictedroleperms": {
                 "author": [
@@ -2040,35 +2177,54 @@
                 ],
                 "description": "Gives restricted permissions to certain roles to mention/assign other roles.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (e.g. toggles, rules, custom success messages, etc.).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Restricted Permissions for Roles",
-                "tags": [],
-                "type": ""
+                "short": "Gives restricted permissions to certain roles to mention/assign other roles.",
+                "tags": [
+                    "restricted",
+                    "role",
+                    "permissions",
+                    "assign",
+                    "mention"
+                ],
+                "type": "COG"
             },
             "sitestatus": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Monitor the Statuses of Websites",
+                "description": "Monitor the statuses of websites and receive down alerts.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings about sites to monitor, as well as their downtime info.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Display Website Statuses",
-                "tags": [],
-                "type": ""
+                "short": "Monitor the statuses of websites and receive down alerts.",
+                "tags": [
+                    "website",
+                    "status",
+                    "downtime",
+                    "alerts"
+                ],
+                "type": "COG"
             },
             "statusrole": {
                 "author": [
@@ -2076,17 +2232,26 @@
                 ],
                 "description": "Assign roles to users for the duration in which they have certain custom statuses.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (i.e. custom status to watch for, the respective roles to assign, and an optional log channel).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_roles"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Roles for Certain Custom Statuses",
-                "tags": [],
-                "type": ""
+                "short": "Assign roles to users for the duration in which they have certain custom statuses.",
+                "tags": [
+                    "custom status",
+                    "roles"
+                ],
+                "type": "COG"
             },
             "templateposts": {
                 "author": [
@@ -2094,37 +2259,57 @@
                 ],
                 "description": "Requires any messages in a channel which a template is set to follow that template (or be auto-removed).",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings (e.g. toggles, channels and their templates, etc.).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_messages"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Posts w/ Template Requirements",
-                "tags": [],
-                "type": ""
+                "short": "Requires any messages in a channel which a template is set to follow that template (or be auto-removed).",
+                "tags": [
+                    "required",
+                    "template",
+                    "message",
+                    "channel"
+                ],
+                "type": "COG"
             },
             "translate": {
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Translate some text using Google Translate.",
+                "description": "Translate some text using Google Translate for free.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "googletrans==3.1.0a0"
                 ],
-                "short": "Google Translate",
-                "tags": [],
-                "type": ""
+                "short": "Translate some text using Google Translate for free.",
+                "tags": [
+                    "translation",
+                    "google translate"
+                ],
+                "type": "COG"
             },
             "uploadstreaks": {
                 "author": [
@@ -2132,20 +2317,31 @@
                 ],
                 "description": "A leaderboard with points and streaks for uploading attachments in specific channels per interval of time.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores provided server settings, as well as each participating user's streak, points, and time of last entry.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Streaks & Points for Uploads",
-                "tags": [],
-                "type": ""
+                "short": "A leaderboard with points and streaks for uploading attachments in specific channels per interval of time.",
+                "tags": [
+                    "upload",
+                    "streak",
+                    "points",
+                    "leaderboard"
+                ],
+                "type": "COG"
             }
         },
-        "short": "Assorted Utility Cogs for Red v3"
+        "short": "Utility Cogs for Red by Obi-Wan3"
     },
     "https://github.com/PhasecoreX/PCXCogs": {
         "author": [
