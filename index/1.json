@@ -11184,9 +11184,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "matplotlib"
-                ],
+                "requirements": [],
                 "short": "Set a reminder to bump on Disboard.",
                 "tags": [
                     "Disboard",
