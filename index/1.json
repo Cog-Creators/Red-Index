@@ -1753,7 +1753,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Send an announcement message w/ role ping in a particular channel.",
+                "short": "Announcement w/ Role Ping",
                 "tags": [
                     "announcement",
                     "role ping"
@@ -1778,9 +1778,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "An artificial intelligence chatbot using BrainShop (https://brainshop.ai/).",
+                "short": "AI Chatbot Using BrainShop (https://brainshop.ai/).",
                 "tags": [
                     "brainshop",
+                    "ai",
                     "chatbot"
                 ],
                 "type": "COG"
@@ -1803,7 +1804,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create a counting channel for your server, with various additional management options!",
+                "short": "Multifeatured Counting Channel",
                 "tags": [
                     "counting",
                     "channel",
@@ -1832,7 +1833,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create voice and text channels via a command.",
+                "short": "Create Text & Voice Channels Using Commands",
                 "tags": [
                     "create",
                     "channels",
@@ -1859,7 +1860,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Send DMs as the bot!",
+                "short": "Easily Send DMs as the Bot",
                 "tags": [
                     "DM",
                     "direct message"
@@ -1886,7 +1887,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically add reactions to messages with embedded content.",
+                "short": "Auto-Reactions to Embeds",
                 "tags": [
                     "embeds",
                     "reactions",
@@ -1918,7 +1919,7 @@
                     "aiozipstream",
                     "asynctempfile"
                 ],
-                "short": "Various tools for managing custom emojis in servers.",
+                "short": "Tools for Managing Custom Emojis",
                 "tags": [
                     "emojis",
                     "management",
@@ -1947,7 +1948,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Various Folding@Home team & donor statistics (https://foldingathome.org/).",
+                "short": "Various Folding@Home Stats (https://foldingathome.org/).",
                 "tags": [
                     "Folding@Home",
                     "stats"
@@ -1976,7 +1977,7 @@
                 "requirements": [
                     "feedparser"
                 ],
-                "short": "Sends Github commit messages exactly as the webhook would.",
+                "short": "Github RSS Commit Feeds",
                 "tags": [
                     "github",
                     "rss",
@@ -2003,7 +2004,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Story improv, one word at a time.",
+                "short": "One Word Story Channel",
                 "tags": [
                     "improv",
                     "story",
@@ -2029,7 +2030,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Set a custom message to be sent on bot mention.",
+                "short": "Customizable MentionHelp Message",
                 "tags": [
                     "mentionhelp",
                     "custom",
@@ -2057,7 +2058,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Private VCs that are created automatically, with permission overrides for a lobby channel.",
+                "short": "Automatic Private VCs with Lobby",
                 "tags": [
                     "privaterooms",
                     "voice channels",
@@ -2086,7 +2087,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Public VCs that are created automatically, with customizable channel naming templates and support for multiple systems.",
+                "short": "Automatic Public VC Creation",
                 "tags": [
                     "publicrooms",
                     "voice channels",
@@ -2113,7 +2114,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically assign roles to users who have taken and successfully passed a quiz through DMs.",
+                "short": "Take a Quiz to Gain a Role",
                 "tags": [
                     "quiz",
                     "role",
@@ -2139,7 +2140,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Allows users who refer others to the server to gain credits.",
+                "short": "Invite Referral -> Credits",
                 "tags": [
                     "referrals",
                     "reward",
@@ -2165,7 +2166,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Reply to a message using the Discord reply feature.",
+                "short": "Bot Replies to Messages",
                 "tags": [
                     "replies"
                 ],
@@ -2189,7 +2190,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Gives restricted permissions to certain roles to mention/assign other roles.",
+                "short": "Give Certain Roles Restricted Permissions",
                 "tags": [
                     "restricted",
                     "role",
@@ -2217,7 +2218,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Monitor the statuses of websites and receive down alerts.",
+                "short": "Monitor Website Statuses",
                 "tags": [
                     "website",
                     "status",
@@ -2246,7 +2247,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Assign roles to users for the duration in which they have certain custom statuses.",
+                "short": "Roles for Certain Custom Statuses",
                 "tags": [
                     "custom status",
                     "roles"
@@ -2273,7 +2274,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Requires any messages in a channel which a template is set to follow that template (or be auto-removed).",
+                "short": "Posts w/ Template Requirements",
                 "tags": [
                     "required",
                     "template",
@@ -2304,7 +2305,7 @@
                 "requirements": [
                     "googletrans==3.1.0a0"
                 ],
-                "short": "Translate some text using Google Translate for free.",
+                "short": "Free Google Translations",
                 "tags": [
                     "translation",
                     "google translate"
@@ -2331,7 +2332,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A leaderboard with points and streaks for uploading attachments in specific channels per interval of time.",
+                "short": "Streaks & Points for Uploads",
                 "tags": [
                     "upload",
                     "streak",
