@@ -2283,6 +2283,34 @@
                 ],
                 "type": "COG"
             },
+            "temprole": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Assign temporary roles to users, expiring after a set time.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server settings, as well as the active TempRoles (role and user IDs) and time remaining for each.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_roles"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Assign Temporary Roles",
+                "tags": [
+                    "temporary",
+                    "role",
+                    "timed"
+                ],
+                "type": "COG"
+            },
             "translate": {
                 "author": [
                     "Obi-Wan3"
