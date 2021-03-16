@@ -9647,28 +9647,6 @@
                 ],
                 "type": "COG"
             },
-            "cogboard": {
-                "author": [
-                    "jack1142 (Jackenmen#6607)"
-                ],
-                "description": "CogBoard cog has been removed from JackCogs repo on 16.01.2021 and is no longer supported.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "CogBoard cog has been removed from JackCogs repo on 16.01.2021 and is no longer supported.",
-                "tags": [
-                    "cogboard",
-                    "tools",
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "emojiinfo": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
@@ -10897,7 +10875,8 @@
             },
             "google": {
                 "author": [
-                    "epic guy"
+                    "epic guy",
+                    "fixator"
                 ],
                 "description": "This searches google and fetches results using a custom scraper.",
                 "disabled": false,
