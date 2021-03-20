@@ -10649,7 +10649,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Image cog that generate random images from different subreddits.",
+                "description": "Image cog that generate random images from different services.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
