@@ -10327,6 +10327,30 @@
                 ],
                 "type": "COG"
             },
+            "blackformatter": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Run black on files with custom line lengths.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "black"
+                ],
+                "short": "Run black on files with custom line lengths.",
+                "tags": [
+                    "Black",
+                    "Code",
+                    "File"
+                ],
+                "type": "COG"
+            },
             "bubblewrap": {
                 "author": [
                     "Kreusada"
@@ -10385,6 +10409,30 @@
                 "tags": [
                     "Hoist",
                     "Nickname"
+                ],
+                "type": "COG"
+            },
+            "minifier": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Minify python code!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python_minifier"
+                ],
+                "short": "Minify python code.",
+                "tags": [
+                    "Minifier",
+                    "Code",
+                    "File"
                 ],
                 "type": "COG"
             },
@@ -10499,6 +10547,28 @@
                     "Christmas",
                     "Birthday",
                     "DM"
+                ],
+                "type": "COG"
+            },
+            "serverblock": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Disable your bot from joining particular servers.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Disable your bot from joining particular servers.",
+                "tags": [
+                    "Blocklist",
+                    "Blacklist",
+                    "Guild"
                 ],
                 "type": "COG"
             },
