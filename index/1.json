@@ -5516,7 +5516,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green.",
+                "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green, and the bot owner can customise the colours and emojis for different latency levels, as well as force an embed.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -5528,7 +5528,7 @@
                 "requirements": [
                     "tabulate>=0.8.9"
                 ],
-                "short": "Just another ping cog... But this one has fancy colours in an embed!",
+                "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
                     "utility",
                     "ping",
