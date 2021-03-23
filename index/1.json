@@ -10349,6 +10349,31 @@
                 ],
                 "type": "COG"
             },
+            "alphanato": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get the names of the NATO phonetics through easy-to-use syntax.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get the names of the NATO phonetics through easy-to-use syntax.",
+                "tags": [
+                    "Alpha",
+                    "Bravo",
+                    "Charlie",
+                    "Alphabet",
+                    "NATO",
+                    "ABC"
+                ],
+                "type": "COG"
+            },
             "blackformatter": {
                 "author": [
                     "Kreusada"
