@@ -176,6 +176,24 @@
                 ],
                 "type": ""
             },
+            "httpcat": {
+                "author": [
+                    "Dav"
+                ],
+                "description": "Get info on HTTP status codes from https://http.cat",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no EUD.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "HTTP but with kittens! Yeeehaw",
+                "tags": [],
+                "type": ""
+            },
             "mcwhitelister": {
                 "author": [
                     "Dav"
