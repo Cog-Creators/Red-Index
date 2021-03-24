@@ -11078,7 +11078,7 @@
                     "epic guy",
                     "fixator"
                 ],
-                "description": "This searches google and fetches results using a custom scraper.",
+                "description": "This searches google and fetches results using a custom scraper. The reverse search supports replies as well",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -11091,7 +11091,7 @@
                     "html2text",
                     "beautifulsoup4"
                 ],
-                "short": "A simple google search",
+                "short": "A google search cog, with rich card results",
                 "tags": [
                     "fun",
                     "utility",
