@@ -10805,8 +10805,7 @@
             "utility": {
                 "author": [
                     "max",
-                    "fixator10",
-                    "AlexFlipnote"
+                    "fixator10"
                 ],
                 "description": "Utility for your bot and your guilds.",
                 "disabled": false,
