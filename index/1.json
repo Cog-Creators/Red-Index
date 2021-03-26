@@ -11880,6 +11880,30 @@
                 ],
                 "type": ""
             },
+            "slashtags": {
+                "author": [
+                    "PhenoM4n4n"
+                ],
+                "description": "Create custom slash commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "PyParsing",
+                    "git+https://github.com/phenom4n4n/TagScript.git@79d0bfd95aa4f330fb89071d4c83aabd3bb9e118"
+                ],
+                "short": "Create custom slash commands.",
+                "tags": [
+                    "tags",
+                    "slashcommands"
+                ],
+                "type": "COG"
+            },
             "tags": {
                 "author": [
                     "PhenoM4n4n"
