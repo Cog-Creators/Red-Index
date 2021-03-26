@@ -23,7 +23,7 @@ jobs:
         mkdir cache
         python -m pip install pyyaml
         python parser.py repositories.yaml clonerepos.sh
-        chmod +x clonerepos.sh
+        chmod +x clonerepos.sh git-retry.sh
     - name: Clone repos
       run: ./clonerepos.sh
     - name: Run indexer
