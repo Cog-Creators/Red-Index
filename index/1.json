@@ -3175,7 +3175,9 @@
                 "type": ""
             },
             "letters": {
-                "author": [],
+                "author": [
+                    "Predeactor"
+                ],
                 "description": "Send a letter to someone you want to talk to.",
                 "disabled": false,
                 "end_user_data_statement": "This cog store data about users persistently for saving datas. Red may store your discord ID with your data you set and receive.",
