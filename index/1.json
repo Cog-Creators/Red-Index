@@ -3050,7 +3050,7 @@
                 "end_user_data_statement": "This cog does not save data about users persistently.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.3.8",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -3172,6 +3172,29 @@
                 "requirements": [],
                 "short": "Learn Python on Discord.",
                 "tags": [],
+                "type": ""
+            },
+            "letters": {
+                "author": [],
+                "description": "Send a letter to someone you want to talk to.",
+                "disabled": false,
+                "end_user_data_statement": "This cog store data about users persistently for saving datas. Red may store your discord ID with your data you set and receive.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Send letters to peoples.",
+                "tags": [
+                    "fun",
+                    "message",
+                    "violet",
+                    "evergarden"
+                ],
                 "type": ""
             },
             "lyrics": {
