@@ -1064,7 +1064,7 @@
         "author": [
             "Kowlin#2536"
         ],
-        "description": "Moderation orianted cogs build for Red-DiscordBot",
+        "description": "Moderation oriented cogs build for Red-DiscordBot",
         "name": "Sentinel",
         "rx_branch": "",
         "rx_category": "approved",
@@ -1183,7 +1183,7 @@
                 "type": "COG"
             }
         },
-        "short": "Moderation orianted cogs build for Red-DiscordBot"
+        "short": "Moderation oriented cogs build for Red-DiscordBot"
     },
     "https://github.com/Malarne/discord_cogs": {
         "author": [
