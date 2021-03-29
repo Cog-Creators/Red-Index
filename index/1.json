@@ -9121,8 +9121,8 @@
             "crypto": {
                 "author": [
                     "flare(flare#0001)",
-                    "flame",
-                    "trustyjaid"
+                    "Flame",
+                    "TrustyJAID"
                 ],
                 "description": "Buy and sell cryptocurrencies with Red economy.",
                 "disabled": false,
