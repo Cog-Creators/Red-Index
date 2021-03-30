@@ -10748,7 +10748,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "stdlib_list"
+                ],
                 "short": "Get version information for third-party cogs, or installed dependencies/modules.",
                 "tags": [
                     "Module",
