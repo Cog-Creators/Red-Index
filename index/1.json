@@ -5582,6 +5582,30 @@
                 ],
                 "type": ""
             },
+            "betteruptime": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Replace the uptime command with a rich embed that shows the bot's percentage uptime (both time of the bot being on and time connected to Discord). There is also a new `downtime` command which shows when downtime happened. This cog writes to config every 60 seconds to prevent data loss.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pandas"
+                ],
+                "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
+                "tags": [
+                    "utility",
+                    "uptime",
+                    "meta"
+                ],
+                "type": ""
+            },
             "github": {
                 "author": [
                     "Vexed (Vexed#3211)"
