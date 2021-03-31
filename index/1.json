@@ -5586,7 +5586,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "Replace the uptime command with a rich embed that shows the bot's percentage uptime (both time of the bot being on and time connected to Discord). There is also a new `downtime` command which shows when downtime happened. This cog writes to config every 60 seconds to prevent data loss.",
+                "description": "Replace the uptime command with a rich embed that shows the bot's percentage uptime (both time of the bot being on and time connected to Discord). There is also a new `downtime` command which shows when downtime happened. This cog writes to config every 60 seconds to prevent data loss. It is also very storage efficient, using under 100 bytes each day the cog runs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
