@@ -2467,7 +2467,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pyparsing"
+                ],
                 "short": "Automatic voice channel management.",
                 "tags": [
                     "audio",
