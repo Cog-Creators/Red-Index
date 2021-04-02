@@ -5622,7 +5622,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub"
+                    "gidgethub>=5.0.0"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -5672,7 +5672,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "psutil"
+                    "psutil>=5.8.0"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
