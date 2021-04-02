@@ -10648,6 +10648,34 @@
                 ],
                 "type": "COG"
             },
+            "rpsls": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Play rock, paper, scissors, lizard, spock. For those who are unfamiliar with this game, there is a small diagram here which could be useful: https://static.wikia.nocookie.net/bigbangtheory/images/7/7d/RPSLS.png/revision/latest?cb=20120822205915",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play rock, paper, scissors, lizard, spock.",
+                "tags": [
+                    "RPS",
+                    "Rock",
+                    "Paper",
+                    "Scissors",
+                    "Lizard",
+                    "Spock",
+                    "General",
+                    "Game",
+                    "Fun"
+                ],
+                "type": "COG"
+            },
             "sendcards": {
                 "author": [
                     "Kreusada"
