@@ -13335,6 +13335,24 @@
                 "tags": [],
                 "type": "COG"
             },
+            "Markov": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Analyze user messages, generating markov chains that can be used to synthesize new text to mimick users",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generate markov chains for users",
+                "tags": [],
+                "type": "COG"
+            },
             "Scrub": {
                 "author": [
                     "CrunchBangDev"
