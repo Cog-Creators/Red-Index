@@ -8199,7 +8199,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Pick a random user or a user with a specified role. For the latter, use `[p]pickrole <role>` first.",
+                "description": "Pick a random user or a user with a specified role.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
