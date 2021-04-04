@@ -10533,6 +10533,29 @@
                 ],
                 "type": "COG"
             },
+            "listroles": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "List all the roles in a guild.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "List all the roles in a guild.",
+                "tags": [
+                    "Roles",
+                    "List"
+                ],
+                "type": "COG"
+            },
             "minifier": {
                 "author": [
                     "Kreusada"
@@ -10622,6 +10645,27 @@
                     "Ping",
                     "Pong",
                     "Custom"
+                ],
+                "type": "COG"
+            },
+            "quotes": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get a random quote.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get a random quote.",
+                "tags": [
+                    "Quotes",
+                    "QOTD"
                 ],
                 "type": "COG"
             },
