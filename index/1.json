@@ -10533,29 +10533,6 @@
                 ],
                 "type": "COG"
             },
-            "listroles": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "List all the roles in a guild.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "List all the roles in a guild.",
-                "tags": [
-                    "Roles",
-                    "List"
-                ],
-                "type": "COG"
-            },
             "minifier": {
                 "author": [
                     "Kreusada"
@@ -10689,6 +10666,32 @@
                 "tags": [
                     "RAM",
                     "Random Access Memory"
+                ],
+                "type": "COG"
+            },
+            "roleboards": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get 'leaderboards' about guild roles, such as the users with the most roles, the roles with the most users, and a full list of all the roles.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Get 'leaderboards' about guild roles.",
+                "tags": [
+                    "Roles",
+                    "List",
+                    "Users",
+                    "Most",
+                    "Leaderboards"
                 ],
                 "type": "COG"
             },
