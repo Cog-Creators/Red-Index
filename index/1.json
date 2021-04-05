@@ -5636,7 +5636,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "This cog can automatically send updates form various services including Discord, Cloudflare and GitHub. Members can also use a command to check incidents on-demand. Primarily supports Statuspage and Status.io pages but has exceptions for AWS and GCP.\n\nIf you think I'm missing a service, contact Vexed#3211 in the main Red server or Cog Support, or my DMs.",
+                "description": "This cog can automatically send updates form various services including Discord, Cloudflare and GitHub. Members can also use a command to check incidents on-demand. Support all Statuspage.io which I have added.\n\nIf you think I'm missing a service, contact Vexed#3211 in the main Red server or Cog Support, or my DMs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -5646,15 +5646,14 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "feedparser",
-                    "tabulate"
+                    "tabulate",
+                    "pytz"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
                     "utility",
                     "statuspage",
-                    "trust",
-                    "rss"
+                    "trust"
                 ],
                 "type": ""
             },
