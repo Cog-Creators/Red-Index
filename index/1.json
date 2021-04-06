@@ -1751,7 +1751,7 @@
         "description": "Assorted utility cogs for Red v3: custom emoji management, website status monitoring, public/private VC system creation, custom bot mentionhelp, and more!",
         "name": "OB13-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "announcements": {
                 "author": [
