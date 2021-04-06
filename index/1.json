@@ -1977,12 +1977,12 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Sends Github commit messages exactly as the webhook would.",
+                "description": "Sends GitHub commit messages exactly as the webhook would.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores provided server settings, as well as the Github commit RSS feed links provided by users (in order to periodically check and fetch new commit info from).",
+                "end_user_data_statement": "This cog stores provided server settings, as well as the GitHub commit RSS feed links provided by users (in order to periodically check and fetch new commit info from).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.1",
                 "min_python_version": [
                     3,
                     8,
@@ -1995,7 +1995,7 @@
                 "requirements": [
                     "feedparser"
                 ],
-                "short": "Github RSS Commit Feeds",
+                "short": "GitHub RSS Commit Feeds",
                 "tags": [
                     "github",
                     "rss",
