@@ -10834,6 +10834,28 @@
                 ],
                 "type": "COG"
             },
+            "termino": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Customize restart and shutdown messages with your own text, and predicates.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Customize restart and shutdown messages with your own text, and predicates.",
+                "tags": [
+                    "Shutdown",
+                    "Restart",
+                    "Custom"
+                ],
+                "type": "COG"
+            },
             "textmanipulator": {
                 "author": [
                     "Kreusada"
