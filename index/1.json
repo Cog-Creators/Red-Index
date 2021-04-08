@@ -2060,7 +2060,7 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Disallow any commands in DMs from others.",
+                "description": "Disallow any commands in DMs from others, with adjustable settings.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
