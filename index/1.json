@@ -11272,7 +11272,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "packaging"
                 ],
                 "short": "A custom help",
                 "tags": [
