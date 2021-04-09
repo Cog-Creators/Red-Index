@@ -11813,7 +11813,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz"
+                ],
                 "short": "Set a reminder to bump on Disboard.",
                 "tags": [
                     "Disboard",
