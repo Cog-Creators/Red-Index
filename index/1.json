@@ -2615,7 +2615,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "speedtest-cli"
+                    "speedtest-cli>=2.1.3"
                 ],
                 "short": "Test your servers internet speed.",
                 "tags": [
