@@ -7973,7 +7973,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Lock `@everyone` from sending messages except Mods.",
+                "description": "Lock `@everyone` from sending messages in channels or the entire guild, and only allow Moderators to talk. This version has some advanced settings.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -7994,7 +7994,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Just a simple application cog with a Staff Applicant role.",
+                "description": "Receive and moderate staff applications with customizable questions.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -8004,7 +8004,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Simple application cog.",
+                "short": "Applications with custom questions.",
                 "tags": [
                     "application",
                     "app"
@@ -8015,7 +8015,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Collect cookies and steal some from others.",
+                "description": "Collect cookies and steal from others.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores the amount of cookies users have.",
                 "hidden": false,
@@ -8036,7 +8036,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Additional store to Cookies cog.",
+                "description": "Additional store with redeemable items to my Cookies cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores items users buy.",
                 "hidden": false,
@@ -8060,7 +8060,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Make a counting channel",
+                "description": "Make a counting channel with goals.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs if they are the last one to count.",
                 "hidden": false,
@@ -8070,7 +8070,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Counting channel",
+                "short": "Counting channel.",
                 "tags": [
                     "counting",
                     "count"
@@ -8081,7 +8081,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Just a simple cog that gives a pre-specified amount of credits to a randomly picked user.",
+                "description": "Simple cog that gives a pre-specified amount of credits to a randomly picked user.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -8105,7 +8105,7 @@
                     "flare",
                     "aikaterna"
                 ],
-                "description": "A cog to forward messages to the bot owner, including messages with attachments.",
+                "description": "Forward all DMs sent to the bot to the bot owner (or a specified channel), including messages with attachments.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user ID if they are set as a ping user.",
                 "hidden": false,
@@ -8136,7 +8136,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Gallery channels!",
+                "short": "Gallery channels.",
                 "tags": [
                     "gallery"
                 ],
@@ -8146,7 +8146,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Lock `@everyone` from sending messages except Mods.",
+                "description": "Lock `@everyone` from sending messages in channels or the entire guild, and only allow Moderators to talk.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -8191,7 +8191,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Marriage cog with some extra shit.",
+                "description": "Marry, divorce, and give gifts to other members.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs upon marrying and divorcing.",
                 "hidden": false,
@@ -8201,7 +8201,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Marriage cog with some extra shit.",
+                "short": "Marry, divorce, and give gifts to other members.",
                 "tags": [
                     "marriage",
                     "marry",
@@ -8214,7 +8214,7 @@
                     "saurichable",
                     "bobloy"
                 ],
-                "description": "Just a very simple cog that makes unmentionable roles mentionable.",
+                "description": "Very simple way to make unmentionable roles mentionable.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -8234,7 +8234,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Pick a random user or a user with a specified role.",
+                "description": "Pick a random user, or a user with a specified role.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -8244,7 +8244,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Pick a random user or a user with a specified role.",
+                "short": "Pick a random user, or a user with a specified role.",
                 "tags": [
                     "pick"
                 ],
@@ -8271,11 +8271,35 @@
                 ],
                 "type": ""
             },
+            "reacttickets": {
+                "author": [
+                    "saurichable",
+                    "Dav"
+                ],
+                "description": "Reaction based assignable support tickets with custom cases (reasons).",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for the duration of their support ticket being open.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Reaction based support tickets.",
+                "tags": [
+                    "tickets",
+                    "support",
+                    "reaction",
+                    "ticket"
+                ],
+                "type": ""
+            },
             "suggestion": {
                 "author": [
                     "saurichable"
                 ],
-                "description": "Just a simple suggestion box with voting system.",
+                "description": "Per guild, as well as global, suggestion box voting system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user names, discriminators, and IDs upon sending a suggestion. This data is used solely to display and contact the user about any change to their suggestion.",
                 "hidden": false,
@@ -8316,7 +8340,7 @@
                 "author": [
                     "saurichable"
                 ],
-                "description": "Log when users join/leave into your specified channel.",
+                "description": "Log when users join/leave into a specified channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
