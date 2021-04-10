@@ -10258,8 +10258,9 @@
             },
             "lastfm": {
                 "author": [
-                    "Paddo",
-                    "Kennnyshiwa"
+                    "Issy",
+                    "Kennnyshiwa",
+                    "Paddo"
                 ],
                 "description": "Last.fm playing",
                 "disabled": false,
