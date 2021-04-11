@@ -5582,7 +5582,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Get all the information you could ever need about a command's aliases.",
                 "tags": [
@@ -5606,7 +5606,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -5630,7 +5630,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
@@ -5654,7 +5654,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -5679,7 +5679,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -5705,7 +5705,7 @@
                 "requirements": [
                     "tabulate",
                     "pytz",
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -5730,7 +5730,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.3"
+                    "vex-cog-utils==1.0.4"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
