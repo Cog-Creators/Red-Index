@@ -5616,6 +5616,29 @@
                 ],
                 "type": ""
             },
+            "beautify": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Beautify and minify JSON.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/Vexed01/vex-cog-utils.git@v1.0.2"
+                ],
+                "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
+                "tags": [
+                    "utility",
+                    "json"
+                ],
+                "type": ""
+            },
             "betteruptime": {
                 "author": [
                     "Vexed (Vexed#3211)"
