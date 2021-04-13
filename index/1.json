@@ -10637,6 +10637,26 @@
                 ],
                 "type": "COG"
             },
+            "githubskylines": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get your github skyline, showing your contributions on your account throughout a specified year.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get your github skyline, showing your contributions on your account throughout a specified year.",
+                "tags": [
+                    "Github"
+                ],
+                "type": "COG"
+            },
             "locales": {
                 "author": [
                     "Kreusada"
@@ -10682,6 +10702,28 @@
                     "Minifier",
                     "Code",
                     "File"
+                ],
+                "type": "COG"
+            },
+            "mjolnir": {
+                "author": [
+                    "Kreusada",
+                    "Jojo"
+                ],
+                "description": "Attempt to lift Thor's hammer to become the next wielder of Mjolnir",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores a number based on times lifted via user ids",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Try to lift Thor's mighty hammer!",
+                "tags": [
+                    "Fun",
+                    "Marvel"
                 ],
                 "type": "COG"
             },
@@ -10893,6 +10935,27 @@
                     "Blocklist",
                     "Blacklist",
                     "Guild"
+                ],
+                "type": "COG"
+            },
+            "spoilerchannel": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Only allow spoilers in certain channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Only allow spoilers in certain channels.",
+                "tags": [
+                    "Spoilers",
+                    "Channels"
                 ],
                 "type": "COG"
             },
