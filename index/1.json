@@ -1060,6 +1060,149 @@
         },
         "short": "Cogs made by the Jintaku community"
     },
+    "https://github.com/Just-Jojo/JojoCogs": {
+        "author": [
+            "Jojo#7791"
+        ],
+        "description": "Just a bunch of weird cogs developed by Jojo.",
+        "name": "JojoCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "brownies": {
+                "author": [
+                    "JJW (V2)",
+                    "Jojo#7791"
+                ],
+                "description": "Collect and steal brownies from other guild members then eat them! (the brownies, not the members :notlikeblob:)",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any data on users",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Collect brownies!",
+                "tags": [
+                    "brownies",
+                    "brownie",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "calculations": {
+                "author": [],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.5",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "",
+                "tags": [
+                    "fun",
+                    "calculator"
+                ],
+                "type": "COG"
+            },
+            "cyclestatus": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Cycle the status on your bot so you don't have to update it constantly",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cycle your bot's status",
+                "tags": [
+                    "utility",
+                    "status"
+                ],
+                "type": "COG"
+            },
+            "depypher": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Encript and decript text using ciphers like Caesar and Vigenere!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pycipher"
+                ],
+                "short": "Decipher and encipher text using encriptions!",
+                "tags": [
+                    "fun",
+                    "cipher"
+                ],
+                "type": "COG"
+            },
+            "store": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "A store working with an economy system to allow guild members to buy items",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A store with fun items to buy",
+                "tags": [
+                    "store",
+                    "economy"
+                ],
+                "type": "COG"
+            },
+            "todo": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "A simple, highly customizable todo list for keeping track of things to do",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores reminders (or todos) based on user ids",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Customizable todo list!",
+                "tags": [
+                    "todo",
+                    "utility",
+                    "fun"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Silly cogs by Jojo"
+    },
     "https://github.com/Kowlin/Sentinel": {
         "author": [
             "Kowlin#2536"
