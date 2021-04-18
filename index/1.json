@@ -5745,7 +5745,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Get all the information you could ever need about a command's aliases.",
                 "tags": [
@@ -5769,7 +5769,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -5793,7 +5793,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
@@ -5817,7 +5817,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -5841,7 +5841,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
@@ -5865,7 +5865,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -5891,7 +5891,7 @@
                 "requirements": [
                     "tabulate",
                     "pytz",
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -5916,7 +5916,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "vex-cog-utils>=1.1.0"
+                    "vex-cog-utils==1.1.1"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
