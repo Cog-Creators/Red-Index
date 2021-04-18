@@ -5745,7 +5745,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Get all the information you could ever need about a command's aliases.",
                 "tags": [
@@ -5769,7 +5769,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -5793,7 +5793,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
@@ -5817,7 +5817,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -5833,7 +5833,7 @@
                 ],
                 "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not intend to persistently store data or metadata about users.\n\nThe following End User Data (EUD) is temporarily stored in memory for all commands executed and check failures:\n1. Command invoked (not including arguments/original message)\n2. User that invoked the command - User ID, Username, and discriminator at the time of the command invoke\nIf the command was executed in a server, the following information is also temporarily stored:\n3. Channel the command was invoked in - Channel ID and name as of the time of command invoke\n4. Server the command was invoked in - Server ID and name as of the time of command invoke\n\nThis data is also logged to the console using Python's logging module. This means it is stored in the bot's log files. Red rotates these log files, while means old log files and the corresponding End User Data are deleted once the logs fill up. This means EUD is stored in log files for an unspecified period.\n\nNo data is collected if you do not interact with me via my prefix.\n\nThis cog is quite memory efficient, it limits to holding 100k commands which is around 5-10MB of RAM.\n\nThis cog does not comply with data deletion requests as the internal cache is not persistent and it is not feasible or safe to remove data from log files.",
+                "end_user_data_statement": "This cog does not intend to persistently store data or metadata about users.\n\nThe following End User Data (EUD) is temporarily stored in memory for all commands executed and check failures:\n1. Command invoked (not including arguments/original message)\n2. User that invoked the command - User ID, Username, and discriminator at the time of the command invoke\nIf the command was executed in a server, the following information is also temporarily stored:\n3. Channel the command was invoked in - Channel ID and name as of the time of command invoke\n4. Server the command was invoked in - Server ID and name as of the time of command invoke\n\nThis data is also logged to the console using Python's logging module. This means it is stored in the bot's log files. Red rotates these log files, while means old log files and the corresponding End User Data are deleted once the logs fill up. This means EUD is stored in log files for an unspecified period.\n\nNo data is collected if you do not interact with me via my prefix.\n\nThis cog limits to 100k commands which is around 50MB of RAM.\n\nThis cog does not comply with data deletion requests as the internal cache is not persistent and it is not feasible or safe to remove data from log files.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -5841,7 +5841,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
@@ -5865,7 +5865,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -5891,7 +5891,7 @@
                 "requirements": [
                     "tabulate",
                     "pytz",
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -5916,7 +5916,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "vex-cog-utils==1.0.4"
+                    "vex-cog-utils>=1.1.0"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
