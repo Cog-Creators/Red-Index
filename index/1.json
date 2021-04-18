@@ -1657,6 +1657,26 @@
                 ],
                 "type": ""
             },
+            "esolang": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Run code in some of the more popular esoteric languages for fun.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Run code in esoteric languages.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
             "evolution": {
                 "author": [
                     "Neuro Assassin"
