@@ -13500,28 +13500,6 @@
                 ],
                 "type": ""
             },
-            "heartattack": {
-                "author": [
-                    "Zephyrkul (Zephyrkul#1089)"
-                ],
-                "description": "Injects a stack tracer on heartbeat failure.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
-                "max_bot_version": "3.3.12",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Injects a stack tracer on heartbeat failure.",
-                "tags": [
-                    "dev",
-                    "utils",
-                    "logging"
-                ],
-                "type": ""
-            },
             "invoice": {
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)",
