@@ -1982,7 +1982,11 @@
                     8,
                     1
                 ],
-                "permissions": [],
+                "permissions": [
+                    "embed_links",
+                    "manage_messages",
+                    "manage_roles"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Multifeatured Counting Channel",
@@ -2010,6 +2014,7 @@
                     1
                 ],
                 "permissions": [
+                    "embed_links",
                     "manage_channels"
                 ],
                 "required_cogs": {},
@@ -2064,6 +2069,7 @@
                     1
                 ],
                 "permissions": [
+                    "embed_links",
                     "add_reactions"
                 ],
                 "required_cogs": {},
@@ -2092,7 +2098,8 @@
                     1
                 ],
                 "permissions": [
-                    "manage_emojis"
+                    "manage_emojis",
+                    "attach_files"
                 ],
                 "required_cogs": {},
                 "requirements": [
