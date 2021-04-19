@@ -1157,27 +1157,6 @@
                 ],
                 "type": "COG"
             },
-            "store": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "A store working with an economy system to allow guild members to buy items",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A store with fun items to buy",
-                "tags": [
-                    "store",
-                    "economy"
-                ],
-                "type": "COG"
-            },
             "todo": {
                 "author": [
                     "Jojo#7791"
