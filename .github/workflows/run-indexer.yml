@@ -6,6 +6,9 @@ on:
   workflow_dispatch:
     branches: [ master ]
 
+permissions:
+  contents: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
