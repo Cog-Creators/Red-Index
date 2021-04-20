@@ -12963,6 +12963,655 @@
         },
         "short": "Growing collection of useful plugins"
     },
+    "https://github.com/thedataleek/eris-cogs": {
+        "author": [
+            "Eris"
+        ],
+        "description": "Lots of cogs here",
+        "name": "eris-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "alot": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Automatically posts an alot whenever a user says 'alot of things' instead of 'a lot of things'",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
+                "requirements": [],
+                "short": "Posts an alot",
+                "tags": [],
+                "type": ""
+            },
+            "battle": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Battle with your users\nUsages:\n[p]attack <member> - Starts a battle\n[p]protect <member>\n[p]status <member> - Displays user's stats\n[p]set_attribute <member> <attribute> <value> - Sets a user's stat. Requires owner permissions.\n[p]elevate <member> - Levels up a user. Requires owner permissions.\n[p]full_heal_user <member> - Fully heals a user. Requires owner permissions.\n[p]heal_user <member> - Heals a user. Requires owner permissions.\n[p]reload_user <member> - Reloads a user's stats. Requires owner permissions.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Battle with your users",
+                "tags": [],
+                "type": ""
+            },
+            "big_name": {
+                "author": [
+                    "Eris",
+                    "Maddie"
+                ],
+                "description": "Change someone's name - who cares about permissions. Usage: [p]big_name <User> <new name>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Change a user's name regardless of permissions",
+                "tags": [],
+                "type": ""
+            },
+            "big_text": {
+                "author": [
+                    "Maddie"
+                ],
+                "description": "Usage: [p]big_text <ASCII message>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Make your message big and emoji-fied",
+                "tags": [],
+                "type": ""
+            },
+            "clone": {
+                "author": [
+                    "Eris",
+                    "Maddie"
+                ],
+                "description": "The bot takes on a specified user's name and avatar. Users take 1d10 confusion damage, half as much on a successful save. Usage: [p]clone <User>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "The bot takes on a user's name and avatar",
+                "tags": [],
+                "type": ""
+            },
+            "dice": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Improved dice roller, can support arbitrary dice. Usage regex: [p]dice #d#(v#)?",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Improved dice roller.",
+                "tags": [],
+                "type": ""
+            },
+            "dm_role": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "DM a specific role based on fuzzy role name",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "DM Roles",
+                "tags": [],
+                "type": ""
+            },
+            "event_config": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Configure `on_message` events, specifically which servers they appear in, which channels, etc. for Eris Cogs",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Configure `on_message` events",
+                "tags": [],
+                "type": ""
+            },
+            "events": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "A bunch of silly events",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Silly bot behavior not activated by explicit commands",
+                "tags": [],
+                "type": ""
+            },
+            "facts": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Provides bear or snake facts based on user input or randomly.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Provide random facts",
+                "tags": [],
+                "type": ""
+            },
+            "goodbot": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Good Bot Bad Bot - Track which users get the most thumbs ups reacts.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track which users get the most thumbs ups reacts.",
+                "tags": [],
+                "type": ""
+            },
+            "grammar": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Grammar Module - insult your illiterate friends.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Checks grammar of your users - load at your own risk",
+                "tags": [],
+                "type": ""
+            },
+            "hotel_california": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Hotel California",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Hotel California",
+                "tags": [],
+                "type": ""
+            },
+            "im_dad": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Hi _ I'm Dad",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Hi _ I'm Dad",
+                "tags": [],
+                "type": ""
+            },
+            "insult": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Usage: [p]insult <user>\n[p]insult. Includes NSFW insults",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Insult users",
+                "tags": [],
+                "type": ""
+            },
+            "minesweeper": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Minesweeper",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "move": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Move post",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Move post",
+                "tags": [],
+                "type": ""
+            },
+            "nick_prefix": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Theme your nickname, some include NSFW language and themes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Adds themed prefix to names",
+                "tags": [],
+                "type": ""
+            },
+            "no_fuck_you": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Replies with 'no fuck you' if someone says 'fuck you'",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "No fuck you",
+                "tags": [],
+                "type": ""
+            },
+            "notify": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Twilio Notifications for @everyone tags",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "out_of_context": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Archives a channel of out of context quotes. Posts quotes randomly or in response to commands. Quotes must be in quotation marks to be archived. Usage: [p]penny",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Archives a channel of out of context quotes and then posts them randomly during conversation.",
+                "tags": [],
+                "type": ""
+            },
+            "quotes": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Usage: [p]quote <users> - all credit to https://incorrect-quotes-generator.neocities.org/",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Incorrect Quotes by ScatterPatter",
+                "tags": [],
+                "type": ""
+            },
+            "rock_and_stone": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "ROCK AND STONE",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "ROCK AND STONE",
+                "tags": [],
+                "type": ""
+            },
+            "rolerequest": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Emoji role request",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Emoji Request",
+                "tags": [],
+                "type": ""
+            },
+            "sarcasm": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Sarcasm Module - randomly mocks users",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Randomly mocks users",
+                "tags": [],
+                "type": ""
+            },
+            "say": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Allowed users can command the bot to say anything in a certain channel. Usage [p]say <message>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "search": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Search Functions",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search functions",
+                "tags": [],
+                "type": ""
+            },
+            "spoop": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Sneakily spoops a user randomly or on mod prompting. NSFW spoops!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Sneakily spoops users",
+                "tags": [],
+                "type": ""
+            },
+            "steve": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "STEVE",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "STEVE",
+                "tags": [],
+                "type": ""
+            },
+            "stonks": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "none",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "STONKS",
+                "tags": [],
+                "type": ""
+            },
+            "sudo": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Errors if someone tries to use sudo",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Warns about sudo attempts",
+                "tags": [],
+                "type": ""
+            },
+            "weave": {
+                "author": [
+                    "Eris",
+                    "Maddie"
+                ],
+                "description": "Create a mosaic of alternating specified emoji. Emojis may be animated or still. Usage: [p]weave <Emoji> <Emoji> <width> <height>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create a mosaic of alternating emoji",
+                "tags": [],
+                "type": ""
+            },
+            "whois": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n[p]avatar <member> - Posts a full resolution image of a specified user's profile picture\n[p]emoji <emoji> - Posts a full resolution image of a specified emoji\n[p]whois <member> - Look up name\n[p]theyare <member> <name> - Set name \n[p]iswho <name> - Look up a username given their whois name \n[p]iseveryone - Lists all members of the server (without pinging!) and their whois names\n[p]import_whois - privileged users can export a whois database. File to import should be attached to the command message.\n[p]export_whois - Privileged users can export the whois DB to file\n[p]import_from_legacy_db - Imports from a whois SQL db located in the install directory of the bot",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Whois for discord",
+                "tags": [],
+                "type": ""
+            },
+            "wiggler": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "none",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "WIggle Jeff",
+                "tags": [],
+                "type": ""
+            },
+            "zalgo": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Usage: [p]zalgo <message>",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Zalgoify and anonymize text",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Eris' cogs for Red-DiscordBot"
+    },
     "https://github.com/tmercswims/tmerc-cogs": {
         "author": [
             "tmerc"
