@@ -59,6 +59,7 @@ unapproved:
   - https://github.com/npc203/npc-cogs
   - https://github.com/Vexed01/Vex-Cogs
   - https://github.com/Just-Jojo/JojoCogs
+  - https://github.com/thedataleek/eris-cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
