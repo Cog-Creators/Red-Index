@@ -7,7 +7,7 @@ on:
     branches: [ master ]
 
 permissions:
-  contents: true
+  contents: write
 
 jobs:
   build:
