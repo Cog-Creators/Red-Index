@@ -13151,7 +13151,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Silly bot behavior not activated by explicit commands",
                 "tags": [],
@@ -13241,7 +13243,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Hi _ I'm Dad",
                 "tags": [],
@@ -13333,7 +13337,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "No fuck you",
                 "tags": [],
@@ -13369,7 +13375,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Archives a channel of out of context quotes and then posts them randomly during conversation.",
                 "tags": [],
@@ -13405,7 +13413,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "ROCK AND STONE",
                 "tags": [],
@@ -13441,7 +13451,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Randomly mocks users",
                 "tags": [],
@@ -13451,7 +13463,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Allowed users can command the bot to say anything in a certain channel. Usage [p]say <message>",
+                "description": "Users with mod status can command the bot to say anything in a certain channel.\nUsage `[p]say guild channel ...message`",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13460,8 +13472,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "",
+                "requirements": [
+                    "fuzzywuzzy"
+                ],
+                "short": "Send messages as the bot",
                 "tags": [],
                 "type": ""
             },
@@ -13469,7 +13483,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Search Functions",
+                "description": "Search the internet for useful info. Currently only wikipedia supported.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13478,8 +13492,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Search functions",
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Search the internet!",
                 "tags": [],
                 "type": ""
             },
@@ -13495,7 +13511,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Sneakily spoops users",
                 "tags": [],
@@ -13505,7 +13523,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "STEVE",
+                "description": "If users ask variations on \"Where's Steve?\" the bot will post several LARGE pictures of steve. Small chance for these photos to be in a random order.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13513,9 +13531,11 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
-                "short": "STEVE",
+                "short": "Provides LARGE pictures of Steve when asked",
                 "tags": [],
                 "type": ""
             },
@@ -13553,7 +13573,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Warns when users say sudo",
                 "tags": [],
@@ -13626,7 +13648,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Memes and replaces text.",
                 "tags": [],
