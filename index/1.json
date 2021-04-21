@@ -13541,7 +13541,7 @@
                     "Eris",
                     "Maddie"
                 ],
-                "description": "Create a mosaic of alternating specified emoji. Emojis may be animated or still. Usage: [p]weave <Emoji> <Emoji> <width> <height>",
+                "description": "Create a mosaic of alternating specified emoji. Emojis may be animated or still. Usage: [p]weave emoji emoji width=5 height=3",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13559,7 +13559,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n[p]avatar <member> - Posts a full resolution image of a specified user's profile picture\n[p]emoji <emoji> - Posts a full resolution image of a specified emoji\n[p]whois <member> - Look up name\n[p]theyare <member> <name> - Set name \n[p]iswho <name> - Look up a username given their whois name \n[p]iseveryone - Lists all members of the server (without pinging!) and their whois names\n[p]import_whois - privileged users can export a whois database. File to import should be attached to the command message.\n[p]export_whois - Privileged users can export the whois DB to file",
+                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n`[p]avatar <member>` - Posts a full resolution image of a specified user's profile picture\n`[p]emoji <emoji>` - Posts a full resolution image of a specified emoji\n`[p]whois <member>` - Look up name\n`[p]theyare <member> <name>` - Set name \n`[p]iswho <name>` - Look up a username given their whois name \n`[p]iseveryone` - Lists all members of the server (without pinging!) and their whois names\n`[p]import_whois` - privileged users can export a whois database. File to import should be attached to the command message.\n`[p]export_whois` - Privileged users can export the whois DB to file",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
