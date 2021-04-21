@@ -13559,7 +13559,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n[p]avatar <member> - Posts a full resolution image of a specified user's profile picture\n[p]emoji <emoji> - Posts a full resolution image of a specified emoji\n[p]whois <member> - Look up name\n[p]theyare <member> <name> - Set name \n[p]iswho <name> - Look up a username given their whois name \n[p]iseveryone - Lists all members of the server (without pinging!) and their whois names\n[p]import_whois - privileged users can export a whois database. File to import should be attached to the command message.\n[p]export_whois - Privileged users can export the whois DB to file\n[p]import_from_legacy_db - Imports from a whois SQL db located in the install directory of the bot",
+                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n[p]avatar <member> - Posts a full resolution image of a specified user's profile picture\n[p]emoji <emoji> - Posts a full resolution image of a specified emoji\n[p]whois <member> - Look up name\n[p]theyare <member> <name> - Set name \n[p]iswho <name> - Look up a username given their whois name \n[p]iseveryone - Lists all members of the server (without pinging!) and their whois names\n[p]import_whois - privileged users can export a whois database. File to import should be attached to the command message.\n[p]export_whois - Privileged users can export the whois DB to file",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13577,7 +13577,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "none",
+                "description": "Adds random reactions to posts! User configurable.\nUsage:\n`[p]wiggle set emojis...` - set list of random emoji to choose from.\n`[p]wiggle show` - show your registered emoji\n`[p]wiggle showall` - show all registered emoji (requires mod access)",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13587,7 +13587,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "WIggle Jeff",
+                "short": "Adds random reactions to posts!",
                 "tags": [],
                 "type": ""
             },
@@ -13595,7 +13595,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Zalgos the provided message and deletes the original.",
+                "description": "Memes the provided message and deletes the original.\nUsage:\n`[p]zalgo message` - [zalgo](https://knowyourmeme.com/memes/zalgo)\n`[p]uwu message` - [uwu](https://knowyourmeme.com/memes/uwu)\n`[p]oob message` - [oob](https://www.pinterest.com/pin/415879346839911237/)\n`[p]spoilerify message` - spoilers every other word",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13605,7 +13605,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Zalgoify text.\nUsage: [p]zalgo <message>",
+                "short": "Memes and replaces text.",
                 "tags": [],
                 "type": ""
             }
