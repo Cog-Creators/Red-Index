@@ -11298,6 +11298,25 @@
                 "tags": [],
                 "type": ""
             },
+            "humblebundle": {
+                "author": [
+                    "max",
+                    "<@306810730055729152>"
+                ],
+                "description": "Responds with the currently available Humble Bundles, if any.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Gives humblebundle available, if any.",
+                "tags": [],
+                "type": ""
+            },
             "images": {
                 "author": [
                     "max"
