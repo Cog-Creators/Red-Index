@@ -13034,7 +13034,7 @@
                     "Eris",
                     "Maddie"
                 ],
-                "description": "Change someone's name - who cares about permissions. Usage: [p]big_name <User> <new name>",
+                "description": "Change someone's name - who cares about permissions. Usage: `[p]big_name [User] [new name]`",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13052,7 +13052,7 @@
                 "author": [
                     "Maddie"
                 ],
-                "description": "Usage: [p]big_text <ASCII message>",
+                "description": "Usage: [p]big_text [ASCII message]",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13071,7 +13071,7 @@
                     "Eris",
                     "Maddie"
                 ],
-                "description": "The bot takes on a specified user's name and avatar. Users take 1d10 confusion damage, half as much on a successful save. Usage: [p]clone <User>",
+                "description": "The bot takes on a specified user's name and avatar. Users take 1d10 confusion damage, half as much on a successful save. Usage: [p]clone [User]",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13107,7 +13107,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "DM a specific role based on fuzzy role name",
+                "description": "DMs everyone with a specific role based on fuzzy role name",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13116,8 +13116,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "DM Roles",
+                "requirements": [
+                    "fuzzywuzzy"
+                ],
+                "short": "DM everyone with certain role",
                 "tags": [],
                 "type": ""
             },
@@ -13146,7 +13148,7 @@
                 "description": "A bunch of silly events",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -13184,7 +13186,7 @@
                 "description": "Good Bot Bad Bot - Track which users get the most thumbs ups reacts.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -13202,7 +13204,7 @@
                 "description": "Grammar Module - insult your illiterate friends.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -13220,7 +13222,7 @@
                 "description": "Hotel California",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -13350,9 +13352,9 @@
                     "Eris"
                 ],
                 "description": "Twilio Notifications for @everyone tags",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
