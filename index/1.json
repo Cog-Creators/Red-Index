@@ -13235,7 +13235,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Hi _ I'm Dad",
+                "description": "Replies with Hi _ I'm Dad when someone says that they're _",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13247,7 +13247,7 @@
                     "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
                 },
                 "requirements": [],
-                "short": "Hi _ I'm Dad",
+                "short": "Replies Hi _ I'm Dad",
                 "tags": [],
                 "type": ""
             },
@@ -13255,7 +13255,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Usage: [p]insult <user>\n[p]insult. Includes NSFW insults",
+                "description": "Insults users via tagging.\nUsage: `[p]insult user`\n Includes NSFW insults",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13275,7 +13275,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Minesweeper",
+                "description": "Generates guaranteed solvable minesweeper boards using emojis and spoilers.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13285,7 +13285,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Generate solvable minesweeper boards.",
                 "tags": [],
                 "type": ""
             },
@@ -13293,7 +13293,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Move post",
+                "description": "Moves message to another channel for easy moderation.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13303,7 +13303,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Move post",
+                "short": "Move message to another channel",
                 "tags": [],
                 "type": ""
             },
@@ -13341,7 +13341,7 @@
                     "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
                 },
                 "requirements": [],
-                "short": "No fuck you",
+                "short": "Replies 'no fuck you'",
                 "tags": [],
                 "type": ""
             },
@@ -13387,7 +13387,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Usage: [p]quote <users> - all credit to https://incorrect-quotes-generator.neocities.org/",
+                "description": "Generates fun short stories between users. Usage: `[p]quote users` - all credit to https://incorrect-quotes-generator.neocities.org/",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13395,7 +13395,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "whois": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
                 "short": "Incorrect Quotes by ScatterPatter",
                 "tags": [],
@@ -13405,7 +13407,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "ROCK AND STONE",
+                "description": "Shouts various rock and stone quotes from Deep Rock Galactic",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13417,7 +13419,7 @@
                     "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
                 },
                 "requirements": [],
-                "short": "ROCK AND STONE",
+                "short": "Deep Rock Galactic shouting",
                 "tags": [],
                 "type": ""
             },
@@ -13425,7 +13427,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Emoji role request",
+                "description": "Emoji-based role request for user roles.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13435,7 +13437,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Emoji Request",
+                "short": "Emoji-based Role Request",
                 "tags": [],
                 "type": ""
             },
@@ -13512,7 +13514,8 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {
-                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs",
+                    "whois": "http://github.com/TheDataLeek/Eris-Cogs"
                 },
                 "requirements": [],
                 "short": "Sneakily spoops users",
@@ -13604,7 +13607,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n`[p]avatar <member>` - Posts a full resolution image of a specified user's profile picture\n`[p]emoji <emoji>` - Posts a full resolution image of a specified emoji\n`[p]whois <member>` - Look up name\n`[p]theyare <member> <name>` - Set name \n`[p]iswho <name>` - Look up a username given their whois name \n`[p]iseveryone` - Lists all members of the server (without pinging!) and their whois names\n`[p]import_whois` - privileged users can export a whois database. File to import should be attached to the command message.\n`[p]export_whois` - Privileged users can export the whois DB to file",
+                "description": "Whois for server members. Set, update, and look up names to keep track of who is who. \nUsages: \n`[p]avatar member` - Posts a full resolution image of a specified user's profile picture\n`[p]emoji emoji` - Posts a full resolution image of a specified emoji\n`[p]whois member` - Look up name\n`[p]theyare member name` - Set name \n`[p]iswho name` - Look up a username given their whois name \n`[p]iseveryone` - Lists all members of the server (without pinging!) and their whois names\n`[p]import_whois` - privileged users can export a whois database. File to import should be attached to the command message.\n`[p]export_whois` - Privileged users can export the whois DB to file",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
