@@ -13523,7 +13523,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "none",
+                "description": "Displays current and historical stock information using the yahoo finance API",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13532,8 +13532,12 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "STONKS",
+                "requirements": [
+                    "yfinance",
+                    "mplfinance",
+                    "matplotlib"
+                ],
+                "short": "A stock tracker using yahoofinance",
                 "tags": [],
                 "type": ""
             },
@@ -13541,7 +13545,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Errors if someone tries to use sudo",
+                "description": "Replies in a channel if someone tries to use sudo - i.e. just uses the letters 'sudo'",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13551,7 +13555,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Warns about sudo attempts",
+                "short": "Warns when users say sudo",
                 "tags": [],
                 "type": ""
             },
