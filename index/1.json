@@ -12967,7 +12967,7 @@
         "author": [
             "Eris"
         ],
-        "description": "Lots of cogs here",
+        "description": "Thanks for adding my repo! I hope you enjoy what's here, please don't hesitate to reach out on my github if you run into issues!",
         "name": "eris-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -13595,7 +13595,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Usage: [p]zalgo <message>",
+                "description": "Zalgos the provided message and deletes the original.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13605,7 +13605,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Zalgoify and anonymize text",
+                "short": "Zalgoify text.\nUsage: [p]zalgo <message>",
                 "tags": [],
                 "type": ""
             }
