@@ -12864,7 +12864,8 @@
                     "html2markdown",
                     "inflect",
                     "timeago",
-                    "aiolimiter"
+                    "aiolimiter",
+                    "aiohttp-retry"
                 ],
                 "short": "Commands using the iNat API v1.",
                 "tags": [
