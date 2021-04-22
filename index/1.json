@@ -13184,17 +13184,19 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Good Bot Bad Bot - Track which users get the most thumbs ups reacts.",
+                "description": "Good Bot Emoji Tracker - tracks all emoji reactions (that the bot has access to) for all users in your server! Upon reaching a vote-threshold, replies to the original message and compliments the user!",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "whois": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
                 "requirements": [],
-                "short": "Track which users get the most thumbs ups reacts.",
+                "short": "Good Bot Emoji Tracker",
                 "tags": [],
                 "type": ""
             },
