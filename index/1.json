@@ -13623,7 +13623,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Timezone converter! Switch between multiple US timezones easily, also provides IP lookups",
+                "description": "Timezone converter! Switch between multiple US timezones easily",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -13634,7 +13634,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "fuzzywuzzy",
-                    "aiohttp"
+                    "aiohttp",
+                    "pytz"
                 ],
                 "short": "US Timezone converter",
                 "tags": [],
