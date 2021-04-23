@@ -12140,12 +12140,11 @@
             },
             "disboardreminder": {
                 "author": [
-                    "PhenoM4n4n",
-                    "aikaterna"
+                    "PhenoM4n4n"
                 ],
                 "description": "Set a reminder to bump on Disboard.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores the number of times a member has bumped.",
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -12154,7 +12153,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "unidecode",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "git+https://github.com/phenom4n4n/TagScript.git"
                 ],
                 "short": "Set a reminder to bump on Disboard.",
                 "tags": [
