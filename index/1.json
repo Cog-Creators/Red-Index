@@ -2422,6 +2422,36 @@
                 ],
                 "type": "COG"
             },
+            "rolesync": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Add roles to new members if they have a certain role in another server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided settings (i.e. roles/servers to sync, toggles, etc.).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links",
+                    "manage_roles"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cross-Server Role Sync on Join",
+                "tags": [
+                    "roles",
+                    "sync",
+                    "join",
+                    "cross-server"
+                ],
+                "type": "COG"
+            },
             "sitestatus": {
                 "author": [
                     "Obi-Wan3"
@@ -13586,6 +13616,27 @@
                 },
                 "requirements": [],
                 "short": "Warns when users say sudo",
+                "tags": [],
+                "type": ""
+            },
+            "timezone": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Timezone converter! Switch between multiple US timezones easily, also provides IP lookups",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "fuzzywuzzy",
+                    "aiohttp"
+                ],
+                "short": "US Timezone converter",
                 "tags": [],
                 "type": ""
             },
