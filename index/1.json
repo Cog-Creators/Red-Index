@@ -6807,7 +6807,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow"
+                    "pillow",
+                    "beautifultable"
                 ],
                 "short": "WarcraftLogs data for World of Warcraft Classic players.",
                 "tags": [
