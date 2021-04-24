@@ -14153,6 +14153,29 @@
                 ],
                 "type": ""
             },
+            "anticrashvid": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs whom administrators marked as safe, and thus won't be scanned by this cog.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "youtube-dl"
+                ],
+                "short": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "tags": [
+                    "moderation",
+                    "security"
+                ],
+                "type": ""
+            },
             "autodisconnect": {
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)"
