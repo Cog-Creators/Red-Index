@@ -9363,6 +9363,30 @@
                 ],
                 "type": ""
             },
+            "apitools": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Simple GET/POST requests via the bot.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple GET/POST requests via the bot.",
+                "tags": [
+                    "http",
+                    "api",
+                    "api requests",
+                    "get",
+                    "post"
+                ],
+                "type": ""
+            },
             "botlistspost": {
                 "author": [
                     "flare(flare#0001)"
