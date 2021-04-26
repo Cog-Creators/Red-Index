@@ -2179,6 +2179,36 @@
                 ],
                 "type": "COG"
             },
+            "lfg": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "An LFG cog with customizable fields, VC renaming, and invitations.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server settings (e.g. toggle, fields, etc.), as well as the current active VCs.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links",
+                    "create_instant_invite",
+                    "manage_channels"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "VC LFG System w/ Custom Fields",
+                "tags": [
+                    "lfg",
+                    "VC",
+                    "custom"
+                ],
+                "type": "COG"
+            },
             "mentionhelp": {
                 "author": [
                     "Obi-Wan3"
