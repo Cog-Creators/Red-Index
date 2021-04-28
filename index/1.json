@@ -11732,6 +11732,28 @@
                 ],
                 "type": "COG"
             },
+            "ghtools": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "A simple set of github tools to profile repos and cogs alike",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pygit2"
+                ],
+                "short": "A small set of github tools",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "google": {
                 "author": [
                     "epic guy",
