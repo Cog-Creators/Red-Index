@@ -11759,7 +11759,8 @@
             "google": {
                 "author": [
                     "epic guy",
-                    "fixator"
+                    "fixator",
+                    "siu3334"
                 ],
                 "description": "This searches google and fetches results using a custom scraper. The reverse search supports replies as well",
                 "disabled": false,
