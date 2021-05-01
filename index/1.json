@@ -1926,6 +1926,36 @@
                 ],
                 "type": "COG"
             },
+            "botaccess": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Allow users with the Server Booster, Patreon, etc. roles to invite the bot to a (few) server(s) of their choice.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided global settings, as well as the current BotAccess servers and their inviters.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow Special Roles Access to Bot",
+                "tags": [
+                    "bot",
+                    "invite",
+                    "access",
+                    "boost",
+                    "patron"
+                ],
+                "type": "COG"
+            },
             "brainshop": {
                 "author": [
                     "Obi-Wan3"
