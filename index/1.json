@@ -5978,6 +5978,32 @@
                     "top"
                 ],
                 "type": ""
+            },
+            "timechannel": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Get the time in different timezones in voice channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "rapidfuzz",
+                    "vex-cog-utils==1.2.0"
+                ],
+                "short": "Get the time in different timezones in voice channels.",
+                "tags": [
+                    "utility",
+                    "channel",
+                    "time",
+                    "timezone"
+                ],
+                "type": ""
             }
         },
         "short": "Mainly utility cogs."
