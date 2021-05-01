@@ -5869,7 +5869,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "vex-cog-utils"
+                    "vex-cog-utils==1.3.0"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -12829,6 +12829,438 @@
             }
         },
         "short": "Utility cogs for your server."
+    },
+    "https://github.com/siu3334/owo-cogs": {
+        "author": [
+            "siu3334 (\u17b5\u17b5\u2764#0055)"
+        ],
+        "description": "Some useful cogs for Red Discord Bot",
+        "name": "owo-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "badgetools": {
+                "author": [
+                    "siu3334",
+                    "Fixator10"
+                ],
+                "description": "Various tools to show stats about your server's user profile badges.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-dateutil"
+                ],
+                "short": "Various tools to show stats about your server's user profile badges.",
+                "tags": [
+                    "badgetools",
+                    "inbadge",
+                    "badgecount",
+                    "boosters"
+                ],
+                "type": "COG"
+            },
+            "country": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Fetch various info about a country.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch various info about a country.",
+                "tags": [
+                    "country",
+                    "countries"
+                ],
+                "type": "COG"
+            },
+            "doesnotexist": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Various commands to fetch randomly generated AI based images from various APIs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Various commands to generate AI based images.",
+                "tags": [
+                    "doesnotexist"
+                ],
+                "type": "COG"
+            },
+            "httpcat": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Returns httpcat image for HTTP error code.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Returns httpcat image for HTTP error code.",
+                "tags": [
+                    "httpcat",
+                    "httpdog",
+                    "httpduck"
+                ],
+                "type": "COG"
+            },
+            "imagecog": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Some random fun image generation commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Some random fun image generation commands.",
+                "tags": [
+                    "dicebear",
+                    "adorable",
+                    "shields",
+                    "amongus",
+                    "petpet",
+                    "imagecog"
+                ],
+                "type": "COG"
+            },
+            "ipdata": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "This cog returns various info about given IP.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "IP Geolocation and Proxy Detection.",
+                "tags": [
+                    "ip",
+                    "whois",
+                    "ipdata",
+                    "traceroute"
+                ],
+                "type": "COG"
+            },
+            "kickstarter": {
+                "author": [
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Search for your query to fetch info on a Kickstarter project.",
+                "disabled": false,
+                "end_user_data_statement": "Thanks for installing this cog. I hope you will find this cog useful and enjoy it. :)",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for your query to fetch info on a Kickstarter project.",
+                "tags": [
+                    "kickstarter"
+                ],
+                "type": "COG"
+            },
+            "manim": {
+                "author": [
+                    "<@306810730055729152>",
+                    "the Manim Community Developers"
+                ],
+                "description": "Render animations with Manim animation engine.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "docker"
+                ],
+                "short": "Render animations with Manim.",
+                "tags": [
+                    "manim",
+                    "manimate"
+                ],
+                "type": "COG"
+            },
+            "moviedb": {
+                "author": [
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Fetch various info about a movie or TV series from The Movie DB API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch various info about a movie or TV series.",
+                "tags": [
+                    "movie",
+                    "movies",
+                    "tv",
+                    "tv-series",
+                    "themoviedb",
+                    "moviedb",
+                    "tmdb"
+                ],
+                "type": "COG"
+            },
+            "redditinfo": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch basic info about Reddit user accounts and subreddits.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch basic info about Reddit user accounts and subreddits.",
+                "tags": [
+                    "reddit",
+                    "subreddit"
+                ],
+                "type": "COG"
+            },
+            "rottentomatoes": {
+                "author": [
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Get rottentomatoes reviews and ratings for a movie query.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get rottentomatoes reviews and ratings for a movie query.",
+                "tags": [
+                    "rotten-tomatoes",
+                    "rottentomatoes"
+                ],
+                "type": "COG"
+            },
+            "stackoverflow": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Search for your nerdy tech questions on stackoverflow and stackexchange network.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for your nerdy tech questions on stackoverflow and stackexchange network.",
+                "tags": [
+                    "stackoverflow",
+                    "stackexchange",
+                    "askubuntu",
+                    "superuser",
+                    "serverfault"
+                ],
+                "type": "COG"
+            },
+            "steamcog": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Fetch various info about a Steam game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch various info about a Steam game.",
+                "tags": [
+                    "steam",
+                    "steamcog"
+                ],
+                "type": "COG"
+            },
+            "today": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Returns a random fact of what happened in history on today.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Returns a random fact of what happened in history on today.",
+                "tags": [
+                    "today",
+                    "history"
+                ],
+                "type": "COG"
+            },
+            "utilities": {
+                "author": [
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Bunch of my utility commands which don't belong anywhere.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-dateutil"
+                ],
+                "short": "Bunch of my utility commands which don't belong anywhere.",
+                "tags": [
+                    "offlinecount",
+                    "bitly",
+                    "urlshorten",
+                    "shorten-url",
+                    "snowflake",
+                    "timestamp",
+                    "compare-snowflake",
+                    "screenshot",
+                    "thum-io",
+                    "thumio",
+                    "screenshotapi"
+                ],
+                "type": "COG"
+            },
+            "video2gif": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Converts provided MP4 video attachment to GIF.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "moviepy",
+                    "youtube-dl"
+                ],
+                "short": "Convert video to GIF.",
+                "tags": [
+                    "video2gif",
+                    "convert",
+                    "gif"
+                ],
+                "type": "COG"
+            },
+            "vision": {
+                "author": [
+                    "TrustyJAID",
+                    "<@306810730055729152>"
+                ],
+                "description": "Detect text in images using Google Cloud Vision API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any end user data or metadata about users, but the Google Cloud Vision API might store data of images sent to be processed for text detection.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Detect text in images using Google Cloud Vision API.",
+                "tags": [
+                    "ocr",
+                    "google-cloud-vision",
+                    "google-vision",
+                    "cloud-vision",
+                    "google-ocr",
+                    "detect-text-in-image",
+                    "detect-text-in-images"
+                ],
+                "type": "COG"
+            },
+            "vocadb": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Search for a song on Vocaloid Database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for a song on VocaDB.",
+                "tags": [
+                    "vocadb",
+                    "vocaloid"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Some cogs for Red"
     },
     "https://github.com/skeith/MayuYukirin": {
         "author": [
