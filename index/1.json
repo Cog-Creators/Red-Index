@@ -12995,15 +12995,17 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "CairoSVG"
+                ],
                 "short": "Some random fun image generation commands.",
                 "tags": [
                     "dicebear",
                     "adorable",
                     "shields",
                     "amongus",
-                    "petpet",
-                    "imagecog"
+                    "eject",
+                    "petpet"
                 ],
                 "type": "COG"
             },
