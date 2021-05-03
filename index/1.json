@@ -13238,7 +13238,9 @@
                     "screenshot",
                     "thum-io",
                     "thumio",
-                    "screenshotapi"
+                    "screenshotapi",
+                    "inviteinfo",
+                    "invite-info"
                 ],
                 "type": "COG"
             },
