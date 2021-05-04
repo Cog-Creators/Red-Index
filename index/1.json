@@ -13060,6 +13060,28 @@
                 ],
                 "type": "COG"
             },
+            "itunes": {
+                "author": [
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Fetch various info about a song on Apple iTunes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch various info about a song from Apple iTunes.",
+                "tags": [
+                    "itunes",
+                    "apple itunes",
+                    "apple music"
+                ],
+                "type": "COG"
+            },
             "kickstarter": {
                 "author": [
                     "siu3334 (<@306810730055729152>)"
