@@ -14849,7 +14849,7 @@
                 "description": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
