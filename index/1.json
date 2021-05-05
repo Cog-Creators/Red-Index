@@ -15231,7 +15231,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "insprio"
+                    "inspiro"
                 ],
                 "short": "Get inspired",
                 "tags": [],
@@ -15290,6 +15290,26 @@
                     "feedparser"
                 ],
                 "short": "Subscribe to channels on the 'tube",
+                "tags": [],
+                "type": "COG"
+            },
+            "Vibe": {
+                "author": [
+                    "CrunchBangDev"
+                ],
+                "description": "Allow yourself to drift quietly",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "inspiro"
+                ],
+                "short": "Inspirobot and chill",
                 "tags": [],
                 "type": "COG"
             }
