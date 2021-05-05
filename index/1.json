@@ -13290,30 +13290,30 @@
                 "description": "Bunch of my utility commands which don't belong anywhere.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "python-dateutil"
+                    "python-dateutil",
+                    "beautifulsoup4"
                 ],
                 "short": "Bunch of my utility commands which don't belong anywhere.",
                 "tags": [
                     "offlinecount",
                     "bitly",
-                    "urlshorten",
-                    "shorten-url",
+                    "url shorten",
+                    "shorten url",
                     "snowflake",
                     "timestamp",
-                    "compare-snowflake",
+                    "compare snowflake",
                     "screenshot",
-                    "thum-io",
-                    "thumio",
                     "screenshotapi",
                     "inviteinfo",
-                    "invite-info"
+                    "invite info",
+                    "know your meme"
                 ],
                 "type": "COG"
             },
