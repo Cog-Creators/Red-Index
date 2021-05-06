@@ -3281,7 +3281,7 @@
                 "description": "Akinator, the genius, will read in your mind and guess who you are thinking of! Answer Akinator's questions and get impressed by his talent!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not save data about users persistently.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
