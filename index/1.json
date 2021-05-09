@@ -13258,6 +13258,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "aiocache",
+                    "beautifulsoup4",
                     "msgpack"
                 ],
                 "short": "Fetch various info about a Pok\u00e9mon and related data.",
