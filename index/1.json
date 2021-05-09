@@ -13218,6 +13218,30 @@
                 ],
                 "type": "COG"
             },
+            "ocr": {
+                "author": [
+                    "TrustyJAID",
+                    "siu3334 (<@306810730055729152>)"
+                ],
+                "description": "Detect text in images using Google Cloud Vision API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Detect text in images using Google Cloud Vision API.",
+                "tags": [
+                    "ocr",
+                    "image to text",
+                    "optical character recognition",
+                    "google vision"
+                ],
+                "type": "COG"
+            },
             "pokebase": {
                 "author": [
                     "siu3334 (<@306810730055729152>)",
@@ -13412,33 +13436,6 @@
                     "video2gif",
                     "convert",
                     "gif"
-                ],
-                "type": "COG"
-            },
-            "vision": {
-                "author": [
-                    "TrustyJAID",
-                    "<@306810730055729152>"
-                ],
-                "description": "Detect text in images using Google Cloud Vision API.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any end user data or metadata about users, but the Google Cloud Vision API might store data of images sent to be processed for text detection.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.8",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Detect text in images using Google Cloud Vision API.",
-                "tags": [
-                    "ocr",
-                    "google-cloud-vision",
-                    "google-vision",
-                    "cloud-vision",
-                    "google-ocr",
-                    "detect-text-in-image",
-                    "detect-text-in-images"
                 ],
                 "type": "COG"
             },
