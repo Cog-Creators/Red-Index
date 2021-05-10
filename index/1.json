@@ -13238,12 +13238,10 @@
                 "short": "Fetch various info about a movie or TV series.",
                 "tags": [
                     "movie",
-                    "movies",
-                    "tv",
-                    "tv-series",
+                    "tv series",
+                    "tv show",
                     "themoviedb",
-                    "moviedb",
-                    "tmdb"
+                    "imdb"
                 ],
                 "type": "COG"
             },
