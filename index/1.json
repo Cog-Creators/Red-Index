@@ -12964,6 +12964,35 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "averagefan": {
+                "author": [
+                    "DankMemer Team",
+                    "TrustyJAID",
+                    "siu3334"
+                ],
+                "description": "Create your very own Average Fan Vs Average Enjoyer videos with custom text! This cog may consume heavy resources rendering videos.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.5",
+                "min_python_version": "",
+                "permissions": [
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "moviepy",
+                    "youtube-dl"
+                ],
+                "short": "Make Average Fan Vs Average Enjoyer videos, in discord!",
+                "tags": [
+                    "fun",
+                    "average fan",
+                    "average enjoyer"
+                ],
+                "type": "COG"
+            },
             "badgetools": {
                 "author": [
                     "siu3334",
