@@ -12964,35 +12964,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "averagefan": {
-                "author": [
-                    "DankMemer Team",
-                    "TrustyJAID",
-                    "siu3334"
-                ],
-                "description": "Create your very own Average Fan Vs Average Enjoyer videos with custom text! This cog may consume heavy resources rendering videos.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.5",
-                "min_python_version": "",
-                "permissions": [
-                    "attach_files"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "moviepy",
-                    "youtube-dl"
-                ],
-                "short": "Make Average Fan Vs Average Enjoyer videos, in discord!",
-                "tags": [
-                    "fun",
-                    "average fan",
-                    "average enjoyer"
-                ],
-                "type": "COG"
-            },
             "badgetools": {
                 "author": [
                     "siu3334",
@@ -13040,26 +13011,6 @@
                 ],
                 "type": "COG"
             },
-            "doesnotexist": {
-                "author": [
-                    "siu3334"
-                ],
-                "description": "Various commands to fetch randomly generated AI based images from various APIs.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Various commands to generate AI based images.",
-                "tags": [
-                    "doesnotexist"
-                ],
-                "type": "COG"
-            },
             "httpcat": {
                 "author": [
                     "siu3334"
@@ -13084,7 +13035,7 @@
             },
             "imagecog": {
                 "author": [
-                    "<@306810730055729152>"
+                    "siu3334"
                 ],
                 "description": "Some random fun image generation commands.",
                 "disabled": false,
@@ -13105,7 +13056,14 @@
                     "shields",
                     "amongus",
                     "eject",
-                    "petpet"
+                    "petpet",
+                    "aiart",
+                    "aicat",
+                    "aifurry",
+                    "aihorse",
+                    "aiperson",
+                    "aiwaifu",
+                    "lorem picsum"
                 ],
                 "type": "COG"
             },
