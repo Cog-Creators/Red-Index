@@ -1094,27 +1094,6 @@
                 ],
                 "type": "COG"
             },
-            "calculations": {
-                "author": [],
-                "description": "",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.5",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "",
-                "tags": [
-                    "fun",
-                    "calculator"
-                ],
-                "type": "COG"
-            },
             "cyclestatus": {
                 "author": [
                     "Jojo#7791"
