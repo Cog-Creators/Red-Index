@@ -13244,6 +13244,7 @@
                 "requirements": [
                     "aiocache",
                     "beautifulsoup4",
+                    "jmespath",
                     "msgpack"
                 ],
                 "short": "Fetch various info about a Pok\u00e9mon and related data.",
