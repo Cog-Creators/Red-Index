@@ -1953,7 +1953,9 @@
                     8,
                     1
                 ],
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "AI Chatbot Using BrainShop (https://brainshop.ai/)",
