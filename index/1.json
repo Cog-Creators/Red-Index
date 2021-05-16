@@ -1981,9 +1981,9 @@
                     1
                 ],
                 "permissions": [
-                    "embed_links",
                     "manage_messages",
-                    "manage_roles"
+                    "manage_roles",
+                    "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [],
