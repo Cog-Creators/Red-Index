@@ -12455,7 +12455,8 @@
                 "requirements": [
                     "unidecode",
                     "rapidfuzz",
-                    "git+https://github.com/phenom4n4n/TagScript.git"
+                    "git+https://github.com/phenom4n4n/TagScript.git",
+                    "pyparsing"
                 ],
                 "short": "Set a reminder to bump on Disboard.",
                 "tags": [
