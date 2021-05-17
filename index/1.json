@@ -13170,10 +13170,10 @@
             },
             "manim": {
                 "author": [
-                    "<@306810730055729152>",
-                    "the Manim Community Developers"
+                    "The Manim Community Developers",
+                    "siu3334"
                 ],
-                "description": "Render animations with Manim animation engine.",
+                "description": "Render mathematical animations with Manim animation engine.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": true,
@@ -13185,7 +13185,7 @@
                 "requirements": [
                     "docker"
                 ],
-                "short": "Render animations with Manim.",
+                "short": "Render mathematical animations with Manim.",
                 "tags": [
                     "manim",
                     "manimate"
