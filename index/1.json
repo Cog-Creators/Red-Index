@@ -7966,6 +7966,261 @@
         },
         "short": "Cogs by Bobloy"
     },
+    "https://github.com/coffeebank/coffee-cogs": {
+        "author": [
+            "coffeebank"
+        ],
+        "description": "Special cogs offering deeper Discord integration with features and services",
+        "name": "coffee-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "coffeetools": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Replacement for 'General' cog, since it needs to be disabled to override certain commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Replacement for 'General' cog, with some common tools",
+                "tags": [
+                    "tools",
+                    "choose",
+                    "choice"
+                ],
+                "type": ""
+            },
+            "dmreply": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Upgrading the built-in DM feature to be more customizable. Made with the goal of helping support teams responding to queries via DM.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dhooks"
+                ],
+                "short": "Upgrading the built-in DM feature to be more flexible...",
+                "tags": [
+                    "dm"
+                ],
+                "type": ""
+            },
+            "emotes": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Custom emote solution for non-nitro users, using emotes saved in a Google Sheets spreadsheet.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Custom emote solution for non-nitro users",
+                "tags": [
+                    "emotes",
+                    "google sheets",
+                    "api"
+                ],
+                "type": ""
+            },
+            "hellohook": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Create your own welcome bot with your own user profile picture!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create your own welcome bot with your own user profile picture!",
+                "tags": [
+                    "welcome",
+                    "webhook"
+                ],
+                "type": ""
+            },
+            "jsonrequest": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Send and receive a json request from Discord. Can be used to supplement other cogs, and includes domain whitelisting by server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send and receive a json request from Discord",
+                "tags": [
+                    "json"
+                ],
+                "type": ""
+            },
+            "loveplay": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Send love to other members of the server with hugs, kisses, and more, from Purrbot API",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send love to other members of the server with hugs, kisses, etc.",
+                "tags": [
+                    "love",
+                    "hug",
+                    "kiss",
+                    "catgirls"
+                ],
+                "type": ""
+            },
+            "msgmover": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Copy messages into a new channel, or link up two channels within a server/across servers! Uses webhooks with profiles and nicknames to forward messages around.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Move messages across channels and servers",
+                "tags": [
+                    "relays",
+                    "messages",
+                    "forwarding",
+                    "link",
+                    "channels",
+                    "server"
+                ],
+                "type": ""
+            },
+            "pinboard": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Make a bulletin board pinned message! Users can add/remove their own content to/from a shared, \"bulletin board\" style pinned message.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the data you submit into a pinned message, in order to keep pinned messages updated.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Make bulletin board style pinned messages! Let people add/remove their own blurbs in a pinned message.",
+                "tags": [
+                    "pins",
+                    "pinned",
+                    "messages",
+                    "board"
+                ],
+                "type": ""
+            },
+            "quarantine": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "Quarantine a user easily. Set a muterole and mod log channel, and any users specified will have their roles removed and replaced with the muterole.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Quarantine a user",
+                "tags": [
+                    "moderation",
+                    "roles",
+                    "mute",
+                    "mod"
+                ],
+                "type": ""
+            },
+            "sendhook": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "The comprehensive webhooks cog, with sending, listing, and creating of webhooks. Comes with support for webhook aliases and sending as your username/avatar. Perfect for users stuck on mobile Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "The comprehensive webhooks cog, with sending, listing, and creating of webhooks",
+                "tags": [
+                    "webhook"
+                ],
+                "type": ""
+            },
+            "websearch": {
+                "author": [
+                    "coffee-cogs"
+                ],
+                "description": "A simple Discord bot feature that gives you links to search engines like Google without needing to copy-paste and search it yourself.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for stuff on the web",
+                "tags": [
+                    "search",
+                    "search engine",
+                    "google"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Special cogs offering deeper Discord integration with features and services"
+    },
     "https://github.com/crossedfall/crossed-cogs": {
         "author": [
             "Crossedfall (Crossedfall#1001)"
