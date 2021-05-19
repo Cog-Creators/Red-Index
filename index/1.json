@@ -11935,7 +11935,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pygit2"
+                    "pydriller"
                 ],
                 "short": "A small set of github tools",
                 "tags": [
