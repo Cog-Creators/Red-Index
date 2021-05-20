@@ -3933,6 +3933,28 @@
                 ],
                 "type": "COG"
             },
+            "msgtracker": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Message tracker counter, count how many people have messaged in your server and display it in a leaderboard.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores User IDs and how many messages you have sent to a server that has this enabled. It does NOT store the message contents, only counting how many you've sent.\n\nYou can disable this function by going into the server of your choosing and type `[p]trackignore`, assuming the bot owner hasn't disabled this function.\n\nThis cog will support data removal requests.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Message Tracker",
+                "tags": [
+                    "Message Tracker",
+                    "Message Leaderboard",
+                    "Leaderboard"
+                ],
+                "type": "COG"
+            },
             "namegen": {
                 "author": [
                     "Sharky The King"
