@@ -7999,7 +7999,7 @@
         "rx_cogs": {
             "coffeetools": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
                 "description": "Replacement for 'General' cog, since it needs to be disabled to override certain commands. Changes 'choose' to use | divider.",
                 "disabled": false,
@@ -8021,9 +8021,9 @@
             },
             "dmreply": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "Upgrading the built-in DM feature to be more customizable. Made with the goal of helping support teams responding to queries via DM.",
+                "description": "Replacing the built-in DM feature to be more customizable. Allows users specified as mods to send a customized DM embed to users via a User ID. Made with the goal of helping support teams responding to queries via DM, when used in conjunction with a cog that forwards received DMs to a server channel. Uses global settings, so only use this feature on bots hosted for a single server.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8032,18 +8032,21 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "dhooks"
-                ],
-                "short": "Upgrading the built-in DM feature to be more flexible...",
+                "requirements": [],
+                "short": "Replacing the built-in DM feature to be more customizable",
                 "tags": [
-                    "dm"
+                    "dm",
+                    "reply",
+                    "direct",
+                    "message",
+                    "autoreply",
+                    "autorespond"
                 ],
                 "type": ""
             },
             "emotes": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
                 "description": "Custom emote solution for non-nitro users. See https://github.com/coffeebank/coffee-cogs/wiki for full setup.",
                 "disabled": false,
@@ -8066,9 +8069,9 @@
             },
             "hellohook": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "Create your own welcome bot with a custom profile picture!",
+                "description": "Create your own welcome bot with a custom profile picture! Choose between a regular message or an embed welcome, with a ping option.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8087,7 +8090,7 @@
             },
             "jsonrequest": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
                 "description": "Send and receive a json request from Discord. Includes domain whitelisting by server.",
                 "disabled": false,
@@ -8107,9 +8110,9 @@
             },
             "loveplay": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "Send love to other members of the server with hugs, kisses, and more, from Purrbot API. To replace built-in hug command, unload 'General' cog and install 'coffeetools' cog.",
+                "description": "Send love to other members of the server with reaction gifs from Purrbot API. Does not require a user @mention (say '=hug server' all you like!). Includes: blush, cuddle, dance, hug, kiss, lick, neko, nom, pat, poke, slap. Also includes a custom reaction gif builder that works for any gif type from the Purrbot API. To replace built-in hug command, unload 'General' cog and install 'coffeetools' cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8130,9 +8133,9 @@
             },
             "msgmover": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "Copy messages into a new channel, or link up two channels within a server/across servers! Uses webhooks with profiles and nicknames to forward messages around.",
+                "description": "Make moving messages between channels and servers easy and integrated. Copy messages into a new channel, or link up two channels within a server/relay messages across servers! Uses webhooks, which also duplicates user profile pics and nicknames. Supports replies, attachments (files, images, and videos), and embeds (bot command responses). Includes timestamp spacer. Partly inspired by the old 'Relays' cog, but has no affiliation with, no codebase relations to, and integrates in a completely different way from, the old relays cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8150,13 +8153,14 @@
                     "forwarding",
                     "link",
                     "channels",
-                    "server"
+                    "server",
+                    "pictures"
                 ],
                 "type": ""
             },
             "pinboard": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
                 "description": "Make a bulletin board pinned message! Users can add/remove their own content to/from a shared, \"bulletin board\" style pinned message.",
                 "disabled": false,
@@ -8179,7 +8183,7 @@
             },
             "quarantine": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
                 "description": "Quarantine a user easily. Set a muterole and mod log channel, and any users specified will have their roles removed and replaced with the muterole.",
                 "disabled": false,
@@ -8202,9 +8206,9 @@
             },
             "sendhook": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "The comprehensive webhooks cog, with sending, listing, and creating of webhooks. Comes with support for webhook aliases and sending as your username/avatar. Perfect for users stuck on mobile Discord.",
+                "description": "The comprehensive webhooks cog, with sending, listing, and creating of webhooks. Comes with support for webhook aliases and sending messages as your username/avatar. Perfect for users stuck on mobile Discord.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8222,9 +8226,9 @@
             },
             "websearch": {
                 "author": [
-                    "coffee-cogs"
+                    "coffeebank"
                 ],
-                "description": "A simple Discord bot feature that gives you links to search engines like Google without needing to copy-paste and search it yourself.",
+                "description": "A simple Discord bot feature that returns links to search engines like Google without needing to copy-paste a search term into a website/app separately. Comes preset with search strings for Google, Bing, Ecosia, and DuckDuckGo. Custom search strings can be added. Works similarly to LMGTFY, but without the passive aggressiveness.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8237,8 +8241,7 @@
                 "short": "Search for stuff on the web",
                 "tags": [
                     "search",
-                    "search engine",
-                    "google"
+                    "search engine"
                 ],
                 "type": ""
             }
