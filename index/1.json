@@ -7979,7 +7979,7 @@
                 "author": [
                     "coffee-cogs"
                 ],
-                "description": "Replacement for 'General' cog, since it needs to be disabled to override certain commands.",
+                "description": "Replacement for 'General' cog, since it needs to be disabled to override certain commands. Changes 'choose' to use | divider.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8023,7 +8023,7 @@
                 "author": [
                     "coffee-cogs"
                 ],
-                "description": "Custom emote solution for non-nitro users, using emotes saved in a Google Sheets spreadsheet.",
+                "description": "Custom emote solution for non-nitro users. See https://github.com/coffeebank/coffee-cogs/wiki for full setup.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8036,6 +8036,7 @@
                 "short": "Custom emote solution for non-nitro users",
                 "tags": [
                     "emotes",
+                    "info",
                     "google sheets",
                     "api"
                 ],
@@ -8045,7 +8046,7 @@
                 "author": [
                     "coffee-cogs"
                 ],
-                "description": "Create your own welcome bot with your own user profile picture!",
+                "description": "Create your own welcome bot with a custom profile picture!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8055,7 +8056,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create your own welcome bot with your own user profile picture!",
+                "short": "Create your own welcome bot with a custom profile picture!",
                 "tags": [
                     "welcome",
                     "webhook"
@@ -8066,7 +8067,7 @@
                 "author": [
                     "coffee-cogs"
                 ],
-                "description": "Send and receive a json request from Discord. Can be used to supplement other cogs, and includes domain whitelisting by server.",
+                "description": "Send and receive a json request from Discord. Includes domain whitelisting by server.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8086,7 +8087,7 @@
                 "author": [
                     "coffee-cogs"
                 ],
-                "description": "Send love to other members of the server with hugs, kisses, and more, from Purrbot API",
+                "description": "Send love to other members of the server with hugs, kisses, and more, from Purrbot API. To replace built-in hug command, unload 'General' cog and install 'coffeetools' cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8112,7 +8113,7 @@
                 "description": "Copy messages into a new channel, or link up two channels within a server/across servers! Uses webhooks with profiles and nicknames to forward messages around.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -8122,6 +8123,7 @@
                 "short": "Move messages across channels and servers",
                 "tags": [
                     "relays",
+                    "move",
                     "messages",
                     "forwarding",
                     "link",
