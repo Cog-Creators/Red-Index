@@ -1069,6 +1069,29 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "advancedblacklist": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Blacklist users with reasons",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any data on users",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "An advanced Blacklist",
+                "tags": [
+                    "utility",
+                    "blacklist"
+                ],
+                "type": "COG"
+            },
             "brownies": {
                 "author": [
                     "JJW (V2)",
