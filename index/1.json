@@ -1,4 +1,39 @@
 {
+    "https://github.com/SurreptitiousRiz/xorole": {
+        "author": [
+            "Riz (Riz#9000)"
+        ],
+        "description": "Cogs for RedBot v3",
+        "name": "XORoles",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "chessgame": {
+                "author": [
+                    "Riz (Riz#9000)"
+                ],
+                "description": "This cog allows you to specify 'role sets', which are groups of roles to which a member can assign only one to themselves at a time. When one role is added, any others in that group are removed. There is also the toggle command, which will either toggle a single-length roleset on or off, or between two roles in a roleset (they must already have one in order to toggle).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Exclusive roles",
+                "tags": [
+                    "role",
+                    "roles",
+                    "tools",
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "RedBot Cogs"
+    },
     "https://github.com/Dav-Git/Dav-Cogs": {
         "author": [
             "Dav"
