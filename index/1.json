@@ -10414,7 +10414,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "databases",
+                    "databases[sqlite]"
                 ],
                 "short": "Pokecord for Red.",
                 "tags": [
