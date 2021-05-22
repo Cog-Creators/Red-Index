@@ -8071,7 +8071,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Custom emote solution for non-nitro users. See https://github.com/coffeebank/coffee-cogs/wiki for full setup.",
+                "description": "Custom emote solution for non-nitro users. Use animated emotes in your server, even without Nitro. Make your own emote storage spreadsheet and generate emote-like image links for use in DMs and elsewhere.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -8083,7 +8083,10 @@
                 "requirements": [],
                 "short": "Custom emote solution for non-nitro users",
                 "tags": [
-                    "emotes",
+                    "emoji",
+                    "emote",
+                    "animated",
+                    "nitro",
                     "info",
                     "google sheets",
                     "api"
