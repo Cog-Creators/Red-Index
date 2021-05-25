@@ -1117,6 +1117,30 @@
                 ],
                 "type": "COG"
             },
+            "collectibles": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Collect trinkets and trophies!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/Just-Jojo/jojoutils.git"
+                ],
+                "short": "Minigame about collectibles",
+                "tags": [],
+                "type": ""
+            },
             "cyclestatus": {
                 "author": [
                     "Jojo#7791"
