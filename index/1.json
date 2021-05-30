@@ -2769,9 +2769,9 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Translate some text using Google Translate for free.",
+                "description": "Translate text and messages using Google Translate for free.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog stores provided server settings (e.g. auto-translation channels & their destination languages).",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
@@ -2792,7 +2792,9 @@
                     "utility",
                     "translation",
                     "google translate",
-                    "language"
+                    "language",
+                    "auto-translate",
+                    "channels"
                 ],
                 "type": "COG"
             },
