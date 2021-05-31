@@ -6146,6 +6146,31 @@
                     "timezone"
                 ],
                 "type": ""
+            },
+            "wol": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up teh computer beforehand to listen to these - just search how to set it up for your operating system.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "wakeonlan",
+                    "vex-cog-utils==1.4.5"
+                ],
+                "short": "Use Wake on LAN from Discord! This cog sends magic packets on the local network.",
+                "tags": [
+                    "utility",
+                    "wakeonlan",
+                    "local"
+                ],
+                "type": ""
             }
         },
         "short": "Mainly utility cogs."
