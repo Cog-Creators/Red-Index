@@ -14003,7 +14003,8 @@
                     "inflect",
                     "timeago",
                     "aiolimiter",
-                    "aiohttp-retry"
+                    "aiohttp-retry",
+                    "pyinaturalist"
                 ],
                 "short": "Commands using the iNat API v1.",
                 "tags": [
