@@ -2253,7 +2253,8 @@
                 "permissions": [
                     "embed_links",
                     "create_instant_invite",
-                    "manage_channels"
+                    "manage_channels",
+                    "manage_messages"
                 ],
                 "required_cogs": {},
                 "requirements": [],
