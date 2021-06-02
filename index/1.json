@@ -13453,7 +13453,7 @@
                 "author": [
                     "siu3334"
                 ],
-                "description": "This cog returns various info about given IP.",
+                "description": "This cog returns various info about any valid public IP address.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -13467,8 +13467,7 @@
                 "tags": [
                     "ip",
                     "whois",
-                    "ipdata",
-                    "traceroute"
+                    "ipdata"
                 ],
                 "type": "COG"
             },
