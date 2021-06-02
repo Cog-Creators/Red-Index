@@ -8279,6 +8279,29 @@
                 ],
                 "type": ""
             },
+            "spotifyembed": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Automatically send a reply to Spotify links with a link to the embed preview. Convenient for mobile users who can finally listen to music samples from Discord, without needing an account.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically send replies to Spotify links with the embed preview, for mobile users",
+                "tags": [
+                    "spotify",
+                    "music",
+                    "preview",
+                    "embed"
+                ],
+                "type": ""
+            },
             "websearch": {
                 "author": [
                     "coffeebank"
