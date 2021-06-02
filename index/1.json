@@ -6070,6 +6070,31 @@
                 ],
                 "type": ""
             },
+            "stattrack": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Track your bot's statistics over time, including ping, members, guild and message/command counts.\n\nThis has a background process which could be intensive.",
+                "disabled": false,
+                "end_user_data_statement": "This cog permanently stores anonymised and aggregated data about users' statuses and counts messages sent, not including their content. This data cannot be traced back to individual users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "vex-cog-utils==1.4.5"
+                ],
+                "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
+                "tags": [
+                    "utility",
+                    "timeseries",
+                    "tracking",
+                    "stats"
+                ],
+                "type": ""
+            },
             "status": {
                 "author": [
                     "Vexed (Vexed#3211)"
