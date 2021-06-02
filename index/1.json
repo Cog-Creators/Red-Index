@@ -11388,6 +11388,27 @@
                 ],
                 "type": "COG"
             },
+            "cogpaths": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get various paths for a cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get various paths for a cog.",
+                "tags": [
+                    "Paths",
+                    "Cogs"
+                ],
+                "type": "COG"
+            },
             "consoleclearer": {
                 "author": [
                     "Kreusada"
