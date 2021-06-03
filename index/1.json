@@ -12808,6 +12808,28 @@
                 ],
                 "type": "COG"
             },
+            "connect4": {
+                "author": [
+                    "Benjamin Mintz",
+                    "flare",
+                    "PhenoM4n4n"
+                ],
+                "description": "Play Connect 4 in Discord!",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data on users' wins, losses, and draws per server while playing Connect 4.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Connect 4 in Discord!",
+                "tags": [
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "customping": {
                 "author": [
                     "PhenoM4n4n"
