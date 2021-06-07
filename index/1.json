@@ -6070,6 +6070,31 @@
                 ],
                 "type": ""
             },
+            "madtranslate": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Translate something from English into a gazillion different languages then back to English. Uses an undocumented Google Translate API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "vex-cog-utils==1.4.5"
+                ],
+                "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
+                "tags": [
+                    "madtranslate",
+                    "translate",
+                    "google",
+                    "fun"
+                ],
+                "type": ""
+            },
             "stattrack": {
                 "author": [
                     "Vexed (Vexed#3211)"
