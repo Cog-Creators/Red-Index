@@ -2178,9 +2178,9 @@
                 "author": [
                     "Obi-Wan3"
                 ],
-                "description": "Sends GitHub commit messages exactly as the webhook would.",
+                "description": "Customizable system for GitHub commit updates similar to the webhook.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores provided server settings, as well as the GitHub commit RSS feed links provided by users (in order to periodically check and fetch new commit info from).",
+                "end_user_data_statement": "This cog stores provided server settings, as well as the GitHub commit feed links provided by users (to fetch new commit updates).",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.1",
@@ -2202,7 +2202,8 @@
                     "github",
                     "rss",
                     "feed",
-                    "commits"
+                    "commits",
+                    "embed"
                 ],
                 "type": "COG"
             },
