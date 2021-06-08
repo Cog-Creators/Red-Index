@@ -1084,7 +1084,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
+                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
                 ],
                 "short": "Collect brownies!",
                 "tags": [
@@ -1112,7 +1112,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
+                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
                 ],
                 "short": "Minigame about collectibles",
                 "tags": [],
@@ -1132,7 +1132,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
+                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
                 ],
                 "short": "Cycle your bot's status",
                 "tags": [
@@ -1178,7 +1178,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
+                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
                 ],
                 "short": "Customizable todo list!",
                 "tags": [
