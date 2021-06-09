@@ -1164,6 +1164,27 @@
                 ],
                 "type": "COG"
             },
+            "ducks": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Ducks! Who could ask for more?",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.1",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ducks!",
+                "tags": [
+                    "fun",
+                    "duck"
+                ],
+                "type": ""
+            },
             "todo": {
                 "author": [
                     "Jojo#7791"
