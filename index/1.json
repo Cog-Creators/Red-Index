@@ -12833,6 +12833,27 @@
                 "tags": [],
                 "type": ""
             },
+            "antihonde": {
+                "author": [
+                    "PhenoM4n4n",
+                    "TrustyJAID"
+                ],
+                "description": "Automatically ban H0nde alts.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores a list of every H0nde it bans.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically ban H0nde alts.",
+                "tags": [
+                    "moderation"
+                ],
+                "type": "COG"
+            },
             "banchart": {
                 "author": [
                     "PhenoM4n4n",
