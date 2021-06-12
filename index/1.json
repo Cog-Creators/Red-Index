@@ -6121,7 +6121,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "Track your bot's statistics over time, including ping, members, guild and message/command counts.\n\nThis has a background process which could be intensive.",
+                "description": "Track your bot's statistics over time, including ping, members, guild and message/command counts.\n\nThis has a background process which could be intensive.\n\nThis stores data in Red's config which is not especially built for this cog's usage.",
                 "disabled": false,
                 "end_user_data_statement": "This cog permanently stores anonymised and aggregated data about users' statuses and counts messages sent, not including their content. This data cannot be traced back to individual users.",
                 "hidden": false,
@@ -6131,6 +6131,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "pandas",
+                    "matplotlib",
                     "vex-cog-utils==1.4.5"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
