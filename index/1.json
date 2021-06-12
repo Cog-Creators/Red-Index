@@ -15424,7 +15424,14 @@
                     "dislash.py==1.0.13"
                 ],
                 "short": "Rock, Paper, Scissors (Lizard, Spock)",
-                "tags": [],
+                "tags": [
+                    "game",
+                    "fun",
+                    "rps",
+                    "rpsls",
+                    "fun",
+                    "buttons"
+                ],
                 "type": "COG"
             },
             "runes": {
