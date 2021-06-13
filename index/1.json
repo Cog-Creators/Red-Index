@@ -11545,6 +11545,22 @@
                 ],
                 "type": "COG"
             },
+            "kreulang": {
+                "author": "Kreusada",
+                "description": "no u",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "locales": {
                 "author": [
                     "Kreusada"
