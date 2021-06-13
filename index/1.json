@@ -13708,7 +13708,7 @@
                 "description": "Render mathematical animations with Manim animation engine.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.8",
                 "min_python_version": "",
