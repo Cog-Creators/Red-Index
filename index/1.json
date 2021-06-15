@@ -2832,6 +2832,88 @@
         },
         "short": "Utility Cogs for Red by Obi-Wan3"
     },
+    "https://github.com/OofChair/OofCogs": {
+        "author": [
+            "OofChair#0001"
+        ],
+        "description": "Cogs created by a beginner Python coder that don't have a lot of meaning",
+        "name": "OofCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "redditpic": {
+                "author": [
+                    "OofChair"
+                ],
+                "description": "Get a random picture from Reddit and see stats of that post.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Get a random picture from Reddit.",
+                "tags": [
+                    "meme",
+                    "reddit",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "serverping": {
+                "author": [
+                    "OofChair"
+                ],
+                "description": "Ping a domain or an IP.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/OofChair/simple-ping"
+                ],
+                "short": "Ping a server.",
+                "tags": [
+                    "ping",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "sql": {
+                "author": [
+                    "OofChair"
+                ],
+                "description": "A cog that interacts with different databases.\nCurrent databases: MySQL\n\nPlanned databases: MongoDB, PostgreSQL",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "mysql-connector-python"
+                ],
+                "short": "A cog that interacts with different databases.",
+                "tags": [
+                    "mysql",
+                    "dev"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs made by OofChair#0001 that can do random things."
+    },
     "https://github.com/PhasecoreX/PCXCogs": {
         "author": [
             "PhasecoreX (PhasecoreX#0635)"
