@@ -2832,6 +2832,72 @@
         },
         "short": "Utility Cogs for Red by Obi-Wan3"
     },
+    "https://github.com/Onii-Chan-Discord/onii-cogs": {
+        "author": [
+            "Onii-chan#3920"
+        ],
+        "description": "A list of fun oriented cogs by Onii",
+        "name": "onii-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "nsfw": {
+                "author": [
+                    "Ari (Onii-chan#3920)"
+                ],
+                "description": "NSFW commands.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "perform": {
+                "author": [
+                    "Ari (Onii-chan#3920)"
+                ],
+                "description": "Perform Actions like kiss, cuddle etc.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "wallpaper": {
+                "author": [
+                    "Onii-chan#3920"
+                ],
+                "description": "Wallpaper commands!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "A list of fun cogs by Onii"
+    },
     "https://github.com/OofChair/OofCogs": {
         "author": [
             "OofChair#0001"
