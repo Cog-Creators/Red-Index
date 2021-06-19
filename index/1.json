@@ -15720,50 +15720,6 @@
                 ],
                 "type": ""
             },
-            "anticrashvid": {
-                "author": [
-                    "Zephyrkul (Zephyrkul#1089)"
-                ],
-                "description": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "youtube-dl"
-                ],
-                "short": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
-                "tags": [
-                    "moderation",
-                    "security"
-                ],
-                "type": ""
-            },
-            "antigifv": {
-                "author": [
-                    "Zephyrkul (Zephyrkul#1089)"
-                ],
-                "description": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
-                "tags": [
-                    "moderation",
-                    "security"
-                ],
-                "type": ""
-            },
             "autodisconnect": {
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)"
@@ -16023,6 +15979,26 @@
                     "skyrim",
                     "gaming",
                     "fun"
+                ],
+                "type": ""
+            },
+            "spoilerer": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Add a spoiler command and a spoiler button for use by mobile users, who lack the ability to spoiler images.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Add a spoiler command and a spoiler button for use by mobile users, who lack the ability to spoiler images.",
+                "tags": [
+                    "utilities"
                 ],
                 "type": ""
             },
