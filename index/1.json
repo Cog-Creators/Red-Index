@@ -6388,6 +6388,22 @@
                 ],
                 "type": ""
             },
+            "tests": {
+                "author": [],
+                "description": "THIS IS NOT A COG. HOWEVER, DOWNLOADER DETECTS IT AS ONE AND WILL TRY AND LOAD IT.",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "THIS IS NOT A COG. HOWEVER, DOWNLOADER DETECTS IT AS ONE AND WILL TRY AND LOAD IT.",
+                "tags": [],
+                "type": ""
+            },
             "timechannel": {
                 "author": [
                     "Vexed (Vexed#3211)"
@@ -14851,6 +14867,26 @@
                     "aiohttp"
                 ],
                 "short": "Insult users",
+                "tags": [],
+                "type": ""
+            },
+            "just_met_her": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Replies with '_______________, I just met her!'",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
+                "requirements": [],
+                "short": "Just Met Her",
                 "tags": [],
                 "type": ""
             },
