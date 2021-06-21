@@ -2637,6 +2637,38 @@
                 ],
                 "type": "COG"
             },
+            "roletiers": {
+                "author": [
+                    "Obi-Wan3"
+                ],
+                "description": "Set roles to be assigned based on the activity and time since join for members.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server settings and the activity of members (# messages sent and time in server).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "manage_roles",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Tiered Roles for Active Members",
+                "tags": [
+                    "utility",
+                    "roles",
+                    "tier",
+                    "activity",
+                    "messages",
+                    "time"
+                ],
+                "type": "COG"
+            },
             "sitestatus": {
                 "author": [
                     "Obi-Wan3"
