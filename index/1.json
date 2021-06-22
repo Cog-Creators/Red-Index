@@ -1069,6 +1069,26 @@
                 ],
                 "type": "COG"
             },
+            "advancedinvite": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Embeds the invite command if possible.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Embed the invite command",
+                "tags": [
+                    "Utility"
+                ],
+                "type": "COG"
+            },
             "brownies": {
                 "author": [
                     "JJW (V2)",
@@ -1184,26 +1204,6 @@
                     "duck"
                 ],
                 "type": ""
-            },
-            "embeddedinvite": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Embeds the invite command if possible.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Embed the invite command",
-                "tags": [
-                    "Utility"
-                ],
-                "type": "COG"
             },
             "todo": {
                 "author": [
