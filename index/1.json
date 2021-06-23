@@ -12272,26 +12272,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "buttoninvite": {
-                "author": [
-                    "MAX"
-                ],
-                "description": "A cog with your invite link that has the new buttons.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "dislash.py==1.0.17"
-                ],
-                "short": "Button invite for your bot.",
-                "tags": [],
-                "type": ""
-            },
             "embeduptime": {
                 "author": [
                     "max"
