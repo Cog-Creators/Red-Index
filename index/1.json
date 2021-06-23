@@ -12124,7 +12124,8 @@
             },
             "termino": {
                 "author": [
-                    "Kreusada"
+                    "Kreusada",
+                    "Jojo#7791"
                 ],
                 "description": "Customize restart and shutdown messages with your own text, and predicates.",
                 "disabled": false,
