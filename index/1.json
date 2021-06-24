@@ -14765,6 +14765,26 @@
                 "tags": [],
                 "type": ""
             },
+            "export_emoji": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Bulk exports emoji for slack",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Bulk Emoji Export",
+                "tags": [],
+                "type": ""
+            },
             "facts": {
                 "author": [
                     "Eris"
