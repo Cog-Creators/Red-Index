@@ -2916,6 +2916,24 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "image": {
+                "author": [
+                    "Onii-chan#3920"
+                ],
+                "description": "Wallpaper commands!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "nsfw": {
                 "author": [
                     "Ari (Onii-chan#3920)"
@@ -2957,24 +2975,6 @@
                     "Ari (Onii-chan#3920)"
                 ],
                 "description": "Perform Actions like kiss, cuddle etc.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
-            },
-            "wallpaper": {
-                "author": [
-                    "Onii-chan#3920"
-                ],
-                "description": "Wallpaper commands!",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
