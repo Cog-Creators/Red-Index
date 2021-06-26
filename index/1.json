@@ -6297,6 +6297,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
+                    "matplotlib",
                     "vex-cog-utils==1.4.6"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
