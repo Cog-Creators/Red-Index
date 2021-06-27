@@ -4,7 +4,7 @@ import sys
 import aiohttp
 import os
 import json
-from constants import CACHE, GEN_ERROR_LOG
+from constants import CACHE, GEN_PATH, GEN_ERROR_LOG
 from hashlib import sha1
 from pathlib import Path
 
@@ -172,9 +172,10 @@ if __name__ == "__main__":
         else:
             print(r)
 
-    if logs:
-        with open(str(GEN_ERROR_LOG), "w") as f:
-            f.write("\n".join(logs))
+    if not GEN_PATH.exists():
+        GEN_PATH.mkdir()
+    with open(str(GEN_ERROR_LOG), "w") as f:
+        f.write("\n".join(logs)) # This will also empty the error log of the previous runs
 
     # Non-github repos will be cloned later
     sh = ""

@@ -263,7 +263,7 @@ def main():
             json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
 
         # YAML error log
-        with open(str(GEN_ERROR_LOG), "w") as f:
+        with open(str(GEN_ERROR_LOG), "a+") as f:
             f.write(error_log)
 
 
