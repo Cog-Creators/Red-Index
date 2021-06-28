@@ -12315,7 +12315,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Uptime, which shows bot uptime.",
-                "tags": [],
+                "tags": "uptime",
                 "type": ""
             },
             "humblebundle": {
@@ -12334,7 +12334,11 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Gives humblebundle available, if any.",
-                "tags": [],
+                "tags": [
+                    "humblebundle",
+                    "freegames",
+                    "freestuff"
+                ],
                 "type": ""
             },
             "images": {
@@ -12352,7 +12356,10 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Random images.",
-                "tags": [],
+                "tags": [
+                    "images",
+                    "pictures"
+                ],
                 "type": ""
             },
             "ping": {
@@ -12373,7 +12380,10 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Ping, which shows bot latency.",
-                "tags": [],
+                "tags": [
+                    "ping",
+                    "latency"
+                ],
                 "type": ""
             },
             "statsinfo": {
@@ -12393,7 +12403,10 @@
                     "tabulate"
                 ],
                 "short": "Shows stats",
-                "tags": [],
+                "tags": [
+                    "utility",
+                    "stats"
+                ],
                 "type": ""
             }
         },
