@@ -12315,7 +12315,9 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Uptime, which shows bot uptime.",
-                "tags": "uptime",
+                "tags": [
+                    "uptime"
+                ],
                 "type": ""
             },
             "humblebundle": {
