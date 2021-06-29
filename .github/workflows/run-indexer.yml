@@ -20,13 +20,15 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Create bash file for cloning
+    - name: Fetch repos info
       run: |
-        mkdir cache
-        python -m pip install pyyaml
+        mkdir -p cache
+        python -m pip install pyyaml aiohttp
         python parser.py repositories.yaml clonerepos.sh
         chmod +x clonerepos.sh git-retry.sh
-    - name: Clone repos
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Clone non-GH repos
       run: ./clonerepos.sh
     - name: Run indexer
       run: python indexer.py repositories.yaml

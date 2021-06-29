@@ -4,15 +4,7 @@ import sys
 from gzip import GzipFile
 from pathlib import Path
 from hashlib import sha1
-
-CACHE = Path("cache")
-
-RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
-GEN_PATH = Path("index")
-GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json") # Pretty, for QA checking
-GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json") # Minified, for user download
-GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz") # Gzipped
-GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml") # Error log
+from constants import CACHE, GEN_PATH, GEN_FILE, GEN_MIN_FILE, GEN_GZ_FILE, GEN_ERROR_LOG
 
 
 class CustomEncoder(json.JSONEncoder):
@@ -142,9 +134,10 @@ class Cog:
         if self._error:
             return
 
-        initpath = self._path / Path("__init__.py")
-        if not initpath.exists():
-            self._error = "Info.json is present but no __init__.py was found. Invalid cog package."
+        # This is removed for now, it's not gonna be present if we get the repo info from the gh API
+        # initpath = self._path / Path("__init__.py")
+        # if not initpath.exists():
+        #     self._error = "Info.json is present but no __init__.py was found. Invalid cog package."
 
     def get_info(self):
         if self._error:
@@ -270,7 +263,7 @@ def main():
             json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
 
         # YAML error log
-        with open(str(GEN_ERROR_LOG), "w") as f:
+        with open(str(GEN_ERROR_LOG), "a+") as f:
             f.write(error_log)
 
 
