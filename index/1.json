@@ -1553,6 +1553,412 @@
         },
         "short": "Miscellaneous cogs"
     },
+    "https://github.com/NeuroAssassin/Toxic-Cogs": {
+        "author": [
+            "Neuro Assassin"
+        ],
+        "description": "This repo holds the several different cogs, for Red - Discord Bot by TwentySix.",
+        "name": "Toxic-Cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "authgg": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Unlock your users' HWID locks on auth.gg straight from your bot in Discord",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Control your users on auth.gg straight from Discord.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "color": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog will tell you the hexadecimal value, rgb value and the name of the color that is supplied to it.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "colour",
+                    "pillow"
+                ],
+                "short": "Tells you the hexadecimal values, rgb values and names of colors",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "commandchart": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog tells a Discord User the commands used, and the usage of them, in the last so and so messages.  Based off of aikaterna's chatchart cog.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "matplotlib"
+                ],
+                "short": "Tells the used and usages of commands!  Based off of aikaterna's chatchart cog.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "cooldown": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allows a bot owner to set cooldowns for commands",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows bot owner to set cooldowns for commands",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "dashboard": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Control your bot through a web dashboard, allowing people to run commands (with permissions checked) straight from an easy-to-use dashboard.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "markdown2"
+                ],
+                "short": "Interact with your bot through a web dashboard.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "deleter": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allows moderators to make messages be auto-deleted after a certain amount of time in a certain channel.  WARNING: This cog has potential API abuse AND SHOULD BE USED CAREFULLY!  If you see any issues arise due to this, please report to Neuro Assassin or bot owner ASAP!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows for the auto-deletion of messages in a channel after a specified wait time.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "editor": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allows an administrator to change the text of one of the bot's messages, by either specifying the new content or by taking the content (and embed, if applicable) of another message.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Edit one of the bot's messages easily.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "esolang": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Run code in some of the more popular esoteric languages for fun.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Run code in esoteric languages.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "evolution": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Buy animals using economy credits or get them every 10 minutes, and gain a certain amount of credits every minute!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Buy and get animals to get more economy credits!",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "listpermissions": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog will allow you to see all permissions, available permissions or denied permissions or a role or member across the guild or in a channel.  Do note however that the `[p](groupcommand) channel role` only provides basic permissions, and will only tell what is different for the channel compared to the guild permissions for a role.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "prettytable",
+                    "fuzzywuzzy"
+                ],
+                "short": "Gives you the permissions of a role/member guild wide or in a channel",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "maintenance": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allows the owner to put the bot on maintenance, and specify when the maintenance will be over (but does not have to).  The bot owner can also whitelist users from the maintenance.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows the bot owner to put the bot on maintenance.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "minesweeper": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog allows a Discord User to play the game Minesweeper inside of a text channel.\nSmall warning: this cog can sometimes you up rate limits (depending how fast you play), so be careful while playing.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows you to play Minesweeper inside of Discord!\nSmall warning: this cog can sometimes you up rate limits (depending how fast you play), so be careful while playing.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "reacticket": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allow users to create ticket channels by clicking on a set reaction on a set message.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create a reaction-based ticketing system.",
+                "tags": [
+                    "tools",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "scanner": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog will send a report to a channel with details of an image violating the set conditions, and will auto delete the message if set to.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Detects images being sent and checks whether they are inappropriate based on the set filters.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "simon": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog allows a Discord User to play the game Simon inside of a text channel.\nWarning!  This cog uses a major portion of the bot's rate limits.  This may prevent the bot from sending messages, adding emojis or deleting messages in specific peroids of time.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows you to play Simon inside of Discord!\nWarning!  This cog uses a major portion of the bot's rate limits.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "sw": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Get information about a bunch of different things in Star Wars.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get information about a bunch of different things in Star Wars.",
+                "tags": [
+                    "info",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "targeter": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Returns a list of members in the current guild that meet the passed arguments.  Commands can take long times based upon the amount of members in the guild.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Targets users based upon the passed arguments",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
+            "twenty": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog allows a Discord User to play 2048 inside of a text channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows you to play 2048 inside of Discord!",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "updatechecker": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "This cog will tell when there is an update available for a repository you have added for your bot, and, depending on settings, will auto update or will just notify you.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser"
+                ],
+                "short": "Notifies you when an update for a repo is available.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Holds cogs made by Neuro Assassin."
+    },
     "https://github.com/Obi-Wan3/OB13-Cogs": {
         "author": [
             "Obi-Wan3"
