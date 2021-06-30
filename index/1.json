@@ -12844,6 +12844,243 @@
         },
         "short": "A decent bunch of cogs aimed for having fun"
     },
+    "https://github.com/palmtree5/palmtree5-cogs": {
+        "author": [
+            "palmtree5"
+        ],
+        "description": "Cogs created by palmtree5 for varying purposes, some related to Minecraft",
+        "name": "palmtree5-cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "banrole": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Ban/unban by role. Keeps track of all users banned via `[p]banrole`",
+                "disabled": false,
+                "end_user_data_statement": "This extension stores a mapping of role ids to a list of banned user ids. This data is necessary for the functionality allowing the unbanning of a previously banned role, but a user id can be removed if the account is deleted or the owner specifically requests the deletion not on behalf of a user.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ban/unban by role.",
+                "tags": [
+                    "moderation",
+                    "banrole"
+                ],
+                "type": ""
+            },
+            "eventmaker": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Allows for creating and joining events and provides a notification at the start time",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Event manager utility",
+                "tags": [
+                    "events",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "hpapi": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Gets data from the Hypixel API including player stats, guild info, and active boosters",
+                "disabled": false,
+                "end_user_data_statement": "This extension does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiopixel==0.2.15"
+                ],
+                "short": "Cog for getting info from the Hypixel API",
+                "tags": [
+                    "minecraft",
+                    "utility",
+                    "gaming"
+                ],
+                "type": ""
+            },
+            "lockdown": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Locks down a server using roles to affect users below the lockdown role",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cog for locking down a server in the event of a raid",
+                "tags": [
+                    "antiraid",
+                    "utility",
+                    "lockdown"
+                ],
+                "type": ""
+            },
+            "mcsvr": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Gets the status of a Minecraft Server (specifically version and player count)",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "mcstatus==4.1.0",
+                    "validators"
+                ],
+                "short": "Cog for getting Minecraft server status",
+                "tags": [
+                    "minecraft",
+                    "utility",
+                    "gaming"
+                ],
+                "type": ""
+            },
+            "messagepinner": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Pins messages containing configured pin trigger text",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Pins messages containing specific text",
+                "tags": [
+                    "pins",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "reddit": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Gets posts, user info, etc from Reddit's API",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cog for getting stuff from Reddit",
+                "tags": [
+                    "reddit",
+                    "web",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "slowmode": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Enforces a limit of one message per set time on non-exempt users",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Slow mode in Discord",
+                "tags": [
+                    "slowmode",
+                    "moderation"
+                ],
+                "type": ""
+            },
+            "srrecords": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Gets world records for the specified game from speedrun.com",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cog for getting world records for various games",
+                "tags": [
+                    "speedrun",
+                    "gaming"
+                ],
+                "type": ""
+            },
+            "tweets": {
+                "author": [
+                    "palmtree5"
+                ],
+                "description": "Gets public information from Twitter's api",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "peony-twitter[all]"
+                ],
+                "short": "Cog for getting info from Twitter",
+                "tags": [
+                    "twitter",
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Various cogs"
+    },
     "https://github.com/phenom4n4n/phen-cogs": {
         "author": [
             "PhenoM4n4n"
