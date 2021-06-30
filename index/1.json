@@ -4223,6 +4223,29 @@
                 ],
                 "type": "COG"
             },
+            "mailsystem": {
+                "author": [
+                    "Sharky The King",
+                    "Kreusada"
+                ],
+                "description": "**This is currently in testing.** A Mail System (ModMail) for multiple guilds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Pre-released MailSystem",
+                "tags": [
+                    "ModMail",
+                    "Mail",
+                    "Mod"
+                ],
+                "type": "COG"
+            },
             "morseshark": {
                 "author": [
                     "Sharky The King"
