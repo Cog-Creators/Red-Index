@@ -4,6 +4,7 @@ import sys
 import aiohttp
 import os
 import json
+import logging
 from constants import CACHE, GEN_PATH, GEN_ERROR_LOG
 from hashlib import sha1
 from pathlib import Path
@@ -32,25 +33,37 @@ def get_clean_url(url):
         url = url[:-1]
     return url, branch
 
+async def gh_api_get(url):
+    """GitHub's API occasionally throws 5xx errors"""
+    retry = 0
+    session = aiohttp.ClientSession()
+    while True:
+        retry += 1
+        resp = await session.get(url, headers=HEADERS)
+        if resp.status < 500:
+            return resp
+        elif retry >= 3:
+            return resp
+        print("HTTP status code 500. Retrying...")
+        await asyncio.sleep(1)
+
 async def get_gh_branch(url):
     # https://docs.github.com/en/rest/reference/repos#get-a-repository
     repo, owner = url.split("/")[-1], url.split("/")[-2]
-    async with aiohttp.ClientSession() as session:
-        async with session.get(GET_REPO.format(repo=repo, owner=owner), headers=HEADERS) as resp:
-            if resp.status != 200:
-                raise FailedGHParse(f"Could not get repo for {url}. Status: {resp.status}")
-            data = await resp.json()
+    resp = await gh_api_get(GET_REPO.format(repo=repo, owner=owner))
+    if resp.status != 200:
+        raise FailedGHParse(f"Could not get repo for {url}. Status: {resp.status}")
+    data = await resp.json()
 
     return data["default_branch"]
 
 async def get_sha(url, branch):
     # https://docs.github.com/en/rest/reference/repos#branches
     repo, owner = url.split("/")[-1], url.split("/")[-2]
-    async with aiohttp.ClientSession() as session:
-        async with session.get(GET_SHA.format(repo=repo, owner=owner), headers=HEADERS) as resp:
-            if resp.status != 200:
-                raise FailedGHParse(f"Could not get branches for {url}. Status: {resp.status}")
-            data = await resp.json()
+    resp = await gh_api_get(GET_SHA.format(repo=repo, owner=owner))
+    if resp.status != 200:
+        raise FailedGHParse(f"Could not get branches for {url}. Status: {resp.status}")
+    data = await resp.json()
 
     for repo_branch in data:
         if repo_branch["name"] == branch:
@@ -62,11 +75,10 @@ async def get_tree_and_build_cache(url, branch, sha, original_url):
     # https://docs.github.com/en/rest/reference/git#get-a-tree
     repo, owner = url.split("/")[-1], url.split("/")[-2]
     raw_content_url = RAW_CONTENT.format(owner=owner, repo=repo, branch=branch)
-    async with aiohttp.ClientSession() as session:
-        async with session.get(GET_TREE.format(repo=repo, owner=owner, tree_sha=sha), headers=HEADERS) as resp:
-            if resp.status != 200:
-                raise FailedGHParse(f"Could not get file tree for {url}. Status: {resp.status}")
-            tree = await resp.json()
+    resp = await gh_api_get(GET_TREE.format(repo=repo, owner=owner, tree_sha=sha))
+    if resp.status != 200:
+        raise FailedGHParse(f"Could not get file tree for {url}. Status: {resp.status}")
+    tree = await resp.json()
 
     has_repo_info = False
     cog_folders = []
@@ -141,6 +153,7 @@ async def process_gh_repo(url):
     return f"{original_url} has been processed."
 
 if __name__ == "__main__":
+    logging.getLogger("asyncio").setLevel(logging.CRITICAL) # aiohttp is N O I S Y
     infile = sys.argv[1]
     outfile = sys.argv[2]
 
