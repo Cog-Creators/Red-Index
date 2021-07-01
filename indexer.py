@@ -192,6 +192,7 @@ def make_error_log(repos):
         return ""
 
 def main():
+    repos_url_list = []
     yamlfile = sys.argv[1]
 
     with open(yamlfile) as f:
@@ -202,6 +203,7 @@ def main():
     for k in ("approved", "unapproved"):
         if data[k]: # Can be None if empty
             for url in data[k]:
+                repos_url_list.append(url)
                 repos.append(Repo(url, k))
 
     for r in repos:
@@ -230,41 +232,54 @@ def main():
                 if to_remove:
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
-    if repos:
-        # Final format URL : Repo...
-        repos_index = {}
+    if not repos:
+        print("Nothing to update")
+        return
 
-        for r in repos:
-            cogs_dict = {}
-            for c in r.rx_cogs:
-                cogs_dict[c._name] = c
+    # Final format URL : Repo...
+    repos_index = {}
 
-            # ... and CogName : Cog
-            r.rx_cogs = cogs_dict
-            repos_index[r._url] = r
+    for r in repos:
+        cogs_dict = {}
+        for c in r.rx_cogs:
+            cogs_dict[c._name] = c
 
-        if not GEN_PATH.exists():
-            GEN_PATH.mkdir()
+        # ... and CogName : Cog
+        r.rx_cogs = cogs_dict
+        repos_index[r._url] = r
 
-        minified_str = json.dumps(repos_index, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
+    if not GEN_PATH.exists():
+        GEN_PATH.mkdir()
 
-        # Minified json file
-        with open(str(GEN_MIN_FILE), "w") as f:
-            f.write(minified_str)
+    # We may have failed to fetch some repos. In that case we'll preserve the data of the old index file
+    # if present
+    if GEN_MIN_FILE.exists():
+        with open(str(GEN_MIN_FILE)) as f:
+            old_index = json.load(f)
+        for url in repos_url_list:
+            if url not in repos_index and url in old_index:
+                print(f"{url} absent, preserving old data")
+                repos_index[url] = old_index[url]
 
-        # Gzipped minified json file
-        with open(str(GEN_GZ_FILE), "wb") as f:
-            gz = GzipFile(GEN_MIN_FILE.name, "wb", 9, f, 0.)
-            gz.write(minified_str.encode())
-            gz.close()
+    minified_str = json.dumps(repos_index, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
 
-        # Pretty json file
-        with open(str(GEN_FILE), "w") as f:
-            json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
+    # Minified json file
+    with open(str(GEN_MIN_FILE), "w") as f:
+        f.write(minified_str)
 
-        # YAML error log
-        with open(str(GEN_ERROR_LOG), "a+") as f:
-            f.write(error_log)
+    # Gzipped minified json file
+    with open(str(GEN_GZ_FILE), "wb") as f:
+        gz = GzipFile(GEN_MIN_FILE.name, "wb", 9, f, 0.)
+        gz.write(minified_str.encode())
+        gz.close()
+
+    # Pretty json file
+    with open(str(GEN_FILE), "w") as f:
+        json.dump(repos_index, f, indent=4, sort_keys=True, cls=CustomEncoder)
+
+    # YAML error log
+    with open(str(GEN_ERROR_LOG), "a+") as f:
+        f.write(error_log)
 
 
 if __name__ == "__main__":
