@@ -1689,6 +1689,26 @@
                 ],
                 "type": ""
             },
+            "editor": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Allows an administrator to change the text of one of the bot's messages, by either specifying the new content or by taking the content (and embed, if applicable) of another message.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Edit one of the bot's messages easily.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
             "esolang": {
                 "author": [
                     "Neuro Assassin"
@@ -10544,30 +10564,6 @@
                 ],
                 "type": ""
             },
-            "news": {
-                "author": [
-                    "flare(flare#0001)"
-                ],
-                "description": "Grab breaking headline around the world!",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "validators",
-                    "iso8601"
-                ],
-                "short": "Grab the latest headlines, nationally or globally.",
-                "tags": [
-                    "news",
-                    "information"
-                ],
-                "type": ""
-            },
             "r6": {
                 "author": [
                     "flare(flare#0001)"
@@ -13422,26 +13418,6 @@
                 ],
                 "type": "COG"
             },
-            "phenutils": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Various developer utilities.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Various developer utilities.",
-                "tags": [
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "plaguegame": {
                 "author": [
                     "PhenoM4n4n"
@@ -15445,6 +15421,29 @@
                 ],
                 "type": ""
             },
+            "lenny": {
+                "author": [
+                    "tmerc"
+                ],
+                "description": "\u4e41(-\u30ed-)\u310f",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
+                "tags": [
+                    "lenny",
+                    "emoji",
+                    "donger",
+                    "fun"
+                ],
+                "type": ""
+            },
             "massdm": {
                 "author": [
                     "tmerc"
@@ -15652,6 +15651,27 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Play some Lottery games",
+                "tags": [
+                    "economy",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "mccasino": {
+                "author": [
+                    "YamiKaitou#8975"
+                ],
+                "description": "Play various Casino games using various information from Minecraft",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Casino games with random Minecraft stuff",
                 "tags": [
                     "economy",
                     "fun"
