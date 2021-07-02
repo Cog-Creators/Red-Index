@@ -516,30 +516,6 @@
                 ],
                 "type": ""
             },
-            "giftaway": {
-                "author": [
-                    "Flame442 (Flame#2941)"
-                ],
-                "description": "Create grabbable key giveaways.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Create grabbable key giveaways.",
-                "tags": [
-                    "utility"
-                ],
-                "type": ""
-            },
             "hangman": {
                 "author": [
                     "Flame442 (Flame#2941)"
@@ -1069,26 +1045,6 @@
                 ],
                 "type": "COG"
             },
-            "advancedinvite": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Embeds the invite command if possible.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Embed the invite command",
-                "tags": [
-                    "Utility"
-                ],
-                "type": "COG"
-            },
             "brownies": {
                 "author": [
                     "JJW (V2)",
@@ -1457,29 +1413,6 @@
                 ],
                 "type": ""
             },
-            "anarchy": {
-                "author": [
-                    "Malarne (Malarne#1418)"
-                ],
-                "description": "A cog that'll turn your server into anarchy !",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.1.1",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "anarchy moderation cog",
-                "tags": [
-                    "anarchy",
-                    "moderation",
-                    "kick",
-                    "vote"
-                ],
-                "type": ""
-            },
             "apex": {
                 "author": [
                     "Malarne",
@@ -1642,28 +1575,6 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Allows bot owner to set cooldowns for commands",
-                "tags": [
-                    "tools"
-                ],
-                "type": ""
-            },
-            "dashboard": {
-                "author": [
-                    "Neuro Assassin"
-                ],
-                "description": "Control your bot through a web dashboard, allowing people to run commands (with permissions checked) straight from an easy-to-use dashboard.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "markdown2"
-                ],
-                "short": "Interact with your bot through a web dashboard.",
                 "tags": [
                     "tools"
                 ],
@@ -3542,28 +3453,6 @@
                 ],
                 "type": ""
             },
-            "spacex": {
-                "author": [
-                    "Pred\u00e4"
-                ],
-                "description": "Get multiple information about SpaceX using SpaceX-API. You can also use Space cog from kennnyshiwa (https://github.com/kennnyshiwa/kennnyshiwa-cogs) for more about space in general, space pics, Astronomy Picture of the Day from Nasa, ISS location ...",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get multiple information about SpaceX using SpaceX-API.",
-                "tags": [
-                    "spacex",
-                    "space",
-                    "information"
-                ],
-                "type": ""
-            },
             "whoplays": {
                 "author": [
                     "Stevy",
@@ -4020,37 +3909,6 @@
                     "Translation",
                     "Japanese",
                     "Utility"
-                ],
-                "type": ""
-            },
-            "pokedex": {
-                "author": [
-                    "Redjumpman (Redjumpman#1337)"
-                ],
-                "description": "View standard pokemon information, Movesets, TM learn-sets, search items, and pokemon locations.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
-                "permissions": [
-                    "Manage Messages",
-                    "Embed Links",
-                    "Add Reactions"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Look-up info on Pokemon",
-                "tags": [
-                    "Pokemon",
-                    "Information"
                 ],
                 "type": ""
             },
@@ -6601,29 +6459,6 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
-            "antiphoneclapper": {
-                "author": [
-                    "sitryk",
-                    "aikaterna"
-                ],
-                "description": "Deletes messages with malformed GIFs.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow"
-                ],
-                "short": "Deletes messages with malformed GIFs.",
-                "tags": [],
-                "type": "COG"
-            },
             "away": {
                 "author": [
                     "aikaterna",
@@ -7595,28 +7430,6 @@
                     "audio"
                 ],
                 "type": ""
-            },
-            "zalgo": {
-                "author": [
-                    "CalebJ",
-                    "baiumbg"
-                ],
-                "description": "Zalgoifies text. Put a number before the text to adjust intensity from 0-10. Ported to V3 by baiumbg.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "HE COMES",
-                "tags": [
-                    "zalgo",
-                    "fun"
-                ],
-                "type": ""
             }
         },
         "short": "A bunch of useless cogs"
@@ -7670,30 +7483,6 @@
                     "bobloy",
                     "games",
                     "audio"
-                ],
-                "type": ""
-            },
-            "ccrole": {
-                "author": [
-                    "Bobloy"
-                ],
-                "description": "Creates custom commands to adjust roles and send custom messages",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Creates commands that adjust roles",
-                "tags": [
-                    "fox",
-                    "bobloy",
-                    "utility",
-                    "tools",
-                    "roles"
                 ],
                 "type": ""
             },
@@ -9005,28 +8794,6 @@
                 "tags": [],
                 "type": ""
             },
-            "webthing": {
-                "author": [
-                    "luna"
-                ],
-                "description": "Testing running a web server as a cog",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    7,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Testing running a web server as a cog",
-                "tags": [],
-                "type": ""
-            },
             "weeedcog": {
                 "author": [
                     "luna"
@@ -9081,27 +8848,6 @@
                 "tags": [
                     "lockdown",
                     "lock"
-                ],
-                "type": ""
-            },
-            "application": {
-                "author": [
-                    "saurichable"
-                ],
-                "description": "Receive and moderate staff applications with customizable questions.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Applications with custom questions.",
-                "tags": [
-                    "application",
-                    "app"
                 ],
                 "type": ""
             },
@@ -10255,26 +10001,6 @@
                 ],
                 "type": ""
             },
-            "botlistspost": {
-                "author": [
-                    "flare(flare#0001)"
-                ],
-                "description": "Post server count to various discord bot lists.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Post server count to various discord bot lists.",
-                "tags": [
-                    "botlist"
-                ],
-                "type": ""
-            },
             "commandstats": {
                 "author": [
                     "flare(flare#0001)"
@@ -10561,6 +10287,30 @@
                     "mute",
                     "temp mute",
                     "rolemute"
+                ],
+                "type": ""
+            },
+            "news": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Grab breaking headline around the world!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "validators",
+                    "iso8601"
+                ],
+                "short": "Grab the latest headlines, nationally or globally.",
+                "tags": [
+                    "news",
+                    "information"
                 ],
                 "type": ""
             },
@@ -12386,29 +12136,6 @@
                     "latency"
                 ],
                 "type": ""
-            },
-            "statsinfo": {
-                "author": [
-                    "max"
-                ],
-                "description": "Some statsinfo about your bot.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Shows stats",
-                "tags": [
-                    "utility",
-                    "stats"
-                ],
-                "type": ""
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
@@ -12969,27 +12696,6 @@
                 ],
                 "type": ""
             },
-            "messagepinner": {
-                "author": [
-                    "palmtree5"
-                ],
-                "description": "Pins messages containing configured pin trigger text",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Pins messages containing specific text",
-                "tags": [
-                    "pins",
-                    "utility"
-                ],
-                "type": ""
-            },
             "reddit": {
                 "author": [
                     "palmtree5"
@@ -13079,534 +12785,6 @@
             }
         },
         "short": "Various cogs"
-    },
-    "https://github.com/phenom4n4n/phen-cogs": {
-        "author": [
-            "PhenoM4n4n"
-        ],
-        "description": "Utility and fun cogs developed my PhenoM4n4n.",
-        "name": "phen-cogs",
-        "rx_branch": "",
-        "rx_category": "approved",
-        "rx_cogs": {
-            "aki": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Play Akinator in Discord!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "akinator.py[fast_async]"
-                ],
-                "short": "Play Akinator in Discord!",
-                "tags": [
-                    "fun"
-                ],
-                "type": "COG"
-            },
-            "altdentifier": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Check users with AltDentifier API",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "unidecode",
-                    "rapidfuzz"
-                ],
-                "short": "Check users with AltDentifier API",
-                "tags": [],
-                "type": ""
-            },
-            "antihonde": {
-                "author": [
-                    "PhenoM4n4n",
-                    "TrustyJAID"
-                ],
-                "description": "Automatically ban H0nde alts.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores a list of every H0nde it bans.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Automatically ban H0nde alts.",
-                "tags": [
-                    "moderation"
-                ],
-                "type": "COG"
-            },
-            "banchart": {
-                "author": [
-                    "PhenoM4n4n",
-                    "Aikaterna"
-                ],
-                "description": "Display a chart of ban moderators.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Display a chart of ban moderators.",
-                "tags": [],
-                "type": "COG"
-            },
-            "baron": {
-                "author": [
-                    "PhenoM4n4n",
-                    "DragDev Studios",
-                    "KableKompany"
-                ],
-                "description": "Tools for managing guild joins and leaves.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "matplotlib"
-                ],
-                "short": "Tools for managing guild joins and leaves.",
-                "tags": [
-                    "utility",
-                    "guild"
-                ],
-                "type": "COG"
-            },
-            "connect4": {
-                "author": [
-                    "Benjamin Mintz",
-                    "flare",
-                    "PhenoM4n4n"
-                ],
-                "description": "Play Connect 4 in Discord!",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores data on users' wins, losses, and draws per server while playing Connect 4.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Play Connect 4 in Discord!",
-                "tags": [
-                    "fun"
-                ],
-                "type": "COG"
-            },
-            "customping": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Creates a custom ping embed to display latency statistics.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "speedtest-cli"
-                ],
-                "short": "Creates a custom ping embed to display latency statistics.",
-                "tags": [
-                    "ping"
-                ],
-                "type": ""
-            },
-            "disboardreminder": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Set a reminder to bump on Disboard.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "unidecode",
-                    "rapidfuzz",
-                    "git+https://github.com/phenom4n4n/TagScript.git",
-                    "pyparsing"
-                ],
-                "short": "Set a reminder to bump on Disboard.",
-                "tags": [
-                    "Disboard",
-                    "Reminder"
-                ],
-                "type": ""
-            },
-            "embedutils": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Create, post, and store embeds.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the author of an embed. If a user requests data-deletion, all their embeds will be removed from the bot.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Create, post, and store embeds",
-                "tags": [
-                    "embed"
-                ],
-                "type": ""
-            },
-            "forcemention": {
-                "author": [
-                    "Bobloy",
-                    "PhenoM4n4n"
-                ],
-                "description": "Mentions roles that are unmentionable",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Mention unmentionables",
-                "tags": [
-                    "bobloy",
-                    "utils"
-                ],
-                "type": ""
-            },
-            "linkquoter": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Quote Discord message links.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Quote Discord message links.",
-                "tags": [],
-                "type": ""
-            },
-            "lock": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Lock channels or the whole server",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "unidecode",
-                    "rapidfuzz"
-                ],
-                "short": "Lock channels",
-                "tags": [
-                    "utility",
-                    "server"
-                ],
-                "type": "COG"
-            },
-            "permissionslocker": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Lock bot commands to a certain permissions set.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Force permissions for the bot.",
-                "tags": [
-                    "permissions"
-                ],
-                "type": "COG"
-            },
-            "petpet": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Make petpet gifs!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "Pillow"
-                ],
-                "short": "Make petpet gifs!",
-                "tags": [
-                    "fun",
-                    "image"
-                ],
-                "type": "COG"
-            },
-            "pfpimgen": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Make images from avatars!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "Pillow",
-                    "unidecode",
-                    "rapidfuzz"
-                ],
-                "short": "Make images from avatars!",
-                "tags": [
-                    "image"
-                ],
-                "type": "COG"
-            },
-            "plaguegame": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Plague game with a doctor and plaguebearer.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores data on users based off their interactions within the game. Examples of such data are their 'health state' (healthy or infected) or their 'game role' (user, doctor, plaguebearer).",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "unidecode",
-                    "rapidfuzz"
-                ],
-                "short": "Infect users with the plague!",
-                "tags": [
-                    "fun",
-                    "plague"
-                ],
-                "type": ""
-            },
-            "prefix": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Manage guild prefixes more extensively.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Manage guild prefixes.",
-                "tags": [
-                    "server",
-                    "prefix"
-                ],
-                "type": ""
-            },
-            "ratings": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Rate yourself on many things.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Find out how (simp|sane|smart) you are.",
-                "tags": [
-                    "tag1",
-                    "tag2",
-                    "tag3"
-                ],
-                "type": "COG"
-            },
-            "roleutils": {
-                "author": [
-                    "PhenoM4n4n",
-                    "Bobloy",
-                    "TrustyJaid",
-                    "Neuro Assassin"
-                ],
-                "description": "Reaction roles, massroling, and role targeting!.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "unidecode",
-                    "rapidfuzz"
-                ],
-                "short": "Reaction roles, massroling, and role targeting!.",
-                "tags": [
-                    "utility",
-                    "server",
-                    "roles"
-                ],
-                "type": "COG"
-            },
-            "simplecalculator": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Calculate stuff",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/JonSnowbd/TagScript.git"
-                ],
-                "short": "Calculate stuff",
-                "tags": [
-                    "utility",
-                    "calculator"
-                ],
-                "type": ""
-            },
-            "slashtags": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Create custom slash commands.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/phenom4n4n/TagScript.git@4c75754fe31d40e71272a70b33e5dff94fd26167"
-                ],
-                "short": "Create custom slash commands.",
-                "tags": [
-                    "tags",
-                    "slashcommands"
-                ],
-                "type": "COG"
-            },
-            "tags": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Create and use tags.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the author of a tag. If a user requests data-deletion, all their tags will be removed from the bot.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/phenom4n4n/TagScript.git@4c75754fe31d40e71272a70b33e5dff94fd26167",
-                    "beautifulsoup4"
-                ],
-                "short": "Create and use tags.",
-                "tags": [
-                    "tags"
-                ],
-                "type": "COG"
-            },
-            "webhook": {
-                "author": [
-                    "PhenoM4n4n"
-                ],
-                "description": "Various webhook commands to create and send messages along webhooks.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Webhook related commands.",
-                "tags": [
-                    "webhook"
-                ],
-                "type": "COG"
-            }
-        },
-        "short": "General bot cogs."
     },
     "https://github.com/retke/Laggrons-Dumb-Cogs": {
         "author": [
