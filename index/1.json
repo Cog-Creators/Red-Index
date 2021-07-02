@@ -4437,36 +4437,6 @@
                 ],
                 "type": ""
             },
-            "lyrics": {
-                "author": [
-                    "Wyn"
-                ],
-                "description": "Obtain song lyrics",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
-                "permissions": [
-                    "add_reactions",
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "bs4",
-                    "requests-futures"
-                ],
-                "short": "Obtains song lyrics",
-                "tags": [
-                    "lyrics"
-                ],
-                "type": ""
-            },
             "nyaa": {
                 "author": [
                     "Wyn"
@@ -9514,29 +9484,6 @@
                     "rolemembers",
                     "server",
                     "permissions"
-                ],
-                "type": ""
-            },
-            "generalchannel": {
-                "author": [
-                    "Fixator10"
-                ],
-                "description": "Allow users to manage #general channel's name and topic",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Allow users to manage #general channel's name and topic",
-                "tags": [
-                    "#general",
-                    "channel",
-                    "name",
-                    "topic"
                 ],
                 "type": ""
             },
@@ -15441,30 +15388,6 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
-            "catfact": {
-                "author": [
-                    "tmerc"
-                ],
-                "description": "Gets a random cat fact.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Gets a random cat fact.",
-                "tags": [
-                    "catfact",
-                    "cat",
-                    "animals",
-                    "random",
-                    "fun"
-                ],
-                "type": ""
-            },
             "lenny": {
                 "author": [
                     "tmerc"
