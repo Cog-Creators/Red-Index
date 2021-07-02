@@ -8543,7 +8543,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Make moving messages between channels and servers easy and integrated. Copy messages into a new channel, or link up two channels within a server/relay messages across servers! Uses webhooks, which also duplicates user profile pics and nicknames. Supports replies, attachments (files, images, and videos), and embeds (bot command responses). Includes timestamp spacer. Partly inspired by the old 'Relays' cog, but has no affiliation with, no codebase relations to, and integrates in a completely different way from, the old relays cog.",
+                "description": "Make moving messages between channels and servers easy and integrated.\n\n'msgcopy': Copies messages from one channel to another\n'msgrelay': Link up two channels within a server/relay messages across servers\n\nUses webhooks, with configs for showing usernames/profile pics, attachments, and more. Supports replies, attachments, and embeds (including bot command responses). Supports forwarding a channel to multiple channels/webhooks. Includes timestamp spacers when copying messages.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
