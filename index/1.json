@@ -1212,7 +1212,7 @@
                 "description": "A simple, highly customizable todo list for keeping track of things to do",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores reminders (or todos) based on user ids",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
                 "min_python_version": "",
