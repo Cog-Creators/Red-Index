@@ -4437,6 +4437,36 @@
                 ],
                 "type": ""
             },
+            "lyrics": {
+                "author": [
+                    "Wyn"
+                ],
+                "description": "Obtain song lyrics",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "bs4",
+                    "requests-futures"
+                ],
+                "short": "Obtains song lyrics",
+                "tags": [
+                    "lyrics"
+                ],
+                "type": ""
+            },
             "nyaa": {
                 "author": [
                     "Wyn"
@@ -9487,6 +9517,29 @@
                 ],
                 "type": ""
             },
+            "generalchannel": {
+                "author": [
+                    "Fixator10"
+                ],
+                "description": "Allow users to manage #general channel's name and topic",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow users to manage #general channel's name and topic",
+                "tags": [
+                    "#general",
+                    "channel",
+                    "name",
+                    "topic"
+                ],
+                "type": ""
+            },
             "godvilledata": {
                 "author": [
                     "Fixator10"
@@ -12575,245 +12628,6 @@
         },
         "short": "General utilities for Falcom discord"
     },
-    "https://github.com/npc203/npc-cogs": {
-        "author": [
-            "epic guy#0715"
-        ],
-        "description": "A simple set of cogs that I wrote for people to enjoy",
-        "name": "npc-cogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "customhelp": {
-                "author": [
-                    "epic guy",
-                    "PhenoM4n4n"
-                ],
-                "description": "This is customisable help, kindly read the readme of this cog, to set it up",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "packaging"
-                ],
-                "short": "A custom help",
-                "tags": [
-                    "help",
-                    "utility",
-                    "fun"
-                ],
-                "type": "COG"
-            },
-            "embedsteal": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "A cog that converts embed to json.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "An embed reverser cog",
-                "tags": [
-                    "fun",
-                    "utility"
-                ],
-                "type": "COG"
-            },
-            "ghtools": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "A simple set of github tools to profile repos and cogs alike",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pydriller"
-                ],
-                "short": "A small set of github tools",
-                "tags": [
-                    "utility"
-                ],
-                "type": "COG"
-            },
-            "google": {
-                "author": [
-                    "epic guy",
-                    "siu3334",
-                    "fixator"
-                ],
-                "description": "This searches google and fetches results using a custom scraper. The reverse search supports replies as well",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "html2text",
-                    "beautifulsoup4"
-                ],
-                "short": "A google search cog, with rich card results",
-                "tags": [
-                    "fun",
-                    "utility",
-                    "internet"
-                ],
-                "type": "COG"
-            },
-            "snake": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "Ratelimit hell based snake game",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A simple Snake Game",
-                "tags": [
-                    "games",
-                    "fun"
-                ],
-                "type": "COG"
-            },
-            "speak": {
-                "author": [
-                    "epic guy#0715"
-                ],
-                "description": "Ever wanted to speak as someone else or other bots? or you didn't have the right words to say? This cog speaks for you! or mimics other's identity as well, except that it adds a bot tag. It uses webhooks",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A cog that speaks for you or speaks what you type as others",
-                "tags": [
-                    "speak",
-                    "tell",
-                    "fun"
-                ],
-                "type": ""
-            },
-            "tictac": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "Tic tac toe game for fun",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A small tic tac game with multiplayer and AI",
-                "tags": [
-                    "game",
-                    "fun"
-                ],
-                "type": "COG"
-            },
-            "todo": {
-                "author": [
-                    "epic guy#0715"
-                ],
-                "description": "A simple todo list cog with add remove and list todos",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores the todos associated with uids",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A simple todo list",
-                "tags": [
-                    "utility"
-                ],
-                "type": "COG"
-            },
-            "typeracer": {
-                "author": [
-                    "epic guy#0715"
-                ],
-                "description": "This cog can be used to check your typing speed, it isnt that accurate cause of ping issues, otherwise it's a decent one",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "A fun typing speed test cog",
-                "tags": [
-                    "utility",
-                    "fun",
-                    "speedtest"
-                ],
-                "type": ""
-            },
-            "weeb": {
-                "author": [
-                    "epic guy#0715"
-                ],
-                "description": "a random bunch of emoticons for the otakus",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bunch of weeb emoticons OwO",
-                "tags": [
-                    "emoticons",
-                    "emojis",
-                    "weeb",
-                    "fun"
-                ],
-                "type": ""
-            }
-        },
-        "short": "A decent bunch of cogs aimed for having fun"
-    },
     "https://github.com/palmtree5/palmtree5-cogs": {
         "author": [
             "palmtree5"
@@ -15388,6 +15202,30 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "catfact": {
+                "author": [
+                    "tmerc"
+                ],
+                "description": "Gets a random cat fact.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Gets a random cat fact.",
+                "tags": [
+                    "catfact",
+                    "cat",
+                    "animals",
+                    "random",
+                    "fun"
+                ],
+                "type": ""
+            },
             "lenny": {
                 "author": [
                     "tmerc"
