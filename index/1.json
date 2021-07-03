@@ -3483,7 +3483,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "apsw-wheels",
+                    "databases",
+                    "databases[sqlite]",
                     "babel"
                 ],
                 "short": "Multiple tools that are originally used on Martine (https://martinebot.com).",
