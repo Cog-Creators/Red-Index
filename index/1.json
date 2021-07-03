@@ -8543,7 +8543,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Make moving messages between channels and servers easy and integrated.\n\n'msgcopy': Copies messages from one channel to another\n'msgrelay': Link up two channels within a server/relay messages across servers\n\nUses webhooks, with configs for showing usernames/profile pics, attachments, and more. Supports replies, attachments, and embeds (including bot command responses). Supports forwarding a channel to multiple channels/webhooks. Includes timestamp spacers when copying messages.",
+                "description": "Make moving messages between channels/servers easy and integrated, using webhooks.\n\n'msgcopy': Copy messages from one channel to another. Move whole conversations, or merge channels easily with re-uploaded attachments, bot messages, and usernames/profiles replicated in full. Includes timestamp spacers.\n\n'msgrelay': Forward messages from one channel to another channel/server. Relay messages between different servers to bridge communities and share content. Supports usernames/profile pics, replies, attachments (files/images/video), and embeds (bot command replies). Supports edited/deleted messages. Supports forwarding to multiple webhooks/channels.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
