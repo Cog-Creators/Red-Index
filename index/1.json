@@ -1209,23 +1209,20 @@
                 "author": [
                     "Jojo#7791"
                 ],
-                "description": "A simple, highly customizable todo list for keeping track of things to do",
+                "description": "A board designed for keeping track of your tasks.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores reminders (or todos) based on user ids",
-                "hidden": true,
+                "end_user_data_statement": "This cog stores \"tasks\" via user ids.",
+                "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.6",
+                "min_bot_version": "3.4.10",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
-                ],
-                "short": "Customizable todo list!",
+                "requirements": [],
+                "short": "Keep track of things todo",
                 "tags": [
                     "todo",
-                    "utility",
-                    "fun"
+                    "utility"
                 ],
                 "type": "COG"
             },
