@@ -12033,9 +12033,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Get 'leaderboards' about guild roles.",
                 "tags": [
                     "Roles",
