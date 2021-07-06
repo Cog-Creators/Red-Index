@@ -7715,7 +7715,6 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+git://github.com/bobloy/ChatterBot@fox#egg=ChatterBot",
-                    "en_core_web_sm",
                     "kaggle"
                 ],
                 "short": "Local Chatbot run on machine learning",
