@@ -1131,9 +1131,7 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
-                ],
+                "requirements": [],
                 "short": "Minigame about collectibles",
                 "tags": [],
                 "type": ""
@@ -1223,29 +1221,6 @@
                 "tags": [
                     "todo",
                     "utility"
-                ],
-                "type": "COG"
-            },
-            "updateutils": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Update and check the version of Jojo's Utils.\nIf you want to see the command used, please follow this link: https://github.com/Just-Jojo/JojoCogs/blob/master/updateutils/update.py#L39",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils.git"
-                ],
-                "short": "Update Jojo's utils",
-                "tags": [
-                    "utils",
-                    "dev"
                 ],
                 "type": "COG"
             }
