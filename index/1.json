@@ -12340,8 +12340,14 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Uptime, which shows bot uptime.",
@@ -12361,7 +12367,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -12383,8 +12393,14 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Random images.",
@@ -12407,8 +12423,14 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Ping, which shows bot latency.",
@@ -12428,8 +12450,14 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "tabulate"
