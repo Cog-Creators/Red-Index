@@ -15371,6 +15371,24 @@
                 "tags": [],
                 "type": ""
             },
+            "suggestion": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Suggest a change, provides ez access urls",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Suggest",
+                "tags": [],
+                "type": ""
+            },
             "timezone": {
                 "author": [
                     "Eris"
