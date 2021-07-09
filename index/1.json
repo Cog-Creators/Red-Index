@@ -2167,9 +2167,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "aiofiles",
-                    "aiozipstream",
-                    "asynctempfile"
+                    "aiofiles>=0.7.0",
+                    "aiozipstream"
                 ],
                 "short": "Tools for Managing Custom Emojis",
                 "tags": [
@@ -2230,7 +2229,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "feedparser"
+                    "feedparser",
+                    "html2text"
                 ],
                 "short": "GitHub RSS Commit Feeds",
                 "tags": [
