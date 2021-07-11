@@ -15000,6 +15000,26 @@
                 "tags": [],
                 "type": ""
             },
+            "imdb_lookup": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "IMDB Lookup",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "imdbpy"
+                ],
+                "short": "IMDB",
+                "tags": [],
+                "type": ""
+            },
             "insult": {
                 "author": [
                     "Eris"
