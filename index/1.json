@@ -12333,33 +12333,6 @@
                 ],
                 "type": ""
             },
-            "images": {
-                "author": [
-                    "max"
-                ],
-                "description": "Image cog that generate random images from different services.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Random images.",
-                "tags": [
-                    "images",
-                    "pictures"
-                ],
-                "type": ""
-            },
             "nekos": {
                 "author": [
                     "max"
@@ -12384,6 +12357,34 @@
                 "tags": [
                     "images",
                     "pictures"
+                ],
+                "type": ""
+            },
+            "spaceimages": {
+                "author": [
+                    "max"
+                ],
+                "description": "Image cog that generate random space images from different subreddit.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random space images.",
+                "tags": [
+                    "images",
+                    "pictures",
+                    "space"
                 ],
                 "type": ""
             }
