@@ -12333,33 +12333,6 @@
                 ],
                 "type": ""
             },
-            "humblebundle": {
-                "author": [
-                    "max",
-                    "<@306810730055729152>"
-                ],
-                "description": "Responds with the currently available Humble Bundles, if any.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Gives humblebundle available, if any.",
-                "tags": [
-                    "humblebundle",
-                    "freegames",
-                    "freestuff"
-                ],
-                "type": ""
-            },
             "images": {
                 "author": [
                     "max"
@@ -12411,65 +12384,6 @@
                 "tags": [
                     "images",
                     "pictures"
-                ],
-                "type": ""
-            },
-            "ping": {
-                "author": [
-                    "max",
-                    "Senroht#5179",
-                    "Fixator10",
-                    "preda"
-                ],
-                "description": "Ping command which shows bot latency in response.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Ping, which shows bot latency.",
-                "tags": [
-                    "ping",
-                    "latency"
-                ],
-                "type": ""
-            },
-            "statsinfo": {
-                "author": [
-                    "max"
-                ],
-                "description": "Some statsinfo about your bot.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Shows stats",
-                "tags": [
-                    "utility",
-                    "stats"
                 ],
                 "type": ""
             }
