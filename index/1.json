@@ -2992,6 +2992,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "invitetracker": {
+                "author": [
+                    "OofChair",
+                    "GregTCLTK (Skidder#8515)"
+                ],
+                "description": "An invite tracker cog for Red, converted from discord.py to work with Red",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "An invite tracker cog for Red.",
+                "tags": [
+                    "invite",
+                    "invitetracker",
+                    "oofcogs",
+                    "invites",
+                    "track",
+                    "tracker"
+                ],
+                "type": "COG"
+            },
             "redditpic": {
                 "author": [
                     "OofChair"
