@@ -13302,8 +13302,7 @@
                 "requirements": [
                     "unidecode",
                     "rapidfuzz",
-                    "git+https://github.com/phenom4n4n/TagScript.git",
-                    "pyparsing"
+                    "TagScript"
                 ],
                 "short": "Set a reminder to bump on Disboard.",
                 "tags": [
@@ -13592,8 +13591,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/JonSnowbd/TagScript.git"
+                    "TagScript"
                 ],
                 "short": "Calculate stuff",
                 "tags": [
@@ -13616,8 +13614,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/phenom4n4n/TagScript.git@4c75754fe31d40e71272a70b33e5dff94fd26167"
+                    "TagScript==2.6.1"
                 ],
                 "short": "Create custom slash commands.",
                 "tags": [
@@ -13640,8 +13637,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "PyParsing",
-                    "git+https://github.com/phenom4n4n/TagScript.git@4c75754fe31d40e71272a70b33e5dff94fd26167",
+                    "TagScript==2.6.1",
                     "beautifulsoup4"
                 ],
                 "short": "Create and use tags.",
