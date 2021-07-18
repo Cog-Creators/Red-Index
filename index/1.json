@@ -13569,12 +13569,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Find out how (simp|sane|smart) you are.",
-                "tags": [
-                    "tag1",
-                    "tag2",
-                    "tag3"
-                ],
+                "short": "Find out how (simp/sane/smart) you are.",
+                "tags": [],
                 "type": "COG"
             },
             "roleutils": {
