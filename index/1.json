@@ -14963,6 +14963,29 @@
                 "tags": [],
                 "type": ""
             },
+            "haiku": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Determines haikus!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
+                "requirements": [
+                    "nltk",
+                    "syllables"
+                ],
+                "short": "Haiku",
+                "tags": [],
+                "type": ""
+            },
             "hotel_california": {
                 "author": [
                     "Eris"
