@@ -13637,7 +13637,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "TagScript==2.6.1"
+                    "TagScript==2.6.1",
+                    "tabulate"
                 ],
                 "short": "Create custom slash commands.",
                 "tags": [
@@ -13661,7 +13662,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "TagScript==2.6.1",
-                    "beautifulsoup4"
+                    "tabulate"
                 ],
                 "short": "Create and use tags.",
                 "tags": [
