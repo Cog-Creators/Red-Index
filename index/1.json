@@ -15708,6 +15708,129 @@
         },
         "short": "B\u0336o\u0336d\u0336y\u0336 Cogs by tmerc."
     },
+    "https://github.com/vertyco/vrt-cogs": {
+        "author": [
+            "Vertyco"
+        ],
+        "description": "Utility cogs for xbox, minecraft and more",
+        "name": "vrt-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "arktools": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Ark: Survival Evolved server manager and crosschat.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "RCON commands for Ark",
+                "tags": [
+                    "utility",
+                    "ark",
+                    "rcon",
+                    "servermanager"
+                ],
+                "type": "COG"
+            },
+            "inspire": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Get inspiring messages with zenquotes.io API",
+                "disabled": false,
+                "end_user_data_statement": "This cog uses the zenquotes.io API",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get inspiring messages.",
+                "tags": [
+                    "fun",
+                    "inspiring"
+                ],
+                "type": "COG"
+            },
+            "mctools": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "MC server stats",
+                "disabled": false,
+                "end_user_data_statement": "This cog uses the api.mcsrvstat.us API",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get Bedrock server stats.",
+                "tags": [
+                    "utility",
+                    "minecraft"
+                ],
+                "type": "COG"
+            },
+            "xtools": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Get Xbox player data using xbox API",
+                "disabled": false,
+                "end_user_data_statement": "This cog uses the xbl.io API",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get gamertag info.",
+                "tags": [
+                    "fun",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Random Cogs for Red by Vertyco"
+    },
     "https://github.com/yamikaitou/YamiCogs": {
         "author": [
             "YamiKaitou#8975"
