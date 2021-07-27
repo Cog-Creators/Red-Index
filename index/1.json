@@ -15723,7 +15723,7 @@
                 ],
                 "description": "Ark: Survival Evolved server manager and crosschat.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
@@ -15736,7 +15736,9 @@
                     "administrator"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "rcon==1.3.6"
+                ],
                 "short": "RCON commands for Ark",
                 "tags": [
                     "utility",
@@ -15752,7 +15754,7 @@
                 ],
                 "description": "Get inspiring messages with zenquotes.io API",
                 "disabled": false,
-                "end_user_data_statement": "This cog uses the zenquotes.io API",
+                "end_user_data_statement": "This cog uses the zenquotes.io API and does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
