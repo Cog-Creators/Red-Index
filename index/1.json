@@ -15779,9 +15779,9 @@
                 "author": [
                     "Vertyco"
                 ],
-                "description": "MC server stats",
+                "description": "Simple Minecraft server stats cog for Bedrock servers",
                 "disabled": false,
-                "end_user_data_statement": "This cog uses the api.mcsrvstat.us API",
+                "end_user_data_statement": "This cog uses the api.mcsrvstat.us API and does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
