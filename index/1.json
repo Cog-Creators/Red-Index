@@ -11729,46 +11729,6 @@
                 ],
                 "type": "COG"
             },
-            "bubblewrap": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get some bubblewrap.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bubblewrap.",
-                "tags": [
-                    "Bubblewrap"
-                ],
-                "type": "COG"
-            },
-            "codify": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Place text inside of codeblocks.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Codify messages.",
-                "tags": [
-                    "Codify"
-                ],
-                "type": "COG"
-            },
             "cogpaths": {
                 "author": [
                     "Kreusada"
@@ -11879,26 +11839,6 @@
                     "World",
                     "Country",
                     "Countries"
-                ],
-                "type": "COG"
-            },
-            "githubskylines": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get your github skyline, showing your contributions on your account throughout a specified year.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get your github skyline, showing your contributions on your account throughout a specified year.",
-                "tags": [
-                    "Github"
                 ],
                 "type": "COG"
             },
@@ -12062,29 +12002,6 @@
                 ],
                 "type": "COG"
             },
-            "ram": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get your bot's RAM.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "psutil"
-                ],
-                "short": "Random Access Memory",
-                "tags": [
-                    "RAM",
-                    "Random Access Memory"
-                ],
-                "type": "COG"
-            },
             "roleboards": {
                 "author": [
                     "Kreusada"
@@ -12134,51 +12051,6 @@
                     "General",
                     "Game",
                     "Fun"
-                ],
-                "type": "COG"
-            },
-            "sendcards": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Send cards to your friends!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Send cards to users.",
-                "tags": [
-                    "Cards",
-                    "Christmas",
-                    "Birthday",
-                    "DM"
-                ],
-                "type": "COG"
-            },
-            "serverblock": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Disable your bot from joining particular servers.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Disable your bot from joining particular servers.",
-                "tags": [
-                    "Blocklist",
-                    "Blacklist",
-                    "Guild"
                 ],
                 "type": "COG"
             },
