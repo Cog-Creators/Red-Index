@@ -10784,6 +10784,28 @@
                 ],
                 "type": ""
             },
+            "threadbumper": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Bump threads to keep them alive forever..",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bump threads to keep them alive forever.",
+                "tags": [
+                    "threads",
+                    "bump",
+                    "thread bumping"
+                ],
+                "type": ""
+            },
             "tips": {
                 "author": [
                     "flare(flare#0001)"
