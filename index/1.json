@@ -2173,9 +2173,12 @@
                     "utility",
                     "emojis",
                     "management",
-                    "save",
                     "tools",
-                    "zip"
+                    "zip",
+                    "save",
+                    "add",
+                    "delete",
+                    "info"
                 ],
                 "type": "COG"
             },
