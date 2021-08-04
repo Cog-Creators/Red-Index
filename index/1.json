@@ -1112,6 +1112,28 @@
                 ],
                 "type": "COG"
             },
+            "cmdlogger": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Log when certain commands get used. This will always log to the console and can optionally log to a channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Log command usage",
+                "tags": [
+                    "utility",
+                    "log",
+                    "command"
+                ],
+                "type": "COG"
+            },
             "collectibles": {
                 "author": [
                     "Jojo#7791"
