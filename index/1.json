@@ -13818,7 +13818,7 @@
         "rx_cogs": {
             "badgetools": {
                 "author": [
-                    "siu3334",
+                    "ow0x",
                     "Fixator10"
                 ],
                 "description": "Various tools to show stats about your server's user profile badges.",
@@ -13830,13 +13830,11 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "python-dateutil"
-                ],
+                "requirements": [],
                 "short": "Various tools to show stats about your server's user profile badges.",
                 "tags": [
                     "badgetools",
-                    "inbadge",
+                    "badges",
                     "badgecount",
                     "boosters"
                 ],
