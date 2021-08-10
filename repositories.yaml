@@ -67,6 +67,7 @@ unapproved:
   - https://github.com/vertyco/vrt-cogs
   - https://github.com/guacaplushy/RandomBot
 
+
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
