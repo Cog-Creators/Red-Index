@@ -13816,30 +13816,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "badgetools": {
-                "author": [
-                    "ow0x",
-                    "Fixator10"
-                ],
-                "description": "Various tools to show stats about your server's user profile badges.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Various tools to show stats about your server's user profile badges.",
-                "tags": [
-                    "badgetools",
-                    "badges",
-                    "badgecount",
-                    "boosters"
-                ],
-                "type": "COG"
-            },
             "country": {
                 "author": [
                     "siu3334"
@@ -13858,28 +13834,6 @@
                 "tags": [
                     "country",
                     "countries"
-                ],
-                "type": "COG"
-            },
-            "httpcat": {
-                "author": [
-                    "siu3334"
-                ],
-                "description": "Returns httpcat image for HTTP error code.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Returns httpcat image for HTTP error code.",
-                "tags": [
-                    "httpcat",
-                    "httpdog",
-                    "httpduck"
                 ],
                 "type": "COG"
             },
@@ -13936,28 +13890,6 @@
                     "ip",
                     "whois",
                     "ipdata"
-                ],
-                "type": "COG"
-            },
-            "itunes": {
-                "author": [
-                    "siu3334 (<@306810730055729152>)"
-                ],
-                "description": "Fetch various info about a song on Apple iTunes.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Fetch various info about a song from Apple iTunes.",
-                "tags": [
-                    "itunes",
-                    "apple itunes",
-                    "apple music"
                 ],
                 "type": "COG"
             },
@@ -14228,89 +14160,6 @@
                 "tags": [
                     "steam",
                     "steamcog"
-                ],
-                "type": "COG"
-            },
-            "today": {
-                "author": [
-                    "siu3334"
-                ],
-                "description": "Returns a random fact of what happened in history on today.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Returns a random fact of what happened in history on today.",
-                "tags": [
-                    "today",
-                    "history",
-                    "google doodle",
-                    "doodle",
-                    "calendar"
-                ],
-                "type": "COG"
-            },
-            "utilities": {
-                "author": [
-                    "siu3334 (<@306810730055729152>)"
-                ],
-                "description": "Bunch of my utility commands which don't belong anywhere.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "python-dateutil",
-                    "beautifulsoup4"
-                ],
-                "short": "Bunch of my utility commands which don't belong anywhere.",
-                "tags": [
-                    "offlinecount",
-                    "bitly",
-                    "url shorten",
-                    "shorten url",
-                    "snowflake",
-                    "timestamp",
-                    "compare snowflake",
-                    "screenshot",
-                    "screenshotapi",
-                    "inviteinfo",
-                    "invite info",
-                    "know your meme"
-                ],
-                "type": "COG"
-            },
-            "video2gif": {
-                "author": [
-                    "siu3334"
-                ],
-                "description": "Converts provided MP4 video attachment to GIF.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "moviepy",
-                    "youtube-dl"
-                ],
-                "short": "Convert video to GIF.",
-                "tags": [
-                    "video2gif",
-                    "convert",
-                    "gif"
                 ],
                 "type": "COG"
             },
