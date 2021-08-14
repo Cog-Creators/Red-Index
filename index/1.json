@@ -11984,6 +11984,24 @@
                 ],
                 "type": "COG"
             },
+            "ocs": {
+                "author": [],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "oceanscript"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "pinginvoke": {
                 "author": [
                     "Kreusada"
