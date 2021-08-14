@@ -14053,6 +14053,34 @@
                 ],
                 "type": "COG"
             },
+            "phonedb": {
+                "author": [
+                    "ow0x"
+                ],
+                "description": "Fetch various info about a smartphone from GSMArena.com",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiocache",
+                    "beautifulsoup4",
+                    "msgpack"
+                ],
+                "short": "Fetch various info about a smartphone from GSMArena.com",
+                "tags": [
+                    "smartphone",
+                    "gsmarena",
+                    "phone specs",
+                    "phone lookup",
+                    "phone finder"
+                ],
+                "type": "COG"
+            },
             "pokebase": {
                 "author": [
                     "siu3334 (<@306810730055729152>)",
