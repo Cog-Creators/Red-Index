@@ -12342,7 +12342,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Attept to shutdown and restart your bot.",
+                "description": "This cog ask for confirmation if you want to shutdown or restart your bot.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -12359,7 +12359,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "restart and shutdown.",
+                "short": "Confirma if you wanna attept to shutdown or restart.",
                 "tags": [
                     "restart",
                     "shutdown"
