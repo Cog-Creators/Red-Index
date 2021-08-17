@@ -12048,6 +12048,31 @@
                 ],
                 "type": "COG"
             },
+            "pypi": {
+                "author": [
+                    "Kreusada",
+                    "OofChair"
+                ],
+                "description": "Get information about a package available on PyPi.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get information about a package available on PyPi.",
+                "tags": [
+                    "Python",
+                    "Modules",
+                    "Library",
+                    "Libraries",
+                    "Index"
+                ],
+                "type": "COG"
+            },
             "quotes": {
                 "author": [
                     "Kreusada"
