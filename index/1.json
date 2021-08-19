@@ -12443,6 +12443,33 @@
                 ],
                 "type": ""
             },
+            "lyrics": {
+                "author": [
+                    "Predeactor",
+                    "MAX"
+                ],
+                "description": "Obtain lyrics from music you want to search.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "ksoftapi"
+                ],
+                "short": "Obtain lyrics from a music.",
+                "tags": [
+                    "audio",
+                    "fun",
+                    "lyrics",
+                    "sing",
+                    "songs"
+                ],
+                "type": ""
+            },
             "nekos": {
                 "author": [
                     "max"
