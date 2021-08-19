@@ -12448,7 +12448,7 @@
                     "Predeactor",
                     "MAX"
                 ],
-                "description": "Obtain lyrics from music you want to search.",
+                "description": "Obtain lyrics from music you want to search. - Originally by Predeactor.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -12460,7 +12460,7 @@
                 "requirements": [
                     "ksoftapi"
                 ],
-                "short": "Obtain lyrics from a music.",
+                "short": "Obtain lyrics from a music. - Originally by Predeactor.",
                 "tags": [
                     "audio",
                     "fun",
