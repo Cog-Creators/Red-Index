@@ -12119,7 +12119,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Confirma if you wanna attept to shutdown or restart.",
+                "short": "Confirm if you wanna attept to shutdown or restart.",
                 "tags": [
                     "restart",
                     "shutdown"
@@ -12157,7 +12157,7 @@
                     "Predeactor",
                     "MAX"
                 ],
-                "description": "Obtain lyrics from music you want to search. - Originally by Predeactor.",
+                "description": "Get lyrics from songs you search for.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -12169,7 +12169,7 @@
                 "requirements": [
                     "ksoftapi"
                 ],
-                "short": "Obtain lyrics from a music. - Originally by Predeactor.",
+                "short": "Get lyrics from a song you search for.",
                 "tags": [
                     "audio",
                     "fun",
