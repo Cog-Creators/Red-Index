@@ -3015,6 +3015,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "diaccents": {
+                "author": [
+                    "OofChair",
+                    ""
+                ],
+                "description": "Diacritic cog for Red",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Diaccents = Diacritic + accents",
+                "tags": [
+                    "diacritic",
+                    "accent",
+                    "oofcogs",
+                    "dcl"
+                ],
+                "type": "COG"
+            },
             "invitetracker": {
                 "author": [
                     "OofChair",
