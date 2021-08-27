@@ -6114,7 +6114,7 @@
                 ],
                 "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users. Operational data is temporarily collected and cached whenever a command is used.\n\nWhen a command is used, the following data is collected: the message invoking the command, the user that invoked it, the server it was invoked in, and the channel it was invoked in.\n\nThis cog does not support data deletion requests, because the operational data is only stored temporarily.",
+                "end_user_data_statement": "This cog does may persistently store data or metadata about users. Operational data is temporarily collected and cached whenever a command is used and may be stored.\n\nWhen a command is used, the following data is collected: the message invoking the command, the user that invoked it, the server it was invoked in, and the channel it was invoked in. This includes application commands, as well as old-style text commands.\n\nThis cog does not support data deletion requests, it handles operational data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
