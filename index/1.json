@@ -13960,7 +13960,7 @@
             "ocr": {
                 "author": [
                     "TrustyJAID",
-                    "siu3334 (<@306810730055729152>)"
+                    "ow0x"
                 ],
                 "description": "Detect text in images using Google Cloud Vision API.",
                 "disabled": false,
@@ -13975,9 +13975,7 @@
                 "short": "Detect text in images using Google Cloud Vision API.",
                 "tags": [
                     "ocr",
-                    "image to text",
-                    "optical character recognition",
-                    "google vision"
+                    "image to text"
                 ],
                 "type": "COG"
             },
