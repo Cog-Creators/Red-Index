@@ -13484,7 +13484,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "unidecode",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "TagScript"
                 ],
                 "short": "Reaction roles, massroling, and role targeting!.",
                 "tags": [
