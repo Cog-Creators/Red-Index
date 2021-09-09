@@ -15696,6 +15696,30 @@
                 ],
                 "type": "COG"
             },
+            "meow": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Meow",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users right meow.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Meow",
+                "tags": [
+                    "meow"
+                ],
+                "type": "COG"
+            },
             "xtools": {
                 "author": [
                     "Vertyco"
