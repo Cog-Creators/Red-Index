@@ -12203,33 +12203,6 @@
                 ],
                 "type": ""
             },
-            "lyrics": {
-                "author": [
-                    "Predeactor",
-                    "MAX"
-                ],
-                "description": "Get lyrics from songs you search for.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "ksoftapi"
-                ],
-                "short": "Get lyrics from a song you search for.",
-                "tags": [
-                    "audio",
-                    "fun",
-                    "lyrics",
-                    "sing",
-                    "songs"
-                ],
-                "type": ""
-            },
             "nekos": {
                 "author": [
                     "max"
