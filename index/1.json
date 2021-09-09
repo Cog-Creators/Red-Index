@@ -15716,7 +15716,9 @@
                 "requirements": [],
                 "short": "Meow",
                 "tags": [
-                    "meow"
+                    "meow",
+                    "cat",
+                    "cats"
                 ],
                 "type": "COG"
             },
