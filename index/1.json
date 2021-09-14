@@ -15526,7 +15526,7 @@
                 ],
                 "description": "(Arktools Cog Required) Ark: Survival Evolved Shop.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "end_user_data_statement": "This cog stores player XUID's and Discord ID's.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
