@@ -1089,6 +1089,28 @@
                 ],
                 "type": "COG"
             },
+            "advancedlog": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Allow moderators to make notes about users",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores \"notes\" on users via ids.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Log/Make notes about users",
+                "tags": [
+                    "utility",
+                    "moderation",
+                    "mod"
+                ],
+                "type": "COG"
+            },
             "brownies": {
                 "author": [
                     "JJW (V2)",
