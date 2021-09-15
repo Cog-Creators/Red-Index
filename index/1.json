@@ -748,6 +748,534 @@
         },
         "short": "A mixture of cogs made by Flame."
     },
+    "https://github.com/Injabie3/lui-cogs-v3": {
+        "author": [
+            "Injabie3#1660",
+            "sedruk",
+            "KaguneAstra#6000",
+            "TheDarkBot#1677"
+        ],
+        "description": "A plethora of utility cogs by the SFU Anime Club. Some cogs were ported from the v2 days of Red.",
+        "name": "lui-cogs-v3",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "afterhours": {
+                "author": [
+                    "Injabie3#1660",
+                    "KaguneAstra#6000",
+                    "TheDarkBot#1677",
+                    "quachtridat\u30fb\u305f\u3064#8232"
+                ],
+                "description": "This cog applies cog-specific exceptions for the #after-hours channel in SAD. Its use is limited outside of the club.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores when a user last spoke in a configured channel.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "SAD's exception cog handling for #after-hours",
+                "tags": [],
+                "type": ""
+            },
+            "avatar": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog saves avatar images of users for year-end video making purposes",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store users' avatar images",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Save avatar images of users",
+                "tags": [],
+                "type": ""
+            },
+            "birthday": {
+                "author": [
+                    "Injabie3#1660",
+                    "TheDarkBot#1677"
+                ],
+                "description": "This cog assigns and at-mentions a user on their birthday.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will associate a user's Discord ID with the month and day of their birthday, when entered.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Assign and at-mention a user on their birthday",
+                "tags": [
+                    "at-mention",
+                    "birthday",
+                    "notifications",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "catgirl": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows you to post cute, random catgirls from a local database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store any user specific information.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Display cut images of catgirls.",
+                "tags": [
+                    "catgirl",
+                    "images"
+                ],
+                "type": ""
+            },
+            "goodsmileinfo": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog checks GSC for news every hour and posts it to a configurable channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user-specific settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "bs4"
+                ],
+                "short": "Post news from Good Smile Company's (GSC) website to a channel",
+                "tags": [
+                    "news"
+                ],
+                "type": ""
+            },
+            "heartbeat": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows you to punch a heartbeat to an uptime checker like StatusCake.",
+                "disabled": false,
+                "end_user_data_statement": "This cog only stores the URL to your uptime checker.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Punch a heartbeat to an uptime checker",
+                "tags": [
+                    "heartbeat",
+                    "uptime"
+                ],
+                "type": ""
+            },
+            "highlight": {
+                "author": [
+                    "Injabie3#1660",
+                    "sedruk"
+                ],
+                "description": "This cog is a Slack-like feature that allows users to be notified based on specific words outside of at-mentions",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user-defined settings, including their Discord ID in order to associate their preferences.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "DM a user on words they care about.",
+                "tags": [
+                    "notifications",
+                    "dm"
+                ],
+                "type": ""
+            },
+            "qrchecker": {
+                "author": [
+                    "Injabie3#1660",
+                    "TheDarkBot#1677",
+                    "quachtridat\u30fb\u305f\u3064#8232"
+                ],
+                "description": "This cog scans for QR codes (as well as barcodes) in image attachments, and posts their contents in a reply.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user-specific settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pyzbar",
+                    "Pillow"
+                ],
+                "short": "Scan image attachments for QR codes, and post its contents",
+                "tags": [
+                    "qrcode",
+                    "image"
+                ],
+                "type": ""
+            },
+            "ranks": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows users to collect points and level up on a per-server basis.",
+                "disabled": false,
+                "end_user_data_statement": "This cog associates user experience with a user's discord ID.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "mysqlclient"
+                ],
+                "short": "A Mee6-inspired guild rank management system.",
+                "tags": [
+                    "info",
+                    "ranks",
+                    "rankings"
+                ],
+                "type": ""
+            },
+            "respects": {
+                "author": [
+                    "Injabie3#1660",
+                    "quachtridat\u30fb\u305f\u3064#8232"
+                ],
+                "description": "This cog allows users to pay respects, aggregating closely paid respects into one message. It supports replies.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores guild-defined settings, and a user's Discord ID for the purpose of aggregating respects into a single message.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Press f to pay respects.",
+                "tags": [],
+                "type": ""
+            },
+            "roleassigner": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows you to assign random roles from a pool to all users or users of a particular role.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Randomly assign roles to certain users from a pool of roles.",
+                "tags": [
+                    "roles"
+                ],
+                "type": ""
+            },
+            "rss": {
+                "author": [
+                    "Injabie3#1660",
+                    "KaguneAstra#6000",
+                    "sedruk"
+                ],
+                "description": "This cog allows you to post new items from an RSS feed to a text channel of your choice.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store any user specific information.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "bs4",
+                    "feedparser"
+                ],
+                "short": "Post new entries from RSS feeds to a text channel.",
+                "tags": [
+                    "news",
+                    "rss"
+                ],
+                "type": ""
+            },
+            "servermanage": {
+                "author": [
+                    "Injabie3#1660",
+                    "TheDarkBot#1677"
+                ],
+                "description": "This cog allows server owners to automatically change server icons and banners on given days by uploading relevant images in advance. Useful for themed events. Requires level 2 Server Boosts for banners.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores server images and banners in order to change them on certain days.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage your server's collection of banners and icons",
+                "tags": [
+                    "server",
+                    "management",
+                    "banner",
+                    "icon"
+                ],
+                "type": ""
+            },
+            "sfu": {
+                "author": [
+                    "brenfan#9943",
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows users to query SFU's public information, such as webcams, course information, and road reports.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user information.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "bs4",
+                    "requests"
+                ],
+                "short": "Access Simon Fraser University (SFU) public information.",
+                "tags": [
+                    "sfu",
+                    "info"
+                ],
+                "type": ""
+            },
+            "smartreact": {
+                "author": [
+                    "FlapJack#5505",
+                    "Injabie3#1660",
+                    "KamiCreed#7290"
+                ],
+                "description": "A v2 port of flapjax's SmartReact cog, with the ability to refresh custom emojis.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store private user information.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "add_reactions"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically react to messages with emojis.",
+                "tags": [
+                    "reactions"
+                ],
+                "type": ""
+            },
+            "spoilers": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This is a v2 port of our legacy spoiler cog. This was done to port over reaction-based spoilers before Discord had native support for them.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store private user information.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Legacy v2 cog to support emoji-based spoilers in v3.",
+                "tags": [
+                    "spoilers"
+                ],
+                "type": ""
+            },
+            "stats": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows you to show statistics about your server",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store any user specific information.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Display stats about your server",
+                "tags": [
+                    "info",
+                    "statistics",
+                    "stats"
+                ],
+                "type": ""
+            },
+            "tags": {
+                "author": [
+                    "Rapptz",
+                    "Injabie3#1660"
+                ],
+                "description": "This cog is a port of the Danny bot's tags module by Rapptz from the async branch days, with addition modifications.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user-specific settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Save repetitive messages in a short tag for later access.",
+                "tags": [
+                    "fun",
+                    "tags"
+                ],
+                "type": ""
+            },
+            "tempchannels": {
+                "author": [
+                    "Injabie3#1660",
+                    "KaguneAstra#6000"
+                ],
+                "description": "This cog helps create a temporary text channel for a certain duration, and is automatically deleted afterwards. Supports role locking and more",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user-related information.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create a temporary text channel.",
+                "tags": [
+                    "temporary"
+                ],
+                "type": ""
+            },
+            "triggered": {
+                "author": [
+                    "Injabie3#1660",
+                    "\u304f\u305a\u307e#0420"
+                ],
+                "description": "This cog is a custom rework of spoopy's triggered command, except with more :)",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores a user's avatar to create the triggered image.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Feeling triggered? Say no more, fam.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "welcome": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog sends a server-configurable DM message to a user when they join. It also logs when a user joins or leaves a server in a configurable channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user-specific settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "DM a user when they join the server, and log server join/leaves in a channel",
+                "tags": [
+                    "notifications",
+                    "dm"
+                ],
+                "type": ""
+            },
+            "wordfilter": {
+                "author": [
+                    "Injabie3#1660",
+                    "sedruk"
+                ],
+                "description": "This cog allows you to filter messages in text-channel. It uses regex, and allows you to disable filtering in certain text channels, among other things. For developers, it exposes a public API for other cogs to hook into to see if a text blob contains a filtered word.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Smarter word filtering",
+                "tags": [],
+                "type": ""
+            },
+            "yourlsClient": {
+                "author": [
+                    "Injabie3#1660"
+                ],
+                "description": "This cog allows you to manage a YOURLS instance on a per-guild basis. It requires the `yourls-api-edit-url` and `yourls-api-delete` plugins to be install on your YOURLS instance.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the API endpoint and signature in order to connect and authenticate to your YOURLS instance.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yourls"
+                ],
+                "short": "Manage your YOURLS instance from Discord!",
+                "tags": [
+                    "url-shortener"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Utility cogs maintained by the SFU Anime Club"
+    },
     "https://github.com/Jintaku/Jintaku-Cogs-V3": {
         "author": [
             "Jintaku",
