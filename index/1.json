@@ -8079,7 +8079,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+git://github.com/bobloy/ChatterBot@fox#egg=ChatterBot",
+                    "git+git://github.com/bobloy/ChatterBot@fox#egg=ChatterBot>=1.1.0.dev4",
                     "kaggle",
                     "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz#egg=en_core_web_sm",
                     "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.1.0/en_core_web_md-3.1.0.tar.gz#egg=en_core_web_md"
