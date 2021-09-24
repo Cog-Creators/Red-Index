@@ -11220,6 +11220,375 @@
         },
         "short": "Pokecord, rewritten for Red."
     },
+    "https://github.com/goonstation/gooncogs": {
+        "author": [
+            "pali (pali#0439)"
+        ],
+        "description": "Goonstation cogs",
+        "name": "gooncogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "betterreports": {
+                "author": [
+                    "RedBot development team",
+                    "pali (pali#0439)"
+                ],
+                "description": "Fork of built-in Reports module which improves functionality. Lets users send (anonymous or non-anonymous) reports to the server administrators.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discord-py-slash-command"
+                ],
+                "short": "Send reports to server administrators.",
+                "tags": [
+                    "administration",
+                    "reports"
+                ],
+                "type": ""
+            },
+            "editableposts": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Lets administrators create and edit posts via the bot. For example for a rules post etc.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lets administrators create and edit posts via the bot.",
+                "tags": [
+                    "administration"
+                ],
+                "type": ""
+            },
+            "emojieverywhere": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Keeps track of used emoji and lets people use them using a slash command.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discord-py-slash-command"
+                ],
+                "short": "Keeps track of used emoji and lets people use them using a slash command.",
+                "tags": [
+                    "emoji"
+                ],
+                "type": ""
+            },
+            "githubstuff": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Various GitHub-related useful things. TODO better description.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "githubpy",
+                    "requests"
+                ],
+                "short": "Various GitHub-related useful things. TODO better description.",
+                "tags": [
+                    "git",
+                    "github"
+                ],
+                "type": ""
+            },
+            "goonmisc": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Stuff specific to Goonstation that didn't fit elsewhere.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store anything about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "githubpy",
+                    "requests",
+                    "pillow",
+                    "aiohttp",
+                    "cairosvg"
+                ],
+                "short": "Misc/fun stuff for Goonstation servers.",
+                "tags": [
+                    "fun",
+                    "misc"
+                ],
+                "type": ""
+            },
+            "goonservers": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Cog to store list of Goonstation servers and query their status.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cog to store list of Goonstation servers and query their status.",
+                "tags": [
+                    "ss13",
+                    "byond"
+                ],
+                "type": ""
+            },
+            "inlinecommands": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Lets people use commands in-line in messages by putting them in square brackets.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store anything at all.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lets people use commands in-line in messages using [command].",
+                "tags": [
+                    "qol",
+                    "commands"
+                ],
+                "type": ""
+            },
+            "loudvideos": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Sends a warning message when a video is too loud.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "youtube_dl"
+                ],
+                "short": "Sends a warning message when a video is too loud.",
+                "tags": [
+                    "video"
+                ],
+                "type": ""
+            },
+            "norolenoinvite": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Deletes server invite messages from users without roles.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store anything at all.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Deletes invite messages from roleless users.",
+                "tags": [
+                    "administration"
+                ],
+                "type": ""
+            },
+            "pinorder": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Cog that lets you set some pins to be always on top of the pin list.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Cog that lets you set some pins to be always on top of the pin list.",
+                "tags": [
+                    "pins"
+                ],
+                "type": ""
+            },
+            "rolestuff": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Role management for Goonstation server. This is pretty much hardcoded and very specific. Don't install this elsewhere please.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Role management for Goonstation server.",
+                "tags": [
+                    "administration",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "roundreminder": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Lets people set reminders for when a next Goonstation round is starting.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lets people set reminders for when a next Goonstation round is starting.",
+                "tags": [
+                    "ss13",
+                    "reminder"
+                ],
+                "type": ""
+            },
+            "tgs": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Cog to manage Space Station 13 running on TGS.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Cog to manage Space Station 13 running on TGS.",
+                "tags": [
+                    "ss13",
+                    "byond"
+                ],
+                "type": ""
+            },
+            "timestamp": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Lets people generate discord smart timestamps from human readable time description.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store anything at all.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dateparser"
+                ],
+                "short": "Lets people generate discord smart timestamps from human readable time description.",
+                "tags": [
+                    "time",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "wikiss13": {
+                "author": [
+                    "PhasecoreX (PhasecoreX#0635)",
+                    "pali (pali#0439)"
+                ],
+                "description": "Allows for looking up terms on Goonstation Wiki, and having the results displayed in chat. Fork of https://github.com/PhasecoreX/PCXCogs/tree/master/wikipedia that has been mutilated to work with a different wiki.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-dateutil",
+                    "Levenshtein"
+                ],
+                "short": "Look up articles on Goonstation Wiki.",
+                "tags": [
+                    "utility",
+                    "wiki",
+                    "ss13"
+                ],
+                "type": ""
+            },
+            "worldtopic": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Library cog to send messages to BYOND servers' /world/Topic() procedure.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Library cog to send messages to BYOND servers' /world/Topic() procedure.",
+                "tags": [
+                    "ss13",
+                    "byond",
+                    "library"
+                ],
+                "type": ""
+            }
+        },
+        "short": "gooncogs"
+    },
     "https://github.com/grayconcaves/FanCogs": {
         "author": [
             "Chris/Gai (tagape#3232)"
