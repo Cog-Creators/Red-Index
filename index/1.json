@@ -14757,6 +14757,29 @@
                 ],
                 "type": "COG"
             },
+            "jishaku": {
+                "author": [
+                    "Gorialis"
+                ],
+                "description": "Jishaku v2.3.0, a debugging and testing cog for discord.py rewrite bots, ported for Red.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/ow0x/jishaku"
+                ],
+                "short": "Jishaku v2.3.0 ported for Red-DiscordBot.",
+                "tags": [
+                    "jishaku",
+                    "jsk"
+                ],
+                "type": "COG"
+            },
             "kickstarter": {
                 "author": [
                     "siu3334 (<@306810730055729152>)"
