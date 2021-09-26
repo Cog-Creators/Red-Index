@@ -850,7 +850,7 @@
                 "author": [
                     "Injabie3#1660"
                 ],
-                "description": "This cog checks GSC for news every hour and posts it to a configurable channel.",
+                "description": "This cog checks the Good Smile Company (GSC) website for news every hour and posts it to a configurable channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user-specific settings.",
                 "hidden": false,
