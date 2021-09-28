@@ -11319,6 +11319,27 @@
                 ],
                 "type": ""
             },
+            "givepoints": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Let people give points to each other.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Let people give points to each other.",
+                "tags": [
+                    "fun",
+                    "misc"
+                ],
+                "type": ""
+            },
             "goonmisc": {
                 "author": [
                     "pali (pali#0439)"
