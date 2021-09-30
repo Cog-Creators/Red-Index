@@ -7323,6 +7323,26 @@
                 ],
                 "type": "COG"
             },
+            "massunban": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Mass unban users by the ban reason used.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mass unban users.",
+                "tags": [
+                    "unban"
+                ],
+                "type": ""
+            },
             "noflippedtables": {
                 "author": [
                     "irdumb",
