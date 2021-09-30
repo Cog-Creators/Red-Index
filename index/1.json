@@ -11318,6 +11318,31 @@
                 ],
                 "type": ""
             },
+            "generalapi": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "uvicorn",
+                    "fastapi"
+                ],
+                "short": "TODO",
+                "tags": [
+                    "library",
+                    "http",
+                    "api"
+                ],
+                "type": ""
+            },
             "githubstuff": {
                 "author": [
                     "pali (pali#0439)"
@@ -11533,6 +11558,48 @@
                 "tags": [
                     "ss13",
                     "reminder"
+                ],
+                "type": ""
+            },
+            "spacebeecentcom": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TODO",
+                "tags": [
+                    "ss13",
+                    "byond"
+                ],
+                "type": ""
+            },
+            "spacebeecommands": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TODO",
+                "tags": [
+                    "ss13",
+                    "byond"
                 ],
                 "type": ""
             },
