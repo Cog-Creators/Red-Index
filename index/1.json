@@ -33,6 +33,29 @@
                 ],
                 "type": ""
             },
+            "autoroler": {
+                "author": [
+                    "Dav"
+                ],
+                "description": "Assign roles to members when they join your server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Autoroles on join",
+                "tags": [
+                    "Autoroles",
+                    "roles",
+                    "Automation",
+                    "joinroles"
+                ],
+                "type": ""
+            },
             "botstatus": {
                 "author": [
                     "Dav"
@@ -159,7 +182,7 @@
                 ],
                 "description": "Get info on HTTP status codes from https://http.cat",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores no EUD.",
+                "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
