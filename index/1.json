@@ -14633,7 +14633,9 @@
             },
             "tags": {
                 "author": [
-                    "PhenoM4n4n"
+                    "PhenoM4n4n",
+                    "sravan",
+                    "npc203"
                 ],
                 "description": "Create and use tags.",
                 "disabled": false,
@@ -14646,7 +14648,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "TagScript==2.6.2",
-                    "tabulate"
+                    "tabulate",
+                    "rapidfuzz"
                 ],
                 "short": "Create and use tags.",
                 "tags": [
