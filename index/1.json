@@ -15026,7 +15026,7 @@
             "manim": {
                 "author": [
                     "The Manim Community Developers",
-                    "siu3334"
+                    "ow0x"
                 ],
                 "description": "Render mathematical animations with Manim animation engine.",
                 "disabled": false,
