@@ -1625,9 +1625,9 @@
                     "Jojo#7791"
                 ],
                 "description": "An advanced economy for Red - Discord Bot",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
                 "min_python_version": "",
