@@ -13359,7 +13359,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "nekosbest==1.1.2"
+                ],
                 "short": "Random neko images.",
                 "tags": [
                     "images",
