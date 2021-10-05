@@ -11395,7 +11395,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "uvicorn",
-                    "fastapi"
+                    "fastapi",
+                    "aiofiles"
                 ],
                 "short": "TODO",
                 "tags": [
