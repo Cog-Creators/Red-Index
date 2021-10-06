@@ -776,7 +776,8 @@
             "Injabie3#1660",
             "sedruk",
             "KaguneAstra#6000",
-            "TheDarkBot#1677"
+            "TheDarkBot#1677",
+            "quachtridat\u30fb\u305f\u3064#8232"
         ],
         "description": "A plethora of utility cogs by the SFU Anime Club. Some cogs were ported from the v2 days of Red.",
         "name": "lui-cogs-v3",
@@ -1278,7 +1279,7 @@
                 "author": [
                     "Injabie3#1660"
                 ],
-                "description": "This cog allows you to manage a YOURLS instance on a per-guild basis. It requires the `yourls-api-edit-url` and `yourls-api-delete` plugins to be install on your YOURLS instance.",
+                "description": "This cog allows you to manage a YOURLS instance on a per-guild basis. It requires the `yourls-api-delete`, `yourls-api-edit-url`, and `yourls-api-search-keywords` plugins to be installed on your YOURLS instance.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores the API endpoint and signature in order to connect and authenticate to your YOURLS instance.",
                 "hidden": false,
