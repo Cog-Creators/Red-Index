@@ -14904,9 +14904,9 @@
     },
     "https://github.com/siu3334/owo-cogs": {
         "author": [
-            "siu3334 (\u17b5\u17b5\u2764#0055)"
+            "ow0x (\u17b5\u17b5\u17b5\u17b5owo#0055)"
         ],
-        "description": "Some useful cogs for Red Discord Bot",
+        "description": "Some fund and useful utility cogs for Red Discord Bot",
         "name": "owo-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -15159,12 +15159,12 @@
                     "ow0x (<@306810730055729152>)",
                     "phalt"
                 ],
-                "description": "Fetch various info about a Pok\u00e9mon and related data.",
+                "description": "Fetch various info about a Pok\u00e9mon and some fun commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.8",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15172,14 +15172,23 @@
                     "aiocache",
                     "beautifulsoup4",
                     "jmespath",
-                    "msgpack"
+                    "msgpack",
+                    "pillow",
+                    "ujson"
                 ],
-                "short": "Fetch various info about a Pok\u00e9mon and related data.",
+                "short": "Your personal Pok\u00e9dex with fun games/commands.",
                 "tags": [
                     "pokemon",
                     "pokedex",
                     "pokebase",
-                    "pokeapi"
+                    "pokeapi",
+                    "whosthatpokemon",
+                    "pokemontcg",
+                    "pokemon card game",
+                    "pokemon card",
+                    "trainer card",
+                    "pokemon trainer card",
+                    "pokecord"
                 ],
                 "type": "COG"
             },
@@ -15331,7 +15340,7 @@
                 "type": "COG"
             }
         },
-        "short": "Some cogs for Red"
+        "short": "Some fund and useful utility cogs for Red Discord Bot"
     },
     "https://github.com/skeith/MayuYukirin": {
         "author": [
