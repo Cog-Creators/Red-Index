@@ -16970,7 +16970,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "xmltojson>=0.2.0",
-                    "xbox-webapi"
+                    "xbox-webapi",
+                    "utils>=1.0.1"
                 ],
                 "short": "Get Xbox Live Info and Player Stats.",
                 "tags": [
