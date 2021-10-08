@@ -9931,7 +9931,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "wcwidth"
+                    "wcwidth",
+                    "git+https://github.com/fixator10/F10-Cogs-Utils"
                 ],
                 "short": "Commands for getting information about users or servers.",
                 "tags": [
