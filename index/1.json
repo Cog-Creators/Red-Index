@@ -10204,7 +10204,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "python-valve"
+                    "python-valve",
+                    "git+https://github.com/fixator10/F10-Cogs-Utils"
                 ],
                 "short": "Get steamcommunity data",
                 "tags": [
