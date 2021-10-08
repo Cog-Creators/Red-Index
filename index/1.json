@@ -13398,6 +13398,32 @@
                 "tags": [],
                 "type": ""
             },
+            "pokenamegen": {
+                "author": [
+                    "max"
+                ],
+                "description": "pokenamegen is a pok\u00e9mon cog that generate random pok\u00e9mon names from gen 1 to gen 8.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.5",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "pokenamegen to generate pok\u00e9mon names from gen 1 to gen 8.",
+                "tags": [
+                    "pok\u00e9mon"
+                ],
+                "type": ""
+            },
             "spaceimages": {
                 "author": [
                     "max"
