@@ -11057,7 +11057,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "validators",
-                    "tabulate"
+                    "tabulate",
+                    "asyncpraw"
                 ],
                 "short": "Reddit Autoposting of new content.",
                 "tags": [
