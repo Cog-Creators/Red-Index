@@ -1743,9 +1743,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/Just-Jojo/jojoutils@8f0773e"
-                ],
+                "requirements": [],
                 "short": "Cycle your bot's status",
                 "tags": [
                     "utility",
