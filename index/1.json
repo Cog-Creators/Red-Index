@@ -6977,9 +6977,9 @@
                     "aikaterna"
                 ],
                 "description": "Deletes messages with malformed GIFs.",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -7011,7 +7011,8 @@
                 "requirements": [],
                 "short": "Away message toggle for users",
                 "tags": [
-                    "away"
+                    "away",
+                    "afk"
                 ],
                 "type": "COG"
             },
@@ -7038,8 +7039,8 @@
                 "short": "Blurplefy a user profile picture or image.",
                 "tags": [
                     "blurple",
-                    "image",
-                    "profile"
+                    "discord",
+                    "avatar"
                 ],
                 "type": "COG"
             },
@@ -7055,8 +7056,7 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [
-                    "embed_links",
-                    "manage_roles"
+                    "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [],
@@ -7064,7 +7064,7 @@
                 "tags": [
                     "CAH",
                     "cards",
-                    "games"
+                    "game"
                 ],
                 "type": "COG"
             },
@@ -7087,8 +7087,9 @@
                 ],
                 "short": "Generate a pie chart from the last 5000 messages",
                 "tags": [
-                    "data",
+                    "messages",
                     "chart",
+                    "count",
                     "activity"
                 ],
                 "type": "COG"
@@ -7134,7 +7135,9 @@
                 ],
                 "short": "Gets definitions, antonyms, or synonyms for given words",
                 "tags": [
-                    "dictionary"
+                    "dictionary",
+                    "synonym",
+                    "antonym"
                 ],
                 "type": "COG"
             },
@@ -7168,11 +7171,7 @@
                 "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
+                "min_python_version": "",
                 "permissions": [
                     "ban_members",
                     "manage_channels",
@@ -7284,7 +7283,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [
                     "administrator",
@@ -7391,16 +7390,12 @@
                     "aikaterna"
                 ],
                 "description": "Removes all links in specified channels, with the ability to whitelist roles.",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
+                "min_python_version": "",
                 "permissions": [
                     "manage_messages"
                 ],
@@ -7416,7 +7411,7 @@
             "otherbot": {
                 "author": [
                     "aikaterna",
-                    "Pred\u00e4 \u3002#1001"
+                    "Pred\u00e4"
                 ],
                 "description": "Alerts a role when bot(s) go offline.",
                 "disabled": false,
@@ -7432,13 +7427,16 @@
                 "requirements": [],
                 "short": "Alerts a role when bot(s) go offline.",
                 "tags": [
-                    "bots"
+                    "bot",
+                    "offline",
+                    "uptime"
                 ],
                 "type": "COG"
             },
             "partycrash": {
                 "author": [
-                    "aikaterna"
+                    "aikaterna",
+                    "Will (tekulvw)"
                 ],
                 "description": "Posts invites to servers, if the bot is allowed to view them. Does not generate new invites.",
                 "disabled": false,
@@ -7474,6 +7472,7 @@
                 "requirements": [],
                 "short": "Ping pong.",
                 "tags": [
+                    "ping",
                     "pingtime",
                     "latency"
                 ],
@@ -7495,6 +7494,7 @@
                 "requirements": [],
                 "short": "Press f to pay respects.",
                 "tags": [
+                    "f",
                     "pressf",
                     "respects"
                 ],
@@ -7547,9 +7547,9 @@
                     "aikaterna"
                 ],
                 "description": "Change the Discord server's region with a command.",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -7565,14 +7565,15 @@
             },
             "rndstatus": {
                 "author": [
-                    "aikaterna"
+                    "aikaterna",
+                    "Twentysix"
                 ],
                 "description": "Random statuses with an optional bot stats mode. Ported from Twentysix's v2 cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.6",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -7582,32 +7583,6 @@
                     "status"
                 ],
                 "type": "COG"
-            },
-            "rss": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Read RSS feeds",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "bs4",
-                    "feedparser>=6.0.0",
-                    "webcolors==1.3"
-                ],
-                "short": "Read RSS feeds",
-                "tags": [
-                    "rss"
-                ],
-                "type": ""
             },
             "seen": {
                 "author": [
@@ -7690,11 +7665,7 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    8,
-                    0
-                ],
+                "min_python_version": "",
                 "permissions": [
                     "ban_members",
                     "manage_channels"
@@ -7741,11 +7712,7 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    6,
-                    0
-                ],
+                "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -7753,7 +7720,8 @@
                 "tags": [
                     "trick or treat",
                     "candy",
-                    "pick"
+                    "pick",
+                    "halloween"
                 ],
                 "type": "COG"
             },
@@ -7767,7 +7735,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.2",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [
                     "add_reactions"
@@ -7783,33 +7751,13 @@
                 ],
                 "type": "COG"
             },
-            "urlfetch": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Fetch text from a URL.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Fetch text from a URL.",
-                "tags": [
-                    "api"
-                ],
-                "type": ""
-            },
             "warcraftlogs": {
                 "author": [
                     "aikaterna",
                     "Kowlin"
                 ],
                 "description": "Check WarcraftLogs for data on players of World of Warcraft Classic.",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "This cog stores data provided by users for the express purpose of redisplaying. It does not store user data which was not provided through a command. Users may remove their own content without making a data removal request. This cog does not support data requests, but will respect deletion requests.",
                 "hidden": true,
                 "max_bot_version": "",
@@ -7853,7 +7801,8 @@
             },
             "youtube": {
                 "author": [
-                    "aikaterna"
+                    "aikaterna",
+                    "Paddo"
                 ],
                 "description": "Search youtube for videos, originally by Paddo. This version also includes a ytsearch command to look through multiple results.",
                 "disabled": false,
