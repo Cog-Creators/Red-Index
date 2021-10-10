@@ -7584,6 +7584,32 @@
                 ],
                 "type": "COG"
             },
+            "rss": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Read RSS feeds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "bs4",
+                    "feedparser>=6.0.0",
+                    "webcolors==1.3"
+                ],
+                "short": "Read RSS feeds.",
+                "tags": [
+                    "rss"
+                ],
+                "type": ""
+            },
             "seen": {
                 "author": [
                     "aikaterna"
@@ -7750,6 +7776,26 @@
                     "ttt"
                 ],
                 "type": "COG"
+            },
+            "urlfetch": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Fetch text from a URL.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch text from a URL.",
+                "tags": [
+                    "api"
+                ],
+                "type": ""
             },
             "warcraftlogs": {
                 "author": [
