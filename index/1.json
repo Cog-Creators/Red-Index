@@ -11382,6 +11382,26 @@
                 ],
                 "type": ""
             },
+            "githubendpoint": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TODO",
+                "tags": [
+                    "github"
+                ],
+                "type": ""
+            },
             "githubstuff": {
                 "author": [
                     "pali (pali#0439)"
