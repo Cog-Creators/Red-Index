@@ -9904,7 +9904,7 @@
                 "short": "Useful commands for server administrators.",
                 "tags": [
                     "admin",
-                    "emoj",
+                    "emoji",
                     "purge"
                 ],
                 "type": ""
@@ -14941,9 +14941,9 @@
     },
     "https://github.com/siu3334/owo-cogs": {
         "author": [
-            "ow0x (\u17b5\u17b5\u17b5\u17b5owo#0055)"
+            "ow0x (<@306810730055729152>)"
         ],
-        "description": "Some fund and useful utility cogs for Red Discord Bot",
+        "description": "Some fun and useful utility cogs for Red Discord Bot",
         "name": "owo-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -15377,7 +15377,7 @@
                 "type": "COG"
             }
         },
-        "short": "Some fund and useful utility cogs for Red Discord Bot"
+        "short": "Some fun and useful utility cogs for Red Discord Bot"
     },
     "https://github.com/skeith/MayuYukirin": {
         "author": [
