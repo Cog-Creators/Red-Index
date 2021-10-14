@@ -6618,7 +6618,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Get all the information you could ever need about a command's aliases.",
                 "tags": [
@@ -6642,7 +6642,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -6666,7 +6666,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
@@ -6691,7 +6691,7 @@
                 "requirements": [
                     "pandas",
                     "matplotlib",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -6715,7 +6715,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
@@ -6740,7 +6740,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -6764,7 +6764,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
                 "tags": [
@@ -6791,7 +6791,7 @@
                 "requirements": [
                     "pandas>=1.1.0",
                     "matplotlib",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
@@ -6817,7 +6817,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "markdownify",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -6842,7 +6842,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
@@ -6884,7 +6884,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "rapidfuzz",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Get the time in different timezones in voice channels.",
                 "tags": [
@@ -6910,7 +6910,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "wakeonlan",
-                    "vex-cog-utils==1.5.8"
+                    "vex-cog-utils==1.5.9"
                 ],
                 "short": "Use Wake on LAN from Discord! This cog sends magic packets on the local network.",
                 "tags": [
