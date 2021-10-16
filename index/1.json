@@ -13743,26 +13743,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "antisticker": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "Simple cog that prevents all stickers from being posted",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Prevent stickers from being posted in channels",
-                "tags": [
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "bible": {
                 "author": [
                     "epic guy"
@@ -13810,49 +13790,6 @@
                     "help",
                     "utility",
                     "fun"
-                ],
-                "type": "COG"
-            },
-            "embedsteal": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "A cog that converts embed to json.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "An embed reverser cog",
-                "tags": [
-                    "fun",
-                    "utility"
-                ],
-                "type": "COG"
-            },
-            "ghtools": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "A simple set of github tools to profile repos and cogs alike",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pydriller"
-                ],
-                "short": "A small set of github tools",
-                "tags": [
-                    "utility"
                 ],
                 "type": "COG"
             },
@@ -13925,27 +13862,6 @@
                     "fun"
                 ],
                 "type": ""
-            },
-            "tictac": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "Tic tac toe game for fun",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A small tic tac game with multiplayer and AI",
-                "tags": [
-                    "game",
-                    "fun"
-                ],
-                "type": "COG"
             },
             "todo": {
                 "author": [
