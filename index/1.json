@@ -12951,9 +12951,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "toml"
-                ],
+                "requirements": [],
                 "short": "Custom ping response.",
                 "tags": [
                     "Ping",
