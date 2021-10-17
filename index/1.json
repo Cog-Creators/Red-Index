@@ -13663,7 +13663,7 @@
         "description": "A simple set of cogs that I wrote for people to enjoy",
         "name": "npc-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "bible": {
                 "author": [
