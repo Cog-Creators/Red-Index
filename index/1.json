@@ -207,12 +207,14 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aio-mc-rcon"
+                ],
                 "short": "Sync Minecraft whitelist with discord.",
                 "tags": [
                     "Minecraft",
                     "Whitelist",
-                    "Auromation"
+                    "Automation"
                 ],
                 "type": ""
             },
