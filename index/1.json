@@ -13379,33 +13379,6 @@
                 ],
                 "type": ""
             },
-            "inspirational": {
-                "author": [
-                    "max"
-                ],
-                "description": "inspirational cog to get random quotes.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.5",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get random quotes.",
-                "tags": [
-                    "quotes",
-                    "quote"
-                ],
-                "type": ""
-            },
             "nekos": {
                 "author": [
                     "max"
