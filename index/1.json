@@ -13372,7 +13372,7 @@
                 "description": "Image cog that generate random space images from different subreddit.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
@@ -13388,8 +13388,8 @@
                 "short": "Random space images.",
                 "tags": [
                     "images",
-                    "pictures",
-                    "space"
+                    "space",
+                    "nasa"
                 ],
                 "type": ""
             },
