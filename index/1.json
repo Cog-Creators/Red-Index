@@ -13314,7 +13314,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Begging or get random coins that goes to your bank balance.",
+                "description": "Begging or get random coins that goes to your bank balance, only work every 3 hours.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -13330,7 +13330,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Begging or get coins.",
+                "short": "Begging or get random coins, only work every 3 hours.",
                 "tags": [
                     "beg",
                     "coins"
