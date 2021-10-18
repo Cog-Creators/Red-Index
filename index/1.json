@@ -13332,7 +13332,8 @@
                 "requirements": [],
                 "short": "Begging or get coins.",
                 "tags": [
-                    "uptime"
+                    "beg",
+                    "coins"
                 ],
                 "type": ""
             },
