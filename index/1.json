@@ -16771,7 +16771,7 @@
                 ],
                 "description": "View your Xbox profile, friends, game clips, achievements and more!",
                 "disabled": false,
-                "end_user_data_statement": "This cog Microsofts XSAPI to pull data, it stores your (the bot owner's) client ID and secret for the Azure application for authorization.",
+                "end_user_data_statement": "This cog uses Microsofts XSAPI endpoints to pull data. It stores your (the bot owner's) client ID and secret for the Azure application for authorization.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
