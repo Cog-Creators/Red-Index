@@ -13289,7 +13289,7 @@
                 "description": "Shows the invite link to your bot with uses buttons.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.5",
                 "min_python_version": [
@@ -13308,7 +13308,7 @@
                 "tags": [
                     "invite"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "embeduptime": {
                 "author": [
@@ -13334,7 +13334,7 @@
                 "tags": [
                     "uptime"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "nekos": {
                 "author": [
@@ -13363,7 +13363,7 @@
                     "images",
                     "pictures"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "spaceimages": {
                 "author": [
@@ -13391,7 +13391,7 @@
                     "space",
                     "nasa"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "veryfun": {
                 "author": [
@@ -13417,7 +13417,7 @@
                 "tags": [
                     "roleplay"
                 ],
-                "type": ""
+                "type": "COG"
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
