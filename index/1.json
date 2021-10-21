@@ -13365,7 +13365,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "This sends shard events.",
+                "short": "This cog is used to send shard events.",
                 "tags": [
                     "shard",
                     "reconnect",
