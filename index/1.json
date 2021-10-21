@@ -3906,7 +3906,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pyparsing",
+                    "python-dateutil"
+                ],
                 "short": "Set reminders for yourself.",
                 "tags": [
                     "reminder",
