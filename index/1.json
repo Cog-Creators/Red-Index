@@ -13340,7 +13340,37 @@
                 "short": "Random neko images.",
                 "tags": [
                     "images",
-                    "pictures"
+                    "neko",
+                    "nekos"
+                ],
+                "type": "COG"
+            },
+            "onconnect": {
+                "author": [
+                    "max"
+                ],
+                "description": "On connect is a shard event cog that shows on ready, disconnect and resummed.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "This sends shard events.",
+                "tags": [
+                    "shard",
+                    "reconnect",
+                    "disconnect",
+                    "on_ready"
                 ],
                 "type": "COG"
             },
