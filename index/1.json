@@ -8782,6 +8782,31 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "bartender": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Serve some yummy drinks to your fellow server members!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Serve some yummy drinks!",
+                "tags": [
+                    "bar",
+                    "drinks",
+                    "soda",
+                    "cocktail",
+                    "cafe",
+                    "coffee"
+                ],
+                "type": ""
+            },
             "coffeetime": {
                 "author": [
                     "coffeebank",
