@@ -3581,7 +3581,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "dcl"
+                ],
                 "short": "Diaccents = Diacritic + accents",
                 "tags": [
                     "diacritic",
@@ -3630,9 +3632,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "aiohttp"
-                ],
+                "requirements": [],
                 "short": "Get a random picture from Reddit.",
                 "tags": [
                     "meme",
@@ -3673,7 +3673,7 @@
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.4.6",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -3694,7 +3694,7 @@
                 ],
                 "description": "Send your image and shorten your URL with your own subdomain.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
