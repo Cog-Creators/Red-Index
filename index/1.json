@@ -16605,7 +16605,7 @@
                 ],
                 "description": "Ark: Survival Evolved server manager and crosschat.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "end_user_data_statement": "This cog may use considerable network traffic over time depending on how many servers you have.\\nThis cog stores Gamertag Names, time played per map, and optional token data for Xbox self-host accounts.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
