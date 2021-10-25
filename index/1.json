@@ -13454,6 +13454,32 @@
                     "roleplay"
                 ],
                 "type": "COG"
+            },
+            "watchlist": {
+                "author": [
+                    "MAX, npc-cogs(epic guy#0715)"
+                ],
+                "description": "A watchlist cog to add what you wanna watch. eg: serie, anime movie.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the watchlist associated with uids",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random watchlist cog to add what to watch for movie and serie.",
+                "tags": [
+                    "watchlist"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
