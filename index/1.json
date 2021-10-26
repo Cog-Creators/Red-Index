@@ -1,4 +1,100 @@
 {
+    "https://github.com/Craftzman7/crafter-cogs": {
+        "author": [
+            "Crafter#0001"
+        ],
+        "description": "Random cogs that I came up with on a sunday morning",
+        "name": "crafter-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "animal": {
+                "author": [
+                    "Crafter#0001"
+                ],
+                "description": "Fetch pictures of a variety of animals",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data of any sort",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get animal pictures",
+                "tags": [],
+                "type": ""
+            },
+            "basic": {
+                "author": [
+                    "Crafter#0001"
+                ],
+                "description": "Very basic example cog",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data of any sort",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Basic example cog",
+                "tags": [],
+                "type": ""
+            },
+            "massdm": {
+                "author": [
+                    "Crafter#0001"
+                ],
+                "description": "Message multiple users at once",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data of any sort",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mass DM users",
+                "tags": [],
+                "type": ""
+            },
+            "voicemaster": {
+                "author": [
+                    "Crafter#0001"
+                ],
+                "description": "Allows for administration of voice channels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data of any sort",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "manage_channels",
+                    "mute_members",
+                    "deafen_members"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Moderation VCs",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Fun and utility cogs"
+    },
     "https://github.com/Dav-Git/Dav-Cogs": {
         "author": [
             "Dav"
@@ -4731,6 +4827,83 @@
             }
         },
         "short": "Cogs from Sharky"
+    },
+    "https://github.com/TheF1ng3r/finger-cogs": {
+        "author": [
+            "TheF1ng3r"
+        ],
+        "description": "Set of cogs that will bring more fun and utility to your bot.",
+        "name": "finger-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "clashofclans": {
+                "author": [
+                    "TheF1ng3r"
+                ],
+                "description": "Get info about users army, level, trophies and clans war, members and donations!",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data only if set by the user. Your clan and account tags are the only data saved.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get info about users and clans in Clash of Clans!",
+                "tags": [
+                    "clashofclans",
+                    "coc",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "statusroles": {
+                "author": [
+                    "TheF1ng3r"
+                ],
+                "description": "This cog allows you to gain roles based on certain text in members statuses.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Gain roles based on text in members status.",
+                "tags": [
+                    "status",
+                    "roles",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "wordcounting": {
+                "author": [
+                    "TheF1ng3r"
+                ],
+                "description": "Create a word counting channel, where people can count using words!",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores your data only if you were the last to count. This data is to check if you double count.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Count using words.",
+                "tags": [
+                    "counting",
+                    "words"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Fun and helpful cogs"
     },
     "https://github.com/TheWyn/Wyn-RedV3Cogs": {
         "author": [
