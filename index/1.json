@@ -13314,7 +13314,7 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "botinfostats": {
+            "botstats": {
                 "author": [
                     "max"
                 ],
