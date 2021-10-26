@@ -69,6 +69,29 @@
                 "tags": [],
                 "type": ""
             },
+            "roleplay": {
+                "author": [
+                    "Crafter#0001"
+                ],
+                "description": "Cog used for rolplaying with other Discord users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data of any sort",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "nekos.py"
+                ],
+                "short": "Cog used for roleplay",
+                "tags": [],
+                "type": ""
+            },
             "voicemaster": {
                 "author": [
                     "Crafter#0001"
