@@ -16849,7 +16849,8 @@
                 "requirements": [
                     "rcon",
                     "pytz",
-                    "xbox-webapi"
+                    "xbox-webapi",
+                    "matplotlib"
                 ],
                 "short": "RCON tools for Ark",
                 "tags": [
