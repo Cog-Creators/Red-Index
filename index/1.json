@@ -13494,35 +13494,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "botstats": {
-                "author": [
-                    "max"
-                ],
-                "description": "This shows some stats on your bot.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Shows some stats on your bot.",
-                "tags": [
-                    "stats",
-                    "botstats"
-                ],
-                "type": "COG"
-            },
             "embeduptime": {
                 "author": [
                     "max"
