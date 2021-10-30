@@ -16922,7 +16922,10 @@
                     "utility",
                     "ark",
                     "rcon",
-                    "servermanager"
+                    "servermanager",
+                    "server",
+                    "survival",
+                    "gameserver"
                 ],
                 "type": "COG"
             },
