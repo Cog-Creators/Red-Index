@@ -13123,23 +13123,31 @@
                 ],
                 "type": "COG"
             },
-            "ocs": {
-                "author": [],
-                "description": "",
+            "onthisday": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Find out what happened today, in multiple different years in history.",
                 "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "oceanscript"
+                    "dateparser"
                 ],
-                "short": "",
-                "tags": [],
-                "type": ""
+                "short": "Find out what happened today, in multiple different years in history.",
+                "tags": [
+                    "On This Day",
+                    "History",
+                    "Year",
+                    "Time",
+                    "Date"
+                ],
+                "type": "COG"
             },
             "pinginvoke": {
                 "author": [
