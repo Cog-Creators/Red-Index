@@ -1940,7 +1940,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate"
+                ],
                 "short": "Keep track of things todo",
                 "tags": [
                     "todo",
