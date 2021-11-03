@@ -17035,7 +17035,7 @@
                 ],
                 "description": "Simple Minecraft server stats cog for Bedrock servers",
                 "disabled": false,
-                "end_user_data_statement": "This cog uses the api.mcsrvstat.us API and does not persistently store data about users.",
+                "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
@@ -17048,11 +17048,14 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "mcstats"
+                ],
                 "short": "Get Bedrock server stats.",
                 "tags": [
                     "utility",
-                    "minecraft"
+                    "minecraft",
+                    "bedrock"
                 ],
                 "type": "COG"
             },
