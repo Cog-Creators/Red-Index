@@ -22,7 +22,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A log to send the result of a command to another channel.",
+                "short": "A cog to send the result of a command to another channel.",
                 "tags": [
                     "command",
                     "channel",
