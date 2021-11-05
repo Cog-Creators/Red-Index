@@ -6833,14 +6833,15 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Get all the information you could ever need about a command's aliases.",
-                "tags": [
-                    "utility",
-                    "alias",
+                "requirements": [
                     "tabulate",
                     "cachetools",
                     "asyncache"
+                ],
+                "short": "Get all the information you could ever need about a command's aliases.",
+                "tags": [
+                    "utility",
+                    "alias"
                 ],
                 "type": ""
             },
@@ -6858,16 +6859,15 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
                     "utility",
                     "ping",
-                    "pingtime",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "pingtime"
                 ],
                 "type": ""
             },
@@ -6884,14 +6884,15 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
-                "tags": [
-                    "utility",
-                    "json",
+                "requirements": [
                     "tabulate",
                     "cachetools",
                     "asyncache"
+                ],
+                "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
+                "tags": [
+                    "utility",
+                    "json"
                 ],
                 "type": ""
             },
@@ -6910,16 +6911,16 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "matplotlib"
+                    "matplotlib",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
                     "utility",
                     "uptime",
-                    "meta",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "meta"
                 ],
                 "type": ""
             },
@@ -6936,15 +6937,16 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
+                ],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
                     "utility",
                     "log",
-                    "logging",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "logging"
                 ],
                 "type": ""
             },
@@ -6962,16 +6964,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub>=5.0.0"
+                    "gidgethub>=5.0.0",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
                     "utility",
                     "github",
-                    "issues",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "issues"
                 ],
                 "type": ""
             },
@@ -6988,16 +6990,17 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
+                ],
                 "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
                 "tags": [
                     "madtranslate",
                     "translate",
                     "google",
-                    "fun",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "fun"
                 ],
                 "type": ""
             },
@@ -7016,17 +7019,17 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas>=1.1.0",
-                    "matplotlib"
+                    "matplotlib",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
                     "utility",
                     "timeseries",
                     "tracking",
-                    "stats",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "stats"
                 ],
                 "type": ""
             },
@@ -7044,16 +7047,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "markdownify"
+                    "markdownify",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
                     "utility",
                     "statuspage",
-                    "trust",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "trust"
                 ],
                 "type": ""
             },
@@ -7143,16 +7146,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "wakeonlan"
+                    "wakeonlan",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Use Wake on LAN from Discord! This cog sends magic packets on the local network.",
                 "tags": [
                     "utility",
                     "wakeonlan",
-                    "local",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "local"
                 ],
                 "type": ""
             }
