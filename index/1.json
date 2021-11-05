@@ -6837,7 +6837,10 @@
                 "short": "Get all the information you could ever need about a command's aliases.",
                 "tags": [
                     "utility",
-                    "alias"
+                    "alias",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6861,7 +6864,10 @@
                 "tags": [
                     "utility",
                     "ping",
-                    "pingtime"
+                    "pingtime",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6882,7 +6888,10 @@
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
                     "utility",
-                    "json"
+                    "json",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6907,7 +6916,10 @@
                 "tags": [
                     "utility",
                     "uptime",
-                    "meta"
+                    "meta",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6929,7 +6941,10 @@
                 "tags": [
                     "utility",
                     "log",
-                    "logging"
+                    "logging",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6953,7 +6968,10 @@
                 "tags": [
                     "utility",
                     "github",
-                    "issues"
+                    "issues",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -6976,7 +6994,10 @@
                     "madtranslate",
                     "translate",
                     "google",
-                    "fun"
+                    "fun",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -7002,7 +7023,10 @@
                     "utility",
                     "timeseries",
                     "tracking",
-                    "stats"
+                    "stats",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -7026,7 +7050,10 @@
                 "tags": [
                     "utility",
                     "statuspage",
-                    "trust"
+                    "trust",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             },
@@ -7044,7 +7071,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "psutil>=5.8.0"
+                    "psutil>=5.8.0",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
@@ -7085,7 +7115,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "short": "Get the time in different timezones in voice channels.",
                 "tags": [
@@ -7116,7 +7149,10 @@
                 "tags": [
                     "utility",
                     "wakeonlan",
-                    "local"
+                    "local",
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
                 ],
                 "type": ""
             }
