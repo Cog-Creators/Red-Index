@@ -13652,34 +13652,6 @@
                 ],
                 "type": "COG"
             },
-            "advancedinvite": {
-                "author": [
-                    "max"
-                ],
-                "description": "Shows the invite link to your bot with uses buttons.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "dislash.py==1.4.9"
-                ],
-                "short": "Shows the invite link with buttons",
-                "tags": [
-                    "invite"
-                ],
-                "type": "COG"
-            },
             "embeduptime": {
                 "author": [
                     "max"
@@ -13726,7 +13698,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "nekosbest==1.1.2"
+                    "nekosbest==1.1.2",
+                    "dislash.py==1.4.9"
                 ],
                 "short": "Random neko images.",
                 "tags": [
