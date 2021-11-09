@@ -12024,6 +12024,26 @@
                 ],
                 "type": ""
             },
+            "stopnitroscams": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "Deletes messages and bans users trying to scam people.",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store anything at all.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Deletes messages and bans users trying to scam people.",
+                "tags": [
+                    "administration"
+                ],
+                "type": ""
+            },
             "tgs": {
                 "author": [
                     "pali (pali#0439)"
