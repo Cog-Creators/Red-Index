@@ -6912,7 +6912,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
-                    "matplotlib",
+                    "plotly",
+                    "kaleido",
                     "tabulate",
                     "cachetools",
                     "asyncache"
