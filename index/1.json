@@ -6982,7 +6982,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
+                "description": "Find out what the world is searching, right from Discord. Includes charts.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -7050,7 +7050,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas>=1.1.0",
-                    "matplotlib",
+                    "plotly",
+                    "kaleido",
                     "tabulate",
                     "cachetools",
                     "asyncache"
