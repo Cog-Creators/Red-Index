@@ -6825,7 +6825,7 @@
                 "author": [
                     "Vexed (Vexed#3211)"
                 ],
-                "description": "Get all the information you could ever need about a command's aliases.",
+                "description": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -6839,7 +6839,7 @@
                     "cachetools",
                     "asyncache"
                 ],
-                "short": "Get all the information you could ever need about a command's aliases.",
+                "short": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "tags": [
                     "utility",
                     "alias"
