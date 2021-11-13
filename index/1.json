@@ -2771,7 +2771,8 @@
                     "fun",
                     "brainshop",
                     "ai",
-                    "chatbot"
+                    "chatbot",
+                    "cleverbot"
                 ],
                 "type": "COG"
             },
