@@ -1121,7 +1121,7 @@
                     "TheDarkBot#1677",
                     "quachtridat\u30fb\u305f\u3064#8232"
                 ],
-                "description": "This cog scans for QR codes (as well as barcodes) in image attachments, and posts their contents in a reply.",
+                "description": "This cog scans for QR codes in image attachments, and posts their contents in a reply.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user-specific settings.",
                 "hidden": false,
