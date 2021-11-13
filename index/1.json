@@ -7319,7 +7319,8 @@
             "away": {
                 "author": [
                     "aikaterna",
-                    "Axas"
+                    "Axas",
+                    "TrustyJAID"
                 ],
                 "description": "Set and unset a user as being away. Originally by Paddo.",
                 "disabled": false,
