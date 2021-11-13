@@ -13820,6 +13820,33 @@
                 ],
                 "type": "COG"
             },
+            "ping": {
+                "author": [
+                    "max"
+                ],
+                "description": "Shows latency of your bot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Shows latency of your bot.",
+                "tags": [
+                    "ping",
+                    "latency"
+                ],
+                "type": "COG"
+            },
             "statsinfo": {
                 "author": [
                     "max"
