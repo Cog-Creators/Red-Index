@@ -15370,7 +15370,7 @@
                 "author": [
                     "Gorialis"
                 ],
-                "description": "Jishaku v2.3.0, a debugging and testing cog for discord.py rewrite bots, ported for Red.",
+                "description": "Jishaku v2.3.2, a debugging and testing cog for discord.py rewrite bots, ported for Red.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -15382,7 +15382,7 @@
                 "requirements": [
                     "git+https://github.com/ow0x/jishaku"
                 ],
-                "short": "Jishaku v2.3.0 ported for Red-DiscordBot.",
+                "short": "Jishaku v2.3.2 ported for Red-DiscordBot.",
                 "tags": [
                     "jishaku",
                     "jsk"
