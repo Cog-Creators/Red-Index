@@ -6859,16 +6859,16 @@
     },
     "https://github.com/Vexed01/Vex-Cogs": {
         "author": [
-            "Vexed (Vexed#3211)"
+            "Vexed (Vexed#9000)"
         ],
-        "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#3211",
+        "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#9000",
         "name": "Vex-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
             "aliases": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "disabled": false,
@@ -6893,7 +6893,7 @@
             },
             "anotherpingcog": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green, and the bot owner can customise the colours and emojis for different latency levels, as well as force an embed.",
                 "disabled": false,
@@ -6919,7 +6919,7 @@
             },
             "beautify": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "disabled": false,
@@ -6944,7 +6944,7 @@
             },
             "betteruptime": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Replace the uptime command with a rich embed that shows the bot's percentage uptime (both time of the bot being on and time connected to Discord). There is also a new `downtime` command which shows when downtime happened. This cog writes to config every 60 seconds to prevent data loss. It is also very storage efficient, using under 150 bytes each day the cog runs.",
                 "disabled": false,
@@ -6973,7 +6973,7 @@
             },
             "caseinsensitive": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Make all prefixes and commands case insensitive (so that something like !Ping works). This will have a negative performance impact.",
                 "disabled": false,
@@ -7001,7 +7001,7 @@
             },
             "cmdlog": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command.",
                 "disabled": false,
@@ -7027,7 +7027,7 @@
             },
             "ghissues": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
                 "disabled": false,
@@ -7054,7 +7054,7 @@
             },
             "github": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
                 "disabled": false,
@@ -7081,7 +7081,7 @@
             },
             "googletrends": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Find out what the world is searching, right from Discord. Includes charts.",
                 "disabled": false,
@@ -7111,7 +7111,7 @@
             },
             "madtranslate": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Translate something from English into a gazillion different languages then back to English. Uses an undocumented Google Translate API.",
                 "disabled": false,
@@ -7138,7 +7138,7 @@
             },
             "stattrack": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Track your bot's statistics over time, including ping, members, guild and message/command counts.\n\nThis has a background process which could be intensive.\n\nThis stores data in Red's config which is not especially built for this cog's usage.",
                 "disabled": false,
@@ -7168,7 +7168,7 @@
             },
             "status": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "This cog can automatically send updates form various services including Discord, Cloudflare and GitHub. Members can also use a command to check incidents on-demand. Support all Statuspage.io which I have added.",
                 "disabled": false,
@@ -7195,7 +7195,7 @@
             },
             "system": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Check system metrics on the host device, such as CPU or  RAM usage",
                 "disabled": false,
@@ -7239,7 +7239,7 @@
             },
             "timechannel": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Get the time in different timezones in voice channels.",
                 "disabled": false,
@@ -7267,7 +7267,7 @@
             },
             "wol": {
                 "author": [
-                    "Vexed (Vexed#3211)"
+                    "Vexed (Vexed#9000)"
                 ],
                 "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up teh computer beforehand to listen to these - just search how to set it up for your operating system.",
                 "disabled": false,
