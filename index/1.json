@@ -6971,6 +6971,34 @@
                 ],
                 "type": ""
             },
+            "caseinsensitive": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "Make all prefixes and commands case insensitive (so that something like !Ping works). This will have a negative performance impact.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.11",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
+                ],
+                "short": "Make all commands case insensitive.",
+                "tags": [
+                    "utility",
+                    "case",
+                    "commands",
+                    "case-insensitive",
+                    "caseinsensitive"
+                ],
+                "type": ""
+            },
             "cmdlog": {
                 "author": [
                     "Vexed (Vexed#3211)"
