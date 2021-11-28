@@ -7202,6 +7202,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pandas>=1.1.0",
+                    "psutil",
                     "plotly",
                     "kaleido",
                     "tabulate",
