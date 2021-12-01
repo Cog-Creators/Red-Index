@@ -15797,30 +15797,6 @@
                 ],
                 "type": "COG"
             },
-            "stackoverflow": {
-                "author": [
-                    "<@306810730055729152>"
-                ],
-                "description": "Search for your nerdy tech questions on stackoverflow and stackexchange network.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.8",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Search for your nerdy tech questions on stackoverflow and stackexchange network.",
-                "tags": [
-                    "stackoverflow",
-                    "stackexchange",
-                    "askubuntu",
-                    "superuser",
-                    "serverfault"
-                ],
-                "type": "COG"
-            },
             "steamcog": {
                 "author": [
                     "siu3334"
