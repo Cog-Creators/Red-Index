@@ -14371,6 +14371,27 @@
                 ],
                 "type": "COG"
             },
+            "snipe": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Bulk sniping to stab back those anti-sniping smart ass users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Multi Snipe for fun and non-profit",
+                "tags": [
+                    "fun",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "speak": {
                 "author": [
                     "epic guy#0715"
