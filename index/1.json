@@ -8,11 +8,11 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "antiraid": {
+            "antinuke": {
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever dreamed of preventing a raid by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you!",
+                "description": "Have you ever dreamed of preventing a nuke by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you! Personally, I would advise you to set your permissions, rather than trusting this log. Trust those who have them.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -24,9 +24,10 @@
                 "requirements": [],
                 "short": "A cog to remove all permissions from a person who deletes a channel.",
                 "tags": [
-                    "raid",
+                    "nuke",
                     "protection",
-                    "anti"
+                    "anti",
+                    "raid"
                 ],
                 "type": ""
             },
