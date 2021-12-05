@@ -17769,7 +17769,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py>=1.0.17"
+                    "dislash.py>=1.4.9"
                 ],
                 "short": "Rock, Paper, Scissors (Lizard, Spock)",
                 "tags": [
