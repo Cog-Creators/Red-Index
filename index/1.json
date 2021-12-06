@@ -11345,7 +11345,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate"
+                ],
                 "short": "Data related to F1.",
                 "tags": [
                     "F1",
