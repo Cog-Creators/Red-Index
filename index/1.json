@@ -17490,7 +17490,9 @@
                     1
                 ],
                 "permissions": [
-                    "administrator"
+                    "manage_messages",
+                    "send_messages",
+                    "add_reactions"
                 ],
                 "required_cogs": {},
                 "requirements": [],
