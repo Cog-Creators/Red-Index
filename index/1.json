@@ -15656,7 +15656,7 @@
                     "ow0x",
                     "TrustyJAID"
                 ],
-                "description": "Detect text in images through OCR using Google Cloud Vision API.",
+                "description": "Detect text in images through OCR.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -15666,7 +15666,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Detect text in images through OCR using Google Cloud Vision API.",
+                "short": "Detect text in images through OCR.",
                 "tags": [
                     "ocr",
                     "image to text"
