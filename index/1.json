@@ -15653,20 +15653,20 @@
             },
             "ocr": {
                 "author": [
-                    "TrustyJAID",
-                    "ow0x"
+                    "ow0x",
+                    "TrustyJAID"
                 ],
-                "description": "Detect text in images using Google Cloud Vision API.",
+                "description": "Detect text in images through OCR using Google Cloud Vision API.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
+                "min_bot_version": "3.4.12",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Detect text in images using Google Cloud Vision API.",
+                "short": "Detect text in images through OCR using Google Cloud Vision API.",
                 "tags": [
                     "ocr",
                     "image to text"
