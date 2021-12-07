@@ -15767,17 +15767,19 @@
                 "author": [
                     "ow0x"
                 ],
-                "description": "Roleplay on Discord with count stats, (hug, pat, nom, cry and 12+ more commands).",
+                "description": "Roleplay with friends (or strangers) on Discord with count stats, (hug, pat, nom, cry and 12+ more commands).",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
+                "min_bot_version": "3.4.12",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Roleplay on Discord with count stats.",
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Roleplay with friends on Discord with count stats.",
                 "tags": [
                     "baka",
                     "bully",
