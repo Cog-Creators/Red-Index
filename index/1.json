@@ -5748,7 +5748,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "pytz"
                 ],
                 "short": "Destiny 2 information",
                 "tags": [
