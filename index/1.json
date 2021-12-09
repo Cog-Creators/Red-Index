@@ -15741,14 +15741,14 @@
             },
             "redditinfo": {
                 "author": [
-                    "<@306810730055729152>"
+                    "ow0x (<@306810730055729152>)"
                 ],
                 "description": "Fetch hot meme or basic info about Reddit user accounts and subreddits.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.12",
+                "min_bot_version": "3.4.14",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15757,8 +15757,12 @@
                 "tags": [
                     "meme",
                     "hot meme",
+                    "auto meme",
+                    "auto post meme",
+                    "meme autopost",
                     "reddit meme",
                     "reddit",
+                    "redditinfo",
                     "subreddit"
                 ],
                 "type": "COG"
