@@ -2724,6 +2724,43 @@
         },
         "short": "Holds cogs made by Neuro Assassin."
     },
+    "https://github.com/NoPlagiarism/PlusyCogs": {
+        "author": [
+            "Albrt#3043"
+        ],
+        "description": "Some cogs for fun from NoPlagiarism",
+        "name": "PlusyCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "exists": {
+                "author": [
+                    "Albrt#3043"
+                ],
+                "description": "Compilation of generators a-like this {sth} does not exists. ",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "This x does not exists",
+                "tags": [
+                    "generator",
+                    "thisdoesnotexists"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Exists and Va-11 Hall-a"
+    },
     "https://github.com/Obi-Wan3/OB13-Cogs": {
         "author": [
             "Obi-Wan3"
