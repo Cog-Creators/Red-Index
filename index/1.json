@@ -15622,20 +15622,19 @@
             },
             "kickstarter": {
                 "author": [
-                    "siu3334 (<@306810730055729152>)"
+                    "ow0x (<@306810730055729152>)",
+                    "dragonfire535"
                 ],
                 "description": "Search for your query to fetch info on a Kickstarter project.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.14",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "python-dateutil"
-                ],
+                "requirements": [],
                 "short": "Search for and get info on a Kickstarter project.",
                 "tags": [
                     "kickstarter"
@@ -15914,19 +15913,20 @@
             },
             "yugioh": {
                 "author": [
-                    "siu3334"
+                    "ow0x",
+                    "dragonfire535"
                 ],
-                "description": "Responds with various info on a Yu-Gi-Oh! card.",
+                "description": "Fetch some info on a Yu-Gi-Oh! card.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not persistently store any PII data about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.14",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Responds with info on a Yu-Gi-Oh! card.",
+                "short": "Fetch some info on a Yu-Gi-Oh! card.",
                 "tags": [
                     "ygo",
                     "ygo card",
