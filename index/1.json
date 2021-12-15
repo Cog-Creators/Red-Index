@@ -6858,14 +6858,15 @@
                 "requirements": [
                     "pyyaml~=5.4.1",
                     "emoji~=1.2",
-                    "pydantic~=1.8"
+                    "pydantic~=1.8",
+                    "regex==2021.11.10"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
                 "tags": [
                     "automod",
-                    "monitoring",
+                    "antiraid",
                     "moderation",
-                    "voteban"
+                    "monitoring"
                 ],
                 "type": "COG"
             },
