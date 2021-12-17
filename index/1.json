@@ -12518,6 +12518,140 @@
         },
         "short": "Random fandom cogs"
     },
+    "https://github.com/i-am-zaidali/cray-cogs": {
+        "author": [
+            "crayyy_zee"
+        ],
+        "description": "Utility and fun cogs made by crayyy_zee. (Mostly targeted towards a dank memer audience).",
+        "name": "cray-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "donationlogging": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Helps server staff to log people donations in an easier way. Allows you to setup a channel to log actions in this cog, setup roles to be auto assigned on a certain donation amount, add donations, reduce donations, reset donations and check yours other's donations.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores End User Data when storing the donations of a user. If a user requests data-deletion, all their donations will be removed from the bot.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Record user donations in server",
+                "tags": [
+                    "donations",
+                    "donation",
+                    "logging"
+                ],
+                "type": "COG"
+            },
+            "giveaways": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Reaction based giveaways with customisable embeds, reactions, requirements and much more. ",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user ids to link them to their hosted giveaways.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/i-am-zaidali/AmariWrapper.git",
+                    "discord-typed-flags==1.1.3"
+                ],
+                "short": "Start reaction based giveaways.",
+                "tags": [
+                    "giveaways",
+                    "requirements",
+                    "raffles",
+                    "raffle",
+                    "giveaway",
+                    "reactions"
+                ],
+                "type": "COG"
+            },
+            "hitormiss": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A cog based off of discord's snowball bot with many changes (no slash commands tho unfortunately).",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores End User Data when storing the donations of a user. If a user requests data-deletion, all their donations will be removed from the bot.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Throw items at other users bought from the shop through the bot's currency.",
+                "tags": [
+                    "snow",
+                    "christmas",
+                    "economy",
+                    "currency",
+                    "shop"
+                ],
+                "type": "COG"
+            },
+            "notes": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Stores notes on users per guild.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user ids to link them to their notes.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discord-components"
+                ],
+                "short": "Store notes on users.",
+                "tags": [
+                    "notes",
+                    "note",
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "votetracker": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Track votes recieved on top.gg for your bot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores End User Data when storing the vote count of a user. If a user requests data-deletion, all their data will be removed from the bot.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "topggpy==1.3.0"
+                ],
+                "short": "Track votes recieved on top.gg for your bot.",
+                "tags": [],
+                "type": "COG"
+            }
+        },
+        "short": "Badly coded but awesome cogs."
+    },
     "https://github.com/jack1142/JackCogs": {
         "author": [
             "jack1142 (Jackenmen#6607)"
