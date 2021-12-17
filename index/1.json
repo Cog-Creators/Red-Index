@@ -12585,7 +12585,7 @@
                 ],
                 "description": "A cog based off of discord's snowball bot with many changes (no slash commands tho unfortunately).",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the donations of a user. If a user requests data-deletion, all their donations will be removed from the bot.",
+                "end_user_data_statement": "This cog stores End User Data when storing the items of a user. If a user requests data-deletion, all their data will be removed from the bot.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
