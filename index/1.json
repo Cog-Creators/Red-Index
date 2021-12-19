@@ -3741,6 +3741,30 @@
                 "tags": [],
                 "type": ""
             },
+            "game": {
+                "author": [
+                    "Onii-Chan"
+                ],
+                "description": "A game cog, which has games like, akinato, 2048, minesweeper, tictactoe and wumpus.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A game cog with multiple games.",
+                "tags": [
+                    "2048",
+                    "miesweeper",
+                    "tictactoe",
+                    "wumpus",
+                    "games"
+                ],
+                "type": ""
+            },
             "image": {
                 "author": [
                     "Onii-chan#3920",
