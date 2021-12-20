@@ -9534,7 +9534,18 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "mimetypes",
+                    "discord",
+                    "aiohttp",
+                    "asyncio",
+                    "random",
+                    "requests",
+                    "typing",
+                    "json",
+                    "base64",
+                    "io"
+                ],
                 "short": "Move messages across channels and servers",
                 "tags": [
                     "relays",
