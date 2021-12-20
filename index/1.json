@@ -9535,16 +9535,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "mimetypes",
-                    "discord",
                     "aiohttp",
-                    "asyncio",
-                    "random",
-                    "requests",
-                    "typing",
-                    "json",
-                    "base64",
-                    "io"
+                    "requests"
                 ],
                 "short": "Move messages across channels and servers",
                 "tags": [
