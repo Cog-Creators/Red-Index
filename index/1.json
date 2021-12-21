@@ -12604,7 +12604,7 @@
                 "author": [
                     "crayyy_zee"
                 ],
-                "description": "Reaction based giveaways with customisable embeds, reactions, requirements and much more. ",
+                "description": "Reaction based giveaways with customisable embeds, reactions, amari bot requirements and much more. ",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user ids to link them to their hosted giveaways.",
                 "hidden": false,
@@ -12614,8 +12614,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/i-am-zaidali/AmariWrapper.git",
-                    "discord-typed-flags==1.1.3"
+                    "git+https://github.com/i-am-zaidali/AmariWrapper.git"
                 ],
                 "short": "Start reaction based giveaways.",
                 "tags": [
