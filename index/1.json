@@ -12685,7 +12685,7 @@
                 "description": "Track votes recieved on top.gg for your bot.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores End User Data when storing the vote count of a user. If a user requests data-deletion, all their data will be removed from the bot.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
