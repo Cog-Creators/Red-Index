@@ -14279,7 +14279,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Shows latency of your bot.",
+                "description": "",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": true,
