@@ -11472,7 +11472,7 @@
                 "author": [
                     "flare(flare#0001)"
                 ],
-                "description": "Giveaway cog with features such as multipliers, exclusive roles etc.",
+                "description": "Giveaway cog with features such duration or end timing, multipliers, role only acces, bank integration etc.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -11481,8 +11481,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Giveaway cog with features such as multipliers, exclusive roles etc.",
+                "requirements": [
+                    "dateparser"
+                ],
+                "short": "Giveaway cog with features such duration or end timing, multipliers, role only acces, bank integration etc.",
                 "tags": [
                     "giveaway",
                     "giveaways",
