@@ -14114,43 +14114,7 @@
         },
         "short": "Cogs by Kreusada for Red-DiscordBot V3."
     },
-    "https://github.com/matchatealeaf/matcha-cogs": {
-        "author": [
-            "MatchaTeaLeaf"
-        ],
-        "description": "Cogs that mainly focus on scientific and academic purposes.",
-        "name": "matcha-cogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "arxivsearch": {
-                "author": [
-                    "MatchaTeaLeaf"
-                ],
-                "description": "Search for papers on arXiv with links to .pdf, DOI and authors. Uses arXiv API wrapper by Lukas Schwab.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "arxiv"
-                ],
-                "short": "Search for papers on arXiv.",
-                "tags": [
-                    "arxiv",
-                    "academic",
-                    "science"
-                ],
-                "type": "COG"
-            }
-        },
-        "short": "Science and academic cogs."
-    },
-    "https://github.com/maxbooiii/maxcogs": {
+    "https://github.com/ltzmax/maxcogs": {
         "author": [
             "MAX"
         ],
@@ -14358,6 +14322,42 @@
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
+    },
+    "https://github.com/matchatealeaf/matcha-cogs": {
+        "author": [
+            "MatchaTeaLeaf"
+        ],
+        "description": "Cogs that mainly focus on scientific and academic purposes.",
+        "name": "matcha-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "arxivsearch": {
+                "author": [
+                    "MatchaTeaLeaf"
+                ],
+                "description": "Search for papers on arXiv with links to .pdf, DOI and authors. Uses arXiv API wrapper by Lukas Schwab.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "arxiv"
+                ],
+                "short": "Search for papers on arXiv.",
+                "tags": [
+                    "arxiv",
+                    "academic",
+                    "science"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Science and academic cogs."
     },
     "https://github.com/nmbook/FalcomBot-cogs": {
         "author": [
