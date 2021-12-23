@@ -12616,7 +12616,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/i-am-zaidali/AmariWrapper.git"
+                    "git+https://github.com/i-am-zaidali/AmariWrapper.git",
+                    "dateparser"
                 ],
                 "short": "Start reaction based giveaways.",
                 "tags": [
