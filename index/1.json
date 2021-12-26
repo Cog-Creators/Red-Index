@@ -12680,6 +12680,32 @@
                 ],
                 "type": "COG"
             },
+            "tickchanger": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Change the emoji that gets reacted with when `ctx.tick()` is called.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "3.4.14",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Change `ctx.tick()`'s emoji.",
+                "tags": [
+                    "tick",
+                    "ctx",
+                    "emoji",
+                    "change",
+                    "monkeypatch"
+                ],
+                "type": "COG"
+            },
             "votetracker": {
                 "author": [
                     "crayyy_zee"
