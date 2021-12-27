@@ -11861,43 +11861,6 @@
         },
         "short": "Assortment of cogs written by flare."
     },
-    "https://github.com/flaree/pokecord-red": {
-        "author": [
-            "flare (flare#0001)"
-        ],
-        "description": "Pokecord, rewritten to be compatible with Red.",
-        "name": "pokecord-red",
-        "rx_branch": "",
-        "rx_category": "approved",
-        "rx_cogs": {
-            "pokecord": {
-                "author": [
-                    "flare(flare#0001)"
-                ],
-                "description": "Pokecord for Red.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "databases",
-                    "databases[sqlite]"
-                ],
-                "short": "Pokecord for Red.",
-                "tags": [
-                    "pokemon",
-                    "pokecord"
-                ],
-                "type": ""
-            }
-        },
-        "short": "Pokecord, rewritten for Red."
-    },
     "https://github.com/goonstation/gooncogs": {
         "author": [
             "pali (pali#0439)"
