@@ -2008,7 +2008,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "emoji"
                 ],
                 "short": "Keep track of things todo",
                 "tags": [
