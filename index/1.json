@@ -12,7 +12,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever dreamed of preventing a nuke by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you! Personally, I would advise you to set your permissions, rather than trusting this log. Trust those who have them.",
+                "description": "Have you ever dreamed of preventing a nuke by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you! Personally, I would advise you to set your permissions, rather than trusting this cog. Trust those who have them.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -96,6 +96,31 @@
                     "ip",
                     "host",
                     "machine"
+                ],
+                "type": ""
+            },
+            "simplesanction": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to have a simple message with buttons to quickly choose the right sanction for a particular user? Then this cog is for you! It allows you to use the buttons on a message to select a sanction and choose the colour, thumbnail of the embed, and many other parameters... All the possibilities can only be done with arguments, which are all falcutative.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash"
+                ],
+                "short": "A cog to collect several sanction actions against a user.",
+                "tags": [
+                    "sanction",
+                    "user",
+                    "ban",
+                    "quick"
                 ],
                 "type": ""
             },
