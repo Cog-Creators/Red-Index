@@ -113,7 +113,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash"
+                    "dislash.py"
                 ],
                 "short": "A cog to collect several sanction actions against a user.",
                 "tags": [
