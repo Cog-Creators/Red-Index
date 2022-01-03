@@ -14273,8 +14273,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "nekosbest==1.1.2",
-                    "dislash.py==1.4.9"
+                    "nekosbest==1.1.2"
                 ],
                 "short": "Random neko images.",
                 "tags": [
