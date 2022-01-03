@@ -14712,6 +14712,26 @@
                 ],
                 "type": "COG"
             },
+            "replynoping": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Cog's meant to jump to message where you are replied with a ping off so that you might not have noticed ",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores uids for a toggle to notify people of reply ping or not",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track the people who reply but turned off their ping",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "snake": {
                 "author": [
                     "epic guy"
