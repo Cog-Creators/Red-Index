@@ -11816,6 +11816,26 @@
                 ],
                 "type": ""
             },
+            "trigger": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Allow for the creation of triggers to respond to keywords in messages.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow for the creation of triggers to respond to keywords in messages.",
+                "tags": [
+                    "trigger"
+                ],
+                "type": ""
+            },
             "unbelievaboat": {
                 "author": [
                     "flare(flare#0001)"
