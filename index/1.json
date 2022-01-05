@@ -14251,7 +14251,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Bot uptime cog that will shows the current uptime of the bot.",
+                "description": "Shows current uptime of the bot.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -14267,7 +14267,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Bot uptime cog showing current uptime.",
+                "short": "Shows current uptime of the bot.",
                 "tags": [
                     "uptime"
                 ],
