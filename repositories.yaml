@@ -49,6 +49,7 @@ approved:
   - https://github.com/kreusada/Kreusada-Cogs
   - https://github.com/Obi-Wan3/OB13-Cogs
   - https://github.com/npc203/npc-cogs
+  - https://github.com/Vexed01/Vex-Cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -56,7 +57,6 @@ unapproved:
   - https://github.com/baiumbg/baiumbg-Cogs
   - https://github.com/tekulvw/Squid-Plugins@V3
   - https://github.com/ltzmax/maxcogs
-  - https://github.com/Vexed01/Vex-Cogs
   - https://github.com/Just-Jojo/JojoCogs
   - https://github.com/thedataleek/eris-cogs
   - https://github.com/siu3334/owo-cogs
