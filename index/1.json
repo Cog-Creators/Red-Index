@@ -14247,34 +14247,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "advanced": {
-                "author": [
-                    "max"
-                ],
-                "description": "This cog ask for confirmation if you want to shutdown or restart your bot.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links",
-                    "add_reactions"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Confirm if you wanna attept to shutdown or restart.",
-                "tags": [
-                    "restart",
-                    "shutdown"
-                ],
-                "type": "COG"
-            },
             "embeduptime": {
                 "author": [
                     "max"
@@ -14359,33 +14331,6 @@
                     "reconnect",
                     "disconnect",
                     "on_ready"
-                ],
-                "type": "COG"
-            },
-            "ping": {
-                "author": [
-                    "max"
-                ],
-                "description": "",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Shows latency of your bot.",
-                "tags": [
-                    "ping",
-                    "latency"
                 ],
                 "type": "COG"
             },
