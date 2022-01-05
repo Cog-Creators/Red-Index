@@ -6978,7 +6978,7 @@
         "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#9000",
         "name": "Vex-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "aliases": {
                 "author": [
