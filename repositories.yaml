@@ -74,6 +74,7 @@ unapproved:
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/matchatealeaf/matcha-cogs
   - https://github.com/Honkertonken/Cogs-V3
+
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
