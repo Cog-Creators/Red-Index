@@ -17905,7 +17905,7 @@
                 ],
                 "description": "Filter certain messages from other bots",
                 "disabled": false,
-                "end_user_data_statement": "This cog was made for educational purposes and is 100% up to the bot owner to use it according to the other bot's ToS that they choose to filter.",
+                "end_user_data_statement": "This cog only listens for other bots, it is probably not a good idea to use this on large or public bots.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
