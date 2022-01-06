@@ -17619,7 +17619,7 @@
         "author": [
             "Vertyco"
         ],
-        "description": "Various Utility/Fun cogs Red V3",
+        "description": "Various utility and game server management cogs for servers like Ark, Minecraft, and DayZ, with a few other random/fun cogs sprinkled in.",
         "name": "vrt-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -17728,7 +17728,7 @@
                     "Vertyco"
                 ],
                 "description": "WIP",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "WIP",
                 "hidden": true,
                 "max_bot_version": "",
@@ -18000,7 +18000,7 @@
                 "type": "COG"
             }
         },
-        "short": "Utility Cogs for Red by Vertyco"
+        "short": "Utility & Game Server cogs by Vertyco"
     },
     "https://github.com/yamikaitou/YamiCogs": {
         "author": [
