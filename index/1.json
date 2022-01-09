@@ -10725,7 +10725,7 @@
                 "author": [
                     "Fixator10"
                 ],
-                "description": "Log deleted and redacted messages in defined channel",
+                "description": "Log deleted and edited messages to a specified channel",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -10735,7 +10735,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Log deleted and redacted messages in defined channel",
+                "short": "Log deleted and edited messages to a specified channel",
                 "tags": [
                     "messages",
                     "logs"
