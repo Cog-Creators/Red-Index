@@ -13701,7 +13701,7 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Clear your red console.",
+                "description": "Clear your Red console.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -13711,7 +13711,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Completely clear your red console.",
+                "short": "Completely clear your Red console.",
                 "tags": [
                     "Console",
                     "Clear"
@@ -13736,31 +13736,6 @@
                 "tags": [
                     "Hoist",
                     "Nickname"
-                ],
-                "type": "COG"
-            },
-            "encryptor": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Generate and validify the strength of passwords.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "password-strength"
-                ],
-                "short": "Generate and validify the strength of passwords.",
-                "tags": [
-                    "Passwords",
-                    "Encryption",
-                    "Generators",
-                    "Strength"
                 ],
                 "type": "COG"
             },
@@ -13838,28 +13813,6 @@
                 ],
                 "type": "COG"
             },
-            "mjolnir": {
-                "author": [
-                    "Kreusada",
-                    "Jojo"
-                ],
-                "description": "Attempt to lift Thor's hammer to become the next wielder of Mjolnir",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores a number based on times lifted via user ids",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Try to lift Thor's mighty hammer!",
-                "tags": [
-                    "Fun",
-                    "Marvel"
-                ],
-                "type": "COG"
-            },
             "namegenerator": {
                 "author": [
                     "Kreusada"
@@ -13914,7 +13867,7 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Invoke the ping command when calling for your bot.",
+                "description": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -13924,7 +13877,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Invoke your bot.",
+                "short": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
                 "tags": [
                     "Invoke",
                     "Bot",
@@ -14030,7 +13983,7 @@
                 "author": [
                     "Kreusada"
                 ],
-                "description": "[BETA] Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
+                "description": "Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -14040,33 +13993,12 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "[BETA] Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
+                "short": "Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
                 "tags": [
                     "Raffle",
                     "Giveaway",
                     "Fun",
                     "Prizes"
-                ],
-                "type": "COG"
-            },
-            "replynoping": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Sends a message when someone pings you on a reply.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Sends a message when someone pings you on a reply.",
-                "tags": [
-                    "Reply",
-                    "Ping"
                 ],
                 "type": "COG"
             },
@@ -14119,27 +14051,6 @@
                     "General",
                     "Game",
                     "Fun"
-                ],
-                "type": "COG"
-            },
-            "spoilerchannel": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Only allow spoilers in certain channels.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Only allow spoilers in certain channels.",
-                "tags": [
-                    "Spoilers",
-                    "Channels"
                 ],
                 "type": "COG"
             },
@@ -14210,30 +14121,6 @@
                 ],
                 "type": "COG"
             },
-            "timestables": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Learn your times tables!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Times tables.",
-                "tags": [
-                    "Maths",
-                    "Times",
-                    "Multiply",
-                    "Revision",
-                    "School"
-                ],
-                "type": "COG"
-            },
             "timestamps": {
                 "author": [
                     "Kreusada"
@@ -14280,28 +14167,6 @@
                     "Cog",
                     "Version",
                     "Info"
-                ],
-                "type": "COG"
-            },
-            "votechannel": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Set multiple channels to have vote reactions.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Voting channel",
-                "tags": [
-                    "Vote",
-                    "Reaction",
-                    "Channel"
                 ],
                 "type": "COG"
             },
