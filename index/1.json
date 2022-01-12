@@ -17646,11 +17646,7 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
+                "min_python_version": "",
                 "permissions": [
                     "administrator"
                 ],
@@ -17679,11 +17675,7 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
+                "min_python_version": "",
                 "permissions": [
                     "administrator"
                 ],
@@ -17823,6 +17815,35 @@
                 "tags": [
                     "fun",
                     "inspiring"
+                ],
+                "type": "COG"
+            },
+            "levelup": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "A local discord leveling system",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord ID's",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "manage_roles"
+                ],
+                "required_cogs": {
+                    "arktools": "https://github.com/vertyco/vrt-cogs"
+                },
+                "requirements": [],
+                "short": "Leveling System",
+                "tags": [
+                    "utility",
+                    "leveler",
+                    "level",
+                    "levelup",
+                    "leveling"
                 ],
                 "type": "COG"
             },
