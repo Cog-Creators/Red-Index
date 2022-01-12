@@ -17833,10 +17833,11 @@
                     "send_messages",
                     "manage_roles"
                 ],
-                "required_cogs": {
-                    "arktools": "https://github.com/vertyco/vrt-cogs"
-                },
-                "requirements": [],
+                "required_cogs": {},
+                "requirements": [
+                    "matplotlib",
+                    "disrank"
+                ],
                 "short": "Leveling System",
                 "tags": [
                     "utility",
