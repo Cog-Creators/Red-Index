@@ -17836,7 +17836,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "matplotlib",
-                    "disrank"
+                    "requests",
+                    "PIL"
                 ],
                 "short": "Leveling System",
                 "tags": [
