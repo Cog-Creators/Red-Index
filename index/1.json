@@ -17882,7 +17882,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "matplotlib",
-                    "requests",
+                    "aiohttp",
                     "pillow",
                     "validators"
                 ],
