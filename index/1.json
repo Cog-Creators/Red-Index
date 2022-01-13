@@ -1135,6 +1135,52 @@
                     "whoasked"
                 ],
                 "type": "COG"
+            },
+            "sdm": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Directly dm raw text to the specified user.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Directly dm raw text to the specified user.",
+                "tags": [
+                    "dm",
+                    "sdm",
+                    "utility",
+                    "dev"
+                ],
+                "type": "COG"
+            },
+            "tsd": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "In discord docs for Phenom4n4n's Tags cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "In discord docs for Phenom4n4n's Tags cog.",
+                "tags": [
+                    "tags",
+                    "slashtags",
+                    "docs",
+                    "documentation"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs by/edited Honkertonken"
