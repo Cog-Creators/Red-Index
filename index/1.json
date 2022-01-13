@@ -17837,7 +17837,8 @@
                 "requirements": [
                     "matplotlib",
                     "requests",
-                    "pillow"
+                    "pillow",
+                    "validators"
                 ],
                 "short": "Leveling System",
                 "tags": [
