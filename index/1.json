@@ -12874,6 +12874,30 @@
                 ],
                 "type": "COG"
             },
+            "joinping": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Ghost ping users in channels to alert them when they join.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ping members on join in specific channels.",
+                "tags": [
+                    "joinping",
+                    "member join",
+                    "join",
+                    "welcome",
+                    "mentions"
+                ],
+                "type": "COG"
+            },
             "notes": {
                 "author": [
                     "crayyy_zee"
