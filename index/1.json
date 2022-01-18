@@ -17839,6 +17839,35 @@
                 ],
                 "type": "COG"
             },
+            "halostats": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "View your Halo Infinite stats",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord ID's and Gamertags and uses Selenium to web-scrape the halotracker.com site for Halo Infinite stats",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "selenium",
+                    "webdriver_manager"
+                ],
+                "short": "Halo Infinite stats",
+                "tags": [
+                    "halo",
+                    "infinite",
+                    "halo infinite"
+                ],
+                "type": "COG"
+            },
             "inspire": {
                 "author": [
                     "Vertyco"
