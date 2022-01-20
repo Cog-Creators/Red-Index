@@ -17732,7 +17732,8 @@
                     "rcon",
                     "pytz",
                     "xbox-webapi",
-                    "matplotlib"
+                    "matplotlib",
+                    "tabulate"
                 ],
                 "short": "RCON tools for Ark",
                 "tags": [
