@@ -17674,7 +17674,7 @@
         "author": [
             "Vertyco"
         ],
-        "description": "Various utility and game server management cogs for servers like Ark, Minecraft, and DayZ, with a few other random/fun cogs sprinkled in.",
+        "description": "Various utility cogs for Red like game server tools for Ark/Minecraft/DayZ, leveling systems, and game stat pullers, with a few other random/fun cogs sprinkled in.",
         "name": "vrt-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
