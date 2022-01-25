@@ -1150,7 +1150,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Who Asked??",
+                "short": "Customizable inite cog with buttons (no extra lib).",
                 "tags": [
                     "invite",
                     "button",
