@@ -1136,6 +1136,28 @@
                 ],
                 "type": "COG"
             },
+            "buttoninvite": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "A highly customizable invite cog with buttons! uses no extra lib.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Who Asked??",
+                "tags": [
+                    "invite",
+                    "button",
+                    "custom"
+                ],
+                "type": "COG"
+            },
             "sdm": {
                 "author": [
                     "Honkertonken"
