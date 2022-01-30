@@ -12049,6 +12049,52 @@
         },
         "short": "Assortment of cogs written by flare."
     },
+    "https://github.com/flaree/lastfm-red": {
+        "author": [
+            "flare(flare#0001)",
+            "joinem (Miso Bot)",
+            "fixator10",
+            "alec"
+        ],
+        "description": "Port of Miso Bots LastFM functionality with slight changed, additions and removals.",
+        "name": "lastfm-red",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "lastfm": {
+                "author": [
+                    "flare(flare#0001)",
+                    "joinem",
+                    "fixator10",
+                    "alec"
+                ],
+                "description": "Port of Miso Bot's LastFM Cog,",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "humanize",
+                    "bs4",
+                    "tabulate",
+                    "wordcloud",
+                    "arrow"
+                ],
+                "short": "Port of Miso Bot's LastFM Cog",
+                "tags": [
+                    "LastFM",
+                    "scrobbler",
+                    "music"
+                ],
+                "type": ""
+            }
+        },
+        "short": "MisoBot LastFM port to Red."
+    },
     "https://github.com/flaree/pokecord-red": {
         "author": [
             "flare (flare#0001)"
@@ -12056,7 +12102,7 @@
         "description": "Pokecord, rewritten to be compatible with Red.",
         "name": "pokecord-red",
         "rx_branch": "",
-        "rx_category": "approved",
+        "rx_category": "unapproved",
         "rx_cogs": {
             "pokecord": {
                 "author": [
