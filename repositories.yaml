@@ -44,7 +44,7 @@ approved:
   - https://github.com/Twentysix26/x26-Cogs
   - https://github.com/Kowlin/Sentinel
   - https://github.com/yamikaitou/YamiCogs
-  - https://github.com/flaree/pokecord-red
+  - https://github.com/flaree/lastfm-red
   - https://github.com/TheWyn/Wyn-RedV3Cogs
   - https://github.com/kreusada/Kreusada-Cogs
   - https://github.com/Obi-Wan3/OB13-Cogs
@@ -73,6 +73,7 @@ unapproved:
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/matchatealeaf/matcha-cogs
   - https://github.com/Honkertonken/Honkertonken-Cogs
+  - https://github.com/flaree/pokecord-red
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
