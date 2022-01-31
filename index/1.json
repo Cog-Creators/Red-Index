@@ -7083,9 +7083,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "tags": [
@@ -7108,9 +7106,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -7134,9 +7130,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
@@ -7162,9 +7156,7 @@
                     "pandas",
                     "plotly",
                     "kaleido",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -7188,9 +7180,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Make all commands case insensitive.",
                 "tags": [
@@ -7216,9 +7206,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
@@ -7244,9 +7232,8 @@
                 "requirements": [
                     "plotly",
                     "kaleido",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "asyncache",
+                    "tabulate"
                 ],
                 "short": "Get graphs of COVID-19 data.",
                 "tags": [
@@ -7272,9 +7259,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "[DPY 2 ONLY] Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7299,9 +7284,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "gidgethub>=5.0.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7328,9 +7311,7 @@
                     "plotly",
                     "kaleido",
                     "pytrends",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Find out what the world is searching, right from Discord. Includes charts.",
                 "tags": [
@@ -7355,9 +7336,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
                 "tags": [
@@ -7386,9 +7365,7 @@
                     "psutil",
                     "plotly",
                     "kaleido",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
@@ -7414,9 +7391,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "markdownify",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "asyncache",
+                    "tabulate"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -7441,9 +7417,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
@@ -7485,9 +7459,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "rapidfuzz",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Get the time in different timezones in voice channels.",
                 "tags": [
@@ -7513,9 +7485,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "wakeonlan",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Use Wake on LAN from Discord! This cog sends magic packets on the local network.",
                 "tags": [
