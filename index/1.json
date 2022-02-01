@@ -1076,27 +1076,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "BotStats": {
-                "author": [
-                    "Honkertonken"
-                ],
-                "description": "Shit ton of Bot Stats",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bot Stats",
-                "tags": [
-                    "utility",
-                    "stats"
-                ],
-                "type": "COG"
-            },
             "Pp": {
                 "author": [
                     "Honkertonken"
