@@ -2120,7 +2120,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "Embed the invite command",
                 "tags": [
                     "Utility"
