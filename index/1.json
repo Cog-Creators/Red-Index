@@ -1140,6 +1140,30 @@
                 ],
                 "type": "COG"
             },
+            "blackformatter": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Format your code with black. Supports codeblocks replies and attachments!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "black"
+                ],
+                "short": "Black formatter.",
+                "tags": [
+                    "black",
+                    "code",
+                    "format"
+                ],
+                "type": "COG"
+            },
             "buttoninvite": {
                 "author": [
                     "Honkertonken"
@@ -1154,11 +1178,35 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Customizable inite cog with buttons (no extra lib).",
+                "short": "Customizable invite cog with buttons (no extra lib).",
                 "tags": [
                     "invite",
                     "button",
                     "custom"
+                ],
+                "type": "COG"
+            },
+            "isortformatter": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Format your code with isort. Supports codeblocks replies and attachments!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "isort"
+                ],
+                "short": "Isort formatter.",
+                "tags": [
+                    "isort",
+                    "code",
+                    "format"
                 ],
                 "type": "COG"
             },
