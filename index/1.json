@@ -16085,12 +16085,12 @@
                 "author": [
                     "ow0x"
                 ],
-                "description": "Fetch various info about a smartphone from GSMArena.com",
+                "description": "Fetch device specifications & metadata info for a (smart)phone model from GSMArena.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any PII data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
+                "min_bot_version": "3.4.16",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -16099,7 +16099,7 @@
                     "beautifulsoup4",
                     "msgpack"
                 ],
-                "short": "Fetch various info about a smartphone from GSMArena.com",
+                "short": "Fetch device specs & metadata on a (smart)phone model.",
                 "tags": [
                     "smartphone",
                     "gsmarena",
