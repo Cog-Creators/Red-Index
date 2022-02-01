@@ -14385,7 +14385,8 @@
                     1
                 ],
                 "permissions": [
-                    "manage_webhooks"
+                    "manage_webhooks",
+                    "add_reactions"
                 ],
                 "required_cogs": {},
                 "requirements": [
