@@ -7111,9 +7111,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "tags": [
                     "utility",
@@ -7158,9 +7156,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
                     "utility",
@@ -7184,8 +7180,7 @@
                 "requirements": [
                     "pandas",
                     "plotly",
-                    "kaleido",
-                    "tabulate"
+                    "kaleido"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -7208,9 +7203,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Make all commands case insensitive.",
                 "tags": [
                     "utility",
@@ -7234,9 +7227,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
                     "utility",
@@ -7261,8 +7252,7 @@
                 "requirements": [
                     "plotly",
                     "kaleido",
-                    "asyncache",
-                    "tabulate"
+                    "asyncache"
                 ],
                 "short": "Get graphs of COVID-19 data.",
                 "tags": [
@@ -7287,8 +7277,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub>=5.0.0",
-                    "tabulate"
+                    "gidgethub>=5.0.0"
                 ],
                 "short": "[DPY 2 ONLY] Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7312,8 +7301,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub>=5.0.0",
-                    "tabulate"
+                    "gidgethub>=5.0.0"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7339,8 +7327,7 @@
                 "requirements": [
                     "plotly",
                     "kaleido",
-                    "pytrends",
-                    "tabulate"
+                    "pytrends"
                 ],
                 "short": "Find out what the world is searching, right from Discord. Includes charts.",
                 "tags": [
@@ -7364,9 +7351,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
+                "requirements": [],
                 "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
                 "tags": [
                     "madtranslate",
@@ -7393,8 +7378,7 @@
                     "pandas>=1.1.0",
                     "psutil",
                     "plotly",
-                    "kaleido",
-                    "tabulate"
+                    "kaleido"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
@@ -7487,8 +7471,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "rapidfuzz",
-                    "tabulate"
+                    "rapidfuzz"
                 ],
                 "short": "Get the time in different timezones in voice channels.",
                 "tags": [
