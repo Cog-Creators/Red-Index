@@ -12154,9 +12154,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-py-slash-command"
-                ],
+                "requirements": [],
                 "short": "Send reports to server administrators.",
                 "tags": [
                     "administration",
@@ -12197,9 +12195,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-py-slash-command"
-                ],
+                "requirements": [],
                 "short": "Keeps track of used emoji and lets people use them using a slash command.",
                 "tags": [
                     "emoji"
