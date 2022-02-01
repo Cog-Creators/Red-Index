@@ -17657,7 +17657,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Ark data save tool",
+                "short": "ArkTools data save plugin",
                 "tags": [
                     "utility",
                     "ark",
@@ -17687,7 +17687,7 @@
                     "rcon==1.3.7",
                     "dislash.py"
                 ],
-                "short": "Shop for Ark",
+                "short": "ArkTools shop plugin",
                 "tags": [
                     "utility",
                     "ark",
@@ -17719,7 +17719,7 @@
                     "tabulate",
                     "dislash.py"
                 ],
-                "short": "RCON tools for Ark",
+                "short": "Ark: Survival Evolved Server Manager",
                 "tags": [
                     "utility",
                     "ark",
