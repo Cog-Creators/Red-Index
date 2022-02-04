@@ -17740,6 +17740,32 @@
                 ],
                 "type": "COG"
             },
+            "emojitracker": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "A simple guild emoji tracker",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord ID's",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Emoji tracker",
+                "tags": [
+                    "emoji",
+                    "tracker",
+                    "stats"
+                ],
+                "type": "COG"
+            },
             "fluent": {
                 "author": [
                     "Vertyco"
