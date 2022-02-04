@@ -14356,7 +14356,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "On connect is a shard event cog that shows on ready, disconnect and resummed.",
+                "description": "On connect is a shard event cog that shows on ready, disconnect and resume.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -14375,7 +14375,7 @@
                 "requirements": [
                     "psutil"
                 ],
-                "short": "This cog is used to send shard events.",
+                "short": "Shard events cog that shows on ready, disconnect and resume.",
                 "tags": [
                     "shard",
                     "reconnect",
