@@ -7190,6 +7190,30 @@
                 ],
                 "type": ""
             },
+            "birthday": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "Get users to add their birthday, then on their birthday they will get a special role. Server owners can set the time of day, announcement message and role.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will associate a User ID with a birthday if the user explicitly sets it. This data is also associated with a specific guild ID. No other data or metadata about users is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Birthday cog with customisable roles, messages and times.",
+                "tags": [
+                    "birthday",
+                    "birthdays",
+                    "bday",
+                    "fun",
+                    "role"
+                ],
+                "type": ""
+            },
             "caseinsensitive": {
                 "author": [
                     "Vexed (Vexed#9000)"
