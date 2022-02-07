@@ -7239,6 +7239,32 @@
                 ],
                 "type": ""
             },
+            "calc": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "expr.py",
+                    "asyncache"
+                ],
+                "short": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "tags": [
+                    "utility",
+                    "calc",
+                    "math",
+                    "maths"
+                ],
+                "type": ""
+            },
             "caseinsensitive": {
                 "author": [
                     "Vexed (Vexed#9000)"
