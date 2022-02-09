@@ -7557,6 +7557,34 @@
                 ],
                 "type": ""
             },
+            "uptimeresponder": {
+                "author": [
+                    "Vexed"
+                ],
+                "description": "A cog which starts up a simple webserver whenever the cog is loaded, which can then be used by uptime monitoring services. If you are using an external monitor, you will need to configure port forwarding. Make sure you are aware of the security risks of exposing your machine to the internet. The cog responds with status code 200.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncache"
+                ],
+                "short": "A cog which starts up a simple webserver whenever the cog is loaded, which can then be used by uptime monitoring services.",
+                "tags": [
+                    "webserver",
+                    "websocket",
+                    "ping",
+                    "uptimerobot",
+                    "uptimekuma",
+                    "upptime",
+                    "pingdom"
+                ],
+                "type": ""
+            },
             "wol": {
                 "author": [
                     "Vexed (Vexed#9000)"
