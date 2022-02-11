@@ -7284,6 +7284,32 @@
                 ],
                 "type": ""
             },
+            "buttonpoll": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs paired with guild IDs and how they voted if a user participated in a poll. This is to ensure no double voting can happen. This data is removed once a poll finishes. No other data or metadata about users is persistently stored. This cog respects data deletion requests.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate",
+                    "cachetools",
+                    "asyncache"
+                ],
+                "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
+                "tags": [
+                    "utility",
+                    "log",
+                    "logging"
+                ],
+                "type": ""
+            },
             "calc": {
                 "author": [
                     "Vexed (Vexed#9000)"
@@ -12512,6 +12538,26 @@
                     "qol",
                     "commands"
                 ],
+                "type": ""
+            },
+            "ipinfo": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "TODO",
+                "tags": [],
                 "type": ""
             },
             "loudvideos": {
