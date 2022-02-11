@@ -7297,16 +7297,12 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
                 "tags": [
                     "utility",
-                    "log",
-                    "logging"
+                    "poll",
+                    "button"
                 ],
                 "type": ""
             },
