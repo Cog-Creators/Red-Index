@@ -45,7 +45,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py"
+                    "dislash.py",
+                    "TagScript"
                 ],
                 "short": "A cog to do simple calculations from Discord with buttons!",
                 "tags": [
