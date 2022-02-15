@@ -2291,7 +2291,7 @@
                 "author": [
                     "Jojo#7791"
                 ],
-                "description": "Encript and decript text using ciphers like Caesar and Vigenere!",
+                "description": "Decipher and encipher text using ciphers like Caesar and Vigenere!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data",
                 "hidden": false,
@@ -2303,7 +2303,7 @@
                 "requirements": [
                     "pycipher"
                 ],
-                "short": "Decipher and encipher text using encriptions!",
+                "short": "Decipher and encipher text using enciphers!",
                 "tags": [
                     "fun",
                     "cipher"
