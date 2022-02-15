@@ -210,7 +210,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "dislash.py",
-                    "chat-exporter"
+                    "chat-exporter==1.7.3"
                 ],
                 "short": "A cog to manage a ticket system!",
                 "tags": [
