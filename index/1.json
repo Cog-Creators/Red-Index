@@ -7702,7 +7702,7 @@
                 "author": [
                     "Vexed (Vexed#9000)"
                 ],
-                "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up teh computer beforehand to listen to these - just search how to set it up for your operating system.",
+                "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up the computer beforehand to listen to these - just search how to set it up for your operating system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
