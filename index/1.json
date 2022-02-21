@@ -124,6 +124,28 @@
                 ],
                 "type": ""
             },
+            "editfile": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to get a file and replace it from its path from Discord? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to get a file and replace it from its path from Discord!",
+                "tags": [
+                    "file",
+                    "local",
+                    "edit"
+                ],
+                "type": ""
+            },
             "ip": {
                 "author": [
                     "AAA3A"
