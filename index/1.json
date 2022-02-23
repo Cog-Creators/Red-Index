@@ -18325,7 +18325,7 @@
                     "pillow",
                     "validators",
                     "tabulate",
-                    "colorgram"
+                    "colorgram.py"
                 ],
                 "short": "Leveling System",
                 "tags": [
