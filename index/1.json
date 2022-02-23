@@ -18324,7 +18324,8 @@
                     "aiohttp",
                     "pillow",
                     "validators",
-                    "tabulate"
+                    "tabulate",
+                    "colorgram"
                 ],
                 "short": "Leveling System",
                 "tags": [
