@@ -1234,49 +1234,6 @@
                 ],
                 "type": "COG"
             },
-            "Pressf": {
-                "author": [
-                    "Honkertonken"
-                ],
-                "description": "Pay respects to a user by pressing f.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Press f to pay respects.",
-                "tags": [
-                    "pressf",
-                    "respects",
-                    "f"
-                ],
-                "type": "COG"
-            },
-            "Whoasked": {
-                "author": [
-                    "Honkertonken"
-                ],
-                "description": "When you just have to ask who the hell asked?",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Who Asked??",
-                "tags": [
-                    "fun",
-                    "whoasked"
-                ],
-                "type": "COG"
-            },
             "blackformatter": {
                 "author": [
                     "Honkertonken"
@@ -1347,6 +1304,28 @@
                 ],
                 "type": "COG"
             },
+            "pressf": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Pay respects to a user by pressing f.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Press f to pay respects.",
+                "tags": [
+                    "pressf",
+                    "respects",
+                    "f"
+                ],
+                "type": "COG"
+            },
             "reactionlog": {
                 "author": [
                     "Honkertonken"
@@ -1412,6 +1391,27 @@
                     "slashtags",
                     "docs",
                     "documentation"
+                ],
+                "type": "COG"
+            },
+            "whoasked": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "When you just have to ask who the hell asked?",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Who Asked??",
+                "tags": [
+                    "fun",
+                    "whoasked"
                 ],
                 "type": "COG"
             }
