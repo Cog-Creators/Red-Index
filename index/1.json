@@ -2289,7 +2289,7 @@
         "description": "Just a bunch of weird cogs developed by Jojo.",
         "name": "JojoCogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "advancedblacklist": {
                 "author": [
@@ -2594,6 +2594,403 @@
             }
         },
         "short": "Moderation oriented cogs built for Red-DiscordBot"
+    },
+    "https://github.com/Kuro-Rui/Kuro-Cogs": {
+        "author": [
+            "Kuro"
+        ],
+        "description": "Some (dumb) cogs made/customized by Kuro.",
+        "name": "Kuro-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "avatarimgen": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Make images from avatars using Pop Cat API!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Make images from avatars!",
+                "tags": [
+                    "api",
+                    "avatar",
+                    "imgen"
+                ],
+                "type": "COG"
+            },
+            "botinvite": {
+                "author": [
+                    "Jojo#7791",
+                    "Kuro"
+                ],
+                "description": "Send an Invite with buttons & without external libraries.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Send an Invite with buttons.",
+                "tags": [
+                    "Utility"
+                ],
+                "type": "COG"
+            },
+            "botping": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Creates a custom ping embed to display latency statistics.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "speedtest-cli"
+                ],
+                "short": "Creates a custom ping embed to display latency statistics.",
+                "tags": [
+                    "ping"
+                ],
+                "type": ""
+            },
+            "countercog": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Have you ever wondered, how many commands/cogs does your bot have? Well this cog can help with that!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that shows how many commands/cogs the bot has.",
+                "tags": [
+                    "cogs",
+                    "commands",
+                    "count"
+                ],
+                "type": "COG"
+            },
+            "cursedimages": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Generates a random cursed image from different categories.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates a random cursed image.",
+                "tags": [
+                    "cursed"
+                ],
+                "type": ""
+            },
+            "downconfirm": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Restart/Shutdown your bot with or without confirmation!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Restart/Shutdown your bot with or without confirmation!",
+                "tags": [
+                    "confirmation",
+                    "restart",
+                    "shutdown"
+                ],
+                "type": "COG"
+            },
+            "fakemod": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Fake moderation commands for fun!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fake moderation commands.",
+                "tags": [
+                    "ben",
+                    "fake",
+                    "fakemod",
+                    "kik",
+                    "myut",
+                    "worn"
+                ],
+                "type": "COG"
+            },
+            "fumo": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Generates a random Fumo image from an API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates a random Fumo image.",
+                "tags": [
+                    "image",
+                    "fumo",
+                    "touhou"
+                ],
+                "type": "COG"
+            },
+            "funtext": {
+                "author": [
+                    "alec",
+                    "Kuro"
+                ],
+                "description": "Generate a fun text from your given text :D",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "zalgo_text"
+                ],
+                "short": "Generate a fun text from your given text :D",
+                "tags": [],
+                "type": "COG"
+            },
+            "imgbb": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Upload your image to ImgBB!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Upload your image to ImgBB!",
+                "tags": [
+                    "image",
+                    "imgbb",
+                    "upload"
+                ],
+                "type": "COG"
+            },
+            "osu": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Displays detailed user information about osu! users in an embed.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Display user information from osu!",
+                "tags": [
+                    "osu",
+                    "osu!"
+                ],
+                "type": "COG"
+            },
+            "phun": {
+                "author": [
+                    "Appu",
+                    "TrustyJAID",
+                    "Kuro"
+                ],
+                "description": "All sorts of commands that users may find fun or useful",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "add_reactions"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Various fun commands like react, textflip, and regional",
+                "tags": [],
+                "type": "COG"
+            },
+            "polls": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Create a poll with up to 5 options.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create a Poll.",
+                "tags": [
+                    "poll",
+                    "polls"
+                ],
+                "type": "COG"
+            },
+            "reactlog": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Log when reactions were added/removed! Inspired by Sx Bot#8364.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Log added/removed reactions!",
+                "tags": [
+                    "log",
+                    "react",
+                    "reaction",
+                    "reactlog",
+                    "reactionlog"
+                ],
+                "type": "COG"
+            },
+            "snipe": {
+                "author": [
+                    "epic guy",
+                    "Kuro"
+                ],
+                "description": "Bulk sniping to stab back those anti-sniping smart ass users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Multi Snipe for fun and non-profit",
+                "tags": [
+                    "fun",
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "spotify": {
+                "author": [
+                    "TrustyJAID",
+                    "NeuroAssassin"
+                ],
+                "description": "This cog allows you to control Spotify via OAuth through the bot on discord. Use `[p]spotify` to see available commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores OAuth tokens and refresh tokens for the purposes of interacting with the Spotify API with discord commands and reactions. This data can be deleted at any time either via revoking the authorization token on Spotify or through the `[p]mydata forgetme` command.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.3.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tekore",
+                    "tabulate"
+                ],
+                "short": "Control Spotify through Discord!",
+                "tags": [
+                    "spotify"
+                ],
+                "type": "COG"
+            },
+            "suggestion": {
+                "author": [
+                    "saurichable",
+                    "Kuro"
+                ],
+                "description": "Per guild, as well as global, suggestion box voting system.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user names, discriminators, and IDs upon sending a suggestion. This data is used solely to display and contact the user about any change to their suggestion.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple suggestion box.",
+                "tags": [
+                    "suggest",
+                    "suggestion"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Some (dumb) cogs made/customized by Kuro."
     },
     "https://github.com/Malarne/discord_cogs": {
         "author": [
@@ -13808,6 +14205,39 @@
             }
         },
         "short": "Cogs for Red V3 by jack1142 (Jackenmen#6607)."
+    },
+    "https://github.com/jakehlee/JDG-Cogs-V3": {
+        "author": [
+            "JDG"
+        ],
+        "description": "Simple cogs made by JDG",
+        "name": "JDG-Cogs-V3",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "wordle": {
+                "author": [
+                    "JDG"
+                ],
+                "description": "Track and interact with your shared Wordle results.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A Wordle companion cog.",
+                "tags": [
+                    "game",
+                    "wordle"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Cogs made by JDG"
     },
     "https://github.com/kennnyshiwa/kennnyshiwa-cogs": {
         "author": [
