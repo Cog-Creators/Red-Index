@@ -44,12 +44,13 @@ approved:
   - https://github.com/Twentysix26/x26-Cogs
   - https://github.com/Kowlin/Sentinel
   - https://github.com/yamikaitou/YamiCogs
-  - https://github.com/flaree/pokecord-red
   - https://github.com/TheWyn/Wyn-RedV3Cogs
   - https://github.com/kreusada/Kreusada-Cogs
   - https://github.com/Obi-Wan3/OB13-Cogs
   - https://github.com/npc203/npc-cogs
   - https://github.com/Vexed01/Vex-Cogs
+  - https://github.com/flaree/lastfm-red
+  - https://github.com/Just-Jojo/JojoCogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -57,7 +58,6 @@ unapproved:
   - https://github.com/baiumbg/baiumbg-Cogs
   - https://github.com/tekulvw/Squid-Plugins@V3
   - https://github.com/ltzmax/maxcogs
-  - https://github.com/Just-Jojo/JojoCogs
   - https://github.com/thedataleek/eris-cogs
   - https://github.com/siu3334/owo-cogs
   - https://github.com/coffeebank/coffee-cogs
@@ -67,13 +67,14 @@ unapproved:
   - https://github.com/Injabie3/lui-cogs-v3
   - https://github.com/ExpertSunny/GamEraBot-cogs
   - https://github.com/goonstation/gooncogs
-  - https://github.com/TheF1ng3r/finger-cogs
   - https://github.com/Craftzman7/crafter-cogs
   - https://github.com/AAA3A-AAA3A/AAA3A-cogs
   - https://github.com/i-am-zaidali/cray-cogs
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/matchatealeaf/matcha-cogs
   - https://github.com/Honkertonken/Honkertonken-Cogs
+  - https://github.com/flaree/pokecord-red
+  - https://github.com/Kuro-Rui/Kuro-Cogs
   - https://github.com/jakehlee/JDG-Cogs-V3
 
 # List of flagged cogs
