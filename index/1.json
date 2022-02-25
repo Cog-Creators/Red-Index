@@ -31,11 +31,59 @@
                 ],
                 "type": ""
             },
+            "autotraceback": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to display the error traceback of a command aomatically after the error! If you are developing cogs for Red for example, you don't need to use the traceback command every time you run a new command.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to display the error traceback of a command aomatically after the error!",
+                "tags": [
+                    "error",
+                    "traceback",
+                    "dev"
+                ],
+                "type": ""
+            },
+            "calculator": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to do simple calculations without leaving Discord with buttons? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash.py",
+                    "TagScript"
+                ],
+                "short": "A cog to do simple calculations from Discord with buttons!",
+                "tags": [
+                    "calculation",
+                    "calc",
+                    "calculator",
+                    "maths"
+                ],
+                "type": ""
+            },
             "clearchannel": {
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever wanted to demete all messages of a channel? Then this cog is for you!",
+                "description": "Have you ever wanted to delete all messages of a channel? Then this cog is for you!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -75,6 +123,51 @@
                 ],
                 "type": ""
             },
+            "ctxvar": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to list and display the contents of all sub-functions of `ctx`! This cog allows you to see which variables you want to use when creating the cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to list and display the contents of all sub-functions of `ctx`!",
+                "tags": [
+                    "ctx",
+                    "python",
+                    "coding",
+                    "variables"
+                ],
+                "type": ""
+            },
+            "editfile": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to get a file and replace it from its path from Discord? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to get a file and replace it from its path from Discord!",
+                "tags": [
+                    "file",
+                    "local",
+                    "edit"
+                ],
+                "type": ""
+            },
             "ip": {
                 "author": [
                     "AAA3A"
@@ -96,6 +189,74 @@
                     "ip",
                     "host",
                     "machine"
+                ],
+                "type": ""
+            },
+            "memberprefix": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to allow a member to choose custom prefixes, just for them? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to allow a member to choose custom prefixes, just for them!",
+                "tags": [
+                    "prefix",
+                    "custom",
+                    "member"
+                ],
+                "type": ""
+            },
+            "reacttocommand": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to allow a user to execute a command by clicking on a reaction? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to allow a user to execute a command by clicking on a reaction!",
+                "tags": [
+                    "react",
+                    "reaction",
+                    "command"
+                ],
+                "type": ""
+            },
+            "rolesbuttons": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to have roles-buttons? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash.py"
+                ],
+                "short": "A cog to have roles-buttons!",
+                "tags": [
+                    "role",
+                    "button",
+                    "react"
                 ],
                 "type": ""
             },
@@ -121,6 +282,53 @@
                     "user",
                     "ban",
                     "quick"
+                ],
+                "type": ""
+            },
+            "sudo": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to allow bot owners to be normal users in terms of permissions? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to allow bot owners to be normal users in terms of permissions!",
+                "tags": [
+                    "sudo",
+                    "bot",
+                    "owner"
+                ],
+                "type": ""
+            },
+            "tickettool": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to set up a ticket system, with many options for the user and the support team, on your server? Then this cog is for you! It has many settings, buttons, a reaction to create the ticket, many commands working in the ticket channel, different roles with access to different options...",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash.py",
+                    "chat-exporter==1.7.3"
+                ],
+                "short": "A cog to manage a ticket system!",
+                "tags": [
+                    "ticket",
+                    "tool",
+                    "system"
                 ],
                 "type": ""
             },
@@ -1051,11 +1259,35 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "BotStats": {
+            "blackformatter": {
                 "author": [
                     "Honkertonken"
                 ],
-                "description": "Shit ton of Bot Stats",
+                "description": "Format your code with black. Supports codeblocks replies and attachments!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "black"
+                ],
+                "short": "Black formatter.",
+                "tags": [
+                    "black",
+                    "code",
+                    "format"
+                ],
+                "type": "COG"
+            },
+            "buttoninvite": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "A highly customizable invite cog with buttons! uses no extra lib.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -1065,14 +1297,39 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Bot Stats",
+                "short": "Customizable invite cog with buttons (no extra lib).",
                 "tags": [
-                    "utility",
-                    "stats"
+                    "invite",
+                    "button",
+                    "custom"
                 ],
                 "type": "COG"
             },
-            "Pp": {
+            "isortformatter": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Format your code with isort. Supports codeblocks replies and attachments!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "isort"
+                ],
+                "short": "Isort formatter.",
+                "tags": [
+                    "isort",
+                    "code",
+                    "format"
+                ],
+                "type": "COG"
+            },
+            "pp": {
                 "author": [
                     "Honkertonken"
                 ],
@@ -1093,7 +1350,7 @@
                 ],
                 "type": "COG"
             },
-            "Pressf": {
+            "pressf": {
                 "author": [
                     "Honkertonken"
                 ],
@@ -1115,11 +1372,11 @@
                 ],
                 "type": "COG"
             },
-            "Whoasked": {
+            "reactionlog": {
                 "author": [
                     "Honkertonken"
                 ],
-                "description": "When you just have to ask who the hell asked?",
+                "description": "A simple reaction logging cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -1129,10 +1386,11 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Who Asked??",
+                "short": "Log reactions!",
                 "tags": [
-                    "fun",
-                    "whoasked"
+                    "log",
+                    "reaction",
+                    "reactionlog"
                 ],
                 "type": "COG"
             },
@@ -1179,6 +1437,27 @@
                     "slashtags",
                     "docs",
                     "documentation"
+                ],
+                "type": "COG"
+            },
+            "whoasked": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "When you just have to ask who the hell asked?",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Who Asked??",
+                "tags": [
+                    "fun",
+                    "whoasked"
                 ],
                 "type": "COG"
             }
@@ -2046,7 +2325,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "Embed the invite command",
                 "tags": [
                     "Utility"
@@ -2122,7 +2403,7 @@
                 "author": [
                     "Jojo#7791"
                 ],
-                "description": "Encript and decript text using ciphers like Caesar and Vigenere!",
+                "description": "Decipher and encipher text using ciphers like Caesar and Vigenere!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data",
                 "hidden": false,
@@ -2134,7 +2415,7 @@
                 "requirements": [
                     "pycipher"
                 ],
-                "short": "Decipher and encipher text using encriptions!",
+                "short": "Decipher and encipher text using enciphers!",
                 "tags": [
                     "fun",
                     "cipher"
@@ -5185,83 +5466,6 @@
         },
         "short": "Cogs from Sharky"
     },
-    "https://github.com/TheF1ng3r/finger-cogs": {
-        "author": [
-            "TheF1ng3r"
-        ],
-        "description": "Set of cogs that will bring more fun and utility to your bot.",
-        "name": "finger-cogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "clashofclans": {
-                "author": [
-                    "TheF1ng3r"
-                ],
-                "description": "Get info about users army, level, trophies and clans war, members and donations!",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores data only if set by the user. Your clan and account tags are the only data saved.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get info about users and clans in Clash of Clans!",
-                "tags": [
-                    "clashofclans",
-                    "coc",
-                    "utility"
-                ],
-                "type": ""
-            },
-            "statusroles": {
-                "author": [
-                    "TheF1ng3r"
-                ],
-                "description": "This cog allows you to gain roles based on certain text in members statuses.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Gain roles based on text in members status.",
-                "tags": [
-                    "status",
-                    "roles",
-                    "utility"
-                ],
-                "type": ""
-            },
-            "wordcounting": {
-                "author": [
-                    "TheF1ng3r"
-                ],
-                "description": "Create a word counting channel, where people can count using words!",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores your data only if you were the last to count. This data is to check if you double count.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Count using words.",
-                "tags": [
-                    "counting",
-                    "words"
-                ],
-                "type": ""
-            }
-        },
-        "short": "Fun and helpful cogs"
-    },
     "https://github.com/TheWyn/Wyn-RedV3Cogs": {
         "author": [
             "Wyn"
@@ -7107,16 +7311,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "tags": [
                     "utility",
@@ -7132,15 +7336,17 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Just another ping cog... But this one has fancy colours in an embed the bot owner can customise!",
                 "tags": [
@@ -7158,16 +7364,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "tags": [
                     "utility",
@@ -7183,24 +7389,109 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "pandas",
                     "plotly",
-                    "kaleido",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "kaleido"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
                     "utility",
                     "uptime",
                     "meta"
+                ],
+                "type": ""
+            },
+            "birthday": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "Get users to add their birthday, then on their birthday they will get a special role. Server owners can set the time of day, announcement message and role.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will associate a User ID with a birthday if the user explicitly sets it. This data is also associated with a specific guild ID. No other data or metadata about users is stored.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Birthday cog with customisable roles, messages and times.",
+                "tags": [
+                    "birthday",
+                    "birthdays",
+                    "bday",
+                    "fun",
+                    "role"
+                ],
+                "type": ""
+            },
+            "buttonpoll": {
+                "author": [
+                    "Vexed (Vexed#3211)"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs paired with guild IDs and how they voted if a user participated in a poll. This is to ensure no double voting can happen. This data is removed once a poll finishes. No other data or metadata about users is persistently stored. This cog respects data deletion requests.",
+                "hidden": true,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
+                "tags": [
+                    "utility",
+                    "poll",
+                    "button"
+                ],
+                "type": ""
+            },
+            "calc": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "expr.py",
+                    "asyncache"
+                ],
+                "short": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "tags": [
+                    "utility",
+                    "calc",
+                    "math",
+                    "maths"
                 ],
                 "type": ""
             },
@@ -7212,16 +7503,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.5.0.dev1",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.11",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "Make all commands case insensitive.",
                 "tags": [
                     "utility",
@@ -7240,16 +7531,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog may persistently store data or metadata about users. Operational data is temporarily collected and cached whenever a command is used and may be stored.\n\nWhen a command is used, the following data is collected: the message invoking the command, the user that invoked it, the server it was invoked in, and the channel it was invoked in. This includes application commands, as well as old-style text commands.\n\nThis cog does not support data deletion requests, as it handles operational data.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "Track who uses what commands, with the ability to search for a specific user, server command.",
                 "tags": [
                     "utility",
@@ -7266,16 +7557,18 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "plotly",
                     "kaleido",
-                    "tabulate",
-                    "cachetools",
                     "asyncache"
                 ],
                 "short": "Get graphs of COVID-19 data.",
@@ -7295,16 +7588,17 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub>=5.0.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "gidgethub>=5.0.0"
                 ],
                 "short": "[DPY 2 ONLY] Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7322,16 +7616,17 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gidgethub>=5.0.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "gidgethub>=5.0.0"
                 ],
                 "short": "Create, comment, labelify and close GitHub issues.",
                 "tags": [
@@ -7349,18 +7644,19 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "plotly",
                     "kaleido",
-                    "pytrends",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "pytrends"
                 ],
                 "short": "Find out what the world is searching, right from Discord. Includes charts.",
                 "tags": [
@@ -7379,16 +7675,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
-                ],
+                "requirements": [],
                 "short": "Translate something from English into a gazillion different languages then back to English. You'll get some funny responses! Uses an undocumented Google Translate API.",
                 "tags": [
                     "madtranslate",
@@ -7406,19 +7702,20 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog permanently stores anonymised and aggregated data about users' statuses and counts messages sent, not including their content. This data cannot be traced back to individual users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "pandas>=1.1.0",
                     "psutil",
                     "plotly",
-                    "kaleido",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "kaleido"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
@@ -7437,16 +7734,19 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.6",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "markdownify",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "asyncache",
+                    "tabulate"
                 ],
                 "short": "Get automatic status updates from various services, and check the latest incidents on-demand. Includes Discord, GitHub and Cloudflare.",
                 "tags": [
@@ -7464,16 +7764,18 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "psutil>=5.8.0",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Check system metrics on the host device.",
                 "tags": [
@@ -7508,16 +7810,17 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "rapidfuzz",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "rapidfuzz"
                 ],
                 "short": "Get the time in different timezones in voice channels.",
                 "tags": [
@@ -7528,24 +7831,59 @@
                 ],
                 "type": ""
             },
+            "uptimeresponder": {
+                "author": [
+                    "Vexed"
+                ],
+                "description": "A cog which starts up a simple webserver whenever the cog is loaded, which can then be used by uptime monitoring services such as UptimeRobot, Pingdom, Uptime.com, or self-hosted ones like UptimeKuma or Upptime.. If you are using an external monitor, you will need to configure port forwarding. Make sure you are aware of the security risks of exposing your machine to the internet. The cog responds with status code 200.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncache"
+                ],
+                "short": "A cog which starts up a simple webserver whenever the cog is loaded, which can then be used by uptime monitoring services such as UptimeRobot, Pingdom, Uptime.com, or self-hosted ones like Uptime Kuma or Upptime.",
+                "tags": [
+                    "webserver",
+                    "server",
+                    "ping",
+                    "uptimerobot",
+                    "uptimekuma",
+                    "kuma",
+                    "upptime",
+                    "pingdom"
+                ],
+                "type": ""
+            },
             "wol": {
                 "author": [
                     "Vexed (Vexed#9000)"
                 ],
-                "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up teh computer beforehand to listen to these - just search how to set it up for your operating system.",
+                "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up the computer beforehand to listen to these - just search how to set it up for your operating system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.6.0.dev0",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "wakeonlan",
-                    "tabulate",
-                    "cachetools",
-                    "asyncache"
+                    "tabulate"
                 ],
                 "short": "Use Wake on LAN from Discord! This cog sends magic packets on the local network.",
                 "tags": [
@@ -10712,7 +11050,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pymongo>=3.10",
+                    "pymongo>=3.10,<3.12.3",
                     "motor",
                     "fonttools",
                     "pillow>=6.2.1",
@@ -11552,6 +11890,30 @@
                 ],
                 "type": ""
             },
+            "emailverify": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Secure your server by making users verify their account with an email.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiosmtplib"
+                ],
+                "short": "Secure your server by making users verify their account with an email.",
+                "tags": [
+                    "email verification",
+                    "email",
+                    "verification"
+                ],
+                "type": ""
+            },
             "embedcreator": {
                 "author": [
                     "flare(flare#0001)"
@@ -11834,7 +12196,7 @@
                 "description": "Lock the @everyone role from speaking, reacting etc. Will restore previous permissions.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
@@ -12055,6 +12417,52 @@
         },
         "short": "Assortment of cogs written by flare."
     },
+    "https://github.com/flaree/lastfm-red": {
+        "author": [
+            "flare(flare#0001)",
+            "joinem (Miso Bot)",
+            "fixator10",
+            "alec"
+        ],
+        "description": "Port of Miso Bots LastFM functionality with slight changed, additions and removals.",
+        "name": "lastfm-red",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "lastfm": {
+                "author": [
+                    "flare(flare#0001)",
+                    "joinem",
+                    "fixator10",
+                    "alec"
+                ],
+                "description": "Port of Miso Bot's LastFM Cog,",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "humanize",
+                    "bs4",
+                    "tabulate",
+                    "wordcloud",
+                    "arrow"
+                ],
+                "short": "Port of Miso Bot's LastFM Cog",
+                "tags": [
+                    "LastFM",
+                    "scrobbler",
+                    "music"
+                ],
+                "type": ""
+            }
+        },
+        "short": "MisoBot LastFM port to Red."
+    },
     "https://github.com/flaree/pokecord-red": {
         "author": [
             "flare (flare#0001)"
@@ -12062,7 +12470,7 @@
         "description": "Pokecord, rewritten to be compatible with Red.",
         "name": "pokecord-red",
         "rx_branch": "",
-        "rx_category": "approved",
+        "rx_category": "unapproved",
         "rx_cogs": {
             "pokecord": {
                 "author": [
@@ -12115,14 +12523,33 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-py-slash-command"
-                ],
+                "requirements": [],
                 "short": "Send reports to server administrators.",
                 "tags": [
                     "administration",
                     "reports"
                 ],
+                "type": ""
+            },
+            "byondcom": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "bs4"
+                ],
+                "short": "TODO",
+                "tags": [],
                 "type": ""
             },
             "editableposts": {
@@ -12158,9 +12585,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-py-slash-command"
-                ],
+                "requirements": [],
                 "short": "Keeps track of used emoji and lets people use them using a slash command.",
                 "tags": [
                     "emoji"
@@ -12258,6 +12683,28 @@
                 ],
                 "type": ""
             },
+            "goonhub": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "python-geoip-python3",
+                    "python-geoip-geolite2"
+                ],
+                "short": "TODO",
+                "tags": [],
+                "type": ""
+            },
             "goonmisc": {
                 "author": [
                     "pali (pali#0439)"
@@ -12327,6 +12774,26 @@
                 ],
                 "type": ""
             },
+            "ipinfo": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "TODO",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "TODO",
+                "tags": [],
+                "type": ""
+            },
             "loudvideos": {
                 "author": [
                     "pali (pali#0439)"
@@ -12347,6 +12814,24 @@
                 "tags": [
                     "video"
                 ],
+                "type": ""
+            },
+            "messagecounter": {
+                "author": [
+                    "pali (pali#0439)"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
                 "type": ""
             },
             "mybbnotif": {
@@ -12822,9 +13307,9 @@
             },
             "giveaways": {
                 "author": [
-                    "crayyy_zee"
+                    "crayyy_zee#2900"
                 ],
-                "description": "Reaction based giveaways with customisable embeds, reactions, amari bot requirements and much more. ",
+                "description": "Reaction based giveaways with customisable embeds, reactions, requirements and much more. ",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user ids to link them to their hosted giveaways.",
                 "hidden": false,
@@ -12833,10 +13318,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/i-am-zaidali/AmariWrapper.git",
-                    "dateparser"
-                ],
+                "requirements": [],
                 "short": "Start reaction based giveaways.",
                 "tags": [
                     "giveaways",
@@ -12871,6 +13353,30 @@
                     "economy",
                     "currency",
                     "shop"
+                ],
+                "type": "COG"
+            },
+            "joinping": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Ghost ping users in channels to alert them when they join.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ping members on join in specific channels.",
+                "tags": [
+                    "joinping",
+                    "member join",
+                    "join",
+                    "welcome",
+                    "mentions"
                 ],
                 "type": "COG"
             },
@@ -14254,6 +14760,34 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "colorconverter": {
+                "author": [
+                    "max"
+                ],
+                "description": "Convert a color to RGB and hex.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Convert a color to RGB and hex.",
+                "tags": [
+                    "color",
+                    "hex",
+                    "rgb"
+                ],
+                "type": "COG"
+            },
             "embeduptime": {
                 "author": [
                     "max"
@@ -14314,7 +14848,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "On connect is a shard event cog that shows on ready, disconnect and resummed.",
+                "description": "On connect is a shard event cog that shows on ready, disconnect and resume.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -14326,13 +14860,14 @@
                     1
                 ],
                 "permissions": [
-                    "manage_webhooks"
+                    "manage_webhooks",
+                    "add_reactions"
                 ],
                 "required_cogs": {},
                 "requirements": [
                     "psutil"
                 ],
-                "short": "This cog is used to send shard events.",
+                "short": "Shard events cog that shows on ready, disconnect and resume.",
                 "tags": [
                     "shard",
                     "reconnect",
@@ -14341,16 +14876,16 @@
                 ],
                 "type": "COG"
             },
-            "statsinfo": {
+            "stats": {
                 "author": [
                     "max"
                 ],
-                "description": "This will show all current stats total from all guilds your bot is in.",
+                "description": "Shows stats about the bot.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.6",
                 "min_python_version": [
                     3,
                     8,
@@ -14360,10 +14895,8 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "tabulate"
-                ],
-                "short": "Stats cog to show total stats.",
+                "requirements": [],
+                "short": "Shows stats about the bot.",
                 "tags": [
                     "stats"
                 ],
@@ -16054,12 +16587,12 @@
                 "author": [
                     "ow0x"
                 ],
-                "description": "Fetch various info about a smartphone from GSMArena.com",
+                "description": "Fetch device specifications & metadata info for a (smart)phone model from GSMArena.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any PII data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
+                "min_bot_version": "3.4.16",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -16068,7 +16601,7 @@
                     "beautifulsoup4",
                     "msgpack"
                 ],
-                "short": "Fetch various info about a smartphone from GSMArena.com",
+                "short": "Fetch device specs & metadata on a (smart)phone model.",
                 "tags": [
                     "smartphone",
                     "gsmarena",
@@ -16208,14 +16741,14 @@
             },
             "vocadb": {
                 "author": [
-                    "siu3334"
+                    "ow0x"
                 ],
                 "description": "Search for a song on Vocaloid Database.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.4.12",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -17626,7 +18159,7 @@
         "author": [
             "Vertyco"
         ],
-        "description": "Various utility and game server management cogs for servers like Ark, Minecraft, and DayZ, with a few other random/fun cogs sprinkled in.",
+        "description": "Various utility cogs for Red, with a few other random/fun cogs sprinkled in.",
         "name": "vrt-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -17651,7 +18184,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Ark data save tool",
+                "short": "ArkTools data save plugin",
                 "tags": [
                     "utility",
                     "ark",
@@ -17678,9 +18211,10 @@
                     "arktools": "https://github.com/vertyco/vrt-cogs"
                 },
                 "requirements": [
-                    "rcon==1.3.6"
+                    "rcon==1.3.7",
+                    "dislash.py"
                 ],
-                "short": "Shop for Ark",
+                "short": "ArkTools shop plugin",
                 "tags": [
                     "utility",
                     "ark",
@@ -17705,12 +18239,14 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "rcon",
+                    "rcon==1.3.7",
                     "pytz",
                     "xbox-webapi",
-                    "matplotlib"
+                    "matplotlib",
+                    "tabulate",
+                    "dislash.py"
                 ],
-                "short": "RCON tools for Ark",
+                "short": "Ark: Survival Evolved Server Manager",
                 "tags": [
                     "utility",
                     "ark",
@@ -17722,65 +18258,59 @@
                 ],
                 "type": "COG"
             },
-            "atla": {
+            "ecotools": {
                 "author": [
                     "Vertyco"
                 ],
-                "description": "WIP",
-                "disabled": true,
-                "end_user_data_statement": "WIP",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "WIP",
-                "tags": [
-                    "pet",
-                    "pets",
-                    "game",
-                    "games",
-                    "adventure",
-                    "fun",
-                    "collect"
-                ],
-                "type": "COG"
-            },
-            "dayztools": {
-                "author": [
-                    "Vertyco"
-                ],
-                "description": "Day Z server logging for Nitrado.",
+                "description": "ECO Game Server RCON Tools",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.(at the moment)",
+                "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
+                "min_python_version": "",
                 "permissions": [
-                    "administrator"
+                    "send_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Logging tools for Day Z",
+                "requirements": [
+                    "rcon==1.3.7"
+                ],
+                "short": "ECO Game Server RCON Tools",
                 "tags": [
                     "utility",
-                    "dayz",
-                    "day z",
-                    "nitrado",
+                    "eco",
+                    "rcon",
                     "servermanager",
-                    "server manager",
-                    "server"
+                    "server",
+                    "survival",
+                    "gameserver"
+                ],
+                "type": "COG"
+            },
+            "emojitracker": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "A simple guild emoji tracker",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord ID's",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Emoji tracker",
+                "tags": [
+                    "emoji",
+                    "tracker",
+                    "stats"
                 ],
                 "type": "COG"
             },
@@ -17812,6 +18342,60 @@
                     "translate",
                     "translator",
                     "autotranslate"
+                ],
+                "type": "COG"
+            },
+            "guildlog": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Log the bot joining and leaving guilds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Log bot guild joins/leaves",
+                "tags": [
+                    "utility",
+                    "logging",
+                    "logs",
+                    "guildlog"
+                ],
+                "type": "COG"
+            },
+            "halostats": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "View your Halo Infinite stats",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord ID's and Gamertags and uses Selenium to web-scrape the halotracker.com site for Halo Infinite stats\n**WARNING**\nRequires Google Chrome to be installed on server hosting the bot!",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "selenium",
+                    "webdriver_manager"
+                ],
+                "short": "Halo Infinite stats",
+                "tags": [
+                    "halo",
+                    "infinite",
+                    "halo infinite"
                 ],
                 "type": "COG"
             },
@@ -17854,15 +18438,20 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [
+                    "read_messages",
                     "send_messages",
-                    "manage_roles"
+                    "manage_roles",
+                    "attach_files",
+                    "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [
                     "matplotlib",
                     "aiohttp",
                     "pillow",
-                    "validators"
+                    "validators",
+                    "tabulate",
+                    "colorgram.py"
                 ],
                 "short": "Leveling System",
                 "tags": [
@@ -17990,6 +18579,68 @@
                 ],
                 "type": "COG"
             },
+            "support": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Discord support ticket system with buttons!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "manage_messages",
+                    "manage_permissions",
+                    "manage_roles",
+                    "attach_files",
+                    "embed_links",
+                    "manage_channels"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash.py"
+                ],
+                "short": "Support ticket system",
+                "tags": [
+                    "utility",
+                    "tickets",
+                    "ticket",
+                    "support",
+                    "support system"
+                ],
+                "type": "COG"
+            },
+            "warntransfer": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Import WarnSystem data to core modlogs",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Import WarnSystem data to core modlogs",
+                "tags": [
+                    "utility",
+                    "warnsystem",
+                    "import",
+                    "warnings",
+                    "modlog"
+                ],
+                "type": "COG"
+            },
             "xtools": {
                 "author": [
                     "Vertyco"
@@ -18016,9 +18667,10 @@
                 "required_cogs": {},
                 "requirements": [
                     "xmltojson>=0.2.0",
-                    "xbox-webapi",
+                    "xbox-webapi==2.0.11",
                     "utils>=1.0.1",
-                    "tabulate"
+                    "tabulate",
+                    "dislash.py"
                 ],
                 "short": "Get Xbox Live Info and Player Stats.",
                 "tags": [
@@ -18051,7 +18703,7 @@
                 "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18069,7 +18721,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18090,7 +18742,7 @@
                 "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18113,7 +18765,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
@@ -18134,7 +18786,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
@@ -18155,7 +18807,7 @@
                 "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
@@ -18176,7 +18828,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord UserIDs as needed for operation.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18201,7 +18853,7 @@
                 "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
@@ -18221,7 +18873,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18242,7 +18894,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18269,7 +18921,7 @@
                 "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord UserIDs as needed for operation.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
@@ -18290,7 +18942,7 @@
                 "disabled": true,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.26",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
