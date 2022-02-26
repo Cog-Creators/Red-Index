@@ -16803,6 +16803,399 @@
         },
         "short": "Utility cogs for your server."
     },
+    "https://github.com/siu3334/owo-cogs": {
+        "author": [
+            "<@306810730055729152>"
+        ],
+        "description": "Some fun, utility cogs for Red Discord Bot v3.",
+        "name": "owo-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "badgetools": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Various tools to show stats about your server's user profile badges.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Various tools to show stats about your server's user profile badges.",
+                "tags": [
+                    "badgetools",
+                    "badges",
+                    "badgecount",
+                    "boosters"
+                ],
+                "type": "COG"
+            },
+            "country": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch some basic trivia & information about a country.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch some basic info about a country.",
+                "tags": [
+                    "country",
+                    "countries"
+                ],
+                "type": "COG"
+            },
+            "ipdata": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Get basic geolocation info on a public IP address.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.14",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get basic geolocation info on a public IP address.",
+                "tags": [
+                    "ip",
+                    "whois",
+                    "ipdata"
+                ],
+                "type": "COG"
+            },
+            "kickstarter": {
+                "author": [
+                    "<@306810730055729152>",
+                    "dragonfire535"
+                ],
+                "description": "Search for your query to fetch info on a Kickstarter project.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.14",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for and get info on a Kickstarter project.",
+                "tags": [
+                    "kickstarter"
+                ],
+                "type": "COG"
+            },
+            "manim": {
+                "author": [
+                    "The Manim Community Developers",
+                    "<@306810730055729152>"
+                ],
+                "description": "Render mathematical animations with Manim animation engine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "docker"
+                ],
+                "short": "Render mathematical animations with Manim.",
+                "tags": [
+                    "manim",
+                    "manimate"
+                ],
+                "type": "COG"
+            },
+            "maps": {
+                "author": [
+                    "siu3334"
+                ],
+                "description": "Fetch a Google map of a specific location in various modes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch a Google map of a specific location.",
+                "tags": [
+                    "maps",
+                    "map",
+                    "google map",
+                    "google maps"
+                ],
+                "type": "COG"
+            },
+            "moviedb": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch various info about a movie or TV series from The Movie DB API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch various info about a movie or TV series.",
+                "tags": [
+                    "movie",
+                    "tv series",
+                    "tv show",
+                    "themoviedb",
+                    "imdb"
+                ],
+                "type": "COG"
+            },
+            "ocr": {
+                "author": [
+                    "<@306810730055729152>",
+                    "TrustyJAID"
+                ],
+                "description": "Detect text in images through OCR.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Detect text in images through OCR.",
+                "tags": [
+                    "ocr",
+                    "image to text"
+                ],
+                "type": "COG"
+            },
+            "phonefinder": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch device specifications & metadata info for a (smart)phone model from GSMArena.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.16",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiocache",
+                    "beautifulsoup4",
+                    "msgpack"
+                ],
+                "short": "Fetch device specs & metadata on a (smart)phone model.",
+                "tags": [
+                    "smartphone",
+                    "gsmarena",
+                    "phone specs",
+                    "phone lookup",
+                    "phone finder"
+                ],
+                "type": "COG"
+            },
+            "pokebase": {
+                "author": [
+                    "<@306810730055729152>",
+                    "phalt"
+                ],
+                "description": "Fetch various info about a Pok\u00e9mon and some fun commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiocache",
+                    "beautifulsoup4",
+                    "jmespath",
+                    "msgpack",
+                    "pillow",
+                    "ujson"
+                ],
+                "short": "Your personal Pok\u00e9dex with fun games/commands.",
+                "tags": [
+                    "pokemon",
+                    "pokedex",
+                    "pokebase",
+                    "pokeapi",
+                    "whosthatpokemon",
+                    "pokemontcg",
+                    "pokemon card game",
+                    "pokemon card",
+                    "trainer card",
+                    "pokemon trainer card",
+                    "pokecord"
+                ],
+                "type": "COG"
+            },
+            "redditinfo": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch hot meme or basic info about Reddit user accounts and subreddits.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.14",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch hot meme or basic info about Reddit user accounts and subreddits.",
+                "tags": [
+                    "meme",
+                    "hot meme",
+                    "auto meme",
+                    "auto post meme",
+                    "meme autopost",
+                    "reddit meme",
+                    "reddit",
+                    "redditinfo",
+                    "subreddit"
+                ],
+                "type": "COG"
+            },
+            "roleplay": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Roleplay with friends (or strangers) on Discord with count stats, (hug, pat, nom, cry and 12+ more commands).",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Roleplay with friends on Discord with count stats.",
+                "tags": [
+                    "baka",
+                    "bully",
+                    "cry",
+                    "cuddle",
+                    "feed",
+                    "highfive",
+                    "hug",
+                    "kill",
+                    "kiss",
+                    "lick",
+                    "nom",
+                    "pat",
+                    "poke",
+                    "punch",
+                    "slap",
+                    "smug",
+                    "tickle",
+                    "roleplay"
+                ],
+                "type": "COG"
+            },
+            "steamcog": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Fetch various useful info about a Steam game all from the comfort of your Discord home.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "html2text"
+                ],
+                "short": "Fetch various useful info about a Steam game.",
+                "tags": [
+                    "steam",
+                    "steamcog"
+                ],
+                "type": "COG"
+            },
+            "vocadb": {
+                "author": [
+                    "<@306810730055729152>"
+                ],
+                "description": "Search for a song on Vocaloid Database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for a song on VocaDB.",
+                "tags": [
+                    "vocadb",
+                    "vocaloid"
+                ],
+                "type": "COG"
+            },
+            "yugioh": {
+                "author": [
+                    "<@306810730055729152>",
+                    "dragonfire535"
+                ],
+                "description": "Fetch some info on a Yu-Gi-Oh! card.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.14",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch some info on a Yu-Gi-Oh! card.",
+                "tags": [
+                    "ygo",
+                    "ygo card",
+                    "yu gi oh",
+                    "yugioh"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Some fun, utility cogs for Red Discord Bot v3."
+    },
     "https://github.com/skeith/MayuYukirin": {
         "author": [
             "Yukirin (Yukirin#0048)"
