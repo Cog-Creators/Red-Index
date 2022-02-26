@@ -2729,7 +2729,9 @@
                 "requirements": [],
                 "short": "Restart/Shutdown your bot with or without confirmation!",
                 "tags": [
+                    "confirm",
                     "confirmation",
+                    "down",
                     "restart",
                     "shutdown"
                 ],
