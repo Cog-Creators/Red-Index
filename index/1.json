@@ -15266,7 +15266,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "nekosbest==1.1.3"
+                    "nekosbest==1.1.5"
                 ],
                 "short": "Random neko images.",
                 "tags": [
