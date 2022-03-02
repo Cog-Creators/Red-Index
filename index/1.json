@@ -16949,6 +16949,160 @@
         },
         "short": "48G/46G related cogs and miscellaneous."
     },
+    "https://github.com/sravan1946/sravan-cogs": {
+        "author": [
+            "sravan"
+        ],
+        "description": "Just some cogs which I made for fun.",
+        "name": "sravan-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "devlogs": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "Logs all the Dev commands in a channel",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Keep a log of all that evals and debugs",
+                "tags": [
+                    "dev"
+                ],
+                "type": "COG"
+            },
+            "dps": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "rekt the users who pings",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "just dont!",
+                "tags": [],
+                "type": "COG"
+            },
+            "gtn": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "a guess the number game which you can play in discord",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "a simple gtn game",
+                "tags": [
+                    "fun",
+                    "game"
+                ],
+                "type": "COG"
+            },
+            "hideping": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "Mentions the user in a hidden ping",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Hidden mentions;)",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "poll": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "simple command to start poll using reactions",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "make polls",
+                "tags": [
+                    "poll"
+                ],
+                "type": "COG"
+            },
+            "session": {
+                "author": [
+                    "aikaterna",
+                    "sravan"
+                ],
+                "description": "aikaterna's rndstatus heavily edited to display the number of commands used in a session as the status",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Command usage statuses",
+                "tags": [
+                    "status"
+                ],
+                "type": "COG"
+            },
+            "timeout": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "add or remove cooldown from users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "manage cooldowns",
+                "tags": [
+                    "tag1",
+                    "tag2",
+                    "tag3"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "General cogs."
+    },
     "https://github.com/synrg/dronefly": {
         "author": [
             "SyntheticBee"
