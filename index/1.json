@@ -2713,30 +2713,6 @@
                 ],
                 "type": ""
             },
-            "downconfirm": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Restart/Shutdown your bot with or without confirmation!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Restart/Shutdown your bot with or without confirmation!",
-                "tags": [
-                    "confirm",
-                    "confirmation",
-                    "down",
-                    "restart",
-                    "shutdown"
-                ],
-                "type": "COG"
-            },
             "fakemod": {
                 "author": [
                     "Kuro"
@@ -2916,6 +2892,31 @@
                     "reaction",
                     "reactlog",
                     "reactionlog"
+                ],
+                "type": "COG"
+            },
+            "reacttermino": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Restart/Shutdown your bot with reaction predicate!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Restart/Shutdown your bot with reaction predicate!",
+                "tags": [
+                    "confirm",
+                    "confirmation",
+                    "predicate",
+                    "reaction",
+                    "restart",
+                    "shutdown"
                 ],
                 "type": "COG"
             },
