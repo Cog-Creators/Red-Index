@@ -3427,6 +3427,26 @@
                 ],
                 "type": ""
             },
+            "opensea": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Keep track of specific wallets by wallet address or NFT contact address.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Keep track of OpenSea asset events.",
+                "tags": [
+                    "tools"
+                ],
+                "type": ""
+            },
             "reacticket": {
                 "author": [
                     "Neuro Assassin"
