@@ -7877,7 +7877,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
+                "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
                 "tags": [
                     "utility",
                     "poll",
@@ -7906,7 +7906,7 @@
                     "expr.py",
                     "asyncache"
                 ],
-                "short": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "short": "Calculate simple mathematical expressions, right in Discord with buttons. This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs.",
                 "tags": [
                     "utility",
                     "calc",
@@ -8004,7 +8004,7 @@
                 "author": [
                     "Vexed (Vexed#9000)"
                 ],
-                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n\u26a0 This cog requires discord.py 2 which is currently incompatible with Red and most other cogs \u26a0",
+                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
