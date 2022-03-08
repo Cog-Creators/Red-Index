@@ -7876,7 +7876,11 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "plotly",
+                    "kaleido",
+                    "pandas"
+                ],
                 "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
                 "tags": [
                     "utility",
