@@ -6580,8 +6580,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate",
-                    "pytz"
+                    "tabulate"
                 ],
                 "short": "Destiny 2 information",
                 "tags": [
