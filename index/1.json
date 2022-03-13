@@ -13274,7 +13274,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aiohttp",
+                    "markdownify"
+                ],
                 "short": "TODO",
                 "tags": [
                     "forum"
