@@ -11492,7 +11492,7 @@
                 ],
                 "description": "Level/Experience tracker\nIncrease activity (or not) on your server with chat exp!",
                 "disabled": false,
-                "end_user_data_statement": "This cog persistently stores next data about user:\n    Discord user ID\n    Current username\n    Per-server XP data (current XP and current level)\n    Total count of XP on all servers\n    URLs to profile/rank/levelup backrounds\n    User-set title & info\n    User's \"reputation\" points count\n    Data about user's badges\n    Data about user's profile/rank/levelup colors\n    Timestamp of latest message and reputation\n    Last message text (for comparison)\nThis cog supports data removal requests.",
+                "end_user_data_statement": "This cog persistently stores next data about user:\n    Discord user ID\n    Current username\n    Per-server XP data (current XP and current level)\n    Total count of XP on all servers\n    URLs to profile/rank/levelup backrounds\n    User-set title & info\n    User's \"reputation\" points count\n    Data about user's badges\n    Data about user's profile/rank/levelup colors\n    Timestamp of latest message and reputation\n    Last message MD5 hash (for comparison)\nThis cog supports data removal requests.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
