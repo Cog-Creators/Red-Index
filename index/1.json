@@ -13902,26 +13902,6 @@
                 "short": "Start countdowns and wait for them to end.",
                 "tags": [],
                 "type": "COG"
-            },
-            "votetracker": {
-                "author": [
-                    "crayyy_zee"
-                ],
-                "description": "Track votes recieved on top.gg for your bot.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the vote count of a user. If a user requests data-deletion, all their data will be removed from the bot.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "topggpy==1.3.0"
-                ],
-                "short": "Track votes recieved on top.gg for your bot.",
-                "tags": [],
-                "type": "COG"
             }
         },
         "short": "Badly coded but awesome cogs."
