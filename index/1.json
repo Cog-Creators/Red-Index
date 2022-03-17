@@ -22,7 +22,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A cog to remove all permissions from a person who deletes a channel.",
+                "short": "A cog to remove all permissions from a person who deletes a channel!",
                 "tags": [
                     "nuke",
                     "protection",
@@ -93,7 +93,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A cog to delete ALL messages of a channel.",
+                "short": "A cog to delete ALL messages of a channel!",
                 "tags": [
                     "cleanup",
                     "channel",
@@ -115,7 +115,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A cog to send the result of a command to another channel.",
+                "short": "A cog to send the result of a command to another channel!",
                 "tags": [
                     "command",
                     "channel",
@@ -172,7 +172,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to get the ip address of the bot.",
+                "description": "A cog to get the ip address of the bot!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -184,7 +184,7 @@
                 "requirements": [
                     "requests"
                 ],
-                "short": "A cog to get the ip address of the bot.",
+                "short": "A cog to get the ip address of the bot!",
                 "tags": [
                     "ip",
                     "host",
@@ -322,7 +322,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "dislash.py",
-                    "chat-exporter==1.7.3"
+                    "chat-exporter"
                 ],
                 "short": "A cog to manage a ticket system!",
                 "tags": [
@@ -346,7 +346,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A cog to transfer all messages channel in a other channel.",
+                "short": "A cog to transfer all messages channel in a other channel!",
                 "tags": [
                     "command",
                     "channel",
