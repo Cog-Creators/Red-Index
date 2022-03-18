@@ -4648,10 +4648,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/nirlep5252/Discord-Games.git",
-                    "git+https://github.com/Tom-the-Bomb/Discord-Games.git@master#egg=Discord-Game-Original"
-                ],
+                "requirements": [],
                 "short": "A game cog with multiple games.",
                 "tags": [
                     "2048",
@@ -4679,28 +4676,6 @@
                 "requirements": [],
                 "short": "",
                 "tags": [],
-                "type": ""
-            },
-            "memes": {
-                "author": [
-                    "Onii-Chan",
-                    "Nirlep5252"
-                ],
-                "description": "A meme generation commands which can even make gifs! all credit goes to nirlep who made the package used.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not save data about users persistently.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "0.0.1",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A meme generation cog, all credit goes to nirlep who made the package used.",
-                "tags": [
-                    "meme",
-                    "image-gen"
-                ],
                 "type": ""
             },
             "nsfw": {
