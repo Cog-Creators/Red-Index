@@ -1259,6 +1259,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "amarilevel": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "View your amari rank.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "amari.py"
+                ],
+                "short": "AmariLevel",
+                "tags": [
+                    "amari",
+                    "level",
+                    "rank"
+                ],
+                "type": "COG"
+            },
             "blackformatter": {
                 "author": [
                     "Honkertonken"
