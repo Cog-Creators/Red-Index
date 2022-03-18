@@ -2878,7 +2878,7 @@
                 "author": [
                     "Kuro"
                 ],
-                "description": "Create a poll with up to 5 options.",
+                "description": "Create a poll with up to 10 options. Inspired by Dyno.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
