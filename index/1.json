@@ -2686,9 +2686,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "speedtest-cli"
-                ],
+                "requirements": [],
                 "short": "Creates a custom ping embed to display latency statistics.",
                 "tags": [
                     "ping"
