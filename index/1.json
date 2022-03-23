@@ -1353,6 +1353,29 @@
                 ],
                 "type": "COG"
             },
+            "joke": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Get some jokes from the joke api.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "jokeapi"
+                ],
+                "short": "Get some jokes.",
+                "tags": [
+                    "jokes",
+                    "joke"
+                ],
+                "type": "COG"
+            },
             "pp": {
                 "author": [
                     "Honkertonken"
