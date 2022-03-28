@@ -1374,6 +1374,30 @@
                 ],
                 "type": "COG"
             },
+            "hiback": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": " Replies to I'm X with Hi, X",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple auto dad joke.",
+                "tags": [
+                    "hiback",
+                    "hi",
+                    "back",
+                    "dadjoke",
+                    "autoresponse"
+                ],
+                "type": "COG"
+            },
             "isortformatter": {
                 "author": [
                     "Honkertonken"
