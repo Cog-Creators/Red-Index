@@ -17091,7 +17091,7 @@
                 "author": [
                     "sravan"
                 ],
-                "description": "rekt the users who pings",
+                "description": "Punish the users who ping others with a certain role",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -17101,7 +17101,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "just dont!",
+                "short": "Take actions on users who ping",
                 "tags": [],
                 "type": "COG"
             },
@@ -17140,7 +17140,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Hidden mentions;)",
+                "short": "Hidden mentions",
                 "tags": [
                     "fun"
                 ],
@@ -17171,7 +17171,7 @@
                     "aikaterna",
                     "sravan"
                 ],
-                "description": "aikaterna's rndstatus heavily edited to display the number of commands used in a session as the status",
+                "description": "aikaterna's rndstatus edited to display the number of commands used in a session as the status",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -17203,9 +17203,8 @@
                 "requirements": [],
                 "short": "manage cooldowns",
                 "tags": [
-                    "tag1",
-                    "tag2",
-                    "tag3"
+                    "mod",
+                    "timeout"
                 ],
                 "type": "COG"
             }
