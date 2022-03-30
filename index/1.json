@@ -508,6 +508,32 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "altmarker": {
+                "author": [
+                    "Dav"
+                ],
+                "description": "Mark a user's alt accounts and get notified about them when you take a moderation action.\n Integrate this cog with alt-account identification services by hooking into the altmarker API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about you and associated accounts for moderation purposes. This includes your User ID, Username and Discriminator. By default this data is accessible to server moderators and administrators.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mark alt accounts",
+                "tags": [
+                    "notes",
+                    "alt",
+                    "moderation",
+                    "mark",
+                    "guild",
+                    "tools",
+                    "alt-accounts"
+                ],
+                "type": ""
+            },
             "anonreporter": {
                 "author": [
                     "Dav"
@@ -1371,6 +1397,30 @@
                     "invite",
                     "button",
                     "custom"
+                ],
+                "type": "COG"
+            },
+            "hiback": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": " Replies to I'm X with Hi, X",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple auto dad joke.",
+                "tags": [
+                    "hiback",
+                    "hi",
+                    "back",
+                    "dadjoke",
+                    "autoresponse"
                 ],
                 "type": "COG"
             },
@@ -14380,6 +14430,43 @@
         },
         "short": "Cogs made by JDG"
     },
+    "https://github.com/karlsbjorn/karlo-cogs": {
+        "author": [
+            "Karlo"
+        ],
+        "description": "Cogs for WoW and other stuff.",
+        "name": "karlo-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "wowtools": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Cog for interacting with World of Warcraft",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.4.99",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-blizzardapi",
+                    "gspread-asyncio",
+                    "regex"
+                ],
+                "short": "Cog for interacting with World of Warcraft",
+                "tags": [
+                    "warcraft",
+                    "world of warcraft"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs for WoW and other stuff."
+    },
     "https://github.com/kennnyshiwa/kennnyshiwa-cogs": {
         "author": [
             "Kennnyshiwa, Beryju, preda"
@@ -17067,7 +17154,7 @@
                 "author": [
                     "sravan"
                 ],
-                "description": "rekt the users who pings",
+                "description": "Punish the users who ping others with a certain role",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -17077,7 +17164,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "just dont!",
+                "short": "Take actions on users who ping",
                 "tags": [],
                 "type": "COG"
             },
@@ -17116,7 +17203,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Hidden mentions;)",
+                "short": "Hidden mentions",
                 "tags": [
                     "fun"
                 ],
@@ -17147,7 +17234,7 @@
                     "aikaterna",
                     "sravan"
                 ],
-                "description": "aikaterna's rndstatus heavily edited to display the number of commands used in a session as the status",
+                "description": "aikaterna's rndstatus edited to display the number of commands used in a session as the status",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -17179,9 +17266,8 @@
                 "requirements": [],
                 "short": "manage cooldowns",
                 "tags": [
-                    "tag1",
-                    "tag2",
-                    "tag3"
+                    "mod",
+                    "timeout"
                 ],
                 "type": "COG"
             }
