@@ -18613,7 +18613,7 @@
                 ],
                 "description": "Ark: Survival Evolved server manager and crosschat.",
                 "disabled": false,
-                "end_user_data_statement": "This is probably one of the more I/O heavy cogs available and is NOT intended to be run on extremely small devices/VMs due to the sheer amount of socket connections, API calls, and task loops it utilizes.\\nThis cog stores Gamertag Names, XUIDs, Discord IDs, time played per map, and optional token data for Xbox self-host accounts.",
+                "end_user_data_statement": "This cog stores Gamertag Names/XUIDs, Discord IDs, time played per map. It requires this data to function properly.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
