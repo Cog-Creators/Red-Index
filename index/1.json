@@ -2989,6 +2989,29 @@
                     "shutdown"
                 ],
                 "type": "COG"
+            },
+            "sudo": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Allows dropping and elevating owner permissions.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows to drop and elevate owner permissions.",
+                "tags": [
+                    "owner",
+                    "perms",
+                    "permission",
+                    "utility"
+                ],
+                "type": ""
             }
         },
         "short": "Some (dumb) cogs made/customized by Kuro."
