@@ -79,7 +79,6 @@ unapproved:
   - https://github.com/Noa-DiscordBot/noa-cogs
   - https://github.com/karlsbjorn/karlo-cogs
 
-
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
