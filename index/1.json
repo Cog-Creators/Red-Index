@@ -2768,29 +2768,6 @@
                 ],
                 "type": "COG"
             },
-            "botinvite": {
-                "author": [
-                    "Jojo#7791",
-                    "Kuro"
-                ],
-                "description": "Send an Invite with buttons & without external libraries.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji"
-                ],
-                "short": "Send an Invite with buttons.",
-                "tags": [
-                    "Utility"
-                ],
-                "type": "COG"
-            },
             "botping": {
                 "author": [
                     "Kuro"
@@ -2900,27 +2877,6 @@
                 ],
                 "type": "COG"
             },
-            "funtext": {
-                "author": [
-                    "alec",
-                    "Kuro"
-                ],
-                "description": "Generate a fun text from your given text :D",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "zalgo_text"
-                ],
-                "short": "Generate a fun text from your given text :D",
-                "tags": [],
-                "type": "COG"
-            },
             "imgbb": {
                 "author": [
                     "Kuro"
@@ -2962,32 +2918,6 @@
                     "osu",
                     "osu!"
                 ],
-                "type": "COG"
-            },
-            "phun": {
-                "author": [
-                    "Appu",
-                    "TrustyJAID",
-                    "Kuro"
-                ],
-                "description": "All sorts of commands that users may find fun or useful",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "add_reactions"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Various fun commands like react, textflip, and regional",
-                "tags": [],
                 "type": "COG"
             },
             "polls": {
@@ -3059,78 +2989,6 @@
                     "shutdown"
                 ],
                 "type": "COG"
-            },
-            "snipe": {
-                "author": [
-                    "epic guy",
-                    "Kuro"
-                ],
-                "description": "Bulk sniping to stab back those anti-sniping smart ass users",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Multi Snipe for fun and non-profit",
-                "tags": [
-                    "fun",
-                    "utility"
-                ],
-                "type": "COG"
-            },
-            "spotify": {
-                "author": [
-                    "TrustyJAID",
-                    "NeuroAssassin"
-                ],
-                "description": "This cog allows you to control Spotify via OAuth through the bot on discord. Use `[p]spotify` to see available commands.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores OAuth tokens and refresh tokens for the purposes of interacting with the Spotify API with discord commands and reactions. This data can be deleted at any time either via revoking the authorization token on Spotify or through the `[p]mydata forgetme` command.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.3.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tekore",
-                    "tabulate"
-                ],
-                "short": "Control Spotify through Discord!",
-                "tags": [
-                    "spotify"
-                ],
-                "type": "COG"
-            },
-            "suggestion": {
-                "author": [
-                    "saurichable",
-                    "Kuro"
-                ],
-                "description": "Per guild, as well as global, suggestion box voting system.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user names, discriminators, and IDs upon sending a suggestion. This data is used solely to display and contact the user about any change to their suggestion.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Simple suggestion box.",
-                "tags": [
-                    "suggest",
-                    "suggestion"
-                ],
-                "type": ""
             }
         },
         "short": "Some (dumb) cogs made/customized by Kuro."
