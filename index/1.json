@@ -3663,7 +3663,7 @@
         "rx_cogs": {
             "breadfact": {
                 "author": [
-                    "JeffJrShim#2396, Peakyyyyy#6142"
+                    "JeffJrShim, Peakyyyyy#6142"
                 ],
                 "description": "Gets a random bread fact",
                 "disabled": false,
@@ -3681,7 +3681,7 @@
             },
             "fakemod": {
                 "author": [
-                    "JeffJrShim#2396, Guacaplushy#0577"
+                    "JeffJrShim, Guacaplushy#0577"
                 ],
                 "description": "Fake moderation events, to play around with for staff.",
                 "disabled": false,
@@ -3699,7 +3699,7 @@
             },
             "ownermanagement": {
                 "author": [
-                    "JeffJrShim#2396"
+                    "JeffJrShim"
                 ],
                 "description": "Manage bot owners, easily.",
                 "disabled": false,
@@ -3719,7 +3719,7 @@
             },
             "randomnoa": {
                 "author": [
-                    "JeffJrShim#2396, Guacaplushy#0577"
+                    "JeffJrShim, Onii-chan"
                 ],
                 "description": "Fetch an official Noa Fukushima card, from the D4DJ Groovy Mix game. ",
                 "disabled": false,
