@@ -3654,9 +3654,9 @@
     },
     "https://github.com/Noa-DiscordBot/noa-cogs": {
         "author": [
-            "JeffJrShim#2396"
+            "JeffJrShim"
         ],
-        "description": "These cogs are fun and probably my stupid ideas.",
+        "description": "Fun cogs, and probably useful cogs, made by JeffJrShim",
         "name": "noa-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -3736,7 +3736,7 @@
                 "type": ""
             }
         },
-        "short": "Fun and stupid ideas of JeffJrShim#2396 that Guacaplushy#0577 ends up fixing a ton"
+        "short": "Fun cogs, and probably useful cogs, made by JeffJrShim"
     },
     "https://github.com/Obi-Wan3/OB13-Cogs": {
         "author": [
