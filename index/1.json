@@ -299,7 +299,7 @@
                 "requirements": [
                     "dislash.py"
                 ],
-                "short": "A cog to collect several sanction actions against a user.",
+                "short": "A cog to collect several sanction actions against a user!",
                 "tags": [
                     "sanction",
                     "user",
