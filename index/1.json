@@ -913,7 +913,7 @@
                 "description": "Advanced ticket system with improved management functionality.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
