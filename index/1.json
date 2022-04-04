@@ -18515,65 +18515,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "arksave": {
-                "author": [
-                    "Vertyco"
-                ],
-                "description": "Ark data save tool",
-                "disabled": false,
-                "end_user_data_statement": "This cog moves data locally and is only for 1 server at a time.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "administrator"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "ArkTools data save plugin",
-                "tags": [
-                    "utility",
-                    "ark",
-                    "rcon",
-                    "servermanager"
-                ],
-                "type": "COG"
-            },
-            "arkshop": {
-                "author": [
-                    "Vertyco"
-                ],
-                "description": "(Arktools Cog Required) Ark: Survival Evolved Shop.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores player XUID's and Discord ID's.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [
-                    "administrator"
-                ],
-                "required_cogs": {
-                    "arktools": "https://github.com/vertyco/vrt-cogs"
-                },
-                "requirements": [
-                    "rcon==2.1.1",
-                    "dislash.py"
-                ],
-                "short": "ArkTools shop plugin",
-                "tags": [
-                    "utility",
-                    "ark",
-                    "rcon",
-                    "shop"
-                ],
-                "type": "COG"
-            },
             "arktools": {
                 "author": [
                     "Vertyco"
