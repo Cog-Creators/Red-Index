@@ -15482,7 +15482,7 @@
                     1
                 ],
                 "permissions": [
-                    "manage_webhooks",
+                    "embed_links",
                     "add_reactions"
                 ],
                 "required_cogs": {},
