@@ -18689,7 +18689,7 @@
                 ],
                 "description": "A local discord leveling system",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores Discord ID's",
+                "end_user_data_statement": "This cog records Discord ID's and messages sent for each user",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
