@@ -3710,9 +3710,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "humanize"
-                ],
+                "requirements": [],
                 "short": "Manage bot owners, easily.",
                 "tags": [],
                 "type": ""
