@@ -8222,6 +8222,33 @@
                 ],
                 "type": ""
             },
+            "roleplay": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "Create a role play channel where users can contribute in secret, with some customisation options and logging for admins.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. Messages sent in channels designated as role play channels by Administrators are not stored in memory by this cog, but they are re-sent from the bot with no association to the user. As such this cog does not directly store data, but data is posted to a Discord channel.",
+                "hidden": true,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create an anonymous role play in your sever.",
+                "tags": [
+                    "secret",
+                    "radio",
+                    "transmission",
+                    "fun"
+                ],
+                "type": ""
+            },
             "stattrack": {
                 "author": [
                     "Vexed (Vexed#9000)"
