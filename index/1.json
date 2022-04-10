@@ -11843,6 +11843,28 @@
                 ],
                 "type": ""
             },
+            "vocadb": {
+                "author": [
+                    "ow0x",
+                    "Fixator10"
+                ],
+                "description": "This cog can fetch Vocaloid (and UTAU) song lyrics from VocaDB.net a.k.a. Vocaloid Database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for Vocaloid song lyrics on VocaDB.",
+                "tags": [
+                    "vocadb",
+                    "vocaloid"
+                ],
+                "type": "COG"
+            },
             "weather": {
                 "author": [
                     "Romashkoo",
