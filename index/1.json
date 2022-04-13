@@ -2857,6 +2857,29 @@
                 ],
                 "type": "COG"
             },
+            "hack": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Act like a professional hacker and hack anyone! Inspired by Dank Memer.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Act like a professional hacker and hack anyone!",
+                "tags": [
+                    "hack",
+                    "hacker",
+                    "heck",
+                    "hecker"
+                ],
+                "type": "COG"
+            },
             "imgbb": {
                 "author": [
                     "Kuro"
