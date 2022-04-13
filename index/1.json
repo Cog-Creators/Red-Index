@@ -2795,7 +2795,7 @@
                 "description": "Have you ever wondered, how many commands/cogs does your bot have? Well this cog can help with that!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -2809,26 +2809,6 @@
                     "count"
                 ],
                 "type": "COG"
-            },
-            "cursedimages": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Generates a random cursed image from different categories.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Generates a random cursed image.",
-                "tags": [
-                    "cursed"
-                ],
-                "type": ""
             },
             "fakemod": {
                 "author": [
