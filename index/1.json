@@ -13922,7 +13922,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "dateparser",
+                    "cachetools"
+                ],
                 "short": "Start reaction based giveaways.",
                 "tags": [
                     "giveaways",
