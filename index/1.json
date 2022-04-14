@@ -8111,6 +8111,32 @@
                 ],
                 "type": ""
             },
+            "fivemstatus": {
+                "author": [
+                    "Vexed (Vexed#9000)"
+                ],
+                "description": "View the live status of a FiveM server, in an auto updating Discord message.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View the live status of a FiveM server, in an auto updating Discord message.",
+                "tags": [
+                    "status",
+                    "live",
+                    "fivem"
+                ],
+                "type": ""
+            },
             "ghissues": {
                 "author": [
                     "Vexed (Vexed#9000)"
