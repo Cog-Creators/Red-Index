@@ -3758,6 +3758,24 @@
                 "short": "Get a random Noa Fukushima!",
                 "tags": [],
                 "type": ""
+            },
+            "russianroulette": {
+                "author": [
+                    "JeffJrShim"
+                ],
+                "description": "Play a simple Russian roulette game!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data about users",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play a simple Russian roulette game!",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Fun cogs, and probably useful cogs, made by JeffJrShim"
