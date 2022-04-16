@@ -17465,7 +17465,7 @@
                     "timeago",
                     "aiolimiter",
                     "aiohttp-retry",
-                    "pyinaturalist>=0.17.0.dev1",
+                    "pyinaturalist",
                     "dateparser"
                 ],
                 "short": "Commands using the iNat API v1.",
