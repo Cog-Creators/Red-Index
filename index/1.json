@@ -2741,7 +2741,7 @@
         "author": [
             "Kuro"
         ],
-        "description": "Some (dumb) cogs made/customized by Kuro.",
+        "description": "Some cogs made/rewritten by Kuro for Red-DiscordBot v3.",
         "name": "Kuro-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -2839,7 +2839,7 @@
                 ],
                 "description": "Fake moderation commands for fun!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2864,7 +2864,7 @@
                 ],
                 "description": "Generates a random Fumo image from an API.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2886,7 +2886,7 @@
                 ],
                 "description": "Act like a professional hacker and hack anyone! Inspired by Dank Memer.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2909,7 +2909,7 @@
                 ],
                 "description": "Upload your image to ImgBB!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2931,7 +2931,7 @@
                 ],
                 "description": "Displays detailed user information about osu! users in an embed.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -2952,7 +2952,7 @@
                 ],
                 "description": "Create a poll with up to 10 options. Inspired by Dyno.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2973,7 +2973,7 @@
                 ],
                 "description": "Log when reactions were added/removed! Inspired by Sx Bot#8364.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2997,7 +2997,7 @@
                 ],
                 "description": "Restart/Shutdown your bot with reaction predicate!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -3045,7 +3045,7 @@
                 ],
                 "description": "Translate the given text!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -3063,7 +3063,7 @@
                 "type": "COG"
             }
         },
-        "short": "Some (dumb) cogs made/customized by Kuro."
+        "short": "Some cogs made/rewritten by Kuro for Red-DiscordBot v3."
     },
     "https://github.com/Malarne/discord_cogs": {
         "author": [
