@@ -14174,7 +14174,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "cachetools~=4.2",
+                    "cachetools~=5.0",
                     "gidgethub~=5.0"
                 ],
                 "short": "Auto-upload files with configured extension sent by users to gist.github.com.",
@@ -14294,7 +14294,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow~=8.1"
+                    "pillow~=9.1"
                 ],
                 "short": "Get detailed information about your Mee6 rank.",
                 "tags": [
@@ -14418,7 +14418,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow~=8.1",
+                    "pillow~=9.1",
                     "rlapi==0.5.0a1"
                 ],
                 "short": "Get your Rocket League stats with a single command! Needs access to Rocket League API which is currently in closed beta.",
