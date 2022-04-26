@@ -18859,7 +18859,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "selenium",
-                    "webdriver_manager"
+                    "webdriver_manager",
+                    "chromedriver-autoinstaller"
                 ],
                 "short": "Halo Infinite stats",
                 "tags": [
