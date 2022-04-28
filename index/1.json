@@ -4826,6 +4826,27 @@
                 "tags": [],
                 "type": ""
             },
+            "memes": {
+                "author": [
+                    "Onii-Chan"
+                ],
+                "description": "A meme generation commands which can even make gifs! All credit goes to nirlep who made the package used.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A very basic meme generation cog to light up your discord server!",
+                "tags": [
+                    "meme",
+                    "image-gen"
+                ],
+                "type": ""
+            },
             "nsfw": {
                 "author": [
                     "Ari (Onii-chan#3920)"
