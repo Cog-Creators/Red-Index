@@ -14592,7 +14592,8 @@
                 "requirements": [
                     "python-blizzardapi",
                     "gspread-asyncio",
-                    "regex"
+                    "regex",
+                    "rapidfuzz"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
