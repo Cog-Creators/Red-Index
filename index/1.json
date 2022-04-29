@@ -14593,7 +14593,7 @@
                     "gspread-asyncio",
                     "regex",
                     "rapidfuzz",
-                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@main"
+                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@4b9f47d9e9a1cada5905afbbcbdfec52f6a6ddf3"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
