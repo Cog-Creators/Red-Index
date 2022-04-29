@@ -14590,10 +14590,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "python-blizzardapi",
                     "gspread-asyncio",
                     "regex",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@main"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
