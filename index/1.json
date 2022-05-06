@@ -3,7 +3,7 @@
         "author": [
             "AAA3A"
         ],
-        "description": "Several cogs adding functionality to the redbot.",
+        "description": "Several cogs adding functionality to the redbot!",
         "name": "AAA3A-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -396,7 +396,7 @@
                 "type": ""
             }
         },
-        "short": "Several cogs for the redbot."
+        "short": "Several cogs for the redbot!"
     },
     "https://github.com/Craftzman7/crafter-cogs": {
         "author": [
