@@ -2964,27 +2964,6 @@
                 ],
                 "type": "COG"
             },
-            "polls": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Create a poll with up to 10 options. Inspired by Dyno.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Create a Poll.",
-                "tags": [
-                    "poll",
-                    "polls"
-                ],
-                "type": "COG"
-            },
             "reactlog": {
                 "author": [
                     "Kuro"
