@@ -13990,7 +13990,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.6.3"
                 ],
                 "short": "Record user donations in server",
                 "tags": [
@@ -14042,7 +14042,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.6.3"
                 ],
                 "short": "Throw items at other users bought from the shop through the bot's currency.",
                 "tags": [
@@ -14116,7 +14116,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.6.3"
                 ],
                 "short": "Change `ctx.tick()`'s emoji.",
                 "tags": [
