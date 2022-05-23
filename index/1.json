@@ -9184,6 +9184,31 @@
                 ],
                 "type": ""
             },
+            "reminder": {
+                "author": [
+                    "ZeLarpMaster#0818",
+                    "aikaterna"
+                ],
+                "description": "Lets users tell the bot to remind them about anything they want. Originally by ZeLarpMaster.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows users to remind themselves about anything they want.",
+                "tags": [
+                    "remind",
+                    "reminder",
+                    "remindme"
+                ],
+                "type": ""
+            },
             "rndstatus": {
                 "author": [
                     "aikaterna",
