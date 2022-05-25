@@ -2881,7 +2881,7 @@
                 "author": [
                     "Kuro"
                 ],
-                "description": "Generates a random Fumo image from an API.",
+                "description": "Generates a random Fumo image \u15dc\u02ec\u15dc",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -2891,7 +2891,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Generates a random Fumo image.",
+                "short": "Generates a random Fumo image \u15dc\u02ec\u15dc",
                 "tags": [
                     "image",
                     "fumo",
