@@ -10653,6 +10653,28 @@
                 ],
                 "type": ""
             },
+            "kyarutail": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Convert your messages into a message written with emotes of Kyaru's tail. Kyaru (aka. Karyl) is a character from Princess Connect! Re:Dive.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Convert your messages into a message written with Kyaru's tail.",
+                "tags": [
+                    "priconne",
+                    "emote",
+                    "emoji"
+                ],
+                "type": ""
+            },
             "loveplay": {
                 "author": [
                     "coffeebank"
@@ -19527,6 +19549,50 @@
                 "short": "Command the bot to perform an action on a fellow user.",
                 "tags": [
                     "fun"
+                ],
+                "type": ""
+            },
+            "anticrashvid": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "youtube-dl"
+                ],
+                "short": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "tags": [
+                    "moderation",
+                    "security"
+                ],
+                "type": ""
+            },
+            "antigifv": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
+                "tags": [
+                    "moderation",
+                    "security"
                 ],
                 "type": ""
             },
