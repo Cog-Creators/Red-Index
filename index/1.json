@@ -5246,7 +5246,7 @@
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
                 ],
-                "description": "This cog will periodically check if there are updates to the Red-Discordbot code. If you are using the phasecorex/red-discordbot Docker image, it will check for any updates to that as well.",
+                "description": "This cog will periodically check if there are updates to the Red-DiscordBot code. If you are using the phasecorex/red-discordbot Docker image, it will check for any updates to that as well.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -5256,7 +5256,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically check for updates to Red-Discordbot.",
+                "short": "Automatically check for updates to Red-DiscordBot.",
                 "tags": [
                     "update",
                     "utility"
