@@ -191,6 +191,32 @@
                 ],
                 "type": ""
             },
+            "getloc": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to display information about a location based on its address or geographical coordinates? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "geopy",
+                    "matplotlib",
+                    "numpy"
+                ],
+                "short": "A cog to display information about a location based on its address or geographical coordinates!",
+                "tags": [
+                    "localisation",
+                    "latitude",
+                    "longitude"
+                ],
+                "type": ""
+            },
             "ip": {
                 "author": [
                     "AAA3A"
