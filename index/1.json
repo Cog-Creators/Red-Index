@@ -191,6 +191,30 @@
                 ],
                 "type": ""
             },
+            "exportchannel": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to export all or part of a channel's messages to an html file? Then this cog is for you!\nRemember that exporting other users' messages from Discord does not respect the TOS.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "chat-exporter"
+                ],
+                "short": "A cog to export all or part of a channel's messages to an html file!",
+                "tags": [
+                    "export",
+                    "messages",
+                    "html"
+                ],
+                "type": ""
+            },
             "getloc": {
                 "author": [
                     "AAA3A"
@@ -205,9 +229,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "geopy",
-                    "matplotlib",
-                    "numpy"
+                    "geopy"
                 ],
                 "short": "A cog to display information about a location based on its address or geographical coordinates!",
                 "tags": [
