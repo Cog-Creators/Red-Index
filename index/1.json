@@ -11701,6 +11701,33 @@
                 ],
                 "type": ""
             },
+            "captcha": {
+                "author": [
+                    "Predeactor",
+                    "Kreusada",
+                    "Fixator10"
+                ],
+                "description": "Captcha defensive system. Another security layout for your server - originally by Predeactor.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discapty==0.4"
+                ],
+                "short": "Captcha defensive system  - originally by Predeactor.",
+                "tags": [
+                    "security",
+                    "protection",
+                    "captcha",
+                    "defender"
+                ],
+                "type": ""
+            },
             "datautils": {
                 "author": [
                     "Fixator10",
