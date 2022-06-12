@@ -15361,28 +15361,6 @@
                 ],
                 "type": "COG"
             },
-            "pinginvoke": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
-                "tags": [
-                    "Invoke",
-                    "Bot",
-                    "Ping"
-                ],
-                "type": "COG"
-            },
             "pingoverride": {
                 "author": [
                     "Kreusada"
