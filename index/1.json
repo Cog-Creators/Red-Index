@@ -446,6 +446,46 @@
         },
         "short": "Several cogs for the redbot!"
     },
+    "https://github.com/Church13/YeahCogs": {
+        "author": [
+            "Church (Church#0013)"
+        ],
+        "description": "Yeah, cogs.",
+        "name": "YeahCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "buzz": {
+                "author": [
+                    "Church (Church#0013)"
+                ],
+                "description": "Buzz images into GIFs with content aware scaling.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "wand"
+                ],
+                "short": "Buzz images into GIFs with content aware scaling.",
+                "tags": [
+                    "fun",
+                    "meme",
+                    "content aware"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Yeah, cogs."
+    },
     "https://github.com/Craftzman7/crafter-cogs": {
         "author": [
             "Crafter#0001"
