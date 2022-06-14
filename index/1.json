@@ -1600,6 +1600,7 @@
             },
             "pressf": {
                 "author": [
+                    "Aikaterna",
                     "Honkertonken"
                 ],
                 "description": "Pay respects to a user by pressing f.",
