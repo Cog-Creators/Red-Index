@@ -8826,6 +8826,29 @@
                 ],
                 "type": "COG"
             },
+            "dalle": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Fetch images made by Dall-E mini from a prompt.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch images made by Dall-E mini from a prompt.",
+                "tags": [
+                    "dalle",
+                    "dall-e"
+                ],
+                "type": ""
+            },
             "dictionary": {
                 "author": [
                     "UltimatePancake",
