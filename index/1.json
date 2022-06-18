@@ -14717,6 +14717,30 @@
                 ],
                 "type": "COG"
             },
+            "tiv": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Unlike with threads, it is somewhat reasonable to make a patch for supporting TiV in Red 3.4 so this is it. This cog monkeypatches discord.py 1.7.3 library (version that Red 3.4 uses) to support Text in Voice Channels.\nThis cog tries to be a transparent layer that makes VoiceChannel objects in the library act as if they were actually Messageable objects such as text channels however, it is by no means perfect. If some command still doesn't work with text in voice channels after installing this cog, please DO NOT report this to the author of that command as it is likely not their fault.",
+                "disabled": false,
+                "end_user_data_statement": "This cog package does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.0.dev172",
+                "min_bot_version": "3.4.11",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Text in Voice Channels (TiV) functionality \"support\" for Red < 3.5.",
+                "tags": [
+                    "monkeypatch",
+                    "patch",
+                    "text",
+                    "tiv",
+                    "voice"
+                ],
+                "type": "COG"
+            },
             "voicetools": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
