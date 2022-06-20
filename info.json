@@ -1,0 +1,9 @@
+{
+    "author": ["Valaraukar"], 
+    "name": "IPLookup",
+    "install_msg": "Thanks for installing IPLookup. Run `[p]iplookup` to get location of an IP address!",
+    "description": "The IP Lookup API provides location information for any valid IP address. It works with both IPv4 and IPv6 addresses.",
+    "short": "The IP Lookup API provides location information for any valid IP address. It works with both IPv4 and IPv6 addresses.!",
+    "end_user_data_statement": "This cog does not persistently store any data about users",
+    "min_bot_version": "3.4.6"
+}
