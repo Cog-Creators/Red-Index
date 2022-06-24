@@ -3025,7 +3025,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow<=9.0.1"
+                ],
                 "short": "Generates a random Fumo image \u15dc\u02ec\u15dc",
                 "tags": [
                     "image",
