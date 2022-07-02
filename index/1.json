@@ -14877,10 +14877,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "gspread-asyncio",
-                    "regex",
                     "rapidfuzz",
                     "git+https://github.com/karlsbjorn/python-blizzardapi.git@4b9f47d9e9a1cada5905afbbcbdfec52f6a6ddf3",
-                    "git+https://github.com/karlsbjorn/raiderio-async.git@93d53fd8ecf4ce15883c63045e1fc9cfbfe0eb8e"
+                    "git+https://github.com/karlsbjorn/raiderio-async.git@1.0.0"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
