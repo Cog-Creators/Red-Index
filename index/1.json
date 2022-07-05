@@ -3090,11 +3090,13 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.0.0",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji==1.6.3"
+                ],
                 "short": "Display user information from osu!",
                 "tags": [
                     "osu",
