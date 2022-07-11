@@ -10805,7 +10805,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
                 "short": "Custom emote solution for non-nitro users",
                 "tags": [
                     "emoji",
