@@ -2784,29 +2784,6 @@
                 ],
                 "type": "COG"
             },
-            "depypher": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Decipher and encipher text using ciphers like Caesar and Vigenere!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pycipher"
-                ],
-                "short": "Decipher and encipher text using enciphers!",
-                "tags": [
-                    "fun",
-                    "cipher"
-                ],
-                "type": "COG"
-            },
             "errorblacklist": {
                 "author": [
                     "Jojo#7791"
