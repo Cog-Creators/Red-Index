@@ -2741,6 +2741,27 @@
                 ],
                 "type": "COG"
             },
+            "antiadmin": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Prevent your bot from being used while it has admin permissions",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Prevent your bot from being used while it has admin permissions.",
+                "tags": [
+                    "admin",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "cmdlogger": {
                 "author": [
                     "Jojo#7791"
