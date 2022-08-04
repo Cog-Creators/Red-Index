@@ -14333,58 +14333,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "donationlogging": {
-                "author": [
-                    "crayyy_zee"
-                ],
-                "description": "Helps server staff to log people donations in an easier way. Allows you to setup a channel to log actions in this cog, setup roles to be auto assigned on a certain donation amount, add donations, reduce donations, reset donations and check yours other's donations.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the donations of a user. If a user requests data-deletion, all their donations will be removed from the bot.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji==1.6.3"
-                ],
-                "short": "Record user donations in server",
-                "tags": [
-                    "donations",
-                    "donation",
-                    "logging"
-                ],
-                "type": "COG"
-            },
-            "giveaways": {
-                "author": [
-                    "crayyy_zee#2900"
-                ],
-                "description": "Reaction based giveaways with customisable embeds, reactions, requirements and much more. ",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user ids to link them to their hosted giveaways.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "dateparser",
-                    "cachetools"
-                ],
-                "short": "Start reaction based giveaways.",
-                "tags": [
-                    "giveaways",
-                    "requirements",
-                    "raffles",
-                    "raffle",
-                    "giveaway",
-                    "reactions"
-                ],
-                "type": "COG"
-            },
             "hitormiss": {
                 "author": [
                     "crayyy_zee"
