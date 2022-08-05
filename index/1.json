@@ -439,6 +439,28 @@
                 ],
                 "type": ""
             },
+            "seen": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to check when a member/role/channel/category/user/guild was last active? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
+                "tags": [
+                    "seen",
+                    "activity",
+                    "time"
+                ],
+                "type": ""
+            },
             "simplesanction": {
                 "author": [
                     "AAA3A"
