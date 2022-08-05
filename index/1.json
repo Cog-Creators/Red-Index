@@ -2863,7 +2863,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "emoji"
+                    "emoji==1.7"
                 ],
                 "short": "Keep track of things todo",
                 "tags": [
