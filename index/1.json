@@ -15907,58 +15907,34 @@
                 ],
                 "type": "COG"
             },
-            "kitsune": {
+            "nekosbest": {
                 "author": [
                     "max"
                 ],
-                "description": "Cog that sends random kitsune images from nekos.best",
+                "description": "Cog that sends random nekos, kitsune, husbando and waifu images from nekos.best",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "3.4.99",
+                "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
                     8,
-                    1
+                    5
                 ],
                 "permissions": [
                     "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Random kitsune images.",
+                "short": "Sending random kitsune, waifue, husbando and nekos images.",
                 "tags": [
                     "images",
-                    "kitsune"
-                ],
-                "type": "COG"
-            },
-            "nekos": {
-                "author": [
-                    "max"
-                ],
-                "description": "Cog that sends random neko images from nekos.best",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "3.4.99",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Random neko images.",
-                "tags": [
-                    "images",
-                    "neko",
-                    "nekos"
+                    "waifu",
+                    "nekos",
+                    "anime",
+                    "kitsune",
+                    "husbando"
                 ],
                 "type": "COG"
             },
