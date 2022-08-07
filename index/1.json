@@ -295,7 +295,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "chat-exporter"
+                    "chat-exporter==1.7.3"
                 ],
                 "short": "A cog to export all or part of a channel's messages to an html file!",
                 "tags": [
@@ -522,8 +522,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py",
-                    "chat-exporter"
+                    "chat-exporter==1.7.3",
+                    "dislash.py"
                 ],
                 "short": "A cog to manage a ticket system!",
                 "tags": [
