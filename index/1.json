@@ -1190,6 +1190,210 @@
         },
         "short": "Cogs made by Dav"
     },
+    "https://github.com/Flame442/FlameBountyCogs": {
+        "author": [
+            "Flame442 (Flame#2941)"
+        ],
+        "description": "A mixture of *bounty* cogs made by Flame.",
+        "name": "FlameBountyCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "blinder": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create custom roles that remove certain roles and hide channels from users.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create custom roles that remove certain roles and hide channels from users.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "dynamicchannellist": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create dynamically updating channel lists.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create dynamically updating channel lists.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "flamecogsdebug": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Debug tools for FlameCogs.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Debug tools for FlameCogs.",
+                "tags": [
+                    "debug"
+                ],
+                "type": ""
+            },
+            "lastping": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "View how long servers have lasted without a mass mention.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View how long servers have lasted without a mass mention.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "listmaker": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Make lists to store personal data.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Make lists to store personal data.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "lovecalc": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Calculate the love between two people.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Calculate the love between two people.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "quotes": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Store and display quotes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Store and display quotes.",
+                "tags": [],
+                "type": ""
+            },
+            "tellme": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create custom commands that will DM members and post messages in servers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create custom commands with DMs and server messages.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "A mixture of *bounty* cogs made by Flame."
+    },
     "https://github.com/Flame442/FlameCogs": {
         "author": [
             "Flame442 (Flame#2941)"
