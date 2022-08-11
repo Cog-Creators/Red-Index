@@ -20552,7 +20552,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "inspiro"
+                    "inspiro",
+                    "requests"
                 ],
                 "short": "Get inspired",
                 "tags": [],
@@ -20628,7 +20629,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "inspiro"
+                    "inspiro",
+                    "requests"
                 ],
                 "short": "Inspirobot and chill",
                 "tags": [],
