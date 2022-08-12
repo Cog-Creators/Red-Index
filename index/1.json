@@ -13323,8 +13323,8 @@
                 "author": [
                     "flare(flare#0001)"
                 ],
-                "description": "Core mod with the inclusion of timed role mutes. This cog is no longer supported. Unload and load core mutes.",
-                "disabled": true,
+                "description": "Core mod with the inclusion of custom messages for banning, kicking and unbanning.",
+                "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
@@ -13333,11 +13333,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Mod with timed role mutes.",
+                "short": "Mod with custom messages.",
                 "tags": [
-                    "mute",
-                    "temp mute",
-                    "rolemute"
+                    "mod"
                 ],
                 "type": ""
             },
