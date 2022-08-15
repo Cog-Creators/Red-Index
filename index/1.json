@@ -14620,9 +14620,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-components"
-                ],
+                "requirements": [],
                 "short": "Store notes on users.",
                 "tags": [
                     "notes",
@@ -14670,7 +14668,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji==1.6.3"
+                ],
                 "short": "Start countdowns and wait for them to end.",
                 "tags": [],
                 "type": "COG"
