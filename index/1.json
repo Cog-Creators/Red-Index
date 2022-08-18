@@ -169,6 +169,30 @@
                 ],
                 "type": ""
             },
+            "discordsearch": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to search a message on Discord? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dateparser"
+                ],
+                "short": "A cog to search a message on Discord!",
+                "tags": [
+                    "search",
+                    "message",
+                    "channel"
+                ],
+                "type": ""
+            },
             "editfile": {
                 "author": [
                     "AAA3A"
@@ -188,6 +212,120 @@
                     "file",
                     "local",
                     "edit"
+                ],
+                "type": ""
+            },
+            "editrole": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to edit roles? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to edit roles!",
+                "tags": [
+                    "role",
+                    "position",
+                    "edit"
+                ],
+                "type": ""
+            },
+            "edittextchannel": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to edit text channels? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to edit text channels!",
+                "tags": [
+                    "channel",
+                    "text",
+                    "edit"
+                ],
+                "type": ""
+            },
+            "editvoicechannel": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to edit voice channels? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to edit voice channels!",
+                "tags": [
+                    "channel",
+                    "voice",
+                    "edit"
+                ],
+                "type": ""
+            },
+            "exportchannel": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to export all or part of a channel's messages to an html file? Then this cog is for you!\nRemember that exporting other users' messages from Discord does not respect the TOS.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "chat-exporter==1.7.3"
+                ],
+                "short": "A cog to export all or part of a channel's messages to an html file!",
+                "tags": [
+                    "export",
+                    "messages",
+                    "html"
+                ],
+                "type": ""
+            },
+            "getloc": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to display information about a location based on its address or geographical coordinates? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "geopy"
+                ],
+                "short": "A cog to display information about a location based on its address or geographical coordinates!",
+                "tags": [
+                    "localisation",
+                    "latitude",
+                    "longitude"
                 ],
                 "type": ""
             },
@@ -301,6 +439,28 @@
                 ],
                 "type": ""
             },
+            "seen": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to check when a member/role/channel/category/user/guild was last active? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
+                "tags": [
+                    "seen",
+                    "activity",
+                    "time"
+                ],
+                "type": ""
+            },
             "simplesanction": {
                 "author": [
                     "AAA3A"
@@ -362,8 +522,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py",
-                    "chat-exporter"
+                    "chat-exporter==1.7.3",
+                    "dislash.py"
                 ],
                 "short": "A cog to manage a ticket system!",
                 "tags": [
@@ -394,9 +554,72 @@
                     "hide"
                 ],
                 "type": ""
+            },
+            "urlbuttons": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to have url-buttons? Then this cog is for you!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dislash.py"
+                ],
+                "short": "A cog to have url-buttons!",
+                "tags": [
+                    "url",
+                    "button"
+                ],
+                "type": ""
             }
         },
         "short": "Several cogs for the redbot!"
+    },
+    "https://github.com/Church13/YeahCogs": {
+        "author": [
+            "Church (Church#0013)"
+        ],
+        "description": "Yeah, cogs.",
+        "name": "YeahCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "buzz": {
+                "author": [
+                    "Church (Church#0013)"
+                ],
+                "description": "Buzz images into GIFs with content aware scaling.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "wand"
+                ],
+                "short": "Buzz images into GIFs with content aware scaling.",
+                "tags": [
+                    "fun",
+                    "meme",
+                    "content aware"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Yeah, cogs."
     },
     "https://github.com/Craftzman7/crafter-cogs": {
         "author": [
@@ -967,6 +1190,210 @@
         },
         "short": "Cogs made by Dav"
     },
+    "https://github.com/Flame442/FlameBountyCogs": {
+        "author": [
+            "Flame442 (Flame#2941)"
+        ],
+        "description": "A mixture of *bounty* cogs made by Flame.",
+        "name": "FlameBountyCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "blinder": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create custom roles that remove certain roles and hide channels from users.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create custom roles that remove certain roles and hide channels from users.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "dynamicchannellist": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create dynamically updating channel lists.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create dynamically updating channel lists.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "flamecogsdebug": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Debug tools for FlameCogs.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Debug tools for FlameCogs.",
+                "tags": [
+                    "debug"
+                ],
+                "type": ""
+            },
+            "lastping": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "View how long servers have lasted without a mass mention.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View how long servers have lasted without a mass mention.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "listmaker": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Make lists to store personal data.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Make lists to store personal data.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
+            "lovecalc": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Calculate the love between two people.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Calculate the love between two people.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "quotes": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Store and display quotes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Store and display quotes.",
+                "tags": [],
+                "type": ""
+            },
+            "tellme": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Create custom commands that will DM members and post messages in servers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create custom commands with DMs and server messages.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "A mixture of *bounty* cogs made by Flame."
+    },
     "https://github.com/Flame442/FlameCogs": {
         "author": [
             "Flame442 (Flame#2941)"
@@ -1350,6 +1777,29 @@
                 ],
                 "type": "COG"
             },
+            "antirickroll": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Detects rickrolls and automatically warns users about it.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Hate getting rickrolled? this is exactly what your looking for!",
+                "tags": [
+                    "never gonna give you up",
+                    "rick roll",
+                    "rick",
+                    "anti rickroll"
+                ],
+                "type": "COG"
+            },
             "autokick": {
                 "author": [
                     "Honkertonken"
@@ -1512,6 +1962,7 @@
             },
             "pressf": {
                 "author": [
+                    "Aikaterna",
                     "Honkertonken"
                 ],
                 "description": "Pay respects to a user by pressing f.",
@@ -2142,7 +2593,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "yourls"
+                    "git+https://github.com/Injabie3/yourls-python.git"
                 ],
                 "short": "Manage your YOURLS instance from Discord!",
                 "tags": [
@@ -2516,6 +2967,27 @@
                 ],
                 "type": "COG"
             },
+            "antiadmin": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Prevent your bot from being used while it has admin permissions",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Prevent your bot from being used while it has admin permissions.",
+                "tags": [
+                    "admin",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "cmdlogger": {
                 "author": [
                     "Jojo#7791"
@@ -2559,29 +3031,6 @@
                 ],
                 "type": "COG"
             },
-            "depypher": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Decipher and encipher text using ciphers like Caesar and Vigenere!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pycipher"
-                ],
-                "short": "Decipher and encipher text using enciphers!",
-                "tags": [
-                    "fun",
-                    "cipher"
-                ],
-                "type": "COG"
-            },
             "errorblacklist": {
                 "author": [
                     "Jojo#7791"
@@ -2618,7 +3067,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "emoji"
+                    "emoji==1.7"
                 ],
                 "short": "Keep track of things todo",
                 "tags": [
@@ -2802,7 +3251,8 @@
                 "requirements": [],
                 "short": "Creates a custom ping embed to display latency statistics.",
                 "tags": [
-                    "ping"
+                    "ping",
+                    "pong"
                 ],
                 "type": ""
             },
@@ -2880,7 +3330,7 @@
                 "author": [
                     "Kuro"
                 ],
-                "description": "Generates a random Fumo image from an API.",
+                "description": "Generates a random Fumo image \u15dc\u02ec\u15dc",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -2889,8 +3339,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Generates a random Fumo image.",
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Generates a random Fumo image \u15dc\u02ec\u15dc",
                 "tags": [
                     "image",
                     "fumo",
@@ -2952,11 +3404,13 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.0.0",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji==1.6.3"
+                ],
                 "short": "Display user information from osu!",
                 "tags": [
                     "osu",
@@ -5245,7 +5699,7 @@
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
                 ],
-                "description": "This cog will periodically check if there are updates to the Red-Discordbot code. If you are using the phasecorex/red-discordbot Docker image, it will check for any updates to that as well.",
+                "description": "This cog will periodically check if there are updates to the Red-DiscordBot code. If you are using the phasecorex/red-discordbot Docker image, it will check for any updates to that as well.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -5255,7 +5709,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically check for updates to Red-Discordbot.",
+                "short": "Automatically check for updates to Red-DiscordBot.",
                 "tags": [
                     "update",
                     "utility"
@@ -7820,9 +8274,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "pyyaml~=5.4.1",
-                    "emoji~=1.2",
-                    "pydantic~=1.8",
-                    "regex==2021.11.10"
+                    "emoji~=1.6.3",
+                    "pydantic~=1.9.1",
+                    "regex==2022.4.24"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
                 "tags": [
@@ -7884,16 +8338,16 @@
     },
     "https://github.com/Vexed01/Vex-Cogs": {
         "author": [
-            "Vexed (Vexed#9000)"
+            "Vexed (Vexed#0714)"
         ],
-        "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#9000",
+        "description": "These cogs are stuff typically utility stuff that I wanted myself that might be useful to others.\nIt's mainly cogs for bot or server owners.\n\nIf you find anything that's wrong, feel free to make a GH issue or find me in the main Red server or the cog support server (https://discord.gg/GET4DVk). I'm Vexed#0714",
         "name": "Vex-Cogs",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
             "aliases": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Get all the information you could ever need about a command's aliases. IF YOU ARE TRYING TO *MAKE* ALIASES, JUST USE THE CORE 'alias` COG.",
                 "disabled": false,
@@ -7918,7 +8372,7 @@
             },
             "anotherpingcog": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Replace the ping command with a rich embed that shows ping time and message time. It is colour coded: red, orange and green, and the bot owner can customise the colours and emojis for different latency levels, as well as force an embed.",
                 "disabled": false,
@@ -7946,7 +8400,7 @@
             },
             "beautify": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Beautify and minify JSON. Supports attachments, codeblocks and replies.",
                 "disabled": false,
@@ -7971,7 +8425,7 @@
             },
             "betteruptime": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Replace the uptime command with a rich embed that shows the bot's percentage uptime (both time of the bot being on and time connected to Discord). There is also a new `downtime` command which shows when downtime happened. This cog writes to config every 60 seconds to prevent data loss. It is also very storage efficient, using under 150 bytes each day the cog runs.",
                 "disabled": false,
@@ -8001,7 +8455,7 @@
             },
             "birthday": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Get users to add their birthday, then on their birthday they will get a special role. Server owners can set the time of day, announcement message and role.",
                 "disabled": false,
@@ -8059,7 +8513,7 @@
             },
             "calc": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Calculate simple mathematical expressions, right in Discord with buttons.",
                 "disabled": false,
@@ -8089,7 +8543,7 @@
             },
             "caseinsensitive": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Make all prefixes and commands case insensitive (so that something like !Ping works). This will have a negative performance impact.",
                 "disabled": false,
@@ -8117,7 +8571,7 @@
             },
             "cmdlog": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command.",
                 "disabled": false,
@@ -8143,7 +8597,7 @@
             },
             "covidgraph": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Get graphs of COVID-19 data.",
                 "disabled": false,
@@ -8174,7 +8628,7 @@
             },
             "fivemstatus": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "View the live status of a FiveM server, in an auto updating Discord message.",
                 "disabled": false,
@@ -8200,7 +8654,7 @@
             },
             "ghissues": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
                 "disabled": false,
@@ -8228,7 +8682,7 @@
             },
             "github": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
                 "disabled": false,
@@ -8256,7 +8710,7 @@
             },
             "googletrends": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Find out what the world is searching, right from Discord. Includes charts.",
                 "disabled": false,
@@ -8287,7 +8741,7 @@
             },
             "madtranslate": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Translate something from English into a gazillion different languages then back to English. Uses an undocumented Google Translate API.",
                 "disabled": false,
@@ -8314,7 +8768,7 @@
             },
             "roleplay": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Create a role play channel where users can contribute in secret, with some customisation options and logging for admins.",
                 "disabled": false,
@@ -8341,7 +8795,7 @@
             },
             "stattrack": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Track your bot's statistics over time, including ping, members, guild and message/command counts.\n\nThis has a background process which could be intensive.\n\nThis stores data in Red's config which is not especially built for this cog's usage.",
                 "disabled": false,
@@ -8360,7 +8814,8 @@
                     "pandas>=1.1.0",
                     "psutil",
                     "plotly",
-                    "kaleido"
+                    "kaleido",
+                    "aiosqlite"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
                 "tags": [
@@ -8373,7 +8828,7 @@
             },
             "status": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "This cog can automatically send updates form various services including Discord, Cloudflare and GitHub. Members can also use a command to check incidents on-demand. Support all Statuspage.io which I have added.",
                 "disabled": false,
@@ -8403,7 +8858,7 @@
             },
             "system": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Check system metrics on the host device, such as CPU or  RAM usage",
                 "disabled": false,
@@ -8449,7 +8904,7 @@
             },
             "timechannel": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Get the time in different timezones in voice channels.",
                 "disabled": false,
@@ -8511,7 +8966,7 @@
             },
             "wol": {
                 "author": [
-                    "Vexed (Vexed#9000)"
+                    "Vexed (Vexed#0714)"
                 ],
                 "description": "Use Wake on LAN from Discord! This cog sends magic packets on the local network. You'll need to have set up the computer beforehand to listen to these - just search how to set it up for your operating system.",
                 "disabled": false,
@@ -8734,6 +9189,29 @@
                     "dadjokes"
                 ],
                 "type": "COG"
+            },
+            "dalle": {
+                "author": [
+                    "aikaterna"
+                ],
+                "description": "Fetch images made by Dall-E mini from a prompt.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch images made by Dall-E mini from a prompt.",
+                "tags": [
+                    "dalle",
+                    "dall-e"
+                ],
+                "type": ""
             },
             "dictionary": {
                 "author": [
@@ -9179,6 +9657,31 @@
                 "tags": [
                     "voice region",
                     "region"
+                ],
+                "type": ""
+            },
+            "reminder": {
+                "author": [
+                    "ZeLarpMaster#0818",
+                    "aikaterna"
+                ],
+                "description": "Lets users tell the bot to remind them about anything they want. Originally by ZeLarpMaster.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows users to remind themselves about anything they want.",
+                "tags": [
+                    "remind",
+                    "reminder",
+                    "remindme"
                 ],
                 "type": ""
             },
@@ -10572,7 +11075,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
                 "short": "Custom emote solution for non-nitro users",
                 "tags": [
                     "emoji",
@@ -10623,6 +11129,28 @@
                 "short": "Send and receive a json request from Discord",
                 "tags": [
                     "json"
+                ],
+                "type": ""
+            },
+            "kyarutail": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Convert your messages into a message written with emotes of Kyaru's tail. Kyaru (aka. Karyl) is a character from Princess Connect! Re:Dive.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Convert your messages into a message written with Kyaru's tail.",
+                "tags": [
+                    "priconne",
+                    "emote",
+                    "emoji"
                 ],
                 "type": ""
             },
@@ -11601,6 +12129,33 @@
                     "admin",
                     "emoji",
                     "purge"
+                ],
+                "type": ""
+            },
+            "captcha": {
+                "author": [
+                    "Predeactor",
+                    "Kreusada",
+                    "Fixator10"
+                ],
+                "description": "Captcha defensive system. Another security layout for your server - originally by Predeactor.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not save data about users persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discapty==0.4"
+                ],
+                "short": "Captcha defensive system  - originally by Predeactor.",
+                "tags": [
+                    "security",
+                    "protection",
+                    "captcha",
+                    "defender"
                 ],
                 "type": ""
             },
@@ -12768,8 +13323,8 @@
                 "author": [
                     "flare(flare#0001)"
                 ],
-                "description": "Core mod with the inclusion of timed role mutes. This cog is no longer supported. Unload and load core mutes.",
-                "disabled": true,
+                "description": "Core mod with the inclusion of custom messages for banning, kicking and unbanning.",
+                "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
@@ -12778,11 +13333,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Mod with timed role mutes.",
+                "short": "Mod with custom messages.",
                 "tags": [
-                    "mute",
-                    "temp mute",
-                    "rolemute"
+                    "mod"
                 ],
                 "type": ""
             },
@@ -12807,6 +13360,35 @@
                 "tags": [
                     "news",
                     "information"
+                ],
+                "type": ""
+            },
+            "palette": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Show colour palette of images, avatars, emojis etc",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "3.4.99",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow",
+                    "colorgram.py"
+                ],
+                "short": "Show colour palette of images, avatars etc.",
+                "tags": [
+                    "colours",
+                    "palette",
+                    "colour",
+                    "color",
+                    "image",
+                    "avatar",
+                    "emoji"
                 ],
                 "type": ""
             },
@@ -13105,7 +13687,7 @@
                     "flare(flare#0001)",
                     "joinem",
                     "fixator10",
-                    "alec"
+                    "ryan"
                 ],
                 "description": "Port of Miso Bot's LastFM Cog,",
                 "disabled": false,
@@ -13975,58 +14557,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "donationlogging": {
-                "author": [
-                    "crayyy_zee"
-                ],
-                "description": "Helps server staff to log people donations in an easier way. Allows you to setup a channel to log actions in this cog, setup roles to be auto assigned on a certain donation amount, add donations, reduce donations, reset donations and check yours other's donations.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores End User Data when storing the donations of a user. If a user requests data-deletion, all their donations will be removed from the bot.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji"
-                ],
-                "short": "Record user donations in server",
-                "tags": [
-                    "donations",
-                    "donation",
-                    "logging"
-                ],
-                "type": "COG"
-            },
-            "giveaways": {
-                "author": [
-                    "crayyy_zee#2900"
-                ],
-                "description": "Reaction based giveaways with customisable embeds, reactions, requirements and much more. ",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user ids to link them to their hosted giveaways.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "dateparser",
-                    "cachetools"
-                ],
-                "short": "Start reaction based giveaways.",
-                "tags": [
-                    "giveaways",
-                    "requirements",
-                    "raffles",
-                    "raffle",
-                    "giveaway",
-                    "reactions"
-                ],
-                "type": "COG"
-            },
             "hitormiss": {
                 "author": [
                     "crayyy_zee"
@@ -14041,7 +14571,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.6.3"
                 ],
                 "short": "Throw items at other users bought from the shop through the bot's currency.",
                 "tags": [
@@ -14090,9 +14620,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "discord-components"
-                ],
+                "requirements": [],
                 "short": "Store notes on users.",
                 "tags": [
                     "notes",
@@ -14115,7 +14643,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.6.3"
                 ],
                 "short": "Change `ctx.tick()`'s emoji.",
                 "tags": [
@@ -14140,7 +14668,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji==1.6.3"
+                ],
                 "short": "Start countdowns and wait for them to end.",
                 "tags": [],
                 "type": "COG"
@@ -14478,6 +15008,30 @@
                 ],
                 "type": "COG"
             },
+            "tiv": {
+                "author": [
+                    "jack1142 (Jackenmen#6607)"
+                ],
+                "description": "Unlike with threads, it is somewhat reasonable to make a patch for supporting TiV in Red 3.4 so this is it. This cog monkeypatches discord.py 1.7.3 library (version that Red 3.4 uses) to support Text in Voice Channels.\nThis cog tries to be a transparent layer that makes VoiceChannel objects in the library act as if they were actually Messageable objects such as text channels however, it is by no means perfect. If some command still doesn't work with text in voice channels after installing this cog, please DO NOT report this to the author of that command as it is likely not their fault.",
+                "disabled": false,
+                "end_user_data_statement": "This cog package does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.0.dev172",
+                "min_bot_version": "3.4.11",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Text in Voice Channels (TiV) functionality \"support\" for Red < 3.5.",
+                "tags": [
+                    "monkeypatch",
+                    "patch",
+                    "text",
+                    "tiv",
+                    "voice"
+                ],
+                "type": "COG"
+            },
             "voicetools": {
                 "author": [
                     "jack1142 (Jackenmen#6607)"
@@ -14588,9 +15142,11 @@
                 "required_cogs": {},
                 "requirements": [
                     "gspread-asyncio",
-                    "regex",
                     "rapidfuzz",
-                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@4b9f47d9e9a1cada5905afbbcbdfec52f6a6ddf3"
+                    "tabulate",
+                    "aiolimiter",
+                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@4b9f47d9e9a1cada5905afbbcbdfec52f6a6ddf3",
+                    "git+https://github.com/karlsbjorn/raiderio-async.git@1.0.0"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
@@ -14973,32 +15529,6 @@
                 ],
                 "type": "COG"
             },
-            "captcha": {
-                "author": [
-                    "Predeactor",
-                    "Kreusada"
-                ],
-                "description": "Captcha defensive system. Another security layout for your server - originally by Predeactor.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not save data about users persistently.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "discapty==0.4"
-                ],
-                "short": "Captcha defensive system  - originally by Predeactor.",
-                "tags": [
-                    "security",
-                    "protection",
-                    "captcha",
-                    "defender"
-                ],
-                "type": ""
-            },
             "cogpaths": {
                 "author": [
                     "Kreusada"
@@ -15205,28 +15735,6 @@
                     "Ord",
                     "Chr",
                     "Unicode"
-                ],
-                "type": "COG"
-            },
-            "pinginvoke": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "This cog was merged into PingOverride. Please install PingOverride and reconfigure your settings there to carry on using this cog.",
-                "tags": [
-                    "Invoke",
-                    "Bot",
-                    "Ping"
                 ],
                 "type": "COG"
             },
@@ -15583,7 +16091,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.99",
                 "min_bot_version": "3.4.6",
                 "min_python_version": [
                     3,
@@ -15601,11 +16109,11 @@
                 ],
                 "type": "COG"
             },
-            "kitsune": {
+            "nekosbest": {
                 "author": [
                     "max"
                 ],
-                "description": "Cog that sends random kitsune images from nekos.best",
+                "description": "Cog that sends random nekos, kitsune, husbando and waifu images from nekos.best",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -15614,45 +16122,21 @@
                 "min_python_version": [
                     3,
                     8,
-                    1
+                    5
                 ],
                 "permissions": [
                     "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Random kitsune images.",
+                "short": "Sending random kitsune, waifue, husbando and nekos images.",
                 "tags": [
                     "images",
-                    "kitsune"
-                ],
-                "type": "COG"
-            },
-            "nekos": {
-                "author": [
-                    "max"
-                ],
-                "description": "Cog that sends random neko images from nekos.best",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Random neko images.",
-                "tags": [
-                    "images",
-                    "neko",
-                    "nekos"
+                    "waifu",
+                    "nekos",
+                    "anime",
+                    "kitsune",
+                    "husbando"
                 ],
                 "type": "COG"
             },
@@ -15664,7 +16148,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.99",
                 "min_bot_version": "3.4.6",
                 "min_python_version": [
                     3,
@@ -15696,7 +16180,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.99",
                 "min_bot_version": "3.4.6",
                 "min_python_version": [
                     3,
@@ -16071,6 +16555,30 @@
                 ],
                 "type": "COG"
             },
+            "simpleweb": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Simple Dashboard for a quick overview of the bot",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp_jinja2"
+                ],
+                "short": "A simple webpage dashboard",
+                "tags": [
+                    "fun",
+                    "utility",
+                    "web"
+                ],
+                "type": "COG"
+            },
             "snake": {
                 "author": [
                     "epic guy"
@@ -16204,6 +16712,97 @@
             }
         },
         "short": "A decent bunch of cogs aimed for having fun"
+    },
+    "https://github.com/nukdokplex/nukdokplex-cogs": {
+        "author": [
+            "NukDokPlex"
+        ],
+        "description": "Cogs developed by NukDokPlex with various functions",
+        "name": "nukdokplex-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "leagueoflegends": {
+                "author": [
+                    "NukDokPlex"
+                ],
+                "description": "League of Legends related commands to watch statistics, create leaderboards on servers and much more.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data accessible from the Riot Games API, no sensitive data among them. The users also provide their so-called \"Summoner Names\" and the region codes of the game servers that are locked to them.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "riotwatcher"
+                ],
+                "short": "League of Legends related commands",
+                "tags": [
+                    "league",
+                    "of",
+                    "legends",
+                    "leagueoflegends",
+                    "lol",
+                    "statistics",
+                    "leaderboard",
+                    "riot",
+                    "riotgames"
+                ],
+                "type": ""
+            },
+            "nicknameforcer": {
+                "author": [
+                    "NukDokPlex"
+                ],
+                "description": "Simply forces nickname for user by command. When users are trying to change their nickname, it simply overwrite it to set before.",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simply forces nickname for user by command",
+                "tags": [
+                    "nickname",
+                    "forcer"
+                ],
+                "type": ""
+            },
+            "vk_hook": {
+                "author": [
+                    "NukDokPlex"
+                ],
+                "description": "This Cog serves as a webhook for the walls of users and groups in Europe's largest social network, VKonakte (vk.com).",
+                "disabled": false,
+                "end_user_data_statement": "This cog is not saving any sensitive user data. Uses only publicly available information and does not assign it to users in Discord, only to channels in Discord.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "vk"
+                ],
+                "short": "Webhook for VKontakte (vk.com)",
+                "tags": [
+                    "vk",
+                    "vkontakte",
+                    "hook",
+                    "webhook",
+                    "social",
+                    "network",
+                    "api"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Cogs developed by NukDokPlex"
     },
     "https://github.com/palmtree5/palmtree5-cogs": {
         "author": [
@@ -17385,6 +17984,24 @@
                 "tags": [
                     "fun"
                 ],
+                "type": ""
+            },
+            "perform": {
+                "author": [
+                    "Ari (Onii-chan#3920), sravan (sravan#0001)"
+                ],
+                "description": "Perform Actions like kiss, cuddle etc.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
                 "type": ""
             },
             "poll": {
@@ -18914,8 +19531,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "matplotlib",
-                    "aiohttp",
-                    "pillow",
+                    "requests",
+                    "pillow==9.1.1",
                     "validators",
                     "tabulate",
                     "colorgram.py"
@@ -19015,6 +19632,33 @@
                 ],
                 "type": "COG"
             },
+            "nonuke": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Anti-Nuke functions",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Anti-Nuke Cog",
+                "tags": [
+                    "nuke",
+                    "antinuke",
+                    "anti-nuke",
+                    "nonuke"
+                ],
+                "type": "COG"
+            },
             "sctools": {
                 "author": [
                     "Vertyco"
@@ -19054,7 +19698,7 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.99",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [
@@ -19078,6 +19722,99 @@
                     "ticket",
                     "support",
                     "support system"
+                ],
+                "type": "COG"
+            },
+            "tickets": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Multi-Panel Discord support ticket system with buttons!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.9",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "manage_messages",
+                    "manage_permissions",
+                    "manage_roles",
+                    "attach_files",
+                    "embed_links",
+                    "manage_channels"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Advanced support ticket system",
+                "tags": [
+                    "utility",
+                    "tickets",
+                    "ticket",
+                    "support",
+                    "support system"
+                ],
+                "type": "COG"
+            },
+            "upgradechat": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Upgrade.Chat integration for purchasing economy credits directly",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any personal data of users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Upgrade.Chat API Economy Integration",
+                "tags": [
+                    "utility",
+                    "upgrade",
+                    "chat",
+                    "upgrade.chat",
+                    "economy",
+                    "supporter",
+                    "donate",
+                    "donations",
+                    "bank"
+                ],
+                "type": "COG"
+            },
+            "vrtutils": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Random utility commands for viewing bot stats and users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "psutil",
+                    "py-cpuinfo",
+                    "speedtest-cli>=2.1.3"
+                ],
+                "short": "Random utility commands",
+                "tags": [
+                    "utility"
                 ],
                 "type": "COG"
             },
@@ -19137,7 +19874,8 @@
                     "xbox-webapi==2.0.11",
                     "utils>=1.0.1",
                     "tabulate",
-                    "dislash.py"
+                    "dislash.py",
+                    "pytz"
                 ],
                 "short": "Get Xbox Live Info and Player Stats.",
                 "tags": [
@@ -19455,6 +20193,50 @@
                 ],
                 "type": ""
             },
+            "anticrashvid": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "youtube-dl"
+                ],
+                "short": "Automatically delete and log malicious videos that attempt to crash Discord clients.",
+                "tags": [
+                    "moderation",
+                    "security"
+                ],
+                "type": ""
+            },
+            "antigifv": {
+                "author": [
+                    "Zephyrkul (Zephyrkul#1089)"
+                ],
+                "description": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically suppress any GifV embeds. Useful if your system cannot handle the anticrashvid cog.",
+                "tags": [
+                    "moderation",
+                    "security"
+                ],
+                "type": ""
+            },
             "autodisconnect": {
                 "author": [
                     "Zephyrkul (Zephyrkul#1089)"
@@ -19737,6 +20519,25 @@
                 ],
                 "type": ""
             },
+            "streams": {
+                "author": [
+                    "Cog-Creators",
+                    "Zephyrkul (Zephyrkul #1089)"
+                ],
+                "description": "A custom fork of the core Red Streams cog. Includes Trovo support and removes force-mentioning roles.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.0.dev0",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A custom fork of the core Red Streams cog.",
+                "tags": [],
+                "type": ""
+            },
             "theme": {
                 "author": [
                     "Zephyrkul (Zephyrkul #1089)"
@@ -19841,7 +20642,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "inspiro"
+                    "inspiro",
+                    "requests"
                 ],
                 "short": "Get inspired",
                 "tags": [],
@@ -19917,7 +20719,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "inspiro"
+                    "inspiro",
+                    "requests"
                 ],
                 "short": "Inspirobot and chill",
                 "tags": [],
