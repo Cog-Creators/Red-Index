@@ -3314,7 +3314,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "Fake moderation commands.",
                 "tags": [
                     "ben",
@@ -3409,7 +3411,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji==1.6.3"
+                    "emoji"
                 ],
                 "short": "Display user information from osu!",
                 "tags": [
