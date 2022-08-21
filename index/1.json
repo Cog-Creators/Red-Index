@@ -10209,9 +10209,9 @@
                 "author": [
                     "Nado"
                 ],
-                "description": "Team Punistic red cog just to test pinging everyone",
+                "description": "Team Punistic red cog just to ping everyone with the bot",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "end_user_data_statement": "This cog does not persistently store data or meta-data about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
@@ -10232,7 +10232,7 @@
                 ],
                 "description": "Team Punistic red cog for creating and managing private voice channels",
                 "disabled": false,
-                "end_user_data_statement": "This cog doespersistently storedata or metadata about users. It stores the user's id to keep track of the channels the user owns.",
+                "end_user_data_statement": "This cog does persistently storedata or metadata about users. It stores the user's id to keep track of the channels the user owns.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
