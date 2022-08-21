@@ -10196,6 +10196,172 @@
         },
         "short": "A bunch of useless cogs"
     },
+    "https://github.com/batman202012/tpun": {
+        "author": [
+            "Nado#6969"
+        ],
+        "description": "Just some quality of life setup cogs I made for myself. Ask for any added features on github and I will try to work them in.",
+        "name": "tpun",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "pingeveryone": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog just to test pinging everyone",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TPUN Cog to Ping Everyone",
+                "tags": [
+                    "Everyone",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
+            "pvc": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for creating and managing private voice channels",
+                "disabled": false,
+                "end_user_data_statement": "This cog doespersistently storedata or metadata about users. It stores the user's id to keep track of the channels the user owns.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "pvc",
+                "tags": [
+                    "private",
+                    "voice",
+                    "channel",
+                    "channels",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
+            "rep": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for give users +1 rep anytime they get thanks",
+                "disabled": false,
+                "end_user_data_statement": "This cog does persistently store data about users. It uses stores the user's id in a file along with the amount of rep they have.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TPUN Reputation cog",
+                "tags": [
+                    "Reputation",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
+            "rolebuy": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for checking minecraft server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TPUN Minecraft cog",
+                "tags": [
+                    "Minecraft",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
+            "timedping": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for preventing mass pings such as vc ping or chat ping",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "TPUN Timed Ping cog",
+                "tags": [
+                    "Pings",
+                    "Tpun",
+                    "Moderation"
+                ],
+                "type": "COG"
+            },
+            "usergate": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for preventing new accounts from joining server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "usergate",
+                "tags": [
+                    "Usergate",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
+            "verifier": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for age verifying users as gender roles",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "verifier",
+                "tags": [
+                    "verify",
+                    "age",
+                    "gender",
+                    "role",
+                    "Tpun"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Just some quality of life setup cogs I made for myself."
+    },
     "https://github.com/bobloy/Fox-V3": {
         "author": [
             "Bobloy"
