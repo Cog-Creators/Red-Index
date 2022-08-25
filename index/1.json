@@ -10219,7 +10219,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "TPUN Cog to Ping Everyone",
+                "short": "pingeveryone",
                 "tags": [
                     "Everyone",
                     "Tpun"
@@ -10275,7 +10275,7 @@
                 "author": [
                     "Nado"
                 ],
-                "description": "Team Punistic red cog for checking minecraft server",
+                "description": "TPUN Cog for buying roles and setting role prices",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -10285,9 +10285,33 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "TPUN Minecraft cog",
+                "short": "rolebuy",
                 "tags": [
-                    "Minecraft",
+                    "Role shop",
+                    "shop",
+                    "tpun"
+                ],
+                "type": "COG"
+            },
+            "serverhud": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic Cog for creating and customizing server info channels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "serverhud",
+                "tags": [
+                    "hud",
+                    "info",
+                    "channels",
                     "Tpun"
                 ],
                 "type": "COG"
