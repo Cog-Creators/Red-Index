@@ -10205,6 +10205,28 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "boostertools": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog for managing boosters when they start boosting and after they stop",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or meta-data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "boostertools",
+                "tags": [
+                    "booster",
+                    "roles",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
             "pingeveryone": {
                 "author": [
                     "Nado"
