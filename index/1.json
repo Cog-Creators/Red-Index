@@ -320,7 +320,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "geopy"
+                    "geopy",
+                    "basemap",
+                    "matplotlib",
+                    "numpy"
                 ],
                 "short": "A cog to display information about a location based on its address or geographical coordinates!",
                 "tags": [
@@ -407,7 +410,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "A cog to allow a user to execute a command by clicking on a reaction!",
                 "tags": [
                     "react",
@@ -430,7 +435,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py"
+                    "dislash.py",
+                    "emoji"
                 ],
                 "short": "A cog to have roles-buttons!",
                 "tags": [
@@ -571,7 +577,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dislash.py"
+                    "dislash.py",
+                    "emoji"
                 ],
                 "short": "A cog to have url-buttons!",
                 "tags": [
