@@ -9055,29 +9055,6 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
-            "antiphoneclapper": {
-                "author": [
-                    "sitryk",
-                    "aikaterna"
-                ],
-                "description": "Deletes messages with malformed GIFs.",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow"
-                ],
-                "short": "Deletes messages with malformed GIFs.",
-                "tags": [],
-                "type": "COG"
-            },
             "away": {
                 "author": [
                     "aikaterna",
@@ -9201,29 +9178,6 @@
                 ],
                 "type": "COG"
             },
-            "dalle": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Fetch images made by Dall-E mini from a prompt.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Fetch images made by Dall-E mini from a prompt.",
-                "tags": [
-                    "dalle",
-                    "dall-e"
-                ],
-                "type": ""
-            },
             "dictionary": {
                 "author": [
                     "UltimatePancake",
@@ -9268,31 +9222,6 @@
                     "discord"
                 ],
                 "type": ""
-            },
-            "dungeon": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Provides additional raid protection for servers utilizing a welcome/rules join channel.",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs as needed for operation. ",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "ban_members",
-                    "manage_channels",
-                    "manage_roles"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Specialized raid protection.",
-                "tags": [
-                    "dungeon",
-                    "autoban"
-                ],
-                "type": "COG"
             },
             "embedpeek": {
                 "author": [
@@ -9493,29 +9422,6 @@
                 ],
                 "type": ""
             },
-            "nolinks": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Removes all links in specified channels, with the ability to whitelist roles.",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "No links allowed.",
-                "tags": [
-                    "links",
-                    "automod"
-                ],
-                "type": "COG"
-            },
             "otherbot": {
                 "author": [
                     "aikaterna",
@@ -9608,26 +9514,6 @@
                 ],
                 "type": "COG"
             },
-            "pupper": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Pupper is a configurable pet that can hand out credits.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Pet the dog.",
-                "tags": [
-                    "pets"
-                ],
-                "type": "COG"
-            },
             "quiz": {
                 "author": [
                     "Keane",
@@ -9649,27 +9535,6 @@
                     "quiz"
                 ],
                 "type": "COG"
-            },
-            "region": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Change the Discord server's region with a command.",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Change the Discord server's region.",
-                "tags": [
-                    "voice region",
-                    "region"
-                ],
-                "type": ""
             },
             "reminder": {
                 "author": [
@@ -9950,32 +9815,6 @@
                     "voice",
                     "activity",
                     "logs"
-                ],
-                "type": "COG"
-            },
-            "warcraftlogs": {
-                "author": [
-                    "aikaterna",
-                    "Kowlin"
-                ],
-                "description": "Check WarcraftLogs for data on players of World of Warcraft Classic.",
-                "disabled": true,
-                "end_user_data_statement": "This cog stores data provided by users for the express purpose of redisplaying. It does not store user data which was not provided through a command. Users may remove their own content without making a data removal request. This cog does not support data requests, but will respect deletion requests.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow",
-                    "beautifultable"
-                ],
-                "short": "WarcraftLogs data for World of Warcraft Classic players.",
-                "tags": [
-                    "warcraft"
                 ],
                 "type": "COG"
             },
@@ -19913,6 +19752,27 @@
                     "antinuke",
                     "anti-nuke",
                     "nonuke"
+                ],
+                "type": "COG"
+            },
+            "pupper": {
+                "author": [
+                    "aikaterna",
+                    "vertyco"
+                ],
+                "description": "Pupper is a configurable pet that can hand out credits.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Pet the dog.",
+                "tags": [
+                    "pets"
                 ],
                 "type": "COG"
             },
