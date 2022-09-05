@@ -15209,7 +15209,7 @@
                     "aiolimiter",
                     "bna",
                     "Pillow",
-                    "git+https://github.com/karlsbjorn/python-blizzardapi.git@v1.3.1",
+                    "git+https://github.com/karlsbjorn/aiowowapi.git@v1.0.4",
                     "git+https://github.com/karlsbjorn/raiderio-async.git@1.0.0"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
