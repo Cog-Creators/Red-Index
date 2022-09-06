@@ -15195,7 +15195,7 @@
                 ],
                 "description": "Cog for interacting with World of Warcraft",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog can store the name, realm and region of a Discord user's World of Warcraft character. This data is used to fetch information about the character from the Blizzard and Raider.io APIs.",
                 "hidden": false,
                 "max_bot_version": "3.4.99",
                 "min_bot_version": "3.4.0",
