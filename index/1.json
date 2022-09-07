@@ -14669,6 +14669,30 @@
                 ],
                 "type": "COG"
             },
+            "keywordpoints": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Set keywords that allow users to gain points when detected in their messages.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user and guild ids to keep track of points and keywords.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Add keywords to assign points to users when they use them.",
+                "tags": [
+                    "points",
+                    "rewards",
+                    "kwywords",
+                    "level",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "notes": {
                 "author": [
                     "crayyy_zee"
