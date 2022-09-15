@@ -3482,7 +3482,9 @@
             },
             "sudo": {
                 "author": [
-                    "Kuro"
+                    "Kuro",
+                    "Draper",
+                    "jack1142 (Jackenmen#6607)"
                 ],
                 "description": "Allows dropping and elevating owner permissions.",
                 "disabled": false,
