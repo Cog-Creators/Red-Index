@@ -495,7 +495,9 @@
             },
             "sudo": {
                 "author": [
-                    "AAA3A"
+                    "AAA3A",
+                    "Draper",
+                    "jack1142 (Jackenmen#6607)"
                 ],
                 "description": "Have you ever wanted to allow bot owners to be normal users in terms of permissions? Then this cog is for you!",
                 "disabled": false,
