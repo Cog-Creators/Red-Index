@@ -3269,6 +3269,27 @@
                 ],
                 "type": ""
             },
+            "calendar": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "See the calendar on Discord!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "See the calendar on Discord!",
+                "tags": [
+                    "calendar",
+                    "date"
+                ],
+                "type": "COG"
+            },
             "countercog": {
                 "author": [
                     "Kuro"
