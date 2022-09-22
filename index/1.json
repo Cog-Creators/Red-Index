@@ -17206,7 +17206,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "akinator.py[fast_async]"
+                    "akinator[fast_async]==1.0.3"
                 ],
                 "short": "Play Akinator in Discord!",
                 "tags": [
