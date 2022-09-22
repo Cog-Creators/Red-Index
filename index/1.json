@@ -10114,7 +10114,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "inflect>=6.0.0"
+                    "inflect==6.0.0",
+                    "requests"
                 ],
                 "short": "Occupations",
                 "tags": [
