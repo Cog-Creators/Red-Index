@@ -15240,6 +15240,33 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "battlenetauth": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Battle.net authenticator in Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores a Discord user's Battle.net authenticator details like the secret, serial and recovery keys. Users may delete their own data by making a data removal request.",
+                "hidden": false,
+                "max_bot_version": "3.4.99",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "bna"
+                ],
+                "short": "Battle.net authenticator in Discord.",
+                "tags": [
+                    "battlenet",
+                    "battle.net",
+                    "bnet",
+                    "totp",
+                    "authenticator",
+                    "2fa"
+                ],
+                "type": "COG"
+            },
             "warcraftlogsretail": {
                 "author": [
                     "aikaterna",
@@ -15285,7 +15312,6 @@
                     "rapidfuzz",
                     "tabulate",
                     "aiolimiter",
-                    "bna",
                     "Pillow",
                     "aiowowapi",
                     "git+https://github.com/karlsbjorn/raiderio-async.git@v1.1.1"
