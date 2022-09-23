@@ -2950,7 +2950,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "emoji==1.7"
                 ],
                 "short": "Embed the invite command",
                 "tags": [
