@@ -18286,14 +18286,14 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "dataclasses-json",
-                    "html2markdown",
-                    "inflect",
-                    "timeago",
-                    "aiolimiter",
-                    "aiohttp-retry",
-                    "pyinaturalist",
-                    "dateparser"
+                    "dataclasses-json>=0.5.5,<0.6.0",
+                    "html2markdown>=0.1.7,<0.2.0",
+                    "inflect>=5.3.0,<6.0.0",
+                    "timeago>=1.0.15,<2.0.0",
+                    "aiolimiter>=1.0.0,<2.0.0",
+                    "aiohttp-retry>=2.4.5,<3.0.0",
+                    "pyinaturalist>=0.17.3,<0.18.0",
+                    "dateparser>=1.0.0,<2.0.0"
                 ],
                 "short": "Commands using the iNat API v1.",
                 "tags": [
