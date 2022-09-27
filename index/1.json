@@ -1833,6 +1833,28 @@
                 ],
                 "type": "COG"
             },
+            "backup": {
+                "author": [
+                    "Honkertonken"
+                ],
+                "description": "Helps you save a bunch of information useful during migrating/ backing up your bot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Backup information.",
+                "tags": [
+                    "backup",
+                    "save",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "blackformatter": {
                 "author": [
                     "Honkertonken"
