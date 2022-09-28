@@ -19757,7 +19757,8 @@
                     "pillow==9.2.0",
                     "validators",
                     "tabulate",
-                    "colorgram.py"
+                    "colorgram.py",
+                    "emoji"
                 ],
                 "short": "Leveling System",
                 "tags": [
