@@ -15277,6 +15277,75 @@
         },
         "short": "Cogs made by JDG"
     },
+    "https://github.com/jmesfo0/jmes-cogs": {
+        "author": [
+            "James (jmes#1396)"
+        ],
+        "description": "Various cogs for Red-DiscordBot",
+        "name": "jmes-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "obfuscator": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "Simple Lua Obfuscator for Red-DiscordBot",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple Lua Obfuscator",
+                "tags": [
+                    "lua",
+                    "obfuscator"
+                ],
+                "type": "COG"
+            },
+            "pexels": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "Displays pictures from Pexels API using PyPexels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links",
+                    "add_reactions"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pypexels>=1.0.0rc1"
+                ],
+                "short": "Cog for getting pictures from Pexels.com",
+                "tags": [
+                    "pexels",
+                    "pypexels"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Jmes cogs for Red-DiscordBot"
+    },
     "https://github.com/karlsbjorn/karlo-cogs": {
         "author": [
             "Karlo"
