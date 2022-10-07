@@ -15346,7 +15346,7 @@
                 "author": [
                     "jmes"
                 ],
-                "description": "Simple Lua Obfuscator for Red-DiscordBot, requires Lua5.1 to be installed on the system.",
+                "description": "Lua Obfuscator for Red-DiscordBot, featuring LuaSeel and Menprotect, requires lua5.1, luajit, and nodejs16 to be installed on the system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -15362,10 +15362,12 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Simple Lua Obfuscator",
+                "short": "Lua Obfuscator",
                 "tags": [
                     "lua",
-                    "obfuscator"
+                    "obfuscator",
+                    "luaseel",
+                    "menprotect"
                 ],
                 "type": "COG"
             },
