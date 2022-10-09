@@ -14862,7 +14862,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabualte"
+                ],
                 "short": "Store notes on users.",
                 "tags": [
                     "notes",
