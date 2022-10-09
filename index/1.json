@@ -14863,7 +14863,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabualte"
+                    "tabulate"
                 ],
                 "short": "Store notes on users.",
                 "tags": [
