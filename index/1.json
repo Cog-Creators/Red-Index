@@ -15346,16 +15346,16 @@
                 "author": [
                     "jmes"
                 ],
-                "description": "Lua Obfuscator for Red-DiscordBot, features 3 different types of obfuscation for Roblox/FiveM scripts, requires lua5.1, luajit, and nodejs16 to be installed on the system.",
+                "description": "**Lua Obfuscator for Red-DiscordBot**, features 4 different types of obfuscation for Roblox/FiveM scripts, requires **lua5.1**, **nodejs16**, and **dotnet-runtime-6.0** to be installed on the system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "0.0.0",
+                "max_bot_version": "3.5.0",
                 "min_bot_version": "3.1.8",
                 "min_python_version": [
                     3,
                     7,
-                    2
+                    9
                 ],
                 "permissions": [
                     "attach_files"
