@@ -20164,7 +20164,7 @@
                 "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.9",
+                "min_bot_version": "3.4.99",
                 "min_python_version": "",
                 "permissions": [
                     "read_messages",
