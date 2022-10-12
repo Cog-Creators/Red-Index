@@ -146,6 +146,29 @@
                 ],
                 "type": ""
             },
+            "discordedit": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Have you ever wanted to edit roles, text channels, voice channels, ...? Then this cog is for you! It simply allows you to use commands to change the settings of a default Discord object.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to edit Discord default objects!",
+                "tags": [
+                    "discord",
+                    "edit",
+                    "role",
+                    "channel"
+                ],
+                "type": ""
+            },
             "discordmodals": {
                 "author": [
                     "AAA3A"
