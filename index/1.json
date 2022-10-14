@@ -11386,7 +11386,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
                 "short": "Convert your messages into a message written with Kyaru's tail.",
                 "tags": [
                     "priconne",
