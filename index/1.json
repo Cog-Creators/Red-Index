@@ -17283,7 +17283,7 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from messages from configured channels, and only from users with the configured role. Will only support a single guild set by the bot owner.\n\n\u2699 After configuring it with [p]simulatorset, you may manually feed past messages using [p]feedsimulator [days]. This takes around 1 minute per 5,000 messages, so be patient! When the feeding is finished or interrupted, it will send the summary in the same channel.\n\n\u267b While the simulator is running, a conversation will occur every so many minutes, during which comments will be sent every so many seconds. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\u26a0 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
+                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from messages from configured channels, and only from users with the configured role. Will only support a single guild set by the bot owner.\n\n\u2699 After configuring it with [p]simulator set, you may manually feed past messages using [p]feedsimulator [days]. This takes around 1 minute per 5,000 messages, so be patient! When the feeding is finished or interrupted, it will send the summary in the same channel.\n\n\u267b While the simulator is running, a conversation will occur every so many minutes, during which comments will be sent every so many seconds. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\u26a0 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -17300,7 +17300,8 @@
                     "crab",
                     "fun",
                     "simulator",
-                    "markov"
+                    "markov",
+                    "friends"
                 ],
                 "type": ""
             }
