@@ -17202,6 +17202,89 @@
         },
         "short": "Cogs developed by NukDokPlex"
     },
+    "https://github.com/orchidalloy/crab-cogs": {
+        "author": [
+            "OrchidAlloy"
+        ],
+        "description": "Fun cogs originally created for a friend group called Crab.",
+        "name": "crab-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "crab": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Random fun commands for the crab friend group.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0rc2",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "opencv_python_headless"
+                ],
+                "short": "Random fun commands.",
+                "tags": [
+                    "crab",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "emojisteal": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Steals emojis sent by other people and optionally uploads them to your own server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0rc2",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Steals emojis sent by other people.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "emoji"
+                ],
+                "type": ""
+            },
+            "simulator": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from messages from configured channels, and only from users with the configured role. Will only support a single guild set by the bot owner.\n\n\u2699 After configuring it with [p]simulatorset, you may manually feed past messages using [p]feedsimulator [days]. This takes around 1 minute per 5,000 messages, so be patient! When the feeding is finished or interrupted, it will send the summary in the same channel.\n\n\u267b While the simulator is running, a conversation will occur every so many minutes, during which comments will be sent every so many seconds. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\u26a0 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0rc2",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiosqlite"
+                ],
+                "short": "Simulates messages from your friend group.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "simulator",
+                    "markov"
+                ],
+                "type": ""
+            }
+        },
+        "short": "crab-cogs"
+    },
     "https://github.com/palmtree5/palmtree5-cogs": {
         "author": [
             "palmtree5"
