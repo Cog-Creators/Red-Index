@@ -17246,14 +17246,38 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "Pillow",
-                    "opencv_python_headless"
-                ],
+                "requirements": [],
                 "short": "Random fun commands.",
                 "tags": [
                     "crab",
                     "fun"
+                ],
+                "type": ""
+            },
+            "draw": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "A couple fun image filters for your friends' avatars.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0rc2",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "opencv_python_headless"
+                ],
+                "short": "Fun image filters",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "image",
+                    "draw",
+                    "filters"
                 ],
                 "type": ""
             },
