@@ -17237,7 +17237,7 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Lets you configure emojis that will be added to any message containing specific text.",
+                "description": "Lets you configure emojis that will be added to any message containing text matching a regex.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -17307,6 +17307,32 @@
                     "fun",
                     "emoji",
                     "steal"
+                ],
+                "type": ""
+            },
+            "gamealert": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Sends a configured message when a user has been playing a specific game for some time.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send a message when someone is playing a game for some time.\"",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "game",
+                    "alert",
+                    "notification",
+                    "joke",
+                    "health"
                 ],
                 "type": ""
             },
