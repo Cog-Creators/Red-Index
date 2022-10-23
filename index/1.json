@@ -18190,7 +18190,7 @@
                 "author": [
                     "retke (El Laggron)"
                 ],
-                "description": "Autorole based on the invite the user used.\nIf the user joined using invite x, he will get a list of roles linked to invite x.",
+                "description": "Autorole based on the invite the user used.\nIf the user joined using invite x, they will get a list of roles linked to invite x.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
