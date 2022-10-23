@@ -17173,7 +17173,7 @@
                 ],
                 "description": "Lets you configure emojis that will be added to any message containing text matching a regex.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -17200,7 +17200,7 @@
                 ],
                 "description": "A couple fun image filters for your friends' avatars.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -17225,9 +17225,9 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Steals emojis sent by other people and optionally uploads them to your own server.",
+                "description": "Steals emojis sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -17250,7 +17250,7 @@
                 ],
                 "description": "Sends a configured message when a user has been playing a specific game for some time.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -17258,7 +17258,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Send a message when someone is playing a game for some time.\"",
+                "short": "Send a message when someone is playing a game for some time.",
                 "tags": [
                     "crab",
                     "fun",
@@ -17274,9 +17274,9 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "A few fun commands involving randomness.",
+                "description": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores user IDs to keep track of your donut score.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
@@ -17297,9 +17297,9 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from new messages sent in configured channels, and only from users with the configured role. Will only support a single guild.\n\n\u2699 The bot owner must configure it with [p]simulator set, then they may manually feed past messages using [p]simulator feed [days]. This may take a while, so be patient!\n\n\ud83d\udd04 While the simulator is running, Simulated conversations will randomly occur. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\ud83d\udc64 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
+                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from new messages sent in configured channels, and only from users with the configured role. Will only support a single guild.\n\n\u2699 The bot owner must configure it with [p]simulator set, then they may manually feed past messages using [p]simulator feed [days]. This may take 1 minute per 5000 messages, so be patient!\n\n\ud83d\udd04 While the simulator is running, simulated conversations will randomly occur. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\ud83d\udc64 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog will locally store and analyze past and future messages sent by participating users, in order to generate new messages in an owner-configured output channel.\nYou may opt out completely and delete your simulator data with the [p]dontsimulateme command.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
