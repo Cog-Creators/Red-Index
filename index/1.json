@@ -15453,6 +15453,31 @@
                 ],
                 "type": "COG"
             },
+            "discordstreams": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Display a stream alert in a channel when a member of a guild starts a Go Live stream.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0.dev0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Display a Go Live stream alert.",
+                "tags": [
+                    "discord",
+                    "live",
+                    "go live",
+                    "screenshare",
+                    "stream",
+                    "livestream"
+                ],
+                "type": "COG"
+            },
             "warcraftlogsretail": {
                 "author": [
                     "aikaterna",
