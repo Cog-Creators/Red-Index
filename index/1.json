@@ -15392,7 +15392,7 @@
                 "author": [
                     "jmes"
                 ],
-                "description": "Crypto Whale Alerts via whale-alert.io",
+                "description": "Obtains the latest crypto whale alert transactions via whale-alert.io API.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -15404,7 +15404,7 @@
                 "requirements": [
                     "whale-alert"
                 ],
-                "short": "Alerts from whale-alert.io",
+                "short": "Latest transactions from whale-alert.io",
                 "tags": [
                     "crypto",
                     "whale",
