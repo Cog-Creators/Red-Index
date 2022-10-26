@@ -15308,7 +15308,7 @@
                 "author": [
                     "jmes"
                 ],
-                "description": "Lua Obfuscator for Red-DiscordBot, features 4 different types of obfuscation for Roblox/FiveM scripts, requires lua5.1, nodejs16, and dotnet-runtime-6.0 to be installed on the system.",
+                "description": "Lua Obfuscator for Red-DiscordBot, features 5 different types of obfuscation for Roblox/FiveM scripts, requires lua5.1, nodejs16, and dotnet-runtime-6.0 to be installed on the system.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -15328,9 +15328,12 @@
                 "tags": [
                     "lua",
                     "obfuscator",
+                    "obfuscate",
+                    "obfuscation",
                     "luaseel",
                     "menprotect",
                     "prometheus",
+                    "bytecode",
                     "roblox",
                     "fivem"
                 ],
