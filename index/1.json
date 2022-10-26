@@ -3782,6 +3782,28 @@
                     "YouTube"
                 ],
                 "type": "COG"
+            },
+            "ytdedup": {
+                "author": [
+                    "Mr. 42"
+                ],
+                "description": "Remove duplicate YouTube links in specified channels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Remove duplicate YouTube links",
+                "tags": [
+                    "youtube",
+                    "spam",
+                    "antispam"
+                ],
+                "type": "COG"
             }
         },
         "short": "How many paths must a man walk down?"
