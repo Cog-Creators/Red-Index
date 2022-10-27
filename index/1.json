@@ -15326,6 +15326,24 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "lounge": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "this is a custom cog for THE_LOUNGE discord",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "a custom cog for THE_LOUNGE",
+                "tags": [],
+                "type": "COG"
+            },
             "obfuscator": {
                 "author": [
                     "jmes"
