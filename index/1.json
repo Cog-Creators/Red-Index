@@ -20114,7 +20114,10 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "ujson",
+                    "msgpack"
+                ],
                 "short": "Host and manage events in your server",
                 "tags": [
                     "event",
@@ -20234,7 +20237,9 @@
                     "tabulate",
                     "colorgram.py",
                     "emoji",
-                    "aiocache"
+                    "aiocache",
+                    "ujson",
+                    "msgpack"
                 ],
                 "short": "Leveling System",
                 "tags": [
