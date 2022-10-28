@@ -15333,7 +15333,7 @@
                 "description": "this is a custom cog for THE_LOUNGE discord",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
                 "min_python_version": "",
