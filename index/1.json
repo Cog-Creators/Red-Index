@@ -15433,61 +15433,6 @@
                     "rpg"
                 ],
                 "type": "COG"
-            },
-            "whalealerts": {
-                "author": [
-                    "jmes"
-                ],
-                "description": "Obtains the latest crypto whale alert transactions via whale-alert.io API.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "whale-alert"
-                ],
-                "short": "Latest transactions from whale-alert.io",
-                "tags": [
-                    "crypto",
-                    "cryptocurrency",
-                    "whale",
-                    "alert",
-                    "bitcoin",
-                    "ethereum",
-                    "btc",
-                    "eth"
-                ],
-                "type": "COG"
-            },
-            "wordnik": {
-                "author": [
-                    "jmes"
-                ],
-                "description": "Wordnik is the world's biggest online English dictionary, by number of words.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "aiohttp",
-                    "asyncio"
-                ],
-                "short": "Wordnik is the world's biggest online English dictionary, by number of words.",
-                "tags": [
-                    "wordnik",
-                    "dictionary",
-                    "words",
-                    "wordoftheday"
-                ],
-                "type": "COG"
             }
         },
         "short": "jmes cogs"
