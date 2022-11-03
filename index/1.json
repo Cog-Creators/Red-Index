@@ -15408,31 +15408,6 @@
                     "pypexels"
                 ],
                 "type": "COG"
-            },
-            "tacoshack": {
-                "author": [
-                    "jmes"
-                ],
-                "description": "You are in charge of running your taco shack! You will get hourly income to pay for things. You can increase your income by purchasing upgrades or hiring employees! You yourself can also work every 10 minutes, and collect tips every 5 minutes to make some cash. Become the most sucessful taco shack around by reaching the top of the leaderboard! Either top the Most Tacos Sold or the Richest leaderboard for bragging rights.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "TacoShack Classic for Red DiscordBot",
-                "tags": [
-                    "tacoshack",
-                    "shack",
-                    "taco",
-                    "tacos",
-                    "tacoshack classic",
-                    "rpg"
-                ],
-                "type": "COG"
             }
         },
         "short": "jmes cogs"
