@@ -20308,6 +20308,44 @@
                 ],
                 "type": "COG"
             },
+            "pixl": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Guess pictures before anyone else as blocks of it are slowly revealed.",
+                "disabled": false,
+                "end_user_data_statement": "This cog only stores user IDs for its leaderboard",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.17",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "manage_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "aiohttp",
+                    "aiocache",
+                    "tabulate",
+                    "rapidfuzz"
+                ],
+                "short": "Guess pictures and earn points.",
+                "tags": [
+                    "fun",
+                    "picture",
+                    "game",
+                    "games",
+                    "pictures",
+                    "image",
+                    "images",
+                    "guessing"
+                ],
+                "type": "COG"
+            },
             "pupper": {
                 "author": [
                     "aikaterna",
@@ -20404,7 +20442,7 @@
                 "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.99",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [
                     "read_messages",
