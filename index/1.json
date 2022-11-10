@@ -3251,27 +3251,6 @@
                 ],
                 "type": "COG"
             },
-            "botping": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Creates a custom ping embed to display latency statistics.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Creates a custom ping embed to display latency statistics.",
-                "tags": [
-                    "ping",
-                    "pong"
-                ],
-                "type": ""
-            },
             "calendarcog": {
                 "author": [
                     "Kuro"
