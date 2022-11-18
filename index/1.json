@@ -17317,6 +17317,32 @@
                 ],
                 "type": ""
             },
+            "genshin": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Simulates Genshin Impact gacha pulls.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs to keep track of your inventory.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simulates Genshin Impact gacha pulls.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "game",
+                    "gacha",
+                    "genshin",
+                    "impact",
+                    "random"
+                ],
+                "type": ""
+            },
             "randomness": {
                 "author": [
                     "OrchidAlloy"
