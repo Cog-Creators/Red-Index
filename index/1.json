@@ -502,7 +502,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever wanted to set up a ticket system, with many options for the user and the support team, on your server? Then this cog is for you! It has many settings, buttons, a reaction to create the ticket, many commands working in the ticket channel, different roles with access to different options...",
+                "description": "Have you ever wanted to set up a ticket system, with many options for the user and the support team, on your server? Then this cog is for you! It has many settings, buttons, a reaction to create the ticket, many commands working in the ticket channel, different roles with access to different options... There is also a system of panels!",
                 "disabled": false,
                 "end_user_data_statement": "This cog records all the data needed to operate the ticket system. It records the reason for the ticket, the open/close dates, the members who have opened/closed/claimed a ticket. Apart from deleting the ticket with `[p]ticket delete`, this cog is not configured to delete this operational data.",
                 "hidden": false,
