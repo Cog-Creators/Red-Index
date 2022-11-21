@@ -15346,6 +15346,41 @@
                 "tags": [],
                 "type": "COG"
             },
+            "obfuscator": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "Lua Obfuscator for Red-DiscordBot, features 5 different types of obfuscation for Roblox/FiveM scripts, requires lua5.1, nodejs16, and dotnet-runtime-6.0 to be installed on the system.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    9
+                ],
+                "permissions": [
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lua Obfuscator",
+                "tags": [
+                    "lua",
+                    "obfuscator",
+                    "obfuscate",
+                    "obfuscation",
+                    "luaseel",
+                    "menprotect",
+                    "prometheus",
+                    "bytecode",
+                    "roblox",
+                    "fivem"
+                ],
+                "type": "COG"
+            },
             "pexels": {
                 "author": [
                     "jmes"
