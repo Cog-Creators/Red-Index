@@ -19019,6 +19019,26 @@
                 "tags": [],
                 "type": ""
             },
+            "dragon": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Replies with giant ascii dragons",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "event_config": "http://github.com/TheDataLeek/Eris-Cogs"
+                },
+                "requirements": [],
+                "short": "Dragons!",
+                "tags": [],
+                "type": ""
+            },
             "emojsplosion": {
                 "author": [
                     "Eris"
