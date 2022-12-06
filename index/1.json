@@ -20166,7 +20166,10 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "googletrans==3.1.0a0"
+                    "googletrans==3.1.0a0",
+                    "aiocache",
+                    "ujson",
+                    "msgpack"
                 ],
                 "short": "Auto translation between two languages.",
                 "tags": [
