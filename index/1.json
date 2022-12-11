@@ -10186,6 +10186,34 @@
                 ],
                 "type": "COG"
             },
+            "chatGPT": {
+                "author": [
+                    "Nado"
+                ],
+                "description": "Team Punistic red cog that allows a user to communicate with chatGPT",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or meta-data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "inflect==6.0.0",
+                    "requests",
+                    "openai"
+                ],
+                "short": "chatGPT",
+                "tags": [
+                    "job",
+                    "work",
+                    "occupations",
+                    "economy",
+                    "Tpun"
+                ],
+                "type": "COG"
+            },
             "occupations": {
                 "author": [
                     "Nado"
