@@ -10202,6 +10202,7 @@
                 "requirements": [
                     "inflect==6.0.0",
                     "requests",
+                    "numpy",
                     "openai"
                 ],
                 "short": "chatGPT",
