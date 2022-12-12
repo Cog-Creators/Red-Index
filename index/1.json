@@ -20181,7 +20181,7 @@
                 ],
                 "description": "Seamless translation between two languages in one channel.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users. This cog uses google's free translator api",
+                "end_user_data_statement": "This cog does not persistently store data about users. This cog uses google and flowery's translator APIs",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
@@ -20197,6 +20197,7 @@
                 "requirements": [
                     "googletrans==3.1.0a0",
                     "aiocache",
+                    "aiohttp",
                     "ujson",
                     "msgpack"
                 ],
