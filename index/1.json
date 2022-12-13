@@ -15602,7 +15602,7 @@
                     "aiolimiter",
                     "Pillow",
                     "aiowowapi~=2.1.1",
-                    "git+https://github.com/karlsbjorn/raiderio-async.git@v1.1.1"
+                    "git+https://github.com/karlsbjorn/raiderio-async.git@v1.2.0"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
