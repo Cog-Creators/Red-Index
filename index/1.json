@@ -15559,6 +15559,31 @@
                 ],
                 "type": "COG"
             },
+            "wikiarena": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Each round pits two random Wikipedia articles against each other by their title, an intro section excerpt and an image (if available).\n\nYour task: Guess which article is longer or gets more views.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0.dev0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/Gelbpunkt/aiowiki",
+                    "tabulate"
+                ],
+                "short": "Guess which wikipedia article is longer or gets more views.",
+                "tags": [
+                    "wiki",
+                    "wikipedia",
+                    "game"
+                ],
+                "type": "COG"
+            },
             "wowtools": {
                 "author": [
                     "Karlo"
