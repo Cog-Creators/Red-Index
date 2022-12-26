@@ -4229,9 +4229,9 @@
                 "author": [
                     "Albrt#3043"
                 ],
-                "description": "Compilation of generators a-like this {sth} does not exists. ",
+                "description": "Compilation of generators a-like \"This {sth} does not exists\". ",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
