@@ -1208,6 +1208,492 @@
         },
         "short": "Cogs made by Dav"
     },
+    "https://github.com/Drapersniper/PyLav-Cogs": {
+        "author": [
+            "Draper"
+        ],
+        "description": "A collection of official cogs using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+        "name": "PyLav-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "audio": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A full fledged media player using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "A media player cog",
+                "tags": [
+                    "audio",
+                    "music",
+                    "spotify",
+                    "media player",
+                    "lavalink",
+                    "youtube",
+                    "pylav",
+                    "tts",
+                    "mp3",
+                    "flac",
+                    "PyLav"
+                ],
+                "type": "COG"
+            },
+            "plconfig": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A configurator for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Configure PyLav's global settings.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "management"
+                ],
+                "type": "COG"
+            },
+            "pleffects": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "Commands to manage and apply effects to the players.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Commands to manage and apply effects to the players.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "filters",
+                    "effects",
+                    "nightcore",
+                    "channel mix",
+                    "distortion",
+                    "karaoke",
+                    "lowpass",
+                    "rotation",
+                    "timescale",
+                    "tremolo",
+                    "vibrato",
+                    "eq",
+                    "equalizer"
+                ],
+                "type": "COG"
+            },
+            "pleq": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "Apply some equalizer presets to the PyLav player.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Apply some equalizer presets to the PyLav player.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "eq",
+                    "equalizer"
+                ],
+                "type": "COG"
+            },
+            "pllocal": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "Commands to interact with local media files.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Commands to interact with local media files.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "local",
+                    "mp3",
+                    "flac"
+                ],
+                "type": "COG"
+            },
+            "pllyrics": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Commands to interact with track lyrics.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "lavalink",
+                    "pylav",
+                    "utilities",
+                    "PyLav",
+                    "lyrics"
+                ],
+                "type": "COG"
+            },
+            "plmanagednode": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "Commands to configure Pylav's managed node.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Commands to configure Pylav's managed node.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "node",
+                    "management"
+                ],
+                "type": "COG"
+            },
+            "plmigrator": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A simple cog to migrate all compatible settings from Red's Audio cog to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Convert your Audio settings to PyLav.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "settings",
+                    "migration",
+                    "PyLav"
+                ],
+                "type": "COG"
+            },
+            "plnodes": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A collection of node controller commands for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "A collection of node controller commands for PyLav.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "management"
+                ],
+                "type": "COG"
+            },
+            "plnotifier": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A configurator for the notification system of PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Configure PyLav's notifications.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "spotify",
+                    "media player",
+                    "lavalink",
+                    "youtube",
+                    "pylav",
+                    "tts",
+                    "mp3",
+                    "flac",
+                    "PyLav",
+                    "management"
+                ],
+                "type": "COG"
+            },
+            "plplaylists": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "Playlist expansion to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Control Playlists from PyLav",
+                "tags": [
+                    "audio",
+                    "music",
+                    "spotify",
+                    "media player",
+                    "lavalink",
+                    "youtube",
+                    "pylav",
+                    "tts",
+                    "mp3",
+                    "flac",
+                    "playlists",
+                    "PyLav"
+                ],
+                "type": "COG"
+            },
+            "plradio": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "This cogs allows you to interact with <https://www.radio-browser.info/> to gain access to 30,000+ radio stations.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "Apply some equalizer presets to the PyLav player.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "PyLav",
+                    "radio",
+                    "RadioBrowser",
+                    "station"
+                ],
+                "type": "COG"
+            },
+            "plutils": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A bunch of utility commands for PyLav cogs.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev307",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.0.0<1.1"
+                ],
+                "short": "A bunch of utility commands for PyLav cogs.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "media player",
+                    "lavalink",
+                    "pylav",
+                    "utilities",
+                    "PyLav",
+                    "management"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Official cogs for PyLav."
+    },
     "https://github.com/Flame442/FlameBountyCogs": {
         "author": [
             "Flame442 (Flame#2941)"
