@@ -15966,6 +15966,27 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "autoplay": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Automatically play music that a guild member is listening to on Spotify.\nThis cog REQUIRES a fully set up PyLav and will not work without it.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0.dev0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically play music that a guild member is listening to on Spotify.",
+                "tags": [
+                    "music",
+                    "spotify"
+                ],
+                "type": "COG"
+            },
             "battlenetauth": {
                 "author": [
                     "Karlo"
