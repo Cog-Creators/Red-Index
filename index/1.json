@@ -20501,6 +20501,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "autodocs": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Generate documentation for your cogs automatically",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev306",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "EZ Cog Docs",
+                "tags": [
+                    "utility",
+                    "docs",
+                    "documentation"
+                ],
+                "type": "COG"
+            },
             "bankbackup": {
                 "author": [
                     "Vertyco"
