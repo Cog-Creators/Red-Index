@@ -1237,7 +1237,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1275,7 +1275,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Configure PyLav's global settings.",
                 "tags": [
@@ -1309,7 +1309,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Commands to manage and apply effects to the players.",
                 "tags": [
@@ -1335,41 +1335,6 @@
                 ],
                 "type": "COG"
             },
-            "pleq": {
-                "author": [
-                    "Draper"
-                ],
-                "description": "Apply some equalizer presets to the PyLav player.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
-                "disabled": false,
-                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0.dev306",
-                "min_python_version": [
-                    3,
-                    11,
-                    0
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
-                ],
-                "short": "Apply some equalizer presets to the PyLav player.",
-                "tags": [
-                    "audio",
-                    "music",
-                    "media player",
-                    "lavalink",
-                    "pylav",
-                    "PyLav",
-                    "eq",
-                    "equalizer"
-                ],
-                "type": "COG"
-            },
             "pllocal": {
                 "author": [
                     "Draper"
@@ -1390,7 +1355,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Commands to interact with local media files.",
                 "tags": [
@@ -1426,7 +1391,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Commands to interact with track lyrics.",
                 "tags": [
@@ -1460,7 +1425,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Commands to configure Pylav's managed node.",
                 "tags": [
@@ -1493,7 +1458,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Convert your Audio settings to PyLav.",
                 "tags": [
@@ -1528,7 +1493,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "A collection of node controller commands for PyLav.",
                 "tags": [
@@ -1562,7 +1527,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Configure PyLav's notifications.",
                 "tags": [
@@ -1601,7 +1566,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Control Playlists from PyLav",
                 "tags": [
@@ -1640,7 +1605,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "Apply some equalizer presets to the PyLav player.",
                 "tags": [
@@ -1676,7 +1641,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.9<1.1"
+                    "Py-Lav>=1.0.10<1.1"
                 ],
                 "short": "A bunch of utility commands for PyLav cogs.",
                 "tags": [
