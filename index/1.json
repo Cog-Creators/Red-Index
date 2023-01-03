@@ -15940,11 +15940,17 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "3.5.99",
-                "min_bot_version": "3.5.0.dev0",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0.dev306",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "Py-Lav>=1.0.12"
+                ],
                 "short": "Automatically play music that a guild member is listening to on Spotify.",
                 "tags": [
                     "music",
