@@ -18045,7 +18045,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "mcstatus==4.1.0",
+                    "mcstatus==10.0.1",
                     "validators"
                 ],
                 "short": "Cog for getting Minecraft server status",
