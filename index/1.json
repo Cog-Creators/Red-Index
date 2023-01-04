@@ -1247,11 +1247,11 @@
                     "media player",
                     "lavalink",
                     "youtube",
-                    "pylav",
                     "tts",
                     "mp3",
                     "flac",
-                    "PyLav"
+                    "PyLav",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1283,9 +1283,9 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
-                    "management"
+                    "management",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1317,7 +1317,6 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
                     "filters",
                     "effects",
@@ -1331,7 +1330,8 @@
                     "tremolo",
                     "vibrato",
                     "eq",
-                    "equalizer"
+                    "equalizer",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1363,11 +1363,11 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
                     "local",
                     "mp3",
-                    "flac"
+                    "flac",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1398,7 +1398,6 @@
                     "audio",
                     "music",
                     "lavalink",
-                    "pylav",
                     "utilities",
                     "PyLav",
                     "lyrics"
@@ -1433,7 +1432,6 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
                     "node",
                     "management"
@@ -1466,7 +1464,6 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "settings",
                     "migration",
                     "PyLav"
@@ -1501,7 +1498,6 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
                     "management"
                 ],
@@ -1537,7 +1533,6 @@
                     "media player",
                     "lavalink",
                     "youtube",
-                    "pylav",
                     "tts",
                     "mp3",
                     "flac",
@@ -1576,12 +1571,12 @@
                     "media player",
                     "lavalink",
                     "youtube",
-                    "pylav",
                     "tts",
                     "mp3",
                     "flac",
                     "playlists",
-                    "PyLav"
+                    "PyLav",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1613,11 +1608,11 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "PyLav",
                     "radio",
                     "RadioBrowser",
-                    "station"
+                    "station",
+                    "slash"
                 ],
                 "type": "COG"
             },
@@ -1649,7 +1644,6 @@
                     "music",
                     "media player",
                     "lavalink",
-                    "pylav",
                     "utilities",
                     "PyLav",
                     "management"
