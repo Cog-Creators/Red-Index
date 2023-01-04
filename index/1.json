@@ -15943,7 +15943,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.0.12"
+                    "Py-Lav>=1.0.14"
                 ],
                 "short": "Automatically play music that a guild member is listening to on Spotify.",
                 "tags": [
