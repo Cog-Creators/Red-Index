@@ -4694,6 +4694,32 @@
                     "thisdoesnotexists"
                 ],
                 "type": "COG"
+            },
+            "va11halla": {
+                "author": [
+                    "Albrt#3043"
+                ],
+                "description": "Random quotes from VN \"VA-11 HALL-A: Cyberpunk Bartender Action\"\nVN from quotes may include NSFW (18+) content\nLanguages available: Russian, English",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Quotes from VA-11 HALL-A",
+                "tags": [
+                    "quotes",
+                    "vn",
+                    "va11halla"
+                ],
+                "type": "COG"
             }
         },
         "short": "Exists and Va-11 Hall-a"
