@@ -13988,7 +13988,7 @@
                 "description": "Jishaku ported to Red.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
                 "min_python_version": "",
