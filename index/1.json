@@ -21,7 +21,11 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk",
+                    "dislash.py",
+                    "TagScript"
+                ],
                 "short": "A cog to remove all permissions from a person who deletes a channel!",
                 "tags": [
                     "nuke",
@@ -44,7 +48,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to display the error traceback of a command aomatically after the error!",
                 "tags": [
                     "error",
@@ -67,6 +73,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py",
                     "TagScript"
                 ],
@@ -92,7 +99,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to delete ALL messages of a channel!",
                 "tags": [
                     "cleanup",
@@ -114,7 +123,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to send the result of a command to another channel!",
                 "tags": [
                     "command",
@@ -137,6 +148,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py",
                     "emoji"
                 ],
@@ -161,7 +173,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to list and display the contents of all sub-functions of `ctx`!",
                 "tags": [
                     "ctx",
@@ -184,7 +198,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to edit Discord default objects!",
                 "tags": [
                     "discord",
@@ -208,7 +224,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to use Discord Modals, forms with graphic interface!",
                 "tags": [
                     "discord",
@@ -232,6 +250,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dateparser"
                 ],
                 "short": "A cog to search a message on Discord!",
@@ -256,6 +275,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py"
                 ],
                 "short": "A cog to have dropdowns-texts!",
@@ -279,7 +299,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to get a file and replace it from its path from Discord!",
                 "tags": [
                     "file",
@@ -302,6 +324,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "chat-exporter==1.7.3",
                     "emoji==1.7"
                 ],
@@ -327,6 +350,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "geopy",
                     "basemap",
                     "matplotlib",
@@ -354,6 +378,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "requests"
                 ],
                 "short": "A cog to get the ip address of the bot!",
@@ -377,7 +402,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "This cog will only work on x server and therefore cannot be used by the general public!",
                 "tags": [],
                 "type": ""
@@ -395,7 +422,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to allow a member to choose custom prefixes, just for them!",
                 "tags": [
                     "prefix",
@@ -418,6 +447,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "emoji"
                 ],
                 "short": "A cog to allow a user to execute a command by clicking on a reaction!",
@@ -442,6 +472,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py",
                     "emoji"
                 ],
@@ -466,7 +497,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
                 "tags": [
                     "seen",
@@ -489,6 +522,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py"
                 ],
                 "short": "A cog to collect several sanction actions against a user!",
@@ -515,7 +549,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to allow bot owners to be normal users in terms of permissions!",
                 "tags": [
                     "sudo",
@@ -538,6 +574,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "chat-exporter==1.7.3",
                     "emoji==1.7",
                     "dislash.py"
@@ -563,7 +600,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "sentry_sdk"
+                ],
                 "short": "A cog to transfer all messages channel in a other channel!",
                 "tags": [
                     "command",
@@ -586,6 +625,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "dislash.py",
                     "emoji"
                 ],
