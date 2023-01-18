@@ -18827,6 +18827,84 @@
         },
         "short": "General bot cogs."
     },
+    "https://github.com/raidensakura/raiden-cogs": {
+        "author": [
+            "raidensakura"
+        ],
+        "description": "Contains cogs that I made for fun in the process of learning Python.",
+        "name": "raiden-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "choose": {
+                "author": [
+                    "raidensakura"
+                ],
+                "description": "A better replacement for core `choose` command.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Choose between multiple options",
+                "tags": [
+                    "choose"
+                ],
+                "type": "COG"
+            },
+            "longcat": {
+                "author": [
+                    "raidensakura",
+                    "Aioxas"
+                ],
+                "description": "Send a looooongcat based on how long you typed the command.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "All hail Longcat. Improved from Aioxas' Longcat cog.",
+                "tags": [
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "throw": {
+                "author": [
+                    "raidensakura",
+                    "ow0x"
+                ],
+                "description": "A cog to throw random things at your friends that may or may not upset them. Originally a roleplay cog by owo-cogs, modified by raidensakura.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Throw random stuff at your Discord friends",
+                "tags": [
+                    "throw"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs made by Raiden for Red Discord bot."
+    },
     "https://github.com/retke/Laggrons-Dumb-Cogs": {
         "author": [
             "El Laggron"
