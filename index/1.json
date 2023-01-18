@@ -16086,7 +16086,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "colorgram.py"
+                ],
                 "short": "Display a Go Live stream alert.",
                 "tags": [
                     "discord",
