@@ -1252,7 +1252,7 @@
         "author": [
             "Draper"
         ],
-        "description": "A collection of official cogs using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+        "description": "A collection of official cogs using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
         "name": "PyLav-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -1261,7 +1261,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A full fledged media player using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A full fledged media player using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1299,7 +1299,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A configurator for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A configurator for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1333,7 +1333,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to manage and apply effects to the players.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "Commands to manage and apply effects to the players.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1379,7 +1379,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to interact with local media files.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "Commands to interact with local media files.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1415,7 +1415,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1448,7 +1448,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to configure Pylav's managed node.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "Commands to configure Pylav's managed node.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1482,7 +1482,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A simple cog to migrate all compatible settings from Red's Audio cog to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A simple cog to migrate all compatible settings from Red's Audio cog to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1514,7 +1514,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A collection of node controller commands for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A collection of node controller commands for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1547,7 +1547,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A configurator for the notification system of PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A configurator for the notification system of PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1585,7 +1585,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Playlist expansion to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "Playlist expansion to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1660,7 +1660,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A bunch of utility commands for PyLav cogs.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB",
+                "description": "A bunch of utility commands for PyLav cogs.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav> and <https://crowdin.com/project/pylavcogs>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
