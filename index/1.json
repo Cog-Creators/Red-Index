@@ -15986,7 +15986,7 @@
                 "author": [
                     "jmes"
                 ],
-                "description": "A simple cog to manage .lua scripts for Roblox/FiveM.",
+                "description": "A simple cog to manage .lua script loadstrings for Roblox and/or FiveM.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
