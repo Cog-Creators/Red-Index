@@ -15982,6 +15982,37 @@
                 ],
                 "type": "COG"
             },
+            "scriptmanager": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "A simple cog to manage .lua scripts for Roblox/FiveM.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "json"
+                ],
+                "short": "Script Manager",
+                "tags": [
+                    "roblox",
+                    "fivem",
+                    "lua"
+                ],
+                "type": "COG"
+            },
             "tacoshack": {
                 "author": [
                     "jmes"
