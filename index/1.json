@@ -17226,38 +17226,6 @@
                 ],
                 "type": "COG"
             },
-            "onconnect": {
-                "author": [
-                    "max"
-                ],
-                "description": "On connect is a shard event cog that shows on ready, disconnect and resume.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "3.4.99",
-                "min_bot_version": "3.4.6",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links",
-                    "add_reactions"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "psutil"
-                ],
-                "short": "Shard events cog that shows on ready, disconnect and resume.",
-                "tags": [
-                    "shard",
-                    "reconnect",
-                    "disconnect",
-                    "on_ready"
-                ],
-                "type": "COG"
-            },
             "veryfun": {
                 "author": [
                     "max"
