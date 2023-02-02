@@ -10752,7 +10752,7 @@
                     "inflect==6.0.0",
                     "requests",
                     "numpy",
-                    "openai>=23.0"
+                    "openai>=0.26.4"
                 ],
                 "short": "chatGPT",
                 "tags": [
