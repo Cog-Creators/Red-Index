@@ -1329,6 +1329,42 @@
                 ],
                 "type": "COG"
             },
+            "plcontroller": {
+                "author": [
+                    "Draper"
+                ],
+                "description": "A hydra like controller for the PyLav player.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/Drapersniper/PyLav> (<https://github.com/Drapersniper/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0.dev306",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.4.0<1.5"
+                ],
+                "short": "A media player cog",
+                "tags": [
+                    "audio",
+                    "music",
+                    "spotify",
+                    "media player",
+                    "lavalink",
+                    "PyLav",
+                    "hydra",
+                    "channel",
+                    "player"
+                ],
+                "type": "COG"
+            },
             "pleffects": {
                 "author": [
                     "Draper"
