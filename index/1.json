@@ -16582,51 +16582,6 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
-            "advanceduptime": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "An authentic looking uptime message.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bot uptime, customised.",
-                "tags": [
-                    "Uptime"
-                ],
-                "type": "COG"
-            },
-            "alphanato": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get the names of the NATO phonetics through easy-to-use syntax.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get the names of the NATO phonetics through easy-to-use syntax.",
-                "tags": [
-                    "Alpha",
-                    "Bravo",
-                    "Charlie",
-                    "Alphabet",
-                    "NATO",
-                    "ABC"
-                ],
-                "type": "COG"
-            },
             "blackformatter": {
                 "author": [
                     "Kreusada"
@@ -16693,27 +16648,6 @@
                 ],
                 "type": "COG"
             },
-            "dehoister": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Detect hoisted usernames and change their nicknames as a result. A variety of tools to 'protect' your guild from hoisted users. Features include automatic dehoisting of usernames into configured nicknames, scanning against hoisted users, changing all hoisted display names at once, and more.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Detect hoisted usernames and change their nicknames as a result.",
-                "tags": [
-                    "Hoist",
-                    "Nickname"
-                ],
-                "type": "COG"
-            },
             "flags": {
                 "author": [
                     "Kreusada"
@@ -16736,31 +16670,6 @@
                     "World",
                     "Country",
                     "Countries"
-                ],
-                "type": "COG"
-            },
-            "inverter": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Invert images and avatars.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow"
-                ],
-                "short": "Invert images and avatars.",
-                "tags": [
-                    "Invert",
-                    "Images",
-                    "PIL",
-                    "Avatars"
                 ],
                 "type": "COG"
             },
@@ -16788,30 +16697,6 @@
                 ],
                 "type": "COG"
             },
-            "namegenerator": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Generate a random name.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "names"
-                ],
-                "short": "Name generator",
-                "tags": [
-                    "Name",
-                    "Random",
-                    "Generator"
-                ],
-                "type": "COG"
-            },
             "onthisday": {
                 "author": [
                     "Kreusada"
@@ -16835,50 +16720,6 @@
                     "Year",
                     "Time",
                     "Date"
-                ],
-                "type": "COG"
-            },
-            "ordinal": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get ordinal digits and characters easily.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get ordinal digits and characters easily. (ord(), chr())",
-                "tags": [
-                    "Ord",
-                    "Chr",
-                    "Unicode"
-                ],
-                "type": "COG"
-            },
-            "pingoverride": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Override the default ping response with a custom message.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Custom ping response.",
-                "tags": [
-                    "Ping",
-                    "Pong",
-                    "Custom"
                 ],
                 "type": "COG"
             },
@@ -16954,29 +16795,6 @@
                 ],
                 "type": "COG"
             },
-            "raffle": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Create raffles for your guild, customizable with conditional blocks, and constructed using YAML.",
-                "tags": [
-                    "Raffle",
-                    "Giveaway",
-                    "Fun",
-                    "Prizes"
-                ],
-                "type": "COG"
-            },
             "roleboards": {
                 "author": [
                     "Kreusada"
@@ -16998,56 +16816,6 @@
                     "Users",
                     "Most",
                     "Leaderboards"
-                ],
-                "type": "COG"
-            },
-            "rpsls": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Play rock, paper, scissors, lizard, spock. For those who are unfamiliar with this game, there is a small diagram here which could be useful: https://static.wikia.nocookie.net/bigbangtheory/images/7/7d/RPSLS.png/revision/latest?cb=20120822205915",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Play rock, paper, scissors, lizard, spock.",
-                "tags": [
-                    "RPS",
-                    "Rock",
-                    "Paper",
-                    "Scissors",
-                    "Lizard",
-                    "Spock",
-                    "General",
-                    "Game",
-                    "Fun"
-                ],
-                "type": "COG"
-            },
-            "staff": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Alert staff for inconspicuous activity.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Alert the staff.",
-                "tags": [
-                    "Staff",
-                    "Alert",
-                    "Moderation"
                 ],
                 "type": "COG"
             },
@@ -17120,31 +16888,6 @@
                 ],
                 "type": "COG"
             },
-            "vinfo": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "Get version information for third-party cogs, or installed dependencies/modules.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "stdlib_list"
-                ],
-                "short": "Get version information for third-party cogs, or installed dependencies/modules.",
-                "tags": [
-                    "Module",
-                    "Cog",
-                    "Version",
-                    "Info"
-                ],
-                "type": "COG"
-            },
             "wordbase": {
                 "author": [
                     "Kreusada"
@@ -17167,29 +16910,6 @@
                     "Consonants",
                     "Homophones",
                     "Triggers"
-                ],
-                "type": "COG"
-            },
-            "yamlscanner": {
-                "author": [
-                    "Kreusada"
-                ],
-                "description": "An easy and quick tool to validate yaml.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "An easy and quick tool to validate yaml.",
-                "tags": [
-                    "YAML",
-                    "Scanner",
-                    "Validator",
-                    "File"
                 ],
                 "type": "COG"
             }
