@@ -10740,274 +10740,6 @@
         },
         "short": "A bunch of useless cogs"
     },
-    "https://github.com/batman202012/tpun": {
-        "author": [
-            "Nado#6969"
-        ],
-        "description": "Just some quality of life setup cogs I made for myself. Ask for any added features on github and I will try to work them in.",
-        "name": "tpun",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "boostertools": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for managing boosters when they start boosting and after they stop",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or meta-data about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "boostertools",
-                "tags": [
-                    "booster",
-                    "roles",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "chatGPT": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog that allows a user to communicate with chatGPT",
-                "disabled": false,
-                "end_user_data_statement": "This cog does persistently store data or meta-data about users. This is required to keep continuity between users and the bot, it is also used in storing responses >2000 characters to send to the user.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "inflect==6.0.0",
-                    "requests",
-                    "numpy",
-                    "openai>=0.26.4"
-                ],
-                "short": "chatGPT",
-                "tags": [
-                    "job",
-                    "work",
-                    "occupations",
-                    "economy",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "occupations": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog that adds Occupations that server members can choose from a job board. Members earn money based on their job by spending time in vc",
-                "disabled": false,
-                "end_user_data_statement": "This cog does persistently store data or meta-data about users, it stores members id's for keeping track of their current occupation",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "inflect==6.0.0",
-                    "requests"
-                ],
-                "short": "Occupations",
-                "tags": [
-                    "job",
-                    "work",
-                    "occupations",
-                    "economy",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "pingeveryone": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog just to ping everyone with the bot",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or meta-data about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "pingeveryone",
-                "tags": [
-                    "Everyone",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "pvc": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for creating and managing private voice channels",
-                "disabled": false,
-                "end_user_data_statement": "This cog does persistently storedata or metadata about users. It stores the user's id to keep track of the channels the user owns.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "pvc",
-                "tags": [
-                    "private",
-                    "voice",
-                    "channel",
-                    "channels",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "rep": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for give users +1 rep anytime they get thanks",
-                "disabled": false,
-                "end_user_data_statement": "This cog does persistently store data about users. It uses stores the user's id in a file along with the amount of rep they have.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "TPUN Reputation cog",
-                "tags": [
-                    "Reputation",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "rolebuy": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "TPUN Cog for buying roles and setting role prices",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "rolebuy",
-                "tags": [
-                    "Role shop",
-                    "shop",
-                    "tpun"
-                ],
-                "type": "COG"
-            },
-            "serverhud": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic Cog for creating and customizing server info channels",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "serverhud",
-                "tags": [
-                    "hud",
-                    "info",
-                    "channels",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "timedping": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for preventing mass pings such as vc ping or chat ping",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "TPUN Timed Ping cog",
-                "tags": [
-                    "Pings",
-                    "Tpun",
-                    "Moderation"
-                ],
-                "type": "COG"
-            },
-            "usergate": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for preventing new accounts from joining server",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "usergate",
-                "tags": [
-                    "Usergate",
-                    "Tpun"
-                ],
-                "type": "COG"
-            },
-            "verifier": {
-                "author": [
-                    "Nado"
-                ],
-                "description": "Team Punistic red cog for age verifying users as gender roles",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "verifier",
-                "tags": [
-                    "verify",
-                    "age",
-                    "gender",
-                    "role",
-                    "Tpun"
-                ],
-                "type": "COG"
-            }
-        },
-        "short": "Just some quality of life setup cogs I made for myself."
-    },
     "https://github.com/bobloy/Fox-V3": {
         "author": [
             "Bobloy"
@@ -16048,6 +15780,38 @@
                 "tags": [
                     "pexels",
                     "pypexels"
+                ],
+                "type": "COG"
+            },
+            "scriptmanager": {
+                "author": [
+                    "jmes"
+                ],
+                "description": "A simple cog to manage .lua script loadstrings for Roblox and/or FiveM.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.1.8",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "json"
+                ],
+                "short": "Script Manager",
+                "tags": [
+                    "roblox",
+                    "fivem",
+                    "lua"
                 ],
                 "type": "COG"
             },
