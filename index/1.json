@@ -18924,7 +18924,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "humanize"
+                ],
                 "short": "manage cooldowns",
                 "tags": [
                     "mod",
