@@ -341,7 +341,7 @@
                     "AAA3A",
                     "amurinbot"
                 ],
-                "description": "A cog to get and display Sphinx docs.",
+                "description": "A cog to get and display Sphinx docs. Only `discord.py` for the moment.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
