@@ -21132,7 +21132,8 @@
                     "utility",
                     "economy",
                     "daily",
-                    "payday"
+                    "payday",
+                    "freecredits"
                 ],
                 "type": ""
             },
