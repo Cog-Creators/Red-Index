@@ -341,22 +341,21 @@
                     "AAA3A",
                     "amurinbot"
                 ],
-                "description": "A cog to get and display Sphinx docs. Only `discord.py` for the moment.",
+                "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `request`, `asyncpg` and `pillow` for the moment.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0.dev1",
+                "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "playwright",
                     "sphobjinv",
                     "humanfriendly",
                     "sentry_sdk"
                 ],
-                "short": "A cog to get and display Sphinx docs!",
+                "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `request`, `asyncpg` and `pillow` for the moment.",
                 "tags": [
                     "dpy",
                     "python",
