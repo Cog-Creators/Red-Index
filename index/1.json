@@ -338,8 +338,8 @@
             },
             "getdocs": {
                 "author": [
-                    "AAA3A",
-                    "amurinbot"
+                    "amyrinbot",
+                    "AAA3A"
                 ],
                 "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `request`, `asyncpg` and `pillow` for the moment.",
                 "disabled": false,
