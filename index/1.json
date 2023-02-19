@@ -341,7 +341,7 @@
                     "amyrinbot",
                     "AAA3A"
                 ],
-                "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `request`, `asyncpg` and `pillow` for the moment.",
+                "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -355,7 +355,7 @@
                     "humanfriendly",
                     "sentry_sdk"
                 ],
-                "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `request`, `asyncpg` and `pillow` for the moment.",
+                "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
                 "tags": [
                     "dpy",
                     "python",
