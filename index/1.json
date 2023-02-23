@@ -199,7 +199,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "sentry_sdk",
+                    "emoji"
                 ],
                 "short": "A cog to edit Discord default objects!",
                 "tags": [
@@ -338,10 +339,10 @@
             },
             "getdocs": {
                 "author": [
-                    "amyrinbot",
-                    "AAA3A"
+                    "AAA3A",
+                    "amyrinbot"
                 ],
-                "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
+                "description": "A cog to get and display Sphinx docs. Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `slashtags` (cog by Phen for Red), `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -351,11 +352,11 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "sentry_sdk",
                     "sphobjinv",
-                    "humanfriendly",
-                    "sentry_sdk"
+                    "humanfriendly"
                 ],
-                "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
+                "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `slashtags` (cog by Phen for Red), `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
                 "tags": [
                     "dpy",
                     "python",
