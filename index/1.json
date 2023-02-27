@@ -354,7 +354,8 @@
                 "requirements": [
                     "sentry_sdk",
                     "sphobjinv",
-                    "humanfriendly"
+                    "humanfriendly",
+                    "bs4"
                 ],
                 "short": "A cog to get and display Sphinx docs! Only `discord.py`, `redbot`, `python`, `aiohttp`, `requests`, `slashtags` (cog by Phen for Red), `psutil`, `pillow`, `numpy`, `matplotlib`, `asyncpg`, `sqlite`, `websockets`, `mango`, `redis`, `aiomysql`, `flask`, `motor`, `sphinx` and `starlite`.",
                 "tags": [
