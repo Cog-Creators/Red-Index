@@ -1281,7 +1281,7 @@
         "author": [
             "Draper"
         ],
-        "description": "A collection of official cogs using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+        "description": "A collection of official cogs using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
         "name": "PyLav-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -1290,7 +1290,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A full fledged media player using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A full fledged media player using the PyLav framework.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1306,7 +1306,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1352,7 +1352,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A configurator for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A configurator for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1368,7 +1368,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Configure PyLav's global settings.",
                 "tags": [
@@ -1386,7 +1386,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A hydra like controller for the PyLav player.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A hydra like controller for the PyLav player.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1402,7 +1402,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1422,7 +1422,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to manage and apply effects to the players.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "Commands to manage and apply effects to the players.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1438,7 +1438,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Commands to manage and apply effects to the players.",
                 "tags": [
@@ -1468,7 +1468,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to interact with local media files.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "Commands to interact with local media files.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1484,7 +1484,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Commands to interact with local media files.",
                 "tags": [
@@ -1504,7 +1504,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1520,7 +1520,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Commands to interact with track lyrics.",
                 "tags": [
@@ -1537,7 +1537,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Commands to configure Pylav's managed node.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "Commands to configure Pylav's managed node.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1553,7 +1553,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Commands to configure Pylav's managed node.",
                 "tags": [
@@ -1571,7 +1571,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A simple cog to migrate all compatible settings from Red's Audio cog to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A simple cog to migrate all compatible settings from Red's Audio cog to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1585,7 +1585,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Convert your Audio settings to PyLav.",
                 "tags": [
@@ -1603,7 +1603,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A collection of node controller commands for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A collection of node controller commands for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1619,7 +1619,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "A collection of node controller commands for PyLav.",
                 "tags": [
@@ -1636,7 +1636,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A configurator for the notification system of PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A configurator for the notification system of PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1652,7 +1652,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Configure PyLav's notifications.",
                 "tags": [
@@ -1674,7 +1674,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "Playlist expansion to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "Playlist expansion to PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1690,7 +1690,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Control Playlists from PyLav",
                 "tags": [
@@ -1729,7 +1729,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "Apply some equalizer presets to the PyLav player.",
                 "tags": [
@@ -1749,7 +1749,7 @@
                 "author": [
                     "Draper"
                 ],
-                "description": "A bunch of utility commands for PyLav cogs.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/Sjh2TSCYQB\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
+                "description": "A bunch of utility commands for PyLav cogs.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
                 "disabled": false,
                 "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
                 "hidden": false,
@@ -1765,7 +1765,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.8.5<1.9"
+                    "Py-Lav>=1.8.6<1.9"
                 ],
                 "short": "A bunch of utility commands for PyLav cogs.",
                 "tags": [
