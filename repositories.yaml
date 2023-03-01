@@ -87,6 +87,7 @@ unapproved:
   - https://github.com/orchidalloy/crab-cogs
   - https://github.com/Drapersniper/PyLav-Cogs
   - https://github.com/raidensakura/raiden-cogs
+  - https://github.com/rushhee/cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
