@@ -15,7 +15,7 @@
                 "description": "Have you ever dreamed of preventing a nuke by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you! Personally, I would advise you to set your permissions, rather than trusting this cog. Trust those who have them.",
                 "disabled": false,
                 "end_user_data_statement": "This cog records the number of times the user has performed an action that may be considered dangerous (e.g. deleting a channel).",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
