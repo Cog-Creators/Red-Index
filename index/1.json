@@ -518,6 +518,32 @@
                 ],
                 "type": ""
             },
+            "runcode": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to compile and run codes in some languages!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. Please note: all the code you run is stored on the wandbox.org server, even if you need a code to access it. To my knowledge, there is no way to request a deletion.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "sentry_sdk",
+                    "humanfriendly",
+                    "fuzzywuzzy"
+                ],
+                "short": "A cog to compile and run codes in some languages!",
+                "tags": [
+                    "dev",
+                    "code",
+                    "compiler"
+                ],
+                "type": ""
+            },
             "seen": {
                 "author": [
                     "AAA3A"
