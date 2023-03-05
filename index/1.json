@@ -7338,6 +7338,82 @@
         },
         "short": "Cogs from Sharky"
     },
+    "https://github.com/Skylark95/skylark95-cogs": {
+        "author": [
+            "Skylark95"
+        ],
+        "description": "Cogs by Skylark95. A collection of my personal cogs for use with Red-DiscordBot.",
+        "name": "skylark95-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "chatgpt": {
+                "author": [
+                    "Skylark95"
+                ],
+                "description": "Send messages to ChatGPT",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. However, this cog does pass user data to an external API for the purposes of simulated conversation responses.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Send messages to ChatGPT",
+                "tags": [
+                    "chatgpt",
+                    "openai"
+                ],
+                "type": "COG"
+            },
+            "dnd": {
+                "author": [
+                    "Skylark95"
+                ],
+                "description": "Interact with dnd5eapi.co",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Interact with dnd5eapi.co",
+                "tags": [
+                    "dnd",
+                    "5e"
+                ],
+                "type": "COG"
+            },
+            "wingspan": {
+                "author": [
+                    "Skylark95"
+                ],
+                "description": "Wingspan game related commands",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Wingspan game related commands",
+                "tags": [
+                    "wingspan"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs by Skylark95."
+    },
     "https://github.com/TheWyn/Wyn-RedV3Cogs": {
         "author": [
             "Wyn"
