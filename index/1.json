@@ -15,7 +15,7 @@
                 "description": "Have you ever dreamed of preventing a nuke by automatically removing all the permissions of someone who removes a channel from your server? Then this cog is for you! Personally, I would advise you to set your permissions, rather than trusting this cog. Trust those who have them.",
                 "disabled": false,
                 "end_user_data_statement": "This cog records the number of times the user has performed an action that may be considered dangerous (e.g. deleting a channel).",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -672,6 +672,42 @@
             }
         },
         "short": "Several cogs for the redbot!"
+    },
+    "https://github.com/CalaMariGold/CalaMari-Cogs": {
+        "author": [
+            "CalaMariGold (CalaMariGold \u30de\u30ea#1998)"
+        ],
+        "description": "Assortment of Red v3 cogs created for my Discord bot, Baa",
+        "name": "CalaMari-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "chatgpt": {
+                "author": [
+                    "CalaMariGold (CalaMariGold \u30de\u30ea#1998)"
+                ],
+                "description": "Chat with your bot using ChatGPT!",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the content of messages that mention or reply to the bot for use of ChatGPT being able to retain conversation history.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Chat with your bot using ChatGPT!",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Assortment of Red v3 cogs created for my Discord bot, Baa"
     },
     "https://github.com/Church13/YeahCogs": {
         "author": [
