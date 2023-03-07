@@ -12000,6 +12000,35 @@
                     "search engine"
                 ],
                 "type": ""
+            },
+            "zidian": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Chinese dictionary bot. Can search Chinese characters, Pinyin, and English. Fetches results locally from saved dictionaries. Uses CC-CEDICT.\n\nInspired by Pleco and Jisho.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
+                "short": "Chinese dictionary bot",
+                "tags": [
+                    "dictionary",
+                    "chinese",
+                    "zhongwen",
+                    "\u4e2d\u6587",
+                    "\u6c49\u8bed",
+                    "\u5b57\u5178",
+                    "\u8bcd\u5178"
+                ],
+                "type": ""
             }
         },
         "short": "Special cogs offering deeper Discord integration with features and services"
