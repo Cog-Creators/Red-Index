@@ -725,7 +725,9 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "openai"
+                ],
                 "short": "Chat with your bot using ChatGPT!",
                 "tags": [
                     "utility"
