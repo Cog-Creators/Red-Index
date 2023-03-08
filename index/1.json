@@ -21738,6 +21738,78 @@
         },
         "short": "Only the fluffiest of cogs go here."
     },
+    "https://github.com/zhaobenny/bz_cogs": {
+        "author": [
+            "zhaobenny"
+        ],
+        "description": "random, niche, non-user friendly, and duct tapped together cogs",
+        "name": "bz_cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "ai_user": {
+                "author": [
+                    "zhaobenny"
+                ],
+                "description": "AI user powered by OpenAI, replies randomly to messages in a cynical manner and can read text from images to reply to. (Requires OpenAI API key and Tessaract OCR install)",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai",
+                    "pytesseract"
+                ],
+                "short": "AI user powered by OpenAI",
+                "tags": [],
+                "type": ""
+            },
+            "lifx_light": {
+                "author": [
+                    "zhaobenny"
+                ],
+                "description": "Control a single Lifx light",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "asyncio"
+                ],
+                "short": "Control a single Lifx light",
+                "tags": [],
+                "type": ""
+            },
+            "oneletteronly": {
+                "author": [
+                    "zhaobenny"
+                ],
+                "description": "Change new user's nickname to the first initals of their username",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Set new user's nicknames to initals of their username",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "random niche cogs"
+    },
     "https://gitlab.com/CrunchBangDev/cbd-cogs": {
         "author": [
             "CrunchBangDev"
