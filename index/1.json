@@ -21751,9 +21751,9 @@
                 "author": [
                     "zhaobenny"
                 ],
-                "description": "AI user powered by OpenAI, replies randomly to messages in a cynical manner and can read text from images to reply to. (Requires OpenAI API key and Tessaract OCR install)",
+                "description": "Utilize OpenAI to reply randomly to messages (or images) in a cynical tone.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users but messages will be sent to OpenAI to generate responses.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -21764,8 +21764,12 @@
                     "openai",
                     "pytesseract"
                 ],
-                "short": "AI user powered by OpenAI",
-                "tags": [],
+                "short": "Random replies powered by OpenAI",
+                "tags": [
+                    "openai",
+                    "chatgpt",
+                    "ai"
+                ],
                 "type": ""
             },
             "lifx_light": {
