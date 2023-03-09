@@ -21762,7 +21762,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "openai",
-                    "pytesseract"
+                    "pytesseract",
+                    "transformers[torch]"
                 ],
                 "short": "Random replies powered by OpenAI",
                 "tags": [
