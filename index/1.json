@@ -21774,7 +21774,7 @@
                 "author": [
                     "zhaobenny"
                 ],
-                "description": "Utilize OpenAI to reply randomly to messages (or images) in a cynical tone.",
+                "description": "Utilize OpenAI to reply randomly to messages (or images).",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users but messages will be sent to OpenAI to generate responses.",
                 "hidden": false,
