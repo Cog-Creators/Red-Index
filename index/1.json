@@ -16011,7 +16011,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aioschedule"
+                ],
                 "short": "TacoShack Classic for Red DiscordBot",
                 "tags": [
                     "tacoshack",
