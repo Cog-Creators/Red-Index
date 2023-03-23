@@ -919,6 +919,159 @@
         },
         "short": "Fun and utility cogs"
     },
+    "https://github.com/DJTOMATO/glas-cogs": {
+        "author": [
+            "Glas"
+        ],
+        "description": "Silly cogs nobody would use.",
+        "name": "glas-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "fire": {
+                "author": [
+                    "TrustyJaid",
+                    "Glas"
+                ],
+                "description": "Generates a random firework from an API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates a random firework.",
+                "tags": [
+                    "image",
+                    "firework",
+                    "gif"
+                ],
+                "type": "COG"
+            },
+            "movietar": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Inserts avatar into several videos.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "moviepy",
+                    "rapidfuzz"
+                ],
+                "short": "Video + Avatar.",
+                "tags": [
+                    "video",
+                    "avatar",
+                    "bad-meme"
+                ],
+                "type": "COG"
+            },
+            "nohugs": {
+                "author": [
+                    "Aikaterna"
+                ],
+                "description": "Disables General Cog hug command so hugs from RolePlay cog can be used easily",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Disables General Cog hug command.",
+                "tags": [
+                    "general"
+                ],
+                "type": "COG"
+            },
+            "ogey": {
+                "author": [
+                    "Kuro",
+                    "Glas"
+                ],
+                "description": "Generates a random Ogey image from an API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates a random Ogey image.",
+                "tags": [
+                    "image",
+                    "ogey",
+                    "rrat",
+                    "usada pekora"
+                ],
+                "type": "COG"
+            },
+            "pfpimgen": {
+                "author": [
+                    "PhenoM4n4n",
+                    "Glas"
+                ],
+                "description": "Make images from avatars! Forked from PhenoM4n4n",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "unidecode",
+                    "rapidfuzz"
+                ],
+                "short": "Make images from avatars!",
+                "tags": [
+                    "image"
+                ],
+                "type": "COG"
+            },
+            "watamelon": {
+                "author": [
+                    "Kuro",
+                    "Glas"
+                ],
+                "description": "Generates a random Watamelon image from an API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates a random Watamelon image.",
+                "tags": [
+                    "image",
+                    "watamelon",
+                    "watame",
+                    "tsunomaki watame"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Silly cogs nobody would use."
+    },
     "https://github.com/Dav-Git/Dav-Cogs": {
         "author": [
             "Dav"
