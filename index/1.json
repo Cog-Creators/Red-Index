@@ -1084,8 +1084,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "Pillow",
-                    "unidecode",
-                    "rapidfuzz"
+                    "unidecode"
                 ],
                 "short": "Steal a!",
                 "tags": [
