@@ -1069,14 +1069,14 @@
                 ],
                 "type": "COG"
             },
-            "youwoulnt": {
+            "youwouldnt": {
                 "author": [
                     "Glas"
                 ],
                 "description": "Make a image based on the classic meme",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.3.10",
                 "min_python_version": "",
