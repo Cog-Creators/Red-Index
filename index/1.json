@@ -21852,7 +21852,7 @@
         "author": [
             "zhaobenny"
         ],
-        "description": "random, niche, non-user friendly, and duct tapped together cogs",
+        "description": "random, niche, non-user friendly, and duct taped together cogs",
         "name": "bz_cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -21896,10 +21896,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "aiohttp",
-                    "asyncio"
-                ],
+                "requirements": [],
                 "short": "Control a single Lifx light",
                 "tags": [],
                 "type": ""
