@@ -1074,7 +1074,7 @@
                     "Glas"
                 ],
                 "description": "Make a image based on the classic meme",
-                "disabled": true,
+                "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "",
