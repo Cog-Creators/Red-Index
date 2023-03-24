@@ -1069,6 +1069,30 @@
                 ],
                 "type": "COG"
             },
+            "weeedcog": {
+                "author": [
+                    "luna"
+                ],
+                "description": "Creates comics with random characters using a string of messages from a channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Create comics from channel messages",
+                "tags": [],
+                "type": ""
+            },
             "youwouldnt": {
                 "author": [
                     "Glas"
