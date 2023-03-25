@@ -471,7 +471,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to play to Memory game, with buttons!",
+                "description": "A cog to play to Memory game, with buttons, leaderboard and Red bank!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -481,9 +481,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "sentry_sdk",
+                    "tabulate"
                 ],
-                "short": "A cog to play to Memory game, with buttons!",
+                "short": "A cog to play to Memory game, with buttons, leaderboard and Red bank!",
                 "tags": [
                     "memory",
                     "game"
