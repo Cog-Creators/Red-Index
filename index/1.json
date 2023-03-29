@@ -16346,6 +16346,26 @@
                 ],
                 "type": "COG"
             },
+            "silentreplier": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Have the bot silently respond to commands which have been prefixed with @silent",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.5.0.dev329",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Have the bot silently respond to commands which have been prefixed with @silent",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "warcraftlogsretail": {
                 "author": [
                     "aikaterna",
