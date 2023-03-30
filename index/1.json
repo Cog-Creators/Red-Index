@@ -3965,6 +3965,40 @@
         },
         "short": "Silly (and sometimes useful) cogs by Jojo"
     },
+    "https://github.com/Khapra/Khapra-Cogs": {
+        "author": [
+            "Khapra"
+        ],
+        "description": "Useful commands and functions for your bot.",
+        "name": "Khapra-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "RoleMemberLimit": {
+                "author": "Khapra",
+                "description": "A cog for limiting the maximum number of members per role in a server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": [],
+                "requirements": [],
+                "short": "Member limits per role",
+                "tags": [
+                    "role",
+                    "limit",
+                    "member"
+                ],
+                "type": "utility"
+            }
+        },
+        "short": "Cogs by Khapra."
+    },
     "https://github.com/Kowlin/Sentinel": {
         "author": [
             "Kowlin#2536"
