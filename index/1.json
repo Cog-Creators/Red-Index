@@ -400,7 +400,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to get the ip address of the bot!",
+                "description": "A cog to get the ip address of the bot's host machine!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -413,7 +413,7 @@
                     "sentry_sdk",
                     "requests"
                 ],
-                "short": "A cog to get the ip address of the bot!",
+                "short": "A cog to get the ip adress of the bot's host machine!",
                 "tags": [
                     "ip",
                     "host",
