@@ -19190,7 +19190,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate"
+                ],
                 "short": "",
                 "tags": [],
                 "type": ""
