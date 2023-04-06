@@ -16472,7 +16472,8 @@
                     "Pillow",
                     "aiowowapi==2.1.4",
                     "git+https://github.com/karlsbjorn/raiderio-async.git@v1.1.1",
-                    "dictdiffer"
+                    "dictdiffer",
+                    "rapidfuzz"
                 ],
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
