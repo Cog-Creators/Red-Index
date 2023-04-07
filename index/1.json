@@ -19099,6 +19099,27 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "acromania": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "Acronym game is a fun and engaging word game where players take turns creating a phrase or sentence from a series of letters, with each letter representing a word in the phrase.\nAnd now it's available on your discord\nEnjoy!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Acronym",
+                "tags": [
+                    "game",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "devlogs": {
                 "author": [
                     "sravan"
