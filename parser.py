@@ -1,9 +1,14 @@
-import yaml
+import os
 import sys
 from hashlib import sha1
 from pathlib import Path
 
+import yaml
+
 CACHE = Path("cache")
+
+def executable_opener(path, flags):
+    return os.open(path, flags, 0o755)
 
 def sha1_digest(url):
     return sha1(url.encode('utf-8')).hexdigest()
@@ -23,7 +28,7 @@ if __name__ == "__main__":
     with open(infile) as f:
         data = yaml.safe_load(f.read())
 
-    sh = ""
+    sh = "mkdir -p cache\n"
 
     repos = []
 
@@ -43,5 +48,5 @@ if __name__ == "__main__":
             dest = CACHE / Path(sha)
             sh += f"./git-retry.sh clone --depth=1 {url} {dest}\n"
 
-    with open(outfile, "w") as f:
+    with open(outfile, "w", opener=executable_opener) as f:
         f.write(sh)

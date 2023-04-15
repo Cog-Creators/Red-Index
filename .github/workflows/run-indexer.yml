@@ -22,14 +22,11 @@ jobs:
         python-version: 3.8
     - name: Create bash file for cloning
       run: |
-        mkdir cache
-        python -m pip install pyyaml
-        python parser.py repositories.yaml clonerepos.sh
-        chmod +x clonerepos.sh git-retry.sh
+        make clonerepos.sh
     - name: Clone repos
-      run: ./clonerepos.sh
+      run: make clone
     - name: Run indexer
-      run: python indexer.py repositories.yaml
+      run: make index
     - name: Commit files
       continue-on-error: true # No changes = Failure
       run: |
