@@ -663,7 +663,7 @@
                     "emoji==1.7",
                     "dislash.py"
                 ],
-                "short": "A cog to manage a ticket system!",
+                "short": "A cog to manage a tickets system!",
                 "tags": [
                     "ticket",
                     "tool",
