@@ -10687,7 +10687,8 @@
                 "requirements": [
                     "bs4",
                     "feedparser>=6.0.0",
-                    "webcolors==1.3"
+                    "webcolors==1.3",
+                    "filetype"
                 ],
                 "short": "Read RSS feeds.",
                 "tags": [
