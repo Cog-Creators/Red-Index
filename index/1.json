@@ -18129,29 +18129,6 @@
                     "gaming"
                 ],
                 "type": ""
-            },
-            "tweets": {
-                "author": [
-                    "palmtree5"
-                ],
-                "description": "Gets public information from Twitter's api",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "peony-twitter[all]"
-                ],
-                "short": "Cog for getting info from Twitter",
-                "tags": [
-                    "twitter",
-                    "utility"
-                ],
-                "type": ""
             }
         },
         "short": "Various cogs"
