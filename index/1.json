@@ -20577,6 +20577,43 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "assistant": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Chat GPT cog with configurable prompt injection",
+                "disabled": false,
+                "end_user_data_statement": "This cog doesn't store data about users",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev0",
+                "min_python_version": "",
+                "permissions": [
+                    "read_messages",
+                    "send_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "openai",
+                    "aiocache",
+                    "ujson",
+                    "msgpack",
+                    "aiohttp",
+                    "pydantic",
+                    "orjson"
+                ],
+                "short": "Another GPT Cog",
+                "tags": [
+                    "utility",
+                    "assistant",
+                    "gpt",
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "chat-gpt"
+                ],
+                "type": "COG"
+            },
             "autodocs": {
                 "author": [
                     "Vertyco"
