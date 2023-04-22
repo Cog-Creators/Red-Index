@@ -3479,7 +3479,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Injabie3/yourls-python.git"
+                    "git+https://github.com/Injabie3/yourls-python.git@1.2.3"
                 ],
                 "short": "Manage your YOURLS instance from Discord!",
                 "tags": [
