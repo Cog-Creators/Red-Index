@@ -21991,7 +21991,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai"
+                    "openai",
+                    "tenacity"
                 ],
                 "short": "Random replies powered by OpenAI",
                 "tags": [
