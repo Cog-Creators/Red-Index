@@ -3,7 +3,7 @@
         "author": [
             "AAA3A"
         ],
-        "description": "Several cogs adding functionality to the redbot!",
+        "description": "Many cogs for Red-DiscordBot!",
         "name": "AAA3A-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -721,7 +721,7 @@
                 "type": ""
             }
         },
-        "short": "Several cogs for the redbot!"
+        "short": "Many cogs for Red-DiscordBot!"
     },
     "https://github.com/CalaMariGold/CalaMari-Cogs": {
         "author": [
