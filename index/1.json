@@ -17848,7 +17848,7 @@
                 "description": "Simulates Genshin Impact gacha pulls.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs to keep track of your inventory.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.0.0",
                 "min_python_version": "",
@@ -17864,6 +17864,32 @@
                     "genshin",
                     "impact",
                     "random"
+                ],
+                "type": ""
+            },
+            "promptinspector": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Scans images for AI generation info and lets the user view it with a reaction or an application command.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Scans images for AI generation info.",
+                "tags": [
+                    "crab",
+                    "message",
+                    "scan",
+                    "ai",
+                    "image"
                 ],
                 "type": ""
             },
