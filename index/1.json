@@ -17867,6 +17867,31 @@
                 ],
                 "type": ""
             },
+            "imagelog": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Logs deleted images for moderation purposes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Logs deleted images for moderation purposes.",
+                "tags": [
+                    "crab",
+                    "message",
+                    "scan",
+                    "log",
+                    "image",
+                    "moderation"
+                ],
+                "type": ""
+            },
             "promptinspector": {
                 "author": [
                     "OrchidAlloy"
@@ -17939,6 +17964,29 @@
                     "simulator",
                     "markov",
                     "friends"
+                ],
+                "type": ""
+            },
+            "voicelog": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Logs users joining and leaving a VC, inside the VC chat itself.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Logs users joining and leaving a VC, inside the VC chat itself.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "log",
+                    "moderation"
                 ],
                 "type": ""
             }
