@@ -6571,8 +6571,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -6598,8 +6602,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.8",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6620,8 +6628,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6641,8 +6653,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -6664,8 +6680,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6689,8 +6709,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -6712,8 +6736,12 @@
                 "end_user_data_statement": "This cog stores Discord IDs along with a karma value based on total upvotes and downvotes on the users messages. Users may reset/remove their own karma total by making a data removal request.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6738,8 +6766,12 @@
                 "end_user_data_statement": "This cog stores data provided by users for the express purpose of re-displaying. It does not store user data which was not provided through a command. Users may delete their own data with or without making a data request.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.13",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -6763,8 +6795,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6784,8 +6820,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -6804,8 +6844,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -17750,11 +17794,35 @@
                 ],
                 "type": ""
             },
+            "easytranslate": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Translate messages using Google Translate for free. Supports context menu commands with slashtags:\n  [p]st global message \"Translate\" {c:translateslash {message} {hide}}",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Translate messages using Google Translate for free.",
+                "tags": [
+                    "crab",
+                    "useful",
+                    "translate",
+                    "translation",
+                    "slash"
+                ],
+                "type": ""
+            },
             "emojisteal": {
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Steals emojis sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile.",
+                "description": "Steals emojis sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile. Supports context menu commands with slashtags:\n  [p]st global message \"Steal Emojis\" {c:stealslash {message} {hide}}",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -17769,7 +17837,9 @@
                     "crab",
                     "fun",
                     "emoji",
-                    "steal"
+                    "steal",
+                    "image",
+                    "slash"
                 ],
                 "type": ""
             },
