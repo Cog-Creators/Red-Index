@@ -9741,7 +9741,7 @@
                 "author": [
                     "Vexed (Vexed#0714)"
                 ],
-                "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command.",
+                "description": "Track who used what commands. All command usage is logged to the bot's console/log and also internally cached. You can view the activity of an individual user, server or command. Supports slash and text commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog may persistently store data or metadata about users. Operational data is temporarily collected and cached whenever a command is used and may be stored.\n\nWhen a command is used, the following data is collected: the message invoking the command, the user that invoked it, the server it was invoked in, and the channel it was invoked in. This includes application commands, as well as old-style text commands.\n\nThis cog does not support data deletion requests, as it handles operational data.",
                 "hidden": false,
