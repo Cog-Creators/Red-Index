@@ -158,6 +158,31 @@
                 ],
                 "type": ""
             },
+            "codesnippets": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to send code content from a GitHub/Gist/GitLab/BitBucket/Pastebin/Hastebin URL, in configured channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "sentry_sdk"
+                ],
+                "short": "A cog to send code content from a GitHub/Gist/GitLab/BitBucket/Pastebin/Hastebin!",
+                "tags": [
+                    "code",
+                    "snippet",
+                    "git",
+                    "gist"
+                ],
+                "type": ""
+            },
             "commandsbuttons": {
                 "author": [
                     "AAA3A"
@@ -417,6 +442,33 @@
                     "localisation",
                     "latitude",
                     "longitude"
+                ],
+                "type": ""
+            },
+            "gistshandler": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to create new Gists and edit/delete existing ones!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "sentry_sdk",
+                    "git+https://github.com/WitherredAway/gists.py"
+                ],
+                "short": "A cog to create new Gists and edit/delete existing ones!",
+                "tags": [
+                    "dev",
+                    "gists",
+                    "github",
+                    "code",
+                    "snippet"
                 ],
                 "type": ""
             },
