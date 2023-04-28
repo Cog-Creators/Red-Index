@@ -8,6 +8,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "acronymgame": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to play to Acrononym game, with Modals!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "sentry_sdk",
+                    "tabulate"
+                ],
+                "short": "A cog to play to Acrononym game, with Modals!",
+                "tags": [
+                    "acronym",
+                    "game"
+                ],
+                "type": ""
+            },
             "antinuke": {
                 "author": [
                     "AAA3A"
