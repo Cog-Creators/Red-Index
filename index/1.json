@@ -23,7 +23,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "sentry_sdk",
-                    "tabulate"
+                    "prettytable"
                 ],
                 "short": "A cog to play to Acrononym game, with Modals!",
                 "tags": [
