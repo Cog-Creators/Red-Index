@@ -17809,7 +17809,7 @@
     },
     "https://github.com/orchidalloy/crab-cogs": {
         "author": [
-            "OrchidAlloy"
+            "hollowstrawberry"
         ],
         "description": "Fun cogs originally created for a friend group called Crab.",
         "name": "crab-cogs",
@@ -17903,7 +17903,7 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Steals emojis sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile. Supports context menu commands.",
+                "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile. Supports context menu commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -17913,11 +17913,11 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Steals emojis sent by other people.",
+                "short": "Steals emojis and stickers sent by other people.",
                 "tags": [
                     "crab",
-                    "fun",
                     "emoji",
+                    "sticker",
                     "steal",
                     "image",
                     "slash",
@@ -17985,7 +17985,7 @@
                 ],
                 "description": "Logs deleted images for moderation purposes.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
+                "end_user_data_statement": "This cog stores images sent by users into a moderation channel until they are manually removed.",
                 "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0.dev363",
@@ -18004,11 +18004,11 @@
                 ],
                 "type": ""
             },
-            "promptinspector": {
+            "imagescanner": {
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Scans images for AI generation info and lets the user view it with a reaction or an application command.",
+                "description": "Scans images for AI parameters and other metadata. Supports context menus.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -18020,7 +18020,7 @@
                 "requirements": [
                     "Pillow"
                 ],
-                "short": "Scans images for AI generation info.",
+                "short": "Scans images for AI parameters and other metadata.",
                 "tags": [
                     "crab",
                     "message",
