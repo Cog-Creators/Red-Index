@@ -17903,7 +17903,7 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Can also get an image link to an emoji of your own choosing, useful for mobile. Supports context menu commands.",
+                "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Supports context menu commands. Can also upload stickers from mobile.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
