@@ -4416,7 +4416,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiosu<=1.5.0",
+                    "git+https://github.com/Kuro-Rui/aiosu.git@fix-typeerror",
                     "emoji"
                 ],
                 "short": "Display user information from osu!",
