@@ -2858,30 +2858,6 @@
                 ],
                 "type": "COG"
             },
-            "isortformatter": {
-                "author": [
-                    "Honkertonken"
-                ],
-                "description": "Format your code with isort. Supports codeblocks replies and attachments!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "3.4.19",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "isort"
-                ],
-                "short": "Isort formatter.",
-                "tags": [
-                    "isort",
-                    "code",
-                    "format"
-                ],
-                "type": "COG"
-            },
             "jokes": {
                 "author": [
                     "Honkertonken"
