@@ -4226,28 +4226,6 @@
                     "voicemoderation"
                 ],
                 "type": "COG"
-            },
-            "slashinjector": {
-                "author": [
-                    "Kowlin"
-                ],
-                "description": "A quick and dirty solution for adding in a slash command parser, so everyone doesn't have to fight over injecting an parser.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores no personal data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A quick and dirty solution for adding in a slash command parser, so everyone doesn't have to fight over injecting an parser.",
-                "tags": [
-                    "api",
-                    "injector",
-                    "parser"
-                ],
-                "type": "COG"
             }
         },
         "short": "Moderation oriented cogs built for Red-DiscordBot"
