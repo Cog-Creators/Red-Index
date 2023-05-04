@@ -15760,7 +15760,7 @@
     },
     "https://github.com/jack1142/JackCogs": {
         "author": [
-            "jack1142 (Jackenmen#6607)"
+            "Jakub Kuczys (https://github.com/Jackenmen)"
         ],
         "description": "Cogs requested by others and those that I wanted for Red myself.",
         "name": "JackCogs",
@@ -15769,14 +15769,14 @@
         "rx_cogs": {
             "autogist": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Auto-upload files with configured extension sent by users to gist.github.com.",
                 "disabled": false,
                 "end_user_data_statement": "This cog auto-uploads attachments to gist.github.com uploaded by users as configured by the guild administrators.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15795,14 +15795,14 @@
             },
             "banmessage": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Send message on ban in a chosen channel. Supports images!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15817,14 +15817,14 @@
             },
             "categoryhelp": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Command for getting help for category that ignores case-sensitivity.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15840,14 +15840,14 @@
             },
             "emojiinfo": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Get information about emojis and see how to use them in your code.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15866,14 +15866,14 @@
             },
             "linkwarner": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Remove messages containing links and warn users for it. Comes with settings for excluding roles and including/excluding url domains!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15889,14 +15889,14 @@
             },
             "mee6rank": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Shows detailed information about your Mee6 rank like amount of XP amount of XP and estimated amount of messages needed to reach next level and next level role.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15915,14 +15915,14 @@
             },
             "membercount": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Get count of all members + humans and bots separately.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15936,14 +15936,14 @@
             },
             "modroles": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Allow moderators without manage roles permission to assign configured roles to users.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15960,14 +15960,14 @@
             },
             "nitrorole": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Welcome new nitro boosters and/or give them a special role!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.\nDiscord IDs of users may occasionally be logged to file as part of error logging.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -15984,14 +15984,14 @@
             },
             "qupyter": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Run IPython kernel within Red and connect to it with Jupyter Console. This is a development tool.\n\nWARNING: This cog is meant for development instances and should NOT ever be used in production environment.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -16013,20 +16013,20 @@
             },
             "rlstats": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Shows you Rocket League player statistics. The cog needs access to Rocket League API which is currently in closed beta.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores data provided by users for the purpose of better user experience.\nIt does not store user data which was not provided through a command.\nUsers may remove their own data without making a data removal request.\nThis cog will remove data when a data removal request is made.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "pillow~=9.1",
-                    "rlapi==0.5.0a1"
+                    "rlapi==0.6.0a1"
                 ],
                 "short": "Get your Rocket League stats with a single command! Needs access to Rocket League API which is currently in closed beta.",
                 "tags": [
@@ -16039,14 +16039,14 @@
             },
             "rssnotifier": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Get role and/or user mentions about feed updates. This cog requires RSS cog from aikaterna-cogs repo to work.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores Discord user IDs when the user explicitly opts in receiving mentions about feed updates.\nNo personal identifiable data is stored by this cog.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {
@@ -16065,14 +16065,14 @@
             },
             "shell": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Run shell commands on bot's system from Discord.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -16088,40 +16088,16 @@
                 ],
                 "type": "COG"
             },
-            "tiv": {
-                "author": [
-                    "jack1142 (Jackenmen#6607)"
-                ],
-                "description": "Unlike with threads, it is somewhat reasonable to make a patch for supporting TiV in Red 3.4 so this is it. This cog monkeypatches discord.py 1.7.3 library (version that Red 3.4 uses) to support Text in Voice Channels.\nThis cog tries to be a transparent layer that makes VoiceChannel objects in the library act as if they were actually Messageable objects such as text channels however, it is by no means perfect. If some command still doesn't work with text in voice channels after installing this cog, please DO NOT report this to the author of that command as it is likely not their fault.",
-                "disabled": false,
-                "end_user_data_statement": "This cog package does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "3.5.0.dev172",
-                "min_bot_version": "3.4.11",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Text in Voice Channels (TiV) functionality \"support\" for Red < 3.5.",
-                "tags": [
-                    "monkeypatch",
-                    "patch",
-                    "text",
-                    "tiv",
-                    "voice"
-                ],
-                "type": "COG"
-            },
             "voicetools": {
                 "author": [
-                    "jack1142 (Jackenmen#6607)"
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
                 ],
                 "description": "Various tools to make voice channels better!\nAvailable modules:\n- VIP - Set users and roles not counting to user limit on voice channel\n- ForceLimit - Force user limit to all members of the server including admins (kick user when exceeding limit)",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs as needed for operation.\nDiscord IDs of users may occasionally be logged to file as part of debug logging.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.3.10",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -16136,7 +16112,7 @@
                 "type": "COG"
             }
         },
-        "short": "Cogs for Red V3 by jack1142 (Jackenmen#6607)."
+        "short": "Cogs for Red V3 by Jakub Kuczys (https://github.com/Jackenmen)."
     },
     "https://github.com/jakehlee/JDG-Cogs-V3": {
         "author": [
