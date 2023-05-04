@@ -2175,7 +2175,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2199,7 +2199,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2223,7 +2223,7 @@
                 "end_user_data_statement": "",
                 "hidden": true,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2238,6 +2238,30 @@
                 ],
                 "type": ""
             },
+            "globalban": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Execute a ban across all of the bot's servers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Execute a ban across all of the bot's servers.",
+                "tags": [
+                    "ban"
+                ],
+                "type": ""
+            },
             "lastping": {
                 "author": [
                     "Flame442 (Flame#2941)"
@@ -2247,7 +2271,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2271,7 +2295,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2297,7 +2321,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2321,7 +2345,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2343,7 +2367,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2379,7 +2403,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2407,7 +2431,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2463,7 +2487,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2483,12 +2507,12 @@
                 "author": [
                     "Flame442 (Flame#2941)"
                 ],
-                "description": "Create grabbable key giveaways.",
+                "description": "Create first come, first serve key giveaways.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2497,7 +2521,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create grabbable key giveaways.",
+                "short": "Create first come, first serve key giveaways.",
                 "tags": [
                     "utility"
                 ],
@@ -2512,7 +2536,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2538,7 +2562,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2562,7 +2586,7 @@
                 "end_user_data_statement": "This cog stores user ids in order to identify the players in saved games.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2590,7 +2614,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2615,7 +2639,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2632,6 +2656,32 @@
                 ],
                 "type": ""
             },
+            "pokemonduel": {
+                "author": [
+                    "Flame442 (Flame#2941)"
+                ],
+                "description": "Battle in a Pokemon Duel with another member of your server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user ids in order to track your party of pokemon.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Battle in a Pokemon Duel with another member of your server.",
+                "tags": [
+                    "fun",
+                    "games",
+                    "pokemon"
+                ],
+                "type": ""
+            },
             "simpleembed": {
                 "author": [
                     "Flame442 (Flame#2941)"
@@ -2641,7 +2691,7 @@
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2666,7 +2716,7 @@
                 "end_user_data_statement": "This cog stores a user id in order to know what stocks have been purchased by each user. Data is only collected when a user directly interacts with the cog and its commands.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -2691,7 +2741,7 @@
                 "end_user_data_statement": "This cog persistently stores the number of times every unique word is said per-user per-guild. Data is collected on every message the bot can see unless the guild, channel, or user have opted out. Users can request that their data is deleted using `[p]wordstatsset forgetme` and can request to opt out of data collection using `[p]wordstatsset user no`.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
                 "min_python_version": [
                     3,
                     6,
@@ -8115,7 +8165,7 @@
                 "end_user_data_statement": "This cog stores attachements uploaded by users for the purposes of creating custom commands to send uploaded attachments.\nUsers may delete their own data with or without making a data request.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8139,7 +8189,7 @@
                 "end_user_data_statement": "This cog stores discord User ID's for the purposes of mentioning the user on certain events.\nUsers may delete their own data with or without making a data request.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8168,7 +8218,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8185,55 +8235,6 @@
                 ],
                 "type": "COG"
             },
-            "autorole": {
-                "author": [
-                    "Lunar Dust",
-                    "TrustyJAID"
-                ],
-                "description": "Automatically apply roles when a user joins the server.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "manage_roles"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Automatically apply a role to new users",
-                "tags": [],
-                "type": "COG"
-            },
-            "backup": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Backup all channel messages on a server. Ensure all saved messages are stored on an encrypted drive!",
-                "disabled": false,
-                "end_user_data_statement": "This cog extracts messages including user data and saves locally on the bots harddrive. This data is meant for personal use only and not recommended to be stored indefinitely.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "read_message_history"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Backup all channel messages on a server.",
-                "tags": [],
-                "type": "COG"
-            },
             "badges": {
                 "author": [
                     "TrustyJAID"
@@ -8243,7 +8244,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8260,28 +8261,35 @@
                 "tags": [],
                 "type": "COG"
             },
-            "chatter": {
+            "bingo": {
                 "author": [
                     "TrustyJAID"
                 ],
-                "description": "Talk to your bot and build a unique dataset for conversations!",
-                "disabled": true,
-                "end_user_data_statement": "This cog extracts user messages for the purposes of training the chat response algorithm.",
-                "hidden": true,
+                "description": "Generate a bingo card to play on your server!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. This cog can store images uploaded by the user or provided for the purpose of generating bingo cards.",
+                "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
                     2
                 ],
-                "permissions": [],
+                "permissions": [
+                    "attach_files"
+                ],
                 "required_cogs": {},
                 "requirements": [
-                    "chatterbot"
+                    "pillow"
                 ],
-                "short": "chatterbot",
-                "tags": [],
+                "short": "Play Bingo!",
+                "tags": [
+                    "fun",
+                    "memes",
+                    "meme",
+                    "bingo"
+                ],
                 "type": "COG"
             },
             "cleverbot": {
@@ -8294,7 +8302,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. However, this cog does pass user data to an external API for the purposes of simulated conversation responses.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8320,7 +8328,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8342,7 +8350,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8357,28 +8365,6 @@
                 "tags": [],
                 "type": "COG"
             },
-            "covfefe": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Covfefeify almost any word!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Despite the negative press, covfefe",
-                "tags": [],
-                "type": "COG"
-            },
             "crabrave": {
                 "author": [
                     "DankMemer Team",
@@ -8390,7 +8376,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.3.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -8419,7 +8405,7 @@
                 "end_user_data_statement": "This cog stores User IDs linked to an external API token for the purposes of granting OAuth access and information about the external API for the user.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8449,7 +8435,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8469,32 +8455,6 @@
                 ],
                 "type": "COG"
             },
-            "emojireact": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "React to messages containing any emojis!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "add_reactions"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Emoji Reaction",
-                "tags": [
-                    "fun"
-                ],
-                "type": "COG"
-            },
             "encoding": {
                 "author": [
                     "TrustyJAID"
@@ -8504,7 +8464,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8530,7 +8490,7 @@
                 "end_user_data_statement": "This cog stores User ID's for the purposes of tracking user created events.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8561,7 +8521,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8580,28 +8540,6 @@
                 ],
                 "type": "COG"
             },
-            "faces": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Japanese faces courtesy of the CIA",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "General commands",
-                "tags": [],
-                "type": "COG"
-            },
             "fenrir": {
                 "author": [
                     "TrustyJAID"
@@ -8611,7 +8549,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8637,7 +8575,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8652,56 +8590,6 @@
                 "tags": [],
                 "type": "COG"
             },
-            "gabai": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Get information from gab.ai's API and display in discord.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Gab.ai information",
-                "tags": [
-                    "gab"
-                ],
-                "type": "COG"
-            },
-            "halo": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Gathers information from the Halo API and posts it on discord.",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "halo",
-                "tags": [
-                    "halo"
-                ],
-                "type": "COG"
-            },
             "hockey": {
                 "author": [
                     "TrustyJAID"
@@ -8711,7 +8599,7 @@
                 "end_user_data_statement": "This cog stores User ID's for the purposes of tracking votes in pickems.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8743,7 +8631,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8768,7 +8656,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8802,7 +8690,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8830,7 +8718,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8855,7 +8743,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.3.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -8879,7 +8767,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8902,7 +8790,7 @@
                 "end_user_data_statement": "This cog allows ping the bot to see the prefixes available.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -8926,7 +8814,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8944,6 +8832,35 @@
                 ],
                 "type": "COG"
             },
+            "nasa": {
+                "author": [
+                    "TrustyJAID"
+                ],
+                "description": "Get information from NASA's API",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "skyfield"
+                ],
+                "short": "Cog for getting info from NASA's API",
+                "tags": [
+                    "NASA",
+                    "Space"
+                ],
+                "type": "COG"
+            },
             "notsobot": {
                 "author": [
                     "NotSoSuper",
@@ -8954,7 +8871,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -8989,7 +8906,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9017,7 +8934,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9034,35 +8951,6 @@
                 ],
                 "type": "COG"
             },
-            "reportspin": {
-                "author": [
-                    "Eslyium",
-                    "tekulvw",
-                    "mikeshardmind(Sinbad)",
-                    "Tobotimus"
-                ],
-                "description": "Reports cog but pins new reports",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Pin all new reports",
-                "tags": [
-                    "reports"
-                ],
-                "type": "COG"
-            },
             "retrigger": {
                 "author": [
                     "TrustyJAID"
@@ -9072,7 +8960,7 @@
                 "end_user_data_statement": "This cog may store attachments and command information provided by Users for the purposes of performing actions.\nSome User ID's may be stored in the bots logging information.\nUsers may delete their own data with or without making a data request.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9099,7 +8987,7 @@
                 "end_user_data_statement": "This cog stores User ID's for the purposes of re-assigning roles when the user re-joins a server.\nUser ID's may be stored in the bots log information.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     0,
@@ -9126,7 +9014,7 @@
                 "end_user_data_statement": "This cog may store User ID's linked with an external API name for the purposes of simplifying command usage.\nUsers may clear this saved information at any time by command.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9158,7 +9046,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9191,7 +9079,7 @@
                 "end_user_data_statement": "This cog stores OAuth tokens and refresh tokens for the purposes of interacting with the Spotify API with discord commands and reactions. This data can be deleted at any time either via revoking the authorization token on Spotify or through the `[p]mydata forgetme` command.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.3.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -9218,7 +9106,7 @@
                 "end_user_data_statement": "This stores message information from Users for the purposes of tracking reactions to the message.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.3.12",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9236,34 +9124,6 @@
                 ],
                 "type": "COG"
             },
-            "stickyroles": {
-                "author": [
-                    "Twentysix",
-                    "TrustyJAID"
-                ],
-                "description": "With this cog you can specify which roles you want to be reapplied on join. This is particularly useful to fight \"role evasion\".",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores User ID's for the purposes of re-assigning roles when the user re-joins a server.\nUser ID's may be stored in the bots log information.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "manage_roles"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Reapplies specific roles on join",
-                "tags": [
-                    "utility",
-                    "mod"
-                ],
-                "type": "COG"
-            },
             "tarot": {
                 "author": [
                     "TrustyJAID"
@@ -9273,7 +9133,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9301,7 +9161,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. However, this cog does pass user data to an external API for the purposes of analyzing and translating languages.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9317,52 +9177,6 @@
                 ],
                 "type": "COG"
             },
-            "trustyavatar": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Hardcoded custom avatar and statuses for TrustyBot",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow"
-                ],
-                "short": "",
-                "tags": [],
-                "type": "COG"
-            },
-            "trustybot": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Hardcoded custom commands for TrustyBot",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": "COG"
-            },
             "tweets": {
                 "author": [
                     "palmtree5",
@@ -9373,7 +9187,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9384,7 +9198,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "tweepy>=4.0.0,<=4.4.0"
+                    "tweepy>=4.10.0"
                 ],
                 "short": "Cog for getting info from Twitter",
                 "tags": [
@@ -9402,7 +9216,7 @@
                 "end_user_data_statement": "This cog stores User ID's linked to an external API name for the purposes of tracking information from the external API.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9430,7 +9244,7 @@
                 "end_user_data_statement": "This cog may store User ID's for the purposes of setting default preferred temperature units.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -9458,7 +9272,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.1.8",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     7,
@@ -21895,7 +21709,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users but messages will be sent to OpenAI to generate responses.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -21920,7 +21734,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -21938,7 +21752,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
