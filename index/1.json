@@ -372,8 +372,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
-                    "chat-exporter",
-                    "emoji==1.7"
+                    "chat-exporter"
                 ],
                 "short": "A cog to export all or part of a channel's messages to an html file!",
                 "tags": [
@@ -736,7 +735,7 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "chat-exporter",
-                    "emoji==1.7"
+                    "emoji"
                 ],
                 "short": "A cog to manage a tickets system!",
                 "tags": [
@@ -16969,29 +16968,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "embeduptime": {
+            "away": {
                 "author": [
-                    "max"
+                    "dia \u2661#0666, max, TheDiscordHistorian (kato#0666)"
                 ],
-                "description": "Shows current uptime of the bot.",
+                "description": "Away cog to set yourself as away.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
+                "end_user_data_statement": "This cog does store data by users for redisplaying purposes. This does not store any data that was not provided by a command. You may remove your own content without deleting your data completely. This cog will respect deletion requests though `[p]mydata`.",
                 "hidden": false,
-                "max_bot_version": "3.4.99",
-                "min_bot_version": "3.4.6",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    8,
-                    1
+                    9,
+                    0
                 ],
                 "permissions": [
                     "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Shows current uptime of the bot.",
+                "short": "Away cog to set yourself as away.",
                 "tags": [
-                    "uptime"
+                    "afk",
+                    "away"
                 ],
                 "type": "COG"
             },
@@ -17004,7 +17004,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -17026,7 +17026,35 @@
                 ],
                 "type": "COG"
             },
-            "veryfun": {
+            "nospoiler": {
+                "author": [
+                    "max"
+                ],
+                "description": "Disallow spoilers in your server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Disallow spoilers in your server.",
+                "tags": [
+                    "spoiler",
+                    "nospoiler"
+                ],
+                "type": "COG"
+            },
+            "roleplaycog": {
                 "author": [
                     "max"
                 ],
@@ -17034,8 +17062,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "3.4.99",
-                "min_bot_version": "3.4.6",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
@@ -17049,6 +17077,54 @@
                 "short": "Roleplay cog. With help of nekos.best.",
                 "tags": [
                     "roleplay"
+                ],
+                "type": "COG"
+            },
+            "tcgcard": {
+                "author": [
+                    "<@306810730055729152>",
+                    "ltzmax (MAX#1000)"
+                ],
+                "description": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game (a.k.a Pok\u00e9mon TCG)",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
+                "tags": [
+                    "pokemon",
+                    "pokemontcg",
+                    "tcgcard"
+                ],
+                "type": "COG"
+            },
+            "whosthatpokemon": {
+                "author": [
+                    "<@306810730055729152>",
+                    "ltzmax (MAX#1000)"
+                ],
+                "description": "Play a game of Who's That Pok\u00e9mon.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Play a game of Who's That Pok\u00e9mon.",
+                "tags": [
+                    "pokemon",
+                    "whosthatpokemon",
+                    "whos that pokemon"
                 ],
                 "type": "COG"
             }
