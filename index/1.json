@@ -17794,7 +17794,7 @@
         "author": [
             "hollowstrawberry"
         ],
-        "description": "Fun cogs originally created for a friend group called Crab.",
+        "description": "Fun/useful/curious cogs originally created for a friend group called Crab.",
         "name": "crab-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -17966,10 +17966,10 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Logs deleted images for moderation purposes.",
+                "description": "Logs deleted images for moderation purposes.\n\u26a0\ufe0f Usage warning: You may or may not be liable for keeping content that breaks Discord TOS.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores images sent by users into a moderation channel until they are manually removed.",
-                "hidden": true,
+                "end_user_data_statement": "This cog stores images sent by users into a moderation channel until they are manually removed. You may or may not be liable for their content if they break Discord TOS.",
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0.dev363",
                 "min_python_version": "",
