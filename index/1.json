@@ -9380,8 +9380,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9405,8 +9405,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9433,8 +9433,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9458,8 +9458,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9488,8 +9488,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog will associate a User ID with a birthday if the user explicitly sets it. This data is also associated with a specific guild ID. No other data or metadata about users is stored.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9515,9 +9515,9 @@
                 "description": "",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs paired with guild IDs and how they voted if a user participated in a poll. This is to ensure no double voting can happen. This data is removed once a poll finishes. No other data or metadata about users is persistently stored. This cog respects data deletion requests.",
-                "hidden": true,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9530,7 +9530,7 @@
                     "kaleido",
                     "pandas"
                 ],
-                "short": "[DPY 2 ONLY] A poll in Discord, but with powered by buttons and with a pie chart at the end!\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
+                "short": "A poll in Discord, but with powered by buttons and with a pie chart at the end!",
                 "tags": [
                     "utility",
                     "poll",
@@ -9545,9 +9545,9 @@
                 "description": "Calculate simple mathematical expressions, right in Discord with buttons.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9559,7 +9559,7 @@
                     "expr.py",
                     "asyncache"
                 ],
-                "short": "Calculate simple mathematical expressions, right in Discord with buttons. This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs.",
+                "short": "Calculate simple mathematical expressions, right in Discord with buttons.",
                 "tags": [
                     "utility",
                     "calc",
@@ -9576,8 +9576,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.11",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9604,8 +9604,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog may persistently store data or metadata about users. Operational data is temporarily collected and cached whenever a command is used and may be stored.\n\nWhen a command is used, the following data is collected: the message invoking the command, the user that invoked it, the server it was invoked in, and the channel it was invoked in. This includes application commands, as well as old-style text commands.\n\nThis cog does not support data deletion requests, as it handles operational data.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9626,31 +9626,18 @@
                 "author": [
                     "Vexed (Vexed#0714)"
                 ],
-                "description": "Get graphs of COVID-19 data.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
+                "description": "This cog has been removed, please uninstall.",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "plotly",
-                    "kaleido",
-                    "asyncache"
-                ],
-                "short": "Get graphs of COVID-19 data.",
-                "tags": [
-                    "utility",
-                    "data",
-                    "graph",
-                    "covid"
-                ],
+                "requirements": [],
+                "short": "This cog has been removed, please uninstall.",
+                "tags": [],
                 "type": ""
             },
             "fivemstatus": {
@@ -9661,8 +9648,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9683,40 +9670,12 @@
                 "author": [
                     "Vexed (Vexed#0714)"
                 ],
-                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n\u26a0 This cog requires Red 3.5/discord.py 2, which is unstable and incompatibe with some other cogs. \u26a0",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "gidgethub>=5.0.0"
-                ],
-                "short": "[DPY 2 ONLY] Create, comment, labelify and close GitHub issues.",
-                "tags": [
-                    "utility",
-                    "github",
-                    "issues"
-                ],
-                "type": ""
-            },
-            "github": {
-                "author": [
-                    "Vexed (Vexed#0714)"
-                ],
-                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
+                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.\n\n",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9735,6 +9694,24 @@
                 ],
                 "type": ""
             },
+            "github": {
+                "author": [
+                    "Vexed (Vexed#0714)"
+                ],
+                "description": "Create, comment, labelify and close GitHub issues, with partial PR support.",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create, comment, labelify and close GitHub issues.",
+                "tags": [],
+                "type": ""
+            },
             "googletrends": {
                 "author": [
                     "Vexed (Vexed#0714)"
@@ -9743,8 +9720,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9774,8 +9751,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9801,8 +9778,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. Messages sent in channels designated as role play channels by Administrators are not stored in memory by this cog, but they are re-sent from the bot with no association to the user. As such this cog does not directly store data, but data is posted to a Discord channel.",
                 "hidden": false,
-                "max_bot_version": "3.5.99",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9828,8 +9805,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog permanently stores anonymised and aggregated data about users' statuses and counts messages sent, not including their content. This data cannot be traced back to individual users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9861,8 +9838,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.6",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9891,8 +9868,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9937,8 +9914,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9966,8 +9943,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
@@ -9999,8 +9976,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
                 "min_python_version": [
                     3,
                     8,
