@@ -12,7 +12,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to play to Acrononym game, with Modals!",
+                "description": "A cog to play a random match of Acrononym game, with Modals!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -22,10 +22,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "prettytable"
                 ],
-                "short": "A cog to play to Acrononym game, with Modals!",
+                "short": "A cog to play a random match of Acrononym game, with Modals!",
                 "tags": [
                     "acronym",
                     "game"
@@ -41,13 +41,12 @@
                 "end_user_data_statement": "This cog records the number of times the user has performed an action that may be considered dangerous (e.g. deleting a channel).",
                 "hidden": true,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "TagScript"
                 ],
                 "short": "A cog to remove all permissions from a person who deletes a channel!",
@@ -68,12 +67,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to display the error traceback of a command automatically after the error!",
                 "tags": [
@@ -92,13 +91,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. The calculation history is temporary and deleted as soon as the cog is reloaded.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "TagScript"
                 ],
                 "short": "A cog to do simple calculations from Discord with buttons!",
@@ -119,12 +117,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to delete ALL messages of a channel!",
                 "tags": [
@@ -143,12 +141,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to send the result of a command to another channel!",
                 "tags": [
@@ -172,7 +170,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to send code content from a GitHub/Gist/GitLab/BitBucket/Pastebin/Hastebin!",
                 "tags": [
@@ -192,13 +190,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
                 "short": "A cog to allow a user to execute a command by clicking on a button!",
@@ -218,12 +215,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to list and display the contents of all sub-functions of `ctx`!",
                 "tags": [
@@ -243,15 +240,15 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
-                "short": "A cog to edit Discord default objects!",
+                "short": "A cog to edit Discord default objects, like guilds, roles, text channels, voice channels, threads and AutoMod!",
                 "tags": [
                     "discord",
                     "edit",
@@ -270,12 +267,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0.dev1",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to use Discord Modals, forms with graphic interface!",
                 "tags": [
@@ -295,12 +292,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "dateparser"
                 ],
                 "short": "A cog to search a message on Discord!",
@@ -320,13 +317,13 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "emoji"
                 ],
                 "short": "A cog to have dropdowns-texts!",
                 "tags": [
@@ -345,12 +342,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to get a file and replace it from its path from Discord!",
                 "tags": [
@@ -369,13 +366,13 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "chat-exporter==1.7.3",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "chat-exporter",
                     "emoji==1.7"
                 ],
                 "short": "A cog to export all or part of a channel's messages to an html file!",
@@ -401,7 +398,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "sphobjinv",
                     "humanfriendly",
                     "bs4",
@@ -432,12 +429,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "geopy",
                     "basemap",
                     "matplotlib",
@@ -465,7 +462,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "git+https://github.com/WitherredAway/gists.py"
                 ],
                 "short": "A cog to create new Gists and edit/delete existing ones!",
@@ -487,13 +484,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "requests"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to get the ip adress of the bot's host machine!",
                 "tags": [
@@ -512,12 +508,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": true,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "bs4",
                     "lxml"
                 ],
@@ -534,12 +530,12 @@
                 "end_user_data_statement": "This cog only records the different prefixes chosen by each member.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to allow a member to choose custom prefixes, just for them!",
                 "tags": [
@@ -558,13 +554,13 @@
                 "end_user_data_statement": "This cog saves levels and XP of users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "tabulate"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "prettytable"
                 ],
                 "short": "A cog to play to Memory game, with buttons, leaderboard and Red bank!",
                 "tags": [
@@ -582,12 +578,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
                 "short": "A cog to allow a user to execute a command by clicking on a reaction!",
@@ -607,13 +603,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
                 "short": "A cog to have roles-buttons!",
@@ -633,12 +628,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. Please note: all the code you run is stored on the wandbox.org server, even if you need a code to access it. To my knowledge, there is no way to request a deletion.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "humanfriendly",
                     "fuzzywuzzy"
                 ],
@@ -656,15 +651,15 @@
                 ],
                 "description": "Have you ever wanted to check when a member/role/channel/category/user/guild was last active? Then this cog is for you!",
                 "disabled": false,
-                "end_user_data_statement": "This cog records the time the user last participated and the message they acted on (sending a message, modifying a message in the cache, adding a reaction to a message in the cache and deleting a reaction to a message in the cache). The user can at any time issue the command `[p]seen ignoreme` to cause this cog to ignore all its next actions and delete the previously stored data.",
+                "end_user_data_statement": "This cog records the time the user last participated and the message they acted on (sending a message, modifying a message in the cache, adding a reaction for a message in the cache and deleting a reaction for a message in the cache). The user can at any time issue the command `[p]seen ignoreme` to cause this cog to ignore all its next actions and delete the previously stored data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
                 "tags": [
@@ -683,13 +678,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to collect several sanction actions against a user!",
                 "tags": [
@@ -711,12 +705,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to allow bot owners to be normal users in terms of permissions!",
                 "tags": [
@@ -735,15 +729,14 @@
                 "end_user_data_statement": "This cog records all the data needed to operate the ticket system. It records the reason for the ticket, the open/close dates, the members who have opened/closed/claimed a ticket. Apart from deleting the ticket with `[p]ticket delete`, this cog is not configured to delete this operational data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "chat-exporter==1.7.3",
-                    "emoji==1.7",
-                    "dislash.py"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "chat-exporter",
+                    "emoji==1.7"
                 ],
                 "short": "A cog to manage a tickets system!",
                 "tags": [
@@ -762,12 +755,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to transfer all messages channel in a other channel!",
                 "tags": [
@@ -786,13 +779,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sentry_sdk",
-                    "dislash.py",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
                 "short": "A cog to have url-buttons!",
