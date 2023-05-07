@@ -8284,6 +8284,37 @@
                 ],
                 "type": "COG"
             },
+            "cah": {
+                "author": [
+                    "TrustyJAID",
+                    "crhallberg",
+                    "Cards Against Humanity\u00ae"
+                ],
+                "description": "Play Cards Against Humanity\u00ae!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Cards Against Humanity\u00ae",
+                "tags": [
+                    "cah",
+                    "cards against humanity",
+                    "fun",
+                    "game"
+                ],
+                "type": "COG"
+            },
             "cleverbot": {
                 "author": [
                     "Twentysix",
