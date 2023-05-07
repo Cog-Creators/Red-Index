@@ -10531,6 +10531,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "fuzzywuzzy",
                     "pytz"
                 ],
                 "short": "Check times for users and places.",
