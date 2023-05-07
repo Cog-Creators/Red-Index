@@ -21642,7 +21642,7 @@
                 ],
                 "description": "Utilize OpenAI to reply to messages and images in approved channels.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but recent chat messages may be sent to OpenAI to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but recent chat messages may be sent to OpenAI to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>. Images, if enabled for scanning, may be sent to ai-horde. Please refer to: <https://stablehorde.net/privacy> ",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
