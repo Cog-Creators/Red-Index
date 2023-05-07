@@ -21652,7 +21652,8 @@
                 "requirements": [
                     "openai",
                     "tenacity",
-                    "tiktoken"
+                    "tiktoken",
+                    "Pillow"
                 ],
                 "short": "Human-like user behavior powered by OpenAI.",
                 "tags": [
