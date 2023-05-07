@@ -10065,7 +10065,7 @@
                 "end_user_data_statement": "This cog stores data provided by users for the express purpose of redisplaying. It does not store user data which was not provided through a command. Users may remove their own content without making a data removal request. This cog does not support data requests, but will respect deletion requests.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10074,58 +10074,6 @@
                 "tags": [
                     "away",
                     "afk"
-                ],
-                "type": "COG"
-            },
-            "blurplefy": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Blurplefy a user profile picture or image. Admins can configure an awardable role if a user's profile pic has more than a certain percentage of blurple in it.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links",
-                    "manage_roles"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow",
-                    "python-resize-image"
-                ],
-                "short": "Blurplefy a user profile picture or image.",
-                "tags": [
-                    "blurple",
-                    "discord",
-                    "avatar"
-                ],
-                "type": "COG"
-            },
-            "cah": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Cards Against Humanity, played in DMs.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Cards Against Humanity.",
-                "tags": [
-                    "CAH",
-                    "cards",
-                    "game"
                 ],
                 "type": "COG"
             },
@@ -10139,7 +10087,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10164,7 +10112,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10187,7 +10135,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10202,26 +10150,6 @@
                 ],
                 "type": "COG"
             },
-            "discordexperiments": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Create voice invites for experimental Discord applications.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Create voice invites for experimental Discord applications.",
-                "tags": [
-                    "discord"
-                ],
-                "type": ""
-            },
             "embedpeek": {
                 "author": [
                     "aikaterna"
@@ -10231,7 +10159,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10251,7 +10179,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10273,7 +10201,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "embed_links"
@@ -10296,7 +10224,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "administrator",
@@ -10320,7 +10248,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10343,7 +10271,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10355,49 +10283,6 @@
                 ],
                 "type": "COG"
             },
-            "massunban": {
-                "author": [
-                    "aikaterna"
-                ],
-                "description": "Mass unban users by the ban reason used.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Mass unban users.",
-                "tags": [
-                    "unban"
-                ],
-                "type": ""
-            },
-            "noflippedtables": {
-                "author": [
-                    "irdumb",
-                    "aikaterna"
-                ],
-                "description": "Unflip all the flipped tables.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Unflip some tables.",
-                "tags": [
-                    "noflippedtables",
-                    "no flip",
-                    "tables"
-                ],
-                "type": ""
-            },
             "otherbot": {
                 "author": [
                     "aikaterna",
@@ -10405,10 +10290,10 @@
                 ],
                 "description": "Alerts a role when bot(s) go offline.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs as needed for operation. ",
+                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store Discord IDs as needed for operation.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "manage_roles"
@@ -10455,7 +10340,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10477,7 +10362,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10500,7 +10385,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10522,7 +10407,7 @@
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "embed_links"
@@ -10547,7 +10432,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10567,7 +10452,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "embed_links"
@@ -10591,10 +10476,10 @@
                 ],
                 "description": "Check when the user was last active on a server. Originally made by Paddo.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs and last seen timestamp as needed for operation. ",
+                "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs and last seen timestamp as needed for operation.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10616,7 +10501,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10641,7 +10526,7 @@
                 "end_user_data_statement": "This cog stores data provided by users for the express purpose of redisplaying. It does not store user data which was not provided through a command. Users may remove their own content without making a data removal request. This cog does not support data requests, but will respect deletion requests.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10665,7 +10550,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "ban_members",
@@ -10692,7 +10577,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10712,7 +10597,7 @@
                 "end_user_data_statement": "This cog does not persistently store end user data. This cog does store discord IDs as needed for operation. This cog does store user stats for the cog such as their score. Users may remove their own content without making a data removal request. This cog does not support data requests, but will respect deletion requests.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10736,7 +10621,7 @@
                 "end_user_data_statement": "This cog does store temporarily (in memory) data about users, which is cleared after the game is done.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "add_reactions"
@@ -10761,7 +10646,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10782,7 +10667,7 @@
                 "end_user_data_statement": "This cog stores discord IDs as needed for operation. This cog stores voice channel connection time per-user when toggled on in a server. This cog does not support data requests, but will respect deletion requests.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10804,7 +10689,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -10827,7 +10712,7 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
