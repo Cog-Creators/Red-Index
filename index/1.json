@@ -14658,7 +14658,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "githubpy",
+                    "pygithub",
                     "requests"
                 ],
                 "short": "Various GitHub-related useful things. TODO better description.",
