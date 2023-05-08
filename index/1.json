@@ -15064,7 +15064,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "yt-dlp"
+                ],
                 "short": "TODO",
                 "tags": [
                     "ss13",
