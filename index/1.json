@@ -20606,7 +20606,7 @@
                 "end_user_data_statement": "This cog doesn't store data about users, however it does store prompts and OpenAI API keys on a per server basis",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0.dev0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "read_messages",
@@ -20644,7 +20644,7 @@
                 "end_user_data_statement": "This cog does not store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0.dev307",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     9,
@@ -20656,7 +20656,7 @@
                     "ujson",
                     "msgpack"
                 ],
-                "short": "EZ Cog Docs",
+                "short": "EZ Cog Doc Generation",
                 "tags": [
                     "utility",
                     "docs",
@@ -21030,7 +21030,7 @@
                 "end_user_data_statement": "This cog does not persistently store data about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0.dev0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "read_messages",
