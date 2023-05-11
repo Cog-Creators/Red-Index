@@ -5040,11 +5040,31 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tabulate"
+                ],
                 "short": "Buy and get animals to get more economy credits!",
                 "tags": [
                     "fun"
                 ],
+                "type": ""
+            },
+            "grammar": {
+                "author": [
+                    "Neuro Assassin"
+                ],
+                "description": "Get words related to the specified arguments",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get words related to the specified arguments",
+                "tags": [],
                 "type": ""
             },
             "listpermissions": {
