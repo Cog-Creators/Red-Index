@@ -17932,6 +17932,30 @@
                 ],
                 "type": ""
             },
+            "logs": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Owner cog to show the latest logs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Owner cog to show the latest logs.",
+                "tags": [
+                    "crab",
+                    "logs",
+                    "dev",
+                    "owner",
+                    "debug"
+                ],
+                "type": ""
+            },
             "randomness": {
                 "author": [
                     "OrchidAlloy"
