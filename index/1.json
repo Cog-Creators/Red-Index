@@ -20765,7 +20765,9 @@
                     "aiohttp",
                     "pydantic",
                     "orjson",
-                    "tiktoken"
+                    "tiktoken",
+                    "scipy",
+                    "scikit-learn"
                 ],
                 "short": "Another GPT Cog",
                 "tags": [
