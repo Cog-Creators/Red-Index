@@ -15339,7 +15339,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "youtube_dl"
+                    "yt_dlp"
                 ],
                 "short": "Sends a warning message when a video is too loud.",
                 "tags": [
