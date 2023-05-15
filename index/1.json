@@ -17084,6 +17084,33 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "autopublisher": {
+                "author": [
+                    "max"
+                ],
+                "description": "Automatically publish messages from a new channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically publish messages from a new channel.",
+                "tags": [
+                    "news",
+                    "auto publish"
+                ],
+                "type": "COG"
+            },
             "away": {
                 "author": [
                     "dia \u2661#0666, max, TheDiscordHistorian (kato#0666)"
