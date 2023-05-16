@@ -21723,7 +21723,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "sans",
+                    "sans>=1.0.0b2",
                     "git+https://github.com/zephyrkul/proxyembed"
                 ],
                 "short": "Access information from NationStates.net.",
