@@ -20795,7 +20795,8 @@
                     "tiktoken",
                     "scipy",
                     "scikit-learn",
-                    "retry"
+                    "retry",
+                    "matplotlib"
                 ],
                 "short": "Another GPT Cog",
                 "tags": [
