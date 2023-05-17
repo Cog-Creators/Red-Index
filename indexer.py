@@ -1,5 +1,6 @@
 import json
 import yaml
+import re
 import sys
 from gzip import GzipFile
 from pathlib import Path
@@ -67,7 +68,9 @@ class Repo:
         if self._error:
             return
 
-        base_path = CACHE / Path(sha1_digest(self._url))
+        safe_name = re.sub(r"[^a-zA-Z0-9_\-\.]", "", self.name).strip(".")
+        prefix = f"{safe_name}_" if safe_name else ""
+        base_path = CACHE / Path(f"{prefix}{sha1_digest(self._url)}")
         if not base_path.is_dir():
             self._error = "Repo path does not exist. Cloning failed?"
             return
