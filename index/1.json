@@ -7170,6 +7170,7 @@
                 "tags": [
                     "audio",
                     "auto",
+                    "automated",
                     "automatic",
                     "channel",
                     "room",
@@ -7197,7 +7198,12 @@
                 "requirements": [],
                 "short": "Automatically check users against multiple global ban lists.",
                 "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
                     "ban",
+                    "check",
+                    "lookup",
                     "moderation",
                     "utility"
                 ],
@@ -7223,7 +7229,11 @@
                 "requirements": [],
                 "short": "Automatically decode binary strings in chat.",
                 "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
                     "binary",
+                    "convert",
                     "decode"
                 ],
                 "type": ""
@@ -7250,7 +7260,11 @@
                 ],
                 "short": "Perform complex dice rolling.",
                 "tags": [
+                    "chance",
+                    "d20",
+                    "dnd",
                     "random",
+                    "roll",
                     "utility"
                 ],
                 "type": ""
@@ -7275,6 +7289,9 @@
                 "requirements": [],
                 "short": "A heartbeat uptime client.",
                 "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
                     "health",
                     "healthcheck",
                     "ping",
@@ -7306,8 +7323,14 @@
                 ],
                 "short": "Test your servers internet speed.",
                 "tags": [
+                    "download",
+                    "latency",
+                    "network",
+                    "ping",
+                    "upload",
                     "utility",
-                    "system"
+                    "system",
+                    "test"
                 ],
                 "type": ""
             },
@@ -7331,6 +7354,9 @@
                 "requirements": [],
                 "short": "Per-channel automatic reaction tools.",
                 "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
                     "checklist",
                     "downvote",
                     "karma",
@@ -7390,6 +7416,10 @@
                 "requirements": [],
                 "short": "Automatically check for updates to Red-DiscordBot.",
                 "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
+                    "check",
                     "update",
                     "utility"
                 ],
@@ -7415,6 +7445,7 @@
                 "requirements": [],
                 "short": "Uwuize messages.",
                 "tags": [
+                    "fun",
                     "utility"
                 ],
                 "type": ""
@@ -7441,6 +7472,10 @@
                 ],
                 "short": "Look up articles on Wikipedia.",
                 "tags": [
+                    "information",
+                    "lookup",
+                    "reference",
+                    "search",
                     "utility",
                     "wiki"
                 ],
