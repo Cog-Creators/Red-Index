@@ -1781,7 +1781,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1843,7 +1843,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Configure PyLav's global settings.",
                 "tags": [
@@ -1877,7 +1877,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1913,7 +1913,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Commands to manage and apply effects to the players.",
                 "tags": [
@@ -1959,7 +1959,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Commands to interact with local media files.",
                 "tags": [
@@ -1995,7 +1995,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Commands to interact with track lyrics.",
                 "tags": [
@@ -2028,7 +2028,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Commands to configure Pylav's managed node.",
                 "tags": [
@@ -2060,7 +2060,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Convert your Audio settings to PyLav.",
                 "tags": [
@@ -2094,7 +2094,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "A collection of node controller commands for PyLav.",
                 "tags": [
@@ -2127,7 +2127,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Configure PyLav's notifications.",
                 "tags": [
@@ -2165,7 +2165,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Control Playlists from PyLav",
                 "tags": [
@@ -2204,7 +2204,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "Apply some equalizer presets to the PyLav player.",
                 "tags": [
@@ -2240,7 +2240,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav>=1.9.1<1.10"
+                    "Py-Lav>=1.10.0+dirty<1.11"
                 ],
                 "short": "A bunch of utility commands for PyLav cogs.",
                 "tags": [
@@ -17123,7 +17123,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Automatically publish messages from a new channel.",
+                "description": "Automatically publish messages from a news channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -17139,7 +17139,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically publish messages from a new channel.",
+                "short": "Automatically publish messages from a news channel.",
                 "tags": [
                     "news",
                     "auto publish"
