@@ -7209,6 +7209,37 @@
                 ],
                 "type": ""
             },
+            "bansync": {
+                "author": [
+                    "PhasecoreX (PhasecoreX#0635)"
+                ],
+                "description": "This cog allows server admins to ban users on their server when they are banned on another server that the bot is in.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically sync bans across servers.",
+                "tags": [
+                    "auto",
+                    "automated",
+                    "automatic",
+                    "ban",
+                    "moderation",
+                    "pull",
+                    "sync",
+                    "utility"
+                ],
+                "type": ""
+            },
             "decodebinary": {
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
