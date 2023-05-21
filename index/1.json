@@ -17177,33 +17177,6 @@
                 ],
                 "type": "COG"
             },
-            "away": {
-                "author": [
-                    "dia \u2661#0666, max, TheDiscordHistorian (kato#0666)"
-                ],
-                "description": "Away cog to set yourself as away.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does store data by users for redisplaying purposes. This does not store any data that was not provided by a command. You may remove your own content without deleting your data completely. This cog will respect deletion requests though `[p]mydata`.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Away cog to set yourself as away.",
-                "tags": [
-                    "afk",
-                    "away"
-                ],
-                "type": "COG"
-            },
             "nekosbest": {
                 "author": [
                     "max"
