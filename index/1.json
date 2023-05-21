@@ -12480,7 +12480,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Make moving messages between channels/servers easy and integrated, using webhooks.\n\nmsgcopy: Copy messages from one channel to another. Move whole conversations, or merge channels easily with re-uploaded attachments, bot messages, and usernames/profiles replicated in full. Includes timestamp spacers.\n\nmsgrelay: Relay messages from one channel to another channel/server. Supports usernames/profile pics, replies, attachments (files/images/video), and embeds (bot command replies). Supports edited/deleted messages. Supports forwarding to multiple webhooks/channels. Forward messages between different servers to bridge communities and share content.",
+                "description": "Make moving messages between channels/servers easy and integrated, using webhooks.\n\nmsgcopy: Copy messages from one channel to another. Move whole conversations, or merge channels easily with re-uploaded attachments, bot messages, and usernames/profiles replicated in full. Includes timestamp spacers.\n\nmsgrelay: Relay messages from one channel to another channel/server. Supports usernames/profile pics, replies, attachments (files/images/video), and embeds (bot command replies). Supports edited/deleted messages. Supports forwarding to multiple webhooks/channels. Forward messages between different servers to bridge communities and share content.\n\nUpdated for Red 3.5",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
