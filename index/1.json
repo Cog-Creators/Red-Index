@@ -19360,7 +19360,7 @@
                 "author": [
                     "sravan"
                 ],
-                "description": "Acronym game is a fun and engaging word game where players take turns creating a phrase or sentence from a series of letters, with each letter representing a word in the phrase.\nAnd now it's available on your discord\nEnjoy!",
+                "description": "Acronym game is a fun and engaging word game where players take turns creating a phrase or sentence from a series of letters, with each letter representing a word in the phrase.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -19370,7 +19370,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Acronym",
+                "short": "Acronym game.",
                 "tags": [
                     "game",
                     "fun"
@@ -19460,7 +19460,7 @@
                 "author": [
                     "Ari (Onii-chan#3920), sravan (sravan#0001)"
                 ],
-                "description": "Perform Actions like kiss, cuddle etc.",
+                "description": "The perform cog facilitates immersive roleplay experiences with commands for hugging, kissing, poking, kicking, and more, allowing users to engage in diverse interactive actions and expressions.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -19472,7 +19472,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "short": "",
+                "short": "Perform Actions like kiss, cuddle etc.",
                 "tags": [],
                 "type": ""
             },
