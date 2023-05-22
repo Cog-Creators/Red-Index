@@ -14751,6 +14751,28 @@
                 ],
                 "type": ""
             },
+            "rolehistory": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Visualize the history of a user's roles.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Visualize the history of a user's roles.",
+                "tags": [
+                    "roles",
+                    "history",
+                    "rolehistory"
+                ],
+                "type": ""
+            },
             "simleague": {
                 "author": [
                     "flare(flare#0001)",
