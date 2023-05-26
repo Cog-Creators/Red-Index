@@ -22024,12 +22024,12 @@
         },
         "short": "Only the fluffiest of cogs go here."
     },
-    "https://github.com/zhaobenny/bz_cogs": {
+    "https://github.com/zhaobenny/bz-cogs": {
         "author": [
             "zhaobenny"
         ],
         "description": "random, niche, non-user friendly, and duct taped together cogs",
-        "name": "bz_cogs",
+        "name": "bz-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
