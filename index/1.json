@@ -12254,7 +12254,7 @@
         "author": [
             "coffeebank"
         ],
-        "description": "Special cogs offering deeper Discord integration with features and services",
+        "description": "Special cogs offering deeper Discord integrations and convenience through features, services, and webhooks",
         "name": "coffee-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -12650,7 +12650,7 @@
                 "type": ""
             }
         },
-        "short": "Special cogs offering deeper Discord integration with features and services"
+        "short": "Special cogs offering deeper Discord integrations and convenience"
     },
     "https://github.com/crossedfall/crossed-cogs": {
         "author": [
