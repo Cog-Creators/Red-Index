@@ -700,6 +700,39 @@
                 ],
                 "type": ""
             },
+            "reminders": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Don't forget anything anymore! Reminders in DMs, channels or FIFO commands... With 'Me Too', snooze and buttons. You can migrate reminders from RemindMe by PaseCoreX.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does store users reminders, who are deleted when triggered.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "pytz",
+                    "dateutil",
+                    "dateparser",
+                    "pyparsing",
+                    "validators"
+                ],
+                "short": "Don't forget anything anymore! Reminders in DMs, channels or FIFO commands... With 'Me Too', snooze and buttons.",
+                "tags": [
+                    "remind",
+                    "time",
+                    "message",
+                    "bell",
+                    "schedule",
+                    "fifo",
+                    "command"
+                ],
+                "type": ""
+            },
             "rolesbuttons": {
                 "author": [
                     "AAA3A"
