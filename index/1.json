@@ -716,7 +716,7 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "pytz",
-                    "dateutil",
+                    "python-dateutil",
                     "dateparser",
                     "pyparsing",
                     "validators"
