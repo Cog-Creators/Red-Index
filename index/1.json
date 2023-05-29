@@ -720,7 +720,8 @@
                     "dateparser",
                     "pyparsing",
                     "validators",
-                    "apscheduler"
+                    "apscheduler",
+                    "cron-descriptor"
                 ],
                 "short": "Don't forget anything anymore! Reminders in DMs, channels or FIFO commands... With 'Me Too', snooze and buttons.",
                 "tags": [
