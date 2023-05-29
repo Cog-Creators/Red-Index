@@ -4741,7 +4741,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4763,7 +4763,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4775,7 +4775,25 @@
                 ],
                 "type": "COG"
             },
-            "countercog": {
+            "chairs": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Play the game of Chairs!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play the game of Chairs!",
+                "tags": [],
+                "type": ""
+            },
+            "cogcount": {
                 "author": [
                     "Kuro"
                 ],
@@ -4797,11 +4815,11 @@
                 ],
                 "type": "COG"
             },
-            "danktax": {
+            "dankutils": {
                 "author": [
                     "Kuro"
                 ],
-                "description": "Calculate your tax before giving money on Dank Memer!",
+                "description": "Dank Memer related commands and utilities.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -4810,13 +4828,13 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Calculate your tax before giving money on Dank Memer!",
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Dank Memer commands.",
                 "tags": [
                     "dankmemer",
-                    "dank memer",
-                    "tax",
-                    "taxcalc"
+                    "dank memer"
                 ],
                 "type": "COG"
             },
@@ -4829,7 +4847,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4856,7 +4874,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4868,51 +4886,6 @@
                     "image",
                     "fumo",
                     "touhou"
-                ],
-                "type": "COG"
-            },
-            "hack": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Act like a professional hacker and hack anyone! Inspired by Dank Memer.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Act like a professional hacker and hack anyone!",
-                "tags": [
-                    "hack",
-                    "hacker",
-                    "heck",
-                    "hecker"
-                ],
-                "type": "COG"
-            },
-            "imgbb": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Upload your image to ImgBB!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Upload your image to ImgBB!",
-                "tags": [
-                    "image",
-                    "imgbb",
-                    "upload"
                 ],
                 "type": "COG"
             },
@@ -4930,7 +4903,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/Kuro-Rui/aiosu.git@fix-typeerror",
+                    "git+https://github.com/NiceAesth/aiosu",
                     "emoji"
                 ],
                 "short": "Display user information from osu!",
@@ -4949,7 +4922,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4964,31 +4937,6 @@
                 ],
                 "type": "COG"
             },
-            "reacttermino": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Restart/Shutdown your bot with reaction predicate!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Restart/Shutdown your bot with reaction predicate!",
-                "tags": [
-                    "confirm",
-                    "confirmation",
-                    "predicate",
-                    "reaction",
-                    "restart",
-                    "shutdown"
-                ],
-                "type": "COG"
-            },
             "sudo": {
                 "author": [
                     "Kuro",
@@ -5000,7 +4948,7 @@
                 "end_user_data_statement": "This cog stores bot owner ids so the bot owners can elevate their owner permissions.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -5012,7 +4960,7 @@
                     "permission",
                     "utility"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "translate": {
                 "author": [
@@ -5023,17 +4971,23 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "translatepy"
+                    "git+https://github.com/Animenosekai/translate",
+                    "emoji-country-flag"
                 ],
                 "short": "Translate the given text!",
                 "tags": [
-                    "trans",
-                    "translate"
+                    "bing",
+                    "deepl",
+                    "google",
+                    "libre",
+                    "mymemory",
+                    "translate",
+                    "yandex"
                 ],
                 "type": "COG"
             }
