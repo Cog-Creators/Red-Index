@@ -21231,11 +21231,16 @@
                 "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "piccolo[postgres]"
+                    "piccolo[postgres]",
+                    "red-postgres>=0.0.8"
                 ],
                 "short": "Template cog for piccolo/postgres with Red",
                 "tags": [],
