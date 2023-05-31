@@ -16127,12 +16127,12 @@
                 "author": [
                     "JDG"
                 ],
-                "description": "Track and interact with your shared Wordle results.",
+                "description": "Track your Wordle statistics and compete with your friends.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
