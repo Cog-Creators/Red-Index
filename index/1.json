@@ -4781,9 +4781,9 @@
                 "author": [
                     "Kuro"
                 ],
-                "description": "Play the game of Chairs!",
+                "description": "Play the game of Chairs in Discord!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -4791,15 +4791,20 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Play the game of Chairs!",
-                "tags": [],
-                "type": ""
+                "short": "Play the game of Chairs in Discord!",
+                "tags": [
+                    "chairs",
+                    "fun",
+                    "game",
+                    "minigame"
+                ],
+                "type": "COG"
             },
             "cogcount": {
                 "author": [
                     "Kuro"
                 ],
-                "description": "Have you ever wondered, how many commands/cogs does your bot have? Well this cog can help with that!",
+                "description": "Have you ever wondered, how many commands/cogs does your bot has? Well this cog can help with that!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -4826,7 +4831,7 @@
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
