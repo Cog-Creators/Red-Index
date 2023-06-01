@@ -16892,6 +16892,31 @@
                 ],
                 "type": "COG"
             },
+            "embedcreator": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Create embeds using buttons, modals and dropdowns!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create embeds using buttons and modals!",
+                "tags": [
+                    "Embeds",
+                    "Create",
+                    "Buttons",
+                    "Modals",
+                    "Dropdowns",
+                    "Selects"
+                ],
+                "type": "COG"
+            },
             "flags": {
                 "author": [
                     "Kreusada"
