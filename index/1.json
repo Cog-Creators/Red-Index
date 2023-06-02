@@ -704,7 +704,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Don't forget anything anymore! Reminders in DMs, channels or FIFO commands... With 'Me Too', snooze and buttons. You can migrate reminders from RemindMe by PhasecoreX.",
+                "description": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands sheduler, say sheduler... With 'Me Too', snooze and buttons. You can migrate reminders from RemindMe by PhasecoreX.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does store users reminders, who are deleted when triggered.",
                 "hidden": false,
@@ -721,9 +721,10 @@
                     "pyparsing",
                     "validators",
                     "apscheduler",
-                    "cron-descriptor"
+                    "cron-descriptor",
+                    "recurrent"
                 ],
-                "short": "Don't forget anything anymore! Reminders in DMs, channels or FIFO commands... With 'Me Too', snooze and buttons.",
+                "short": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands sheduler, say sheduler... With 'Me Too', snooze and buttons.",
                 "tags": [
                     "remind",
                     "time",
@@ -731,7 +732,8 @@
                     "bell",
                     "schedule",
                     "fifo",
-                    "command"
+                    "command",
+                    "say"
                 ],
                 "type": ""
             },
