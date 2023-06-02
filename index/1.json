@@ -7700,8 +7700,8 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
-                "max_bot_version": "3.4.99",
-                "min_bot_version": "3.4.6",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     8,
