@@ -4419,7 +4419,7 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.10",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4440,7 +4440,7 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.6",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4453,49 +4453,6 @@
                 ],
                 "type": "COG"
             },
-            "advancedlog": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Allow moderators to make notes about users",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores \"notes\" on users via ids.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Log/Make notes about users",
-                "tags": [
-                    "utility",
-                    "moderation",
-                    "mod"
-                ],
-                "type": "COG"
-            },
-            "antiadmin": {
-                "author": [
-                    "Jojo#7791"
-                ],
-                "description": "Prevent your bot from being used while it has admin permissions",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.6",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Prevent your bot from being used while it has admin permissions.",
-                "tags": [
-                    "admin",
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "cmdlogger": {
                 "author": [
                     "Jojo#7791"
@@ -4505,7 +4462,7 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.6",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4527,7 +4484,7 @@
                 "end_user_data_statement": "This cog does not store user data",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.6",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4548,7 +4505,7 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.10",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -4557,6 +4514,29 @@
                 "tags": [
                     "utility,",
                     "blacklist"
+                ],
+                "type": "COG"
+            },
+            "modnotes": {
+                "author": [
+                    "Jojo#7791"
+                ],
+                "description": "Allow moderators to make notes about users",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores \"notes\" on users via ids.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Log/Make notes about users",
+                "tags": [
+                    "utility",
+                    "moderation",
+                    "mod",
+                    "notes"
                 ],
                 "type": "COG"
             },
@@ -4569,7 +4549,7 @@
                 "end_user_data_statement": "This cog stores \"tasks\" via user ids.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.10",
+                "min_bot_version": "3.5.0.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
