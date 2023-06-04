@@ -1842,7 +1842,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1904,7 +1904,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Configure PyLav's global settings.",
                 "tags": [
@@ -1938,7 +1938,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1974,7 +1974,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Commands to manage and apply effects to the players.",
                 "tags": [
@@ -2020,7 +2020,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Commands to interact with local media files.",
                 "tags": [
@@ -2056,7 +2056,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Commands to interact with track lyrics.",
                 "tags": [
@@ -2089,7 +2089,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Commands to configure Pylav's managed node.",
                 "tags": [
@@ -2121,7 +2121,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Convert your Audio settings to PyLav.",
                 "tags": [
@@ -2155,7 +2155,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "A collection of node controller commands for PyLav.",
                 "tags": [
@@ -2188,7 +2188,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Configure PyLav's notifications.",
                 "tags": [
@@ -2226,7 +2226,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Control Playlists from PyLav",
                 "tags": [
@@ -2265,7 +2265,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "Apply some equalizer presets to the PyLav player.",
                 "tags": [
@@ -2301,7 +2301,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.10.6<1.11"
+                    "Py-Lav[all]>=1.10.7<1.11"
                 ],
                 "short": "A bunch of utility commands for PyLav cogs.",
                 "tags": [
