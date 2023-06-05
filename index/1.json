@@ -21467,6 +21467,27 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "Tube": {
+                "author": [
+                    "CrunchBangDev",
+                    "YamiKaitou#8975"
+                ],
+                "description": "Posts in a channel every time a new video is added to a YouTube channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "3.4.26",
+                "min_bot_version": "3.1.8",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser"
+                ],
+                "short": "Subscribe to channels on the 'tube",
+                "tags": [],
+                "type": "COG"
+            },
             "collectcards": {
                 "author": [
                     "YamiKaitou#8975"
