@@ -97,3 +97,233 @@ unapproved:
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
+  https://github.com/bobloy/Fox-V3/:
+    - announcedaily
+    - audiotrivia
+    - ccrole
+    - chatter
+    - conquest
+    - dad
+    - exclusiverole
+    - fifo
+    - firstmessage
+    - flag
+    - forcemention
+    - hangman
+    - infochannel
+    - isitdown
+    - launchlib
+    - leaver
+    - lovecalculator
+    - lseen
+    - planttycoon
+    - qrinvite
+    - reactrestrict
+    - recyclingplant
+    - rpsls
+    - scp
+    - stealemoji
+    - timerole
+    - tts
+    - unicode
+    - werewolf
+  https://github.com/Jintaku/Jintaku-Cogs-V3/:
+    - anisearch
+    - booru
+    - confession
+    - conversationgames
+    - dmannouncer
+    - gamesearch
+    - imdb
+    - osu
+    - pokemon
+    - roleplay
+    - wikia
+    - xkcd
+  https://github.com/skeith/MayuYukirin/:
+    - animal
+    - avatar
+    - doujin
+    - pda
+  https://github.com/nmbook/FalcomBot-cogs/:
+    - autoban
+    - hiback
+    - randt
+    - rolereqs
+    - rot13
+    - textt
+    - topic
+    - wikia
+  https://github.com/Redjumpman/Jumper-Plugins/:
+    - casino
+    - coupon
+    - dicetable
+    - jisho
+    - pokedex
+    - race
+    - raffle
+    - russianroulette
+    - shop
+  https://github.com/dualmoon/Cogs.v3:
+    - feedback
+    - selfassign
+    - weeedcog
+  https://github.com/designbyadrian/CogsByAdrian:
+    - crier
+    - insult
+    - killer
+    - penis
+  https://gitlab.com/Eragon5779/TechCogsV3:
+    - cpucompare
+    - encode
+    - genid
+    - hash
+  https://github.com/Malarne/discord_cogs:
+    - account
+    - anarchy
+    - apex
+    - heist
+    - League
+    - Leveler
+    - oBoobs
+  https://github.com/retke/Laggrons-Dumb-Cogs:
+    - codmw
+    - instantcmd
+    - roleinvite
+    - say
+    - tournaments
+    - warnsystem
+  https://github.com/fixator10/Fixator10-Cogs:
+    - adminutils
+    - captcha
+    - datautils
+    - generalchannel
+    - godvilledata
+    - leveler
+    - messageslog
+    - minecraftdata
+    - moreutils
+    - personalroles
+    - reverseimagesearch
+    - smmdata
+    - steamcommunity
+    - translators
+    - vocadb
+    - weather
+  https://github.com/elijabesu/SauriCogs:
+    - advancedlock
+    - application
+    - cookies
+    - cookiestore
+    - counting
+    - economyraffle
+    - forwarding
+    - gallery
+    - lock
+    - lvlupcookies
+    - marriage
+    - mentionable
+    - pick
+    - pingable
+    - reacttickets
+    - suggestion
+    - uniquename
+    - userlog
+  https://github.com/kennnyshiwa/kennnyshiwa-cogs:
+    - ark
+    - autogallery
+    - embedinvite
+    - imperialtoolkit
+    - lastfm
+    - listemoji
+    - pnw
+    - pottermore
+    - requestbox
+    - screenshare
+    - space
+    - tickets
+    - trackerinfo
+  https://gitlab.com/CrunchBangDev/cbd-cogs:
+    - Bio
+    - Bookmark
+    - Inspire
+    - Markov
+    - Scrub
+    - Tube
+    - Vibe
+  https://github.com/grayconcaves/FanCogs:
+    - ao3
+    - mxtxtags
+    - promptgenerator
+    - shibe
+  https://github.com/flapjax/FlapJack-Cogs:
+    - bigmoji
+    - colorme
+    - comics
+    - defcon
+    - dongers
+    - msgvote
+    - reactpoll
+    - smartreact
+    - smite
+    - spoiler
+    - wat
+    - wordclouds
+  https://github.com/SharkyTheKing/Sharky:
+    - charlimit
+    - lockdown
+    - morseshark
+    - msgtracker
+    - namegen
+    - newspublish
+    - reports
+    - strawpoll
+    - verify
+  https://github.com/TheWyn/Wyn-RedV3Cogs:
+    - anisearch
+    - lyrics
+    - nyaa
+    - sysinfo
+  https://github.com/Obi-Wan3/OB13-Cogs:
+    - announcements
+    - botaccess
+    - brainshop
+    - counting
+    - createchannels
+    - directmessage
+    - embedreact
+    - emojitools
+    - fah
+    - github
+    - improvtime
+    - lfg
+    - mentionhelp
+    - messagenotifier
+    - nodms
+    - privaterooms
+    - publicrooms
+    - quizrole
+    - reactionpolls
+    - referrals
+    - reply
+    - restrictedroleperms
+    - rolesync
+    - roletiers
+    - sitestatus
+    - statusrole
+    - streamrole
+    - templateposts
+    - temprole
+    - translate
+    - uploadstreaks
+  https://github.com/npc203/npc-cogs:
+    - bible
+    - customhelp
+    - google
+    - noreplyping
+    - snake
+    - snipe
+    - speak
+    - todo
+    - typeracer
+    - weeb
