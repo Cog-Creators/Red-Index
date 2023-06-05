@@ -20889,7 +20889,7 @@
                 ],
                 "description": "Chat GPT assistant(or chat) cog with configurable prompt injection and dynamic embeddings",
                 "disabled": false,
-                "end_user_data_statement": "This cog doesn't store data about users, however it does store prompts and OpenAI API keys on a per server basis",
+                "end_user_data_statement": "This cog stores prompts and OpenAI API keys on a per server basis. If enabled, conversations with the bot are also persistently stored",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
