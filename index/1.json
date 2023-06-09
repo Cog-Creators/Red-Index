@@ -10949,7 +10949,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/phenom4n4n/TagScript.git@dpy2"
+                ],
                 "short": "Ping members on join in specific channels.",
                 "tags": [
                     "joinping",
