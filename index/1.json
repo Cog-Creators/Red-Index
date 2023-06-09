@@ -12251,6 +12251,66 @@
         },
         "short": "Cogs by Bobloy"
     },
+    "https://github.com/burnacid/Botc-Red-Cogs": {
+        "author": [
+            "Burnacid"
+        ],
+        "description": "Playing Blood on the Clocktower via Discord. Then these Cogs are a must",
+        "name": "Botc-Red-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "botc": {
+                "author": [
+                    "Burnacid"
+                ],
+                "description": "The ideal cog for playing Blood on the Clocktower",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "datetime",
+                    "asyncio"
+                ],
+                "short": "Cog for Blood on the Clocktower",
+                "tags": [
+                    "move",
+                    "role",
+                    "blood on the clocktower"
+                ],
+                "type": "COG"
+            },
+            "follow": {
+                "author": [
+                    "Burnacid"
+                ],
+                "description": "This cog lets a member follow another member through voice channels. Ideal for playing games like Blood on the Clocktower",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Follow",
+                "tags": [
+                    "utility",
+                    "game",
+                    "follow",
+                    "blood on the clocktower"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Blood on the Clocktower Red Cogs"
+    },
     "https://github.com/coffeebank/coffee-cogs": {
         "author": [
             "coffeebank"
