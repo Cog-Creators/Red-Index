@@ -4735,7 +4735,7 @@
         "author": [
             "Kuro"
         ],
-        "description": "Some cogs made/rewritten by Kuro for Red-DiscordBot v3.",
+        "description": "Some cogs made by Kuro for Red-DiscordBot v3.",
         "name": "Kuro-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -5005,7 +5005,7 @@
                 "type": "COG"
             }
         },
-        "short": "Some cogs made/rewritten by Kuro for Red-DiscordBot v3."
+        "short": "Some cogs made by Kuro for Red-DiscordBot v3."
     },
     "https://github.com/Malarne/discord_cogs": {
         "author": [
