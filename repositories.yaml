@@ -124,11 +124,6 @@ flagged-cogs:
     - roleplay
     - wikia
     - xkcd
-  https://github.com/skeith/MayuYukirin/:
-    - animal
-    - avatar
-    - doujin
-    - pda
   https://github.com/nmbook/FalcomBot-cogs/:
     - autoban
     - hiback
