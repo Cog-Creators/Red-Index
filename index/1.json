@@ -16571,7 +16571,6 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "gspread-asyncio",
                     "tabulate",
                     "aiolimiter",
                     "Pillow",
