@@ -1,19 +1,23 @@
+import datetime
+import hmac
 import json
 import yaml
 import re
 import sys
 from gzip import GzipFile
 from pathlib import Path
-from hashlib import sha1
+import hashlib
 
 CACHE = Path("cache")
 
 RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
-GEN_PATH = Path("index")
+GEN_PATH = Path("index") # exposed Index endpoints
 GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json") # Pretty, for QA checking
 GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json") # Minified, for user download
 GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz") # Gzipped
 GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml") # Error log
+METADATA_FILE = Path("metadata.json") # internal metadata, used for e.g. last_updated_at dates
+NOW = datetime.datetime.now(datetime.timezone.utc)
 
 
 class CustomEncoder(json.JSONEncoder):
@@ -24,7 +28,7 @@ class CustomEncoder(json.JSONEncoder):
             return json.JSONEncoder.default(self, obj)
 
 class Repo:
-    def __init__(self, url: str, category: str):
+    def __init__(self, metadata, category: str):
         """Anything exposed here will be serialized later
 
         Attributes starting with rx_ deviate from the info.json spec
@@ -37,11 +41,12 @@ class Repo:
         self.author = []
         self.description = ""
         self.short = ""
-        self._url = url
+        self._metadata = metadata
+        self._url = metadata.url
         self.name = ""
         self.rx_branch = ""
         try:
-            self.parse_name_branch_url(url)
+            self.parse_name_branch_url(metadata.url)
         except:
             self._error = ("Something went wrong while parsing the url. "
                             "Is it a valid address?")
@@ -111,7 +116,7 @@ class Repo:
             return
 
         for cog in self.rx_cogs:
-            cog.get_info()
+            cog.get_info(self._metadata)
             cog.check_cog_validity()
 
     def __json__(self):
@@ -139,6 +144,8 @@ class Cog:
         self.requirements = []
         self.tags = []
         self.type = "" # Still a thing?
+        self.rx_added_at = ""
+        self.rx_last_updated_at = ""
         self._error = ""
 
     def check_cog_validity(self):
@@ -149,7 +156,7 @@ class Cog:
         if not initpath.exists():
             self._error = "Info.json is present but no __init__.py was found. Invalid cog package."
 
-    def get_info(self):
+    def get_info(self, repo_metadata):
         if self._error:
             return
         info_path = self._path / Path("info.json")
@@ -175,12 +182,130 @@ class Cog:
         self.requirements = data.get("requirements", [])
         self.tags = data.get("tags", [])
         self.type = data.get("type", "")
+        if self._name in repo_metadata.cogs:
+            cog_metadata = repo_metadata.cogs[self._name]
+            cog_metadata.update_from_path(self._path)
+        else:
+            cog_metadata = InternalCogMetadata.from_path(self._name, self._path)
+            repo_metadata.cogs[self._name] = cog_metadata
+        self.rx_added_at = cog_metadata.added_at.isoformat()
+        self.rx_last_updated_at = cog_metadata.last_updated_at.isoformat()
 
     def __json__(self):
         return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
 
+class InternalRepoMetadata:
+    def __init__(self, url, cogs=None):
+        self.url = url
+        self.cogs = cogs or {}
+
+    @classmethod
+    def from_dict(cls, url, data):
+        cogs = {
+            name: InternalCogMetadata.from_dict(name, cog_metadata)
+            for name, cog_metadata in data["cogs"].items()
+        }
+        return cls(url, cogs)
+
+    def __json__(self):
+        return {
+            "cogs": self.cogs,
+        }
+
+class InternalCogMetadata:
+    _BUFFER_SIZE = 2**18
+    _PREFERRED_ALGORITHMS = ("sha256",)
+
+    def __init__(self, name, *, added_at, last_updated_at, deleted_at, hashes):
+        self.name = name
+        self.added_at = added_at
+        self.last_updated_at = last_updated_at
+        self.deleted_at = deleted_at
+        self.hashes = hashes
+        self._still_exists = False
+
+    @classmethod
+    def from_dict(cls, name, data):
+        return cls(
+            name=name,
+            added_at=get_datetime(data["added_at"]),
+            last_updated_at=get_datetime(data["last_updated_at"]),
+            deleted_at=get_datetime(data["deleted_at"]),
+            hashes=data["hashes"],
+        )
+
+    @classmethod
+    def from_path(cls, name, path):
+        obj = cls(
+            name=name,
+            added_at=NOW,
+            last_updated_at=NOW,
+            deleted_at=None,
+            hashes=cls.get_file_hashes(path),
+        )
+        obj._still_exists = True
+        return obj
+
+    def __json__(self):
+        return {
+            "added_at": self.added_at.timestamp(),
+            "last_updated_at": self.last_updated_at.timestamp(),
+            "deleted_at": self.deleted_at and self.deleted_at.timestamp(),
+            "hashes": self.hashes,
+        }
+
+    def update_from_path(self, path):
+        self._still_exists = True
+        self.deleted_at = None
+        hashes = self.get_file_hashes(path)
+        if not self.verify_hashes(hashes):
+            self.last_updated_at = NOW
+
+    @classmethod
+    def get_file_hashes(cls, path):
+        buffer = bytearray(cls._BUFFER_SIZE)
+        view = memoryview(buffer)
+        digests = {algorithm: hashlib.new(algorithm) for algorithm in ("sha256",)}
+        for path in sorted(path.rglob("**/*")):
+            if not path.is_file():
+                continue
+            with path.open("rb") as fp:
+                while True:
+                    size = fp.readinto(buffer)
+                    if not size:
+                        break
+                    for digestobj in digests.values():
+                        digestobj.update(view[:size])
+        return {algorithm: digestobj.hexdigest() for algorithm, digestobj in digests.items()}
+
+    def verify_hashes(self, hashes):
+        for algorithm in self._PREFERRED_ALGORITHMS:
+            try:
+                a = self.hashes[algorithm]
+                b = hashes[algorithm]
+            except KeyError:
+                continue
+            else:
+                return hmac.compare_digest(a, b)
+
+        for algorithm in self.hashes.keys() & hashes.keys():
+            try:
+                a = self.hashes[algorithm]
+                b = hashes[algorithm]
+            except KeyError:
+                continue
+            else:
+                return hmac.compare_digest(a, b)
+
+        raise RuntimeError("No matching hashes were found.")
+
+def get_datetime(timestamp: int = None):
+    if timestamp is None:
+        return None
+    return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.timezone.utc)
+
 def sha1_digest(url):
-    return sha1(url.encode('utf-8')).hexdigest()
+    return hashlib.sha1(url.encode('utf-8')).hexdigest()
 
 def make_error_log(repos):
     log = {}
@@ -207,12 +332,27 @@ def main():
     with open(yamlfile) as f:
         data = yaml.safe_load(f.read())
 
+    try:
+        with open(METADATA_FILE, "r") as fp:
+            raw_metadata = json.load(fp)
+    except FileNotFoundError:
+        metadata = {}
+    else:
+        metadata = {
+            url: InternalRepoMetadata.from_dict(url, repo_metadata)
+            for url, repo_metadata in raw_metadata.items()
+        }
     repos = []
 
     for k in ("approved", "unapproved"):
         if data[k]: # Can be None if empty
             for url in data[k]:
-                repos.append(Repo(url, k))
+                if url in metadata:
+                    repo_metadata = metadata[url]
+                else:
+                    repo_metadata = InternalRepoMetadata(url)
+                    metadata[url] = repo_metadata
+                repos.append(Repo(repo_metadata, k))
 
     for r in repos:
         r.folder_check_and_get_info()
@@ -225,6 +365,14 @@ def main():
 
     for r in repos:
         r.rx_cogs = [c for c in r.rx_cogs if not c._error]
+
+    for repo_metadata in metadata.values():
+        for cog_metadata in repo_metadata.cogs.values():
+            if not cog_metadata._still_exists:
+                cog_metadata.deleted_at = NOW
+
+    with open(METADATA_FILE, "w") as fp:
+        json.dump(metadata, fp, indent=4, sort_keys=True, cls=CustomEncoder)
 
     if data["flagged-cogs"]:
         for url, flagged_cogs in data["flagged-cogs"].items():
