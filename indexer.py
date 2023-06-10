@@ -45,6 +45,8 @@ class Repo:
         self._url = metadata.url
         self.name = ""
         self.rx_branch = ""
+        self.rx_added_at = ""
+        self.rx_approved_at = ""
         try:
             self.parse_name_branch_url(metadata.url)
         except:
@@ -97,6 +99,11 @@ class Repo:
         self.author = info.get("author", [])
         self.description = info.get("description", "")
         self.short = info.get("short", "")
+        self._metadata._still_exists = True
+        if self.rx_category == "approved" and self._metadata.approved_at is None:
+            self._metadata.approved_at = NOW
+        self.rx_added_at = self._metadata.added_at.isoformat()
+        self.rx_approved_at = self._metadata.approved_at and self._metadata.approved_at.isoformat()
 
     def populate_cogs(self):
         if self._error:
@@ -195,9 +202,22 @@ class Cog:
         return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
 
 class InternalRepoMetadata:
-    def __init__(self, url, cogs=None):
+    def __init__(self, url, cogs=None, *, added_at=None, approved_at=None, deleted_at=None):
         self.url = url
         self.cogs = cogs or {}
+        self.added_at = added_at or NOW
+        self.approved_at = approved_at
+        self.deleted_at = deleted_at
+        self.__still_exists = False
+
+    @property
+    def _still_exists(self):
+        return self.__still_exists
+
+    @_still_exists.setter
+    def _still_exists(self, value):
+        self.__still_exists = value
+        self.deleted_at = None
 
     @classmethod
     def from_dict(cls, url, data):
@@ -205,11 +225,23 @@ class InternalRepoMetadata:
             name: InternalCogMetadata.from_dict(name, cog_metadata)
             for name, cog_metadata in data["cogs"].items()
         }
-        return cls(url, cogs)
+        added_at = get_datetime(data["added_at"])
+        approved_at = get_datetime(data["approved_at"])
+        deleted_at = get_datetime(data["deleted_at"])
+        return cls(
+            url,
+            cogs,
+            added_at=added_at,
+            approved_at=approved_at,
+            deleted_at=deleted_at,
+        )
 
     def __json__(self):
         return {
             "cogs": self.cogs,
+            "added_at": self.added_at.timestamp(),
+            "approved_at": self.approved_at and self.approved_at.timestamp(),
+            "deleted_at": self.deleted_at and self.deleted_at.timestamp(),
         }
 
 class InternalCogMetadata:
@@ -367,6 +399,8 @@ def main():
         r.rx_cogs = [c for c in r.rx_cogs if not c._error]
 
     for repo_metadata in metadata.values():
+        if not repo_metadata._still_exists:
+            repo_metadata.deleted_at = repo_metadata.deleted_at or NOW
         for cog_metadata in repo_metadata.cogs.values():
             if not cog_metadata._still_exists:
                 cog_metadata.deleted_at = cog_metadata.deleted_at or NOW
