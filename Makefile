@@ -2,6 +2,8 @@
 
 # user-facing targets
 
+.PHONY: index
+
 all: clone index
 
 clone: cleancache cache
