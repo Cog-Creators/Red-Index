@@ -369,7 +369,7 @@ def main():
     for repo_metadata in metadata.values():
         for cog_metadata in repo_metadata.cogs.values():
             if not cog_metadata._still_exists:
-                cog_metadata.deleted_at = NOW
+                cog_metadata.deleted_at = cog_metadata.deleted_at or NOW
 
     with open(METADATA_FILE, "w") as fp:
         json.dump(metadata, fp, indent=4, sort_keys=True, cls=CustomEncoder)
