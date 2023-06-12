@@ -3212,6 +3212,30 @@
                 ],
                 "type": ""
             },
+            "vxtwitterconverter": {
+                "author": [
+                    "JadeRabbit#9310"
+                ],
+                "description": "Converts Twitter link to VxTwitter for better video embeds",
+                "disabled": false,
+                "end_user_data_statement": "no data is stored",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "urlextract"
+                ],
+                "short": "twitter embed fix when?",
+                "tags": [
+                    "server"
+                ],
+                "type": ""
+            },
             "welcome": {
                 "author": [
                     "Injabie3#1660"
