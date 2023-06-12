@@ -11116,6 +11116,268 @@
         },
         "short": "Cogs made by JDG"
     },
+    "https://github.com/japandotorg/Seina-Cogs": {
+        "author": [
+            "inthedark.org#0666"
+        ],
+        "description": "Fun cogs developed by inthedark.org.",
+        "name": "Seina-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "calculator": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Math stuff",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Math stuff",
+                "tags": [
+                    "utility",
+                    "calulator"
+                ],
+                "type": "COG"
+            },
+            "chemistry": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Calculate molecular mass directly from discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "molmass==2021.6.18"
+                ],
+                "short": "Chemistry stuff",
+                "tags": [
+                    "utility",
+                    "chemistry",
+                    "molarmass",
+                    "chem"
+                ],
+                "type": "COG"
+            },
+            "epicgames": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Get free games info from epic games store.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple epic games related cog.",
+                "tags": [
+                    "utility",
+                    "epicgames"
+                ],
+                "type": "COG"
+            },
+            "firstmessage": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "A simple cog for jump to first message of a channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple cog for jump to first message of a channel.",
+                "tags": [
+                    "utility",
+                    "tools"
+                ],
+                "type": "COG"
+            },
+            "maplestory": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Get user info from the maple story API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple maple story related cog.",
+                "tags": [
+                    "utility",
+                    "maplestory"
+                ],
+                "type": "COG"
+            },
+            "massunban": {
+                "author": [
+                    "aikaterna",
+                    "inthedark.org#0666"
+                ],
+                "description": "Mass unban users by the ban reason used.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mass unban users.",
+                "tags": [
+                    "unban"
+                ],
+                "type": "COG"
+            },
+            "msgutils": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Useful message utilities.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "dump stuff",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "rainbowrole": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Creates a rainbow role in your server which loops into the 7 rainbow roles every 90 seconds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple cog for setting up a rainbow role.",
+                "tags": [
+                    "utility",
+                    "tools",
+                    "rainbow",
+                    "role"
+                ],
+                "type": "COG"
+            },
+            "seinatools": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Some cool tools for the bot owners.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate",
+                    "emoji==1.6.3",
+                    "pygicord==1.1.0",
+                    "playwright==1.30.0",
+                    "git+https://github.com/JeyyGit/jeyyapi.git"
+                ],
+                "short": "A simple tools cog for the bot owners.",
+                "tags": [
+                    "utility",
+                    "tools"
+                ],
+                "type": "COG"
+            },
+            "statuscodes": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Find the meaning behind various status codes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Find the meaning behind various status codes.",
+                "tags": [
+                    "utility",
+                    "info"
+                ],
+                "type": "COG"
+            },
+            "statusrole": {
+                "author": [
+                    "Obi-Wan3",
+                    "inthedark.org#0666"
+                ],
+                "description": "Assign roles to users for the duration in which they have certain custom statuses.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server settings (i.e. custom status to watch for, the respective roles to assign, and an optional log channel).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    1
+                ],
+                "permissions": [
+                    "manage_roles"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Roles for Certain Custom Statuses",
+                "tags": [
+                    "utility",
+                    "custom status",
+                    "roles"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Just some tools for red."
+    },
     "https://github.com/jmesfo0/jmes-cogs": {
         "author": [
             "James (jmes#1396)"
