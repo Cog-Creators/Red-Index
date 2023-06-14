@@ -297,6 +297,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "emoji",
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "short": "A cog to use Discord Modals, forms with graphic interface!",
@@ -766,7 +767,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to compile and run codes in some languages!",
+                "description": "A cog to compile and run codes in some languages! Use `[p]setruncode listlanguages` to get a list of all the available languages.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users. Please note: all the code you run is stored on the wandbox.org server, even if you need a code to access it. To my knowledge, there is no way to request a deletion.",
                 "hidden": false,
