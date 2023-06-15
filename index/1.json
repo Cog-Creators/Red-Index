@@ -11363,6 +11363,30 @@
                 ],
                 "type": "COG"
             },
+            "shazam": {
+                "author": [
+                    "inthedark.org#0666"
+                ],
+                "description": "Search songs using Shazam.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "shazamio"
+                ],
+                "short": "Search songs using Shazam.",
+                "tags": [
+                    "songs",
+                    "audio",
+                    "shazam"
+                ],
+                "type": "COG"
+            },
             "statuscodes": {
                 "author": [
                     "inthedark.org#0666"
