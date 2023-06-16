@@ -16440,7 +16440,8 @@
                 "requirements": [
                     "openai",
                     "tenacity",
-                    "tiktoken"
+                    "tiktoken",
+                    "emoji"
                 ],
                 "short": "OpenAI-powered reacts",
                 "tags": [
