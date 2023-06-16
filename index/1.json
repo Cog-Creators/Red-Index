@@ -15176,7 +15176,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "read_messages",
                     "send_messages"
@@ -15257,7 +15261,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [],
@@ -15288,7 +15292,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "read_messages"
                 ],
@@ -15316,7 +15324,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [
@@ -15348,7 +15356,7 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [
@@ -15381,7 +15389,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "send_messages"
                 ],
@@ -15407,7 +15419,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -15429,7 +15445,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "read_messages",
                     "send_messages",
@@ -15472,7 +15492,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [],
@@ -15498,7 +15518,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [
@@ -15527,7 +15547,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [],
@@ -15552,7 +15572,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.17",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "read_messages",
                     "send_messages",
@@ -15591,7 +15615,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -15611,7 +15639,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
                 "permissions": [
                     "read_messages",
                     "send_messages",
@@ -15648,7 +15680,7 @@
                 "min_bot_version": "3.4.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [],
@@ -15680,7 +15712,7 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [],
@@ -15709,7 +15741,7 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    8,
+                    9,
                     1
                 ],
                 "permissions": [
