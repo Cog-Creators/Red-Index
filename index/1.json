@@ -3228,9 +3228,7 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "urlextract"
-                ],
+                "requirements": [],
                 "short": "twitter embed fix when?",
                 "tags": [
                     "server"
