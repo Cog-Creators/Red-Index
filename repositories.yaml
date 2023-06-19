@@ -85,36 +85,6 @@ unapproved:
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
-  https://github.com/bobloy/Fox-V3/:
-    - announcedaily
-    - audiotrivia
-    - ccrole
-    - chatter
-    - conquest
-    - dad
-    - exclusiverole
-    - fifo
-    - firstmessage
-    - flag
-    - forcemention
-    - hangman
-    - infochannel
-    - isitdown
-    - launchlib
-    - leaver
-    - lovecalculator
-    - lseen
-    - planttycoon
-    - qrinvite
-    - reactrestrict
-    - recyclingplant
-    - rpsls
-    - scp
-    - stealemoji
-    - timerole
-    - tts
-    - unicode
-    - werewolf
   https://github.com/Jintaku/Jintaku-Cogs-V3/:
     - anisearch
     - booru
