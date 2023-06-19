@@ -14734,7 +14734,7 @@
                     "timeago>=1.0.15,<2.0.0",
                     "aiolimiter>=1.0.0,<2.0.0",
                     "aiohttp-retry>=2.4.5,<3.0.0",
-                    "dronefly-core>=0.3.6.dev3,<0.5.0",
+                    "dronefly-core>=0.3.6.dev4,<0.5.0",
                     "dronefly-discord>=0.1.1.dev2,<0.3.0",
                     "pyinaturalist>=0.19.0.dev2,<0.20.0",
                     "dateparser>=1.0.0,<2.0.0"
