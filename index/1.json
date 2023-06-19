@@ -8489,6 +8489,106 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "announcedaily": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Send daily announcements to all servers at a specified times",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send daily announcements",
+                "tags": [
+                    "bobloy"
+                ],
+                "type": ""
+            },
+            "audiotrivia": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Start an Audio Trivia game",
+                "disabled": false,
+                "end_user_data_statement": "This cog expands the core Audio and Trivia cogs without collecting any additional End User Data.\nSee the core End User Data storage for more information",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Start an Audio Trivia game",
+                "tags": [
+                    "fox",
+                    "bobloy",
+                    "games",
+                    "audio"
+                ],
+                "type": ""
+            },
+            "ccrole": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Creates custom commands to adjust roles and send custom messages",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Creates commands that adjust roles",
+                "tags": [
+                    "fox",
+                    "bobloy",
+                    "utility",
+                    "tools",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "chatter": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Create an offline chatbot that talks like your average member using Machine Learning. See setup instructions at https://github.com/bobloy/Fox-V3/tree/master/chatter",
+                "disabled": false,
+                "end_user_data_statement": "This cog only stores anonymous conversations data; no End User Data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/bobloy/ChatterBot@fox#egg=ChatterBot>=1.1.0.dev4",
+                    "kaggle",
+                    "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0.tar.gz#egg=en_core_web_sm",
+                    "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.1.0/en_core_web_md-3.1.0.tar.gz#egg=en_core_web_md"
+                ],
+                "short": "Local Chatbot run on machine learning",
+                "tags": [
+                    "chat",
+                    "chatbot",
+                    "chatterbot",
+                    "cleverbot",
+                    "clever",
+                    "machinelearning",
+                    "nlp",
+                    "language",
+                    "bobloy"
+                ],
+                "type": ""
+            },
             "coglint": {
                 "author": [
                     "Bobloy"
@@ -8513,6 +8613,471 @@
                 ],
                 "type": ""
             },
+            "conquest": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Handle war games by filling in specified territories with colors",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "War Game Map",
+                "tags": [
+                    "bobloy",
+                    "games",
+                    "game",
+                    "war",
+                    "map",
+                    "axisandallies",
+                    "heartsofiron",
+                    "conquest",
+                    "rpg"
+                ],
+                "type": ""
+            },
+            "dad": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Tell dad jokes and give out bad nicknames",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Dad joke bot",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "exclusiverole": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Assign roles to be exclusive, preventing other roles from being added",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Set roles to be exclusive",
+                "tags": [
+                    "fox",
+                    "bobloy",
+                    "utility",
+                    "tools",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "fifo": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "[BETA] Schedule commands to be run at certain times or intervals",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "apscheduler",
+                    "pytz",
+                    "python-dateutil"
+                ],
+                "short": "[BETA] Schedule commands to be run at certain times or intervals",
+                "tags": [
+                    "bobloy",
+                    "utilities",
+                    "tool",
+                    "tools",
+                    "roles",
+                    "schedule",
+                    "cron",
+                    "interval",
+                    "date",
+                    "datetime",
+                    "time",
+                    "calendar",
+                    "timezone"
+                ],
+                "type": ""
+            },
+            "firstmessage": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Simple cog to jump to the first message of a channel easily",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple cog to jump to first message of a channel",
+                "tags": [
+                    "bobloy",
+                    "utilities",
+                    "tool",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "flag": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Add expiring flags on members to track warnings or incidents",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs listed along with a provided explanation for being flagged",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Add expiring flags to members",
+                "tags": [
+                    "bobloy",
+                    "warning",
+                    "warn",
+                    "temp",
+                    "tools",
+                    "warning"
+                ],
+                "type": ""
+            },
+            "forcemention": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Mentions roles that are unmentionable",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mention unmentionables",
+                "tags": [
+                    "bobloy",
+                    "utils"
+                ],
+                "type": ""
+            },
+            "hangman": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Play Hangman with your friends",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Hangman",
+                "tags": [
+                    "game",
+                    "fun",
+                    "bobloy"
+                ],
+                "type": ""
+            },
+            "infochannel": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Create a channel with updating server info",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Updating server info channel",
+                "tags": [
+                    "bobloy",
+                    "utils"
+                ],
+                "type": ""
+            },
+            "isitdown": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Check if a website/url is down using the https://isitdown.site/ api",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Check if a website/url is down",
+                "tags": [
+                    "bobloy",
+                    "utilities",
+                    "tool",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "launchlib": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Pull information from the Launch Library API for space flights",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-launch-library>=2.0.3"
+                ],
+                "short": "Access launch data for space flights",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "launch",
+                    "space",
+                    "api",
+                    "library"
+                ],
+                "type": ""
+            },
+            "leaver": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Keeps track of when people leave the server, and posts a message notifying",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send message on leave",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "lovecalculator": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon"
+                ],
+                "description": "Calculate the love percentage for two users. Shows gif result and description of their love",
+                "disabled": false,
+                "end_user_data_statement": "This cog uses the core Bank cog. It store no End User Data otherwise.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "beautifulsoup4"
+                ],
+                "short": "Calculate love percentage for two users.",
+                "tags": [
+                    "bobloy",
+                    "fun",
+                    "love"
+                ],
+                "type": ""
+            },
+            "lseen": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Keep track of when users were last seen online",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs along with a time they were last online per guild",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-dateutil"
+                ],
+                "short": "Last seen tracker",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "planttycoon": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon",
+                    "PaddoInWonderland"
+                ],
+                "description": "Grow your own plants! Be sure to take care of it. Do `[p]gardening` to get started",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs along with their progress in the PlantTycoon game",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grow your own plants! Do `[p]gardening` to get started.",
+                "tags": [
+                    "bobloy",
+                    "games",
+                    "environment"
+                ],
+                "type": ""
+            },
+            "qrinvite": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Create a QR code invite for the server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "MyQR"
+                ],
+                "short": "Create a QR code invite",
+                "tags": [
+                    "bobloy",
+                    "tools",
+                    "qr",
+                    "code"
+                ],
+                "type": ""
+            },
+            "reactrestrict": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Cog to prevent reactions on specific messages from certain users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Prevent reactions to messages",
+                "tags": [
+                    "react",
+                    "reaction",
+                    "restrict",
+                    "tools",
+                    "utils",
+                    "bobloy"
+                ],
+                "type": ""
+            },
+            "recyclingplant": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon"
+                ],
+                "description": "Apply for a job at the recycling plant! Sort out the garbage!",
+                "disabled": false,
+                "end_user_data_statement": "This cog used the core",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Apply for a job at the recycling plant!",
+                "tags": [
+                    "bobloy",
+                    "environment",
+                    "games"
+                ],
+                "type": ""
+            },
+            "rpsls": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon"
+                ],
+                "description": "Play Rock Papers Scissor Lizard Spock by Sam Kass in Discord!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Rock Papers Scissor Lizard Spock in Discord!",
+                "tags": [
+                    "bobloy",
+                    "star trek",
+                    "games"
+                ],
+                "type": ""
+            },
             "sayurl": {
                 "author": [
                     "Bobloy"
@@ -8533,6 +9098,146 @@
                 "tags": [
                     "bobloy",
                     "tools"
+                ],
+                "type": ""
+            },
+            "scp": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon"
+                ],
+                "description": "Look up SCP articles. Warning: Some of them may be too creepy or gruesome.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Look up SCP articles.",
+                "tags": [
+                    "bobloy",
+                    "gruesom"
+                ],
+                "type": ""
+            },
+            "stealemoji": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Steals custom emojis the bot sees and moves them to an emoji server",
+                "disabled": false,
+                "end_user_data_statement": "This cog gathers custom emojis from all sources, but stores no End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Steals custom emojis",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "emoji"
+                ],
+                "type": ""
+            },
+            "timerole": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Apply roles based on the # of hours or days on server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Apply roles after # of hours or days",
+                "tags": [
+                    "bobloy",
+                    "utilities",
+                    "tools",
+                    "tool",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "tts": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Send Text2Speech messages as an uploaded mp3",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "gTTS"
+                ],
+                "short": "Send TTS messages as uploaded mp3",
+                "tags": [
+                    "bobloy",
+                    "utils",
+                    "audio"
+                ],
+                "type": ""
+            },
+            "unicode": {
+                "author": [
+                    "Bobloy",
+                    "SnappyDragon"
+                ],
+                "description": "Encode/Decode Unicode characters!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Encode/Decode Unicode characters!",
+                "tags": [
+                    "bobloy",
+                    "utility",
+                    "tools"
+                ],
+                "type": ""
+            },
+            "werewolf": {
+                "author": [
+                    "Bobloy"
+                ],
+                "description": "Customizable Werewolf Game",
+                "disabled": false,
+                "end_user_data_statement": "This stores user IDs in memory while they're actively using the cog, and stores no persistent End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "[ALPHA] Play Werewolf (Mafia) Game in discord",
+                "tags": [
+                    "mafia",
+                    "werewolf",
+                    "party",
+                    "fun",
+                    "game",
+                    "bobloy"
                 ],
                 "type": ""
             }
