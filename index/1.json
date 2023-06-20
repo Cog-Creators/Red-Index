@@ -556,6 +556,7 @@
             },
             "lintcodes": {
                 "author": [
+                    "rtk-rnjn",
                     "AAA3A"
                 ],
                 "description": "A cog to lint a code from Discord, with Flake8, PyLint, MyPy, Bandit, Black, Isort, Yapf, AutoFlake8, PyRight and Ruff!",
