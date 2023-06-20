@@ -15957,7 +15957,7 @@
                 "author": [
                     "Vertyco"
                 ],
-                "description": "Full featured Chat GPT assistant(or chat) cog with configurable prompt injection, dynamic embeddings, and custom function calling",
+                "description": "Set up and configure an AI assistant (or chat) cog for your server with one of OpenAI's ChatGPT language models, with configurable prompt injection, dynamic embeddings, custom function calling, and more",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores prompts and OpenAI API keys on a per server basis. If enabled, conversations with the bot are also persistently stored",
                 "hidden": false,
@@ -15970,11 +15970,13 @@
                 ],
                 "permissions": [
                     "read_messages",
-                    "send_messages"
+                    "send_messages",
+                    "embed_links",
+                    "attach_files"
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai>=0.27.8",
+                    "openai>=0.27.6",
                     "aiocache",
                     "ujson",
                     "msgpack",
@@ -15992,7 +15994,7 @@
                     "rapidfuzz",
                     "pytz"
                 ],
-                "short": "Another GPT Cog",
+                "short": "Another Chat GPT Cog",
                 "tags": [
                     "utility",
                     "assistant",
