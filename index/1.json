@@ -554,6 +554,41 @@
                 ],
                 "type": ""
             },
+            "lintcodes": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to lint a code from Discord, with Flake8, PyLint, MyPy, Bandit, Black, Isort, Yapf, AutoFlake8, PyRight and Ruff!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. Please note: all the code you run is stored on the wandbox.org server, even if you need a code to access it. To my knowledge, there is no way to request a deletion.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "colorama",
+                    "autopep8",
+                    "bandit",
+                    "black",
+                    "flake8",
+                    "isort",
+                    "mypy",
+                    "pylint",
+                    "pyright",
+                    "ruff",
+                    "yapf",
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "A cog to lint a code from Discord, with Flake8, PyLint, MyPy, Bandit, Black, Isort, Yapf, AutoFlake8, PyRight and Ruff!",
+                "tags": [
+                    "dev",
+                    "code",
+                    "linter"
+                ],
+                "type": ""
+            },
             "medicat": {
                 "author": [
                     "AAA3A"
