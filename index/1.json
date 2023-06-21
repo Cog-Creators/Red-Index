@@ -13155,7 +13155,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "A cog to close, lock, open and unlock threads. + create threads",
+                "description": "A cog to close, lock, open, unlock and more!.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -13172,7 +13172,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "close, lock, open and unlock threads and create threads.",
+                "short": "close, lock, open, unlock and more!",
                 "tags": [
                     "thread"
                 ],
