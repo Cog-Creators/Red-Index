@@ -9374,33 +9374,6 @@
                 ],
                 "type": ""
             },
-            "coffeeani": {
-                "author": [
-                    "Jintaku, Wyn",
-                    "coffeebank"
-                ],
-                "description": "You can search anime, manga, users and characters!\n\nForked from Jintaku and Wyn's anisearch cog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "add_reactions",
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A cog to search the anilist API",
-                "tags": [
-                    "anime",
-                    "manga",
-                    "anilist",
-                    "list"
-                ],
-                "type": ""
-            },
             "coffeetime": {
                 "author": [
                     "coffeebank",
