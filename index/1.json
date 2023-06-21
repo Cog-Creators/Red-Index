@@ -9526,6 +9526,35 @@
                 ],
                 "type": ""
             },
+            "jishosearch": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Japanese dictionary bot. Searches Jisho using Jisho API. Includes alternate links to Wiktionary, DeepL, and Google Translate.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
+                "short": "Japanese dictionary bot",
+                "tags": [
+                    "dictionary",
+                    "jp",
+                    "ja",
+                    "japanese",
+                    "jisho",
+                    "\u8f9e\u66f8",
+                    "\u3058\u3057\u3087"
+                ],
+                "type": ""
+            },
             "jsonrequest": {
                 "author": [
                     "coffeebank"
