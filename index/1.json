@@ -8877,7 +8877,7 @@
                 "author": [
                     "Bobloy"
                 ],
-                "description": "Check if a website/url is down using the https://isitdown.site/ api",
+                "description": "Check if a website/url is down using the https://isitup.org// api",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data",
                 "hidden": false,
