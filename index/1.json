@@ -13181,33 +13181,6 @@
                 ],
                 "type": "COG"
             },
-            "threadmanager": {
-                "author": [
-                    "max"
-                ],
-                "description": "A cog to close, lock, open, unlock and more!.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "manage_threads",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "close, lock, open, unlock and more!",
-                "tags": [
-                    "thread"
-                ],
-                "type": "COG"
-            },
             "whosthatpokemon": {
                 "author": [
                     "<@306810730055729152>",
