@@ -1128,6 +1128,28 @@
                 ],
                 "type": "COG"
             },
+            "pokemonfusion": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "gets data from Pkmnfusion.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fusion Gen 1 Pokemons.",
+                "tags": [
+                    "image",
+                    "pokemon",
+                    "meme"
+                ],
+                "type": "COG"
+            },
             "watamelon": {
                 "author": [
                     "Kuro",
@@ -13044,7 +13066,7 @@
         "description": "Cogs for Red-DiscordBot V3.",
         "name": "maxcogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "autopublisher": {
                 "author": [
