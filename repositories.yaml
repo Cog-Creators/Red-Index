@@ -52,11 +52,11 @@ approved:
   - https://github.com/flaree/lastfm-red
   - https://github.com/Just-Jojo/JojoCogs
   - https://github.com/AAA3A-AAA3A/AAA3A-cogs
+  - https://github.com/ltzmax/maxcogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
-  - https://github.com/ltzmax/maxcogs
   - https://github.com/thedataleek/eris-cogs
   - https://github.com/coffeebank/coffee-cogs
   - https://github.com/vertyco/vrt-cogs
