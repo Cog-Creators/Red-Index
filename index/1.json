@@ -6,7 +6,7 @@
         "description": "Many cogs for Red-DiscordBot!",
         "name": "AAA3A-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "acronymgame": {
                 "author": [
