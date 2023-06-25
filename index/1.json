@@ -12177,33 +12177,6 @@
                 ],
                 "type": "COG"
             },
-            "seinatools": {
-                "author": [
-                    "inthedark.org#0666"
-                ],
-                "description": "Some cool tools for the bot owners.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "tabulate",
-                    "emoji==1.6.3",
-                    "pygicord==1.1.0",
-                    "playwright==1.30.0",
-                    "git+https://github.com/JeyyGit/jeyyapi.git"
-                ],
-                "short": "A simple tools cog for the bot owners.",
-                "tags": [
-                    "utility",
-                    "tools"
-                ],
-                "type": "COG"
-            },
             "shazam": {
                 "author": [
                     "inthedark.org#0666"
