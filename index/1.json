@@ -1128,14 +1128,14 @@
                 ],
                 "type": "COG"
             },
-            "pokemonfusion": {
+            "pokefuse": {
                 "author": [
                     "Glas"
                 ],
-                "description": "gets data from Pkmnfusion.",
+                "description": "Fuses Gen 1 Pokemons.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
@@ -1146,7 +1146,8 @@
                 "tags": [
                     "image",
                     "pokemon",
-                    "meme"
+                    "meme",
+                    "fun"
                 ],
                 "type": "COG"
             },
