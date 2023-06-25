@@ -14619,9 +14619,9 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.10",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -14640,31 +14640,34 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.10",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Take actions on users who ping",
-                "tags": [],
+                "tags": [
+                    "moderation",
+                    "utility"
+                ],
                 "type": "COG"
             },
             "gtn": {
                 "author": [
                     "sravan"
                 ],
-                "description": "a guess the number game which you can play in discord",
+                "description": "A guess the number game which you can play in discord",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.10",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "a simple gtn game",
+                "short": "A simple gtn game",
                 "tags": [
                     "fun",
                     "game"
@@ -14677,11 +14680,11 @@
                 ],
                 "description": "Mentions the user in a hidden ping",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -14689,7 +14692,7 @@
                 "tags": [
                     "fun"
                 ],
-                "type": ""
+                "type": "COG"
             },
             "perform": {
                 "author": [
@@ -14697,19 +14700,23 @@
                 ],
                 "description": "The perform cog facilitates immersive roleplay experiences with commands for hugging, kissing, poking, kicking, and more, allowing users to engage in diverse interactive actions and expressions.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "tabulate"
                 ],
                 "short": "Perform Actions like kiss, cuddle etc.",
-                "tags": [],
-                "type": ""
+                "tags": [
+                    "fun",
+                    "roleplay",
+                    "actions"
+                ],
+                "type": "COG"
             },
             "poll": {
                 "author": [
@@ -14719,9 +14726,9 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.10",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -14740,9 +14747,9 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.6",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
@@ -14756,19 +14763,19 @@
                 "author": [
                     "sravan"
                 ],
-                "description": "add or remove cooldown from users",
+                "description": "Add or remove timeout from users",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.3.10",
-                "min_python_version": "",
+                "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "humanize"
                 ],
-                "short": "manage cooldowns",
+                "short": "Manage timeouts",
                 "tags": [
                     "mod",
                     "timeout"
