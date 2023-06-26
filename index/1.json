@@ -15961,7 +15961,7 @@
         "description": "Various utility cogs for Red, with a few other random/fun cogs sprinkled in.",
         "name": "vrt-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "assistant": {
                 "author": [
