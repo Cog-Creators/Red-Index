@@ -9774,7 +9774,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "A simple Discord bot feature that returns links to search engines like Google without needing to copy-paste a search term into a website/app separately. Comes preset with search strings for Google, Bing, Ecosia, and DuckDuckGo. Custom search strings can be added. Works similarly to LMGTFY, but without the passive aggressiveness.",
+                "description": "A simple Discord bot feature that returns links to search engines without needing to copy-paste a search term into a website/app separately. Comes preset with search strings for Google, Bing, Ecosia, DuckDuckGo, and Wikipedia. Custom search strings can be added. Works similarly to LMGTFY, but without the passive aggressiveness.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
