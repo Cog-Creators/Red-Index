@@ -53,13 +53,13 @@ approved:
   - https://github.com/Just-Jojo/JojoCogs
   - https://github.com/AAA3A-AAA3A/AAA3A-cogs
   - https://github.com/ltzmax/maxcogs
+  - https://github.com/vertyco/vrt-cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
   - https://github.com/thedataleek/eris-cogs
   - https://github.com/coffeebank/coffee-cogs
-  - https://github.com/vertyco/vrt-cogs
   - https://github.com/Injabie3/lui-cogs-v3
   - https://github.com/goonstation/gooncogs
   - https://github.com/i-am-zaidali/cray-cogs
