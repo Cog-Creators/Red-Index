@@ -10015,7 +10015,98 @@
         "name": "CogsByAdrian",
         "rx_branch": "",
         "rx_category": "approved",
-        "rx_cogs": {},
+        "rx_cogs": {
+            "crier": {
+                "author": [
+                    "DesignByAdrian (ThinkAdrian#1186)"
+                ],
+                "description": "Have the bot say or shout in a target channel",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Announce messages in different channels",
+                "tags": [
+                    "say",
+                    "shout",
+                    "message",
+                    "announcements"
+                ],
+                "type": ""
+            },
+            "insult": {
+                "author": [
+                    "DesignByAdrian (ThinkAdrian#1186)"
+                ],
+                "description": "Usage: [p]insult <user>\n",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Insult a user creatively.",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "killer": {
+                "author": [
+                    "DesignByAdrian (ThinkAdrian#1186)"
+                ],
+                "description": "Slap, punch, stab unsuspecting neighbours!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Do bad things to other users",
+                "tags": [
+                    "fun"
+                ],
+                "type": ""
+            },
+            "penis": {
+                "author": [
+                    "Twentysix",
+                    "DesignByAdrian (ThinkAdrian#1186)"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
         "short": "Cogs by ThinkAdrian inspired by many."
     },
     "https://github.com/dualmoon/Cogs.v3": {
