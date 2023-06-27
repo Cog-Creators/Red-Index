@@ -122,11 +122,6 @@ flagged-cogs:
     - feedback
     - selfassign
     - weeedcog
-  https://github.com/designbyadrian/CogsByAdrian:
-    - crier
-    - insult
-    - killer
-    - penis
   https://gitlab.com/Eragon5779/TechCogsV3:
     - cpucompare
     - encode
