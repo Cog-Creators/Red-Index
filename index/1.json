@@ -9599,6 +9599,41 @@
                 ],
                 "type": ""
             },
+            "kodict": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Korean dictionary bot. Searches National Institute of Korean Language's Korean-English Learners' Dictionary (\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804) using their Open API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncio",
+                    "aiohttp",
+                    "defusedxml"
+                ],
+                "short": "Korean dictionary bot",
+                "tags": [
+                    "dictionary",
+                    "kr",
+                    "sk",
+                    "korea",
+                    "krdict",
+                    "sajeon",
+                    "\uc0ac\uc804",
+                    "\u8fad\u5178",
+                    "hangul",
+                    "\ud55c\uae00",
+                    "hanja",
+                    "\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804"
+                ],
+                "type": ""
+            },
             "kyarutail": {
                 "author": [
                     "coffeebank"
