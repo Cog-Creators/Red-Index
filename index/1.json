@@ -9615,7 +9615,8 @@
                 "requirements": [
                     "asyncio",
                     "aiohttp",
-                    "defusedxml"
+                    "defusedxml",
+                    "korean_romanizer"
                 ],
                 "short": "Korean dictionary bot",
                 "tags": [
