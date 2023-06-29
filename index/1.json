@@ -13233,6 +13233,35 @@
                 ],
                 "type": "COG"
             },
+            "dailyeconomy": {
+                "author": [
+                    "max"
+                ],
+                "description": "Receive a daily amount of economy credits.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Receive a daily amount of economy credits.",
+                "tags": [
+                    "economy",
+                    "daily",
+                    "bank",
+                    "credits"
+                ],
+                "type": "COG"
+            },
             "nekosbest": {
                 "author": [
                     "max"
