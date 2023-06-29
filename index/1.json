@@ -16187,7 +16187,9 @@
                     "plotly",
                     "pandas",
                     "rapidfuzz",
-                    "pytz"
+                    "pytz",
+                    "transformers",
+                    "sentence-transformers"
                 ],
                 "short": "Another Chat GPT Cog",
                 "tags": [
