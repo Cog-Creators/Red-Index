@@ -3993,6 +3993,32 @@
                     "voicemoderation"
                 ],
                 "type": "COG"
+            },
+            "sentryio": {
+                "author": [
+                    "Kowlin (@Kowlin)",
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
+                ],
+                "description": "Sentry.IO integration for Red-DiscordBot. Automatically sends your pesky errors to Sentry.IO for analysis.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not record end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "sentry-sdk"
+                ],
+                "short": "Sentry.IO integration for Red-DiscordBot",
+                "tags": [
+                    "api",
+                    "logging",
+                    "sentry",
+                    "sentryio"
+                ],
+                "type": "COG"
             }
         },
         "short": "Moderation oriented cogs built for Red-DiscordBot"
