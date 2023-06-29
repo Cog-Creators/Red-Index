@@ -4032,28 +4032,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "avatarimgen": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Make images from avatars using Pop Cat API!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Make images from avatars!",
-                "tags": [
-                    "api",
-                    "avatar",
-                    "imgen"
-                ],
-                "type": "COG"
-            },
             "calendarcog": {
                 "author": [
                     "Kuro"
@@ -4204,7 +4182,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -4251,7 +4233,7 @@
                 "description": "Allows dropping and elevating owner permissions.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores bot owner ids so the bot owners can elevate their owner permissions.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
@@ -4264,35 +4246,6 @@
                     "perms",
                     "permission",
                     "utility"
-                ],
-                "type": "COG"
-            },
-            "translate": {
-                "author": [
-                    "Kuro"
-                ],
-                "description": "Translate the given text!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/Animenosekai/translate",
-                    "emoji-country-flag"
-                ],
-                "short": "Translate the given text!",
-                "tags": [
-                    "bing",
-                    "deepl",
-                    "google",
-                    "libre",
-                    "mymemory",
-                    "translate",
-                    "yandex"
                 ],
                 "type": "COG"
             }
