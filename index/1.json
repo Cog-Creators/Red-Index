@@ -9292,6 +9292,29 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "admintoggle": {
+                "author": [
+                    "Burnacid"
+                ],
+                "description": "Do you need to hide channels from admins for game purposes? This cog allows an admin to toggle off his admin permissions and toggle it back on.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Toggle on or off admin permissions",
+                "tags": [
+                    "admin",
+                    "toggle",
+                    "blood on the clocktower",
+                    "botc"
+                ],
+                "type": "COG"
+            },
             "botc": {
                 "author": [
                     "Burnacid"
