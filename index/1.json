@@ -12116,6 +12116,28 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "animals": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Random animal pics and facts.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random animals.",
+                "tags": [
+                    "animals",
+                    "image",
+                    "api"
+                ],
+                "type": "COG"
+            },
             "battleroyale": {
                 "author": [
                     "inthedark.org",
