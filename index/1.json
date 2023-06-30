@@ -17123,7 +17123,7 @@
                     "Zephyrkul (Zephyrkul#1089)",
                     "Paddo"
                 ],
-                "description": "Create and manage microphoneless / nomic text channels for VC users with no microphone.",
+                "description": "Create and manage roles and text channels for VC users. Useful for nomic / microphoneless setups.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -17135,7 +17135,7 @@
                 "requirements": [
                     "git+https://github.com/zephyrkul/proxyembed"
                 ],
-                "short": "Create and manage microphoneless / nomic text channels for VC users with no microphone.",
+                "short": "Create and manage roles and text channels for VC users. Useful for nomic / microphoneless setups.",
                 "tags": [
                     "voice",
                     "utility"
