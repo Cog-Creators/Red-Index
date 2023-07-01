@@ -9434,7 +9434,7 @@
                     "Wyn",
                     "coffeebank"
                 ],
-                "description": "You can search anime, manga (manhwa/manhua), users and characters from Anilist!\n\nForked from anisearch by Jintaku and Wyn.",
+                "description": "Search anime, manga (manhwa/manhua/light novels), users, and characters from Anilist. See series info, status, episodes/chapters, and tags.\n\nForked from anisearch by Jintaku and Wyn.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
