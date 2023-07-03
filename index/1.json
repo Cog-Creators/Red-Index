@@ -12164,7 +12164,7 @@
     },
     "https://github.com/japandotorg/Seina-Cogs": {
         "author": [
-            "inthedark.org#0666"
+            "inthedark.org"
         ],
         "description": "Fun cogs developed by inthedark.org.",
         "name": "Seina-Cogs",
@@ -12190,6 +12190,30 @@
                     "animals",
                     "image",
                     "api"
+                ],
+                "type": "COG"
+            },
+            "antilinks": {
+                "author": [
+                    "inthedark.org",
+                    "aikaterna"
+                ],
+                "description": "Removes all links in specified channels, with the ability to whitelist roles.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "No links allowed.",
+                "tags": [
+                    "links",
+                    "automod"
                 ],
                 "type": "COG"
             },
@@ -12226,7 +12250,7 @@
             },
             "calculator": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Math stuff",
                 "disabled": false,
@@ -12247,7 +12271,7 @@
             },
             "chemistry": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Calculate molecular mass directly from discord.",
                 "disabled": false,
@@ -12272,7 +12296,7 @@
             },
             "codeforces": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Search users on CodeForces.",
                 "disabled": false,
@@ -12292,7 +12316,7 @@
             },
             "epicgames": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Get free games info from epic games store.",
                 "disabled": false,
@@ -12313,7 +12337,7 @@
             },
             "firstmessage": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "A simple cog for jump to first message of a channel.",
                 "disabled": false,
@@ -12334,7 +12358,7 @@
             },
             "maplestory": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Get user info from the maple story API.",
                 "disabled": false,
@@ -12356,7 +12380,7 @@
             "massunban": {
                 "author": [
                     "aikaterna",
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Mass unban users by the ban reason used.",
                 "disabled": false,
@@ -12376,7 +12400,7 @@
             },
             "msgutils": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Useful message utilities.",
                 "disabled": false,
@@ -12396,7 +12420,7 @@
             },
             "rainbowrole": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Creates a rainbow role in your server which loops into the 7 rainbow roles every 90 seconds.",
                 "disabled": false,
@@ -12419,7 +12443,7 @@
             },
             "seinatools": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Some cool tools for the bot owners.",
                 "disabled": false,
@@ -12444,7 +12468,7 @@
             },
             "shazam": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Search songs using Shazam.",
                 "disabled": false,
@@ -12468,7 +12492,7 @@
             },
             "statuscodes": {
                 "author": [
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Find the meaning behind various status codes.",
                 "disabled": false,
@@ -12490,7 +12514,7 @@
             "statusrole": {
                 "author": [
                     "Obi-Wan3",
-                    "inthedark.org#0666"
+                    "inthedark.org"
                 ],
                 "description": "Assign roles to users for the duration in which they have certain custom statuses.",
                 "disabled": false,
