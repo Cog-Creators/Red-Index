@@ -211,7 +211,7 @@
                     "AAA3A",
                     "Tobotimus"
                 ],
-                "description": "A cog to display the console logs, with buttons and filter options, and to send commands errors in configurated channels!",
+                "description": "A cog to display the console logs, with buttons and filter options, and to send commands errors in configured channels!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -224,7 +224,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "colorama"
                 ],
-                "short": "A cog to display the console logs, with buttons and filter options, and to send commands errors in configurated channels!",
+                "short": "A cog to display the console logs, with buttons and filter options, and to send commands errors in configured channels!",
                 "tags": [
                     "error",
                     "console",
