@@ -6496,8 +6496,8 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    7,
-                    2
+                    8,
+                    0
                 ],
                 "permissions": [
                     "attach_files"
@@ -6506,8 +6506,7 @@
                 "requirements": [
                     "pillow",
                     "opencv-python",
-                    "numpy",
-                    "Unidecode"
+                    "numpy"
                 ],
                 "short": "Create your own feels!",
                 "tags": [
