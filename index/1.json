@@ -12900,7 +12900,7 @@
                 "end_user_data_statement": "This cog can store the name, realm and region of a Discord user's World of Warcraft character. This data is used to fetch information about the character from the Blizzard and Raider.io APIs.",
                 "hidden": false,
                 "max_bot_version": "3.6.0.dev0",
-                "min_bot_version": "3.5.0.dev307",
+                "min_bot_version": "3.5.3.dev0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
