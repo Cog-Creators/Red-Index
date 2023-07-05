@@ -2439,7 +2439,7 @@
     },
     "https://github.com/Flame442/FlameCogs": {
         "author": [
-            "Flame442 (Flame#2941)"
+            "Flame442"
         ],
         "description": "A mixture of cogs made by Flame.",
         "name": "FlameCogs",
@@ -2448,9 +2448,9 @@
         "rx_cogs": {
             "battleship": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Play battleship with a friend.",
+                "description": "Play battleship against a friend or an AI opponent. Generates an image to represent the board state. Run [p]battleship to play!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2476,9 +2476,9 @@
             },
             "deepfry": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Deepfry or nuke images passively and actively.",
+                "description": "Apply filters to an image to deepfry or nuke it. Supports frying images automatically as they are sent, the most recent image, a linked image, an attached image, and profile pictures. Run [p]deepfry and [p]nuke to fry!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2505,13 +2505,13 @@
             },
             "face": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Find and describe the faces in an image.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": true,
-                "max_bot_version": "",
+                "max_bot_version": "3.4.99",
                 "min_bot_version": "",
                 "min_python_version": [
                     3,
@@ -2532,9 +2532,9 @@
             },
             "gameroles": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Grant roles when a user is playing a specific game.",
+                "description": "Grant roles when a user is playing a specific game, and take them away when they stop. This can be used to create channels that can only be accessed by people who are currently playing a certain game, or who have ever played a certain game. This cog detects games by checking the status of the user, so users who use the privacy setting to disable statuses will not be granted roles. Run [p]gameroles to configure!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2557,9 +2557,9 @@
             },
             "giftaway": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Create first come, first serve key giveaways.",
+                "description": "Create first come, first serve key giveaways. The command [p]giftaway can be used used with the name of a game and a list of keys to generate an embed that allows users to click a button to be granted one of the listed keys. The keys are given immediately to the first users that request them, they are not raffled off. If an IGDB api key is set, the embed will contain a description of the game and its box art.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2581,9 +2581,9 @@
             },
             "hangman": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Play hangman with the bot.",
+                "description": "Play hangman, guessing a random word from the bot. By default, a list of english nouns is used when picking the word, but a custom list can be configured by the bot owner. Run [p]hangman to play!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2607,9 +2607,9 @@
             },
             "hider": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Hide commands from users in help.",
+                "description": "Hide commands from users in help. Running [p]hider hide allows a particular command to be hidden from the output of [p]help. This does not prevent the command from being run, use [p]command disable for that instead. If [p]helpset showhidden is enabled, this cog will be unable to hide commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2631,9 +2631,9 @@
             },
             "monopoly": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Play a game of monopoly with members of your server.",
+                "description": "Play a game of monopoly with members of your server, or against AI opponents. Generates an image to represent the board state. Many house rules can be configured to match any ruleset. Run [p]monopoly to play!",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user ids in order to identify the players in saved games.",
                 "hidden": false,
@@ -2659,9 +2659,9 @@
             },
             "onlinestats": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Information about what devices people are using to run discord.",
+                "description": "View information about whether users on your server are using discord on desktop or mobile, or what device a particular user is using. Run [p]onlinestats or [p]onlineinfo to see this information.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2675,7 +2675,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Information about what devices people are using to run discord.",
+                "short": "View information about whether users on your server are using discord on desktop or mobile.",
                 "tags": [
                     "utility",
                     "online"
@@ -2684,9 +2684,9 @@
             },
             "partygames": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Chat games focused on coming up with words from 3 letters.",
+                "description": "Chat games focused on coming up with words from 3 letters. Contains gamemodes for writing a word the fastest, writing the longest word, writing the most words, or being able to keep writing words without getting three strikes. Run [p]partygames to play!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2710,9 +2710,9 @@
             },
             "pokemonduel": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Battle in a Pokemon Duel with another member of your server.",
+                "description": "Battle in a Pokemon Duel with another member of your server. Supports all moves, abilities, and pokemon from generation 8, with partial item support and partial support for generation 9 additions. Also supports the inverse type effectiveness format. Run [p]pokemonduel to play!",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user ids in order to track your party of pokemon.",
                 "hidden": false,
@@ -2736,9 +2736,9 @@
             },
             "simpleembed": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Simply send embeds.",
+                "description": "Create and send simple embeds through the bot. Only the description, color, and large image fields of the embed can be modified. Run [p]sendembed to create an embed!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -2755,15 +2755,16 @@
                 "short": "Simply send embeds.",
                 "tags": [
                     "utility",
-                    "embed"
+                    "embed",
+                    "say"
                 ],
                 "type": ""
             },
             "stocks": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
-                "description": "Buy and sell stocks with bot currency.",
+                "description": "Buy and sell real world stocks at live prices Red currency. Stocks are bought at a ratio of 100 credits per $1, and change in value with the real world stock price. This cog requires an API integration to fetch the current stock prices. Use [p]stocks to buy!",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores a user id in order to know what stocks have been purchased by each user. Data is only collected when a user directly interacts with the cog and its commands.",
                 "hidden": false,
@@ -2788,7 +2789,7 @@
                 "author": [
                     "Flame442 (Flame#2941)"
                 ],
-                "description": "Tracks the most commonly used words by every member and in every server.",
+                "description": "Tracks the most commonly used words by every member and in every server. The number of times a word has been said by a particular member, server, or globally can be retrived from [p]wordstats. The users with the most words said in a particular server or globally can be retrieved from [p]topchatters. The users who have said a word more frequently compared to other users in a particular server or globally can be retrieved from [p]topratio.",
                 "disabled": false,
                 "end_user_data_statement": "This cog persistently stores the number of times every unique word is said per-user per-guild. Data is collected on every message the bot can see unless the guild, channel, or user have opted out. Users can request that their data is deleted using `[p]wordstatsset forgetme` and can request to opt out of data collection using `[p]wordstatsset user no`.",
                 "hidden": false,
