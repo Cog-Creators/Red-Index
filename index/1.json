@@ -9681,9 +9681,7 @@
                     "aiohttp",
                     "cssselect",
                     "korean_romanizer",
-                    "krdict.py",
-                    "lxml",
-                    "requests"
+                    "lxml"
                 ],
                 "short": "Korean dictionary bot",
                 "tags": [
