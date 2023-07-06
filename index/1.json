@@ -2234,7 +2234,7 @@
     },
     "https://github.com/Flame442/FlameBountyCogs": {
         "author": [
-            "Flame442 (Flame#2941)"
+            "Flame442"
         ],
         "description": "A mixture of *bounty* cogs made by Flame.",
         "name": "FlameBountyCogs",
@@ -2243,7 +2243,7 @@
         "rx_cogs": {
             "blinder": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Create custom roles that remove certain roles and hide channels from users.",
                 "disabled": false,
@@ -2267,7 +2267,7 @@
             },
             "dynamicchannellist": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Create dynamically updating channel lists.",
                 "disabled": false,
@@ -2291,7 +2291,7 @@
             },
             "flamecogsdebug": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Debug tools for FlameCogs.",
                 "disabled": false,
@@ -2315,7 +2315,7 @@
             },
             "globalban": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Execute a ban across all of the bot's servers.",
                 "disabled": false,
@@ -2339,7 +2339,7 @@
             },
             "lastping": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "View how long servers have lasted without a mass mention.",
                 "disabled": false,
@@ -2363,7 +2363,7 @@
             },
             "listmaker": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Make lists to store personal data.",
                 "disabled": false,
@@ -2389,7 +2389,7 @@
             },
             "lovecalc": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Calculate the love between two people.",
                 "disabled": false,
@@ -2413,7 +2413,7 @@
             },
             "quotes": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Store and display quotes.",
                 "disabled": false,
@@ -2435,7 +2435,7 @@
             },
             "tellme": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Create custom commands that will DM members and post messages in servers.",
                 "disabled": false,
