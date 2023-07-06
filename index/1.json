@@ -1226,7 +1226,7 @@
                 "author": [
                     "Glas"
                 ],
-                "description": "Card making.",
+                "description": "Fuses Gen 1 Pokemons.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -1236,10 +1236,10 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Makes a yugioh card.",
+                "short": "Fusion Gen 1 Pokemons.",
                 "tags": [
                     "image",
-                    "Yu-gi-oh",
+                    "pokemon",
                     "meme",
                     "fun"
                 ],
