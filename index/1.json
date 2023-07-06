@@ -2816,7 +2816,7 @@
             },
             "wordstats": {
                 "author": [
-                    "Flame442 (Flame#2941)"
+                    "Flame442"
                 ],
                 "description": "Tracks the most commonly used words by every member and in every server. The number of times a word has been said by a particular member, server, or globally can be retrived from [p]wordstats. The users with the most words said in a particular server or globally can be retrieved from [p]topchatters. The users who have said a word more frequently compared to other users in a particular server or globally can be retrieved from [p]topratio.",
                 "disabled": false,
