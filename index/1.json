@@ -2785,6 +2785,35 @@
                 ],
                 "type": ""
             },
+            "uttt": {
+                "author": [
+                    "Flame442"
+                ],
+                "description": "Play ultimate tic tac toe against another member of your server. In ultimate tic tac toe, you may only play in the sub board that corresponds to the last spot your opponent played. If you are sent to a sub board that has been finished, you can choose any sub board. First to win three sub boards in a row wins. Run [p]uttt to play!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev1",
+                "min_python_version": [
+                    3,
+                    6,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play ultimate tic tac toe against another member of your server.",
+                "tags": [
+                    "fun",
+                    "games",
+                    "tic tac toe",
+                    "ttt",
+                    "ultimate tic tac toe",
+                    "crosses and naughts"
+                ],
+                "type": ""
+            },
             "wordstats": {
                 "author": [
                     "Flame442 (Flame#2941)"
