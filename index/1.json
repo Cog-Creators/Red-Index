@@ -1226,7 +1226,7 @@
                 "author": [
                     "Glas"
                 ],
-                "description": "Card making.",
+                "description": "Custom Yu-gi-oh cards generator",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
