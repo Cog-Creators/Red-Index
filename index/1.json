@@ -9716,7 +9716,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Korean dictionary bot. Searches National Institute of Korean Language's Korean-English Learners' Dictionary (\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804) using their Open API.",
+                "description": "Korean dictionary bot. Searches National Institute of Korean Language's Korean-English Learners' Dictionary (\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804), translates Korean using DeepL, and resources including Wiktionary, Google Translate, and romanization.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9741,15 +9741,14 @@
                     "dictionary",
                     "kr",
                     "sk",
-                    "korea",
-                    "krdict",
                     "sajeon",
                     "\uc0ac\uc804",
                     "\u8fad\u5178",
                     "hangul",
                     "\ud55c\uae00",
                     "hanja",
-                    "\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804"
+                    "\ud55c\uad6d\uc5b4\uae30\ucd08\uc0ac\uc804",
+                    "manhwa"
                 ],
                 "type": ""
             },
