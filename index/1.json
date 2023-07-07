@@ -17656,5 +17656,27 @@
             }
         },
         "short": "random niche cogs"
+    },
+    "https://gitlab.com/CrunchBangDev/cbd-cogs": {
+        "author": [
+            "CrunchBangDev"
+        ],
+        "description": "Put this in your bot and smoke it",
+        "name": "cbd-cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {},
+        "short": "Got cogs?"
+    },
+    "https://gitlab.com/Eragon5779/TechCogsV3": {
+        "author": [
+            "Eragon5779"
+        ],
+        "description": "A collection of cogs for gathering information about technology, and other tech utility commands.\nThis repo is for V3 only!",
+        "name": "TechCogsV3",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {},
+        "short": "A collection of cogs for technology purposes"
     }
 }
