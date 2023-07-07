@@ -16366,9 +16366,7 @@
                     "aiocache",
                     "ujson",
                     "msgpack",
-                    "aiohttp",
                     "pydantic<=1.10.10",
-                    "orjson",
                     "json5",
                     "tiktoken",
                     "scipy",
@@ -16376,9 +16374,7 @@
                     "tenacity",
                     "matplotlib",
                     "plotly",
-                    "pandas",
-                    "rapidfuzz",
-                    "pytz"
+                    "pandas"
                 ],
                 "short": "Another Chat GPT Cog",
                 "tags": [
@@ -16446,8 +16442,7 @@
                 "requirements": [
                     "pandas",
                     "plotly",
-                    "kaleido",
-                    "rapidfuzz"
+                    "kaleido"
                 ],
                 "short": "Economy tracker",
                 "tags": [
@@ -16543,7 +16538,6 @@
                 "requirements": [
                     "googletrans==3.1.0a0",
                     "aiocache",
-                    "aiohttp",
                     "ujson",
                     "msgpack"
                 ],
@@ -16763,10 +16757,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "Pillow",
-                    "aiohttp",
                     "aiocache",
-                    "tabulate",
-                    "rapidfuzz"
+                    "tabulate"
                 ],
                 "short": "Image guessing game!",
                 "tags": [
@@ -16895,7 +16887,6 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "psutil",
                     "py-cpuinfo",
                     "speedtest-cli>=2.1.3",
                     "dislash.py"
@@ -16934,8 +16925,7 @@
                     "xmltojson",
                     "xbox-webapi",
                     "utils",
-                    "tabulate",
-                    "pytz"
+                    "tabulate"
                 ],
                 "short": "Get Xbox Live Info and Player Stats.",
                 "tags": [
