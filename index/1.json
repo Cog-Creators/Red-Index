@@ -258,6 +258,33 @@
                 ],
                 "type": ""
             },
+            "dev": {
+                "author": [
+                    "Cog-Creators",
+                    "Zephyrkul (Zephyrkul#1089)",
+                    "AAA3A"
+                ],
+                "description": "Various development focused utilities.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Various development focused utilities!",
+                "tags": [
+                    "dev",
+                    "python",
+                    "code",
+                    "eval"
+                ],
+                "type": ""
+            },
             "dictionary": {
                 "author": [
                     "AAA3A"
