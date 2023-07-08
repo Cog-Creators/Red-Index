@@ -768,7 +768,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands sheduler, say sheduler... With 'Me Too', snooze and buttons. You can migrate reminders from RemindMe by PhasecoreX.",
+                "description": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands scheduler, say scheduler... With 'Me Too', snooze and buttons. You can migrate reminders from RemindMe by PhasecoreX.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does store users reminders, who are deleted when triggered. The content of the 5 next user's reminders can be communicated to OpenAI if the user requests information on their own existing reminders using the Vert's Assistant cog.",
                 "hidden": false,
@@ -788,7 +788,7 @@
                     "cron-descriptor",
                     "recurrent"
                 ],
-                "short": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands sheduler, say sheduler... With 'Me Too', snooze and buttons.",
+                "short": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands scheduler, say scheduler... With 'Me Too', snooze and buttons.",
                 "tags": [
                     "remind",
                     "time",
