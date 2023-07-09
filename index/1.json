@@ -12404,7 +12404,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pillow",
-                    "prettytable"
+                    "prettytable",
+                    "typing_extensions"
                 ],
                 "short": "Play a match of battle royale.",
                 "tags": [
@@ -12583,6 +12584,35 @@
                 "requirements": [],
                 "short": "dump stuff",
                 "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "personalchannels": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Personal channels for members.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores users data in form of << member : role >> Discord IDs pairings.\nThis cog supports data removal requests.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Personal channels for members",
+                "tags": [
+                    "mychannel",
+                    "mychan",
+                    "personal channels",
+                    "personal",
+                    "channels",
+                    "channel",
+                    "personal",
                     "utility"
                 ],
                 "type": "COG"
