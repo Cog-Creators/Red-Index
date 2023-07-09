@@ -4137,7 +4137,7 @@
         "description": "Some cogs made by Kuro for Red-DiscordBot v3.",
         "name": "Kuro-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "calendarcog": {
                 "author": [
