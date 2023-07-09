@@ -9760,7 +9760,9 @@
                     "asyncio",
                     "aiohttp",
                     "cssselect",
+                    "kodict_core",
                     "korean_romanizer",
+                    "krdict.py @ git+https://github.com/coffeebank/krdict.py.git",
                     "lxml"
                 ],
                 "short": "Korean dictionary bot",
