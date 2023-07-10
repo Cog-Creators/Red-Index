@@ -10406,6 +10406,66 @@
         "rx_cogs": {},
         "short": "Just some cogs for Red Discord Bot"
     },
+    "https://github.com/fakesmile9704/fake-cogs": {
+        "author": [
+            ".fakesmile."
+        ],
+        "description": "Fun and some random cogs for Red.",
+        "name": "fake-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "counting": {
+                "author": [
+                    "fakesmile"
+                ],
+                "description": "Counting is a configurable counting game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Let the count start.",
+                "tags": [
+                    "counting"
+                ],
+                "type": "COG"
+            },
+            "unsplash": {
+                "author": [
+                    "fakesmile"
+                ],
+                "description": "A cog to get images from Unsplash.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "search for any images from Unsplash.",
+                "tags": [
+                    "unsplash, images"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Fun and random cogs by .fakesmile."
+    },
     "https://github.com/fixator10/Fixator10-Cogs": {
         "author": [
             "Fixator10"
