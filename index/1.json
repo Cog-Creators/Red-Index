@@ -12749,27 +12749,6 @@
                 ],
                 "type": "COG"
             },
-            "statuscodes": {
-                "author": [
-                    "inthedark.org"
-                ],
-                "description": "Find the meaning behind various status codes.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Find the meaning behind various status codes.",
-                "tags": [
-                    "utility",
-                    "info"
-                ],
-                "type": "COG"
-            },
             "statusrole": {
                 "author": [
                     "Obi-Wan3",
