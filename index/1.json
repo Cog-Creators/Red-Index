@@ -9618,6 +9618,30 @@
                 ],
                 "type": ""
             },
+            "bookery": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Search books and find more about a book. Results from Google Books API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "asyncio",
+                    "aiohttp"
+                ],
+                "short": "Search books and find more about a book.",
+                "tags": [
+                    "google play",
+                    "booktok"
+                ],
+                "type": ""
+            },
             "coffeeani": {
                 "author": [
                     "Jintaku",
