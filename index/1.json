@@ -12526,27 +12526,6 @@
                 ],
                 "type": "COG"
             },
-            "calculator": {
-                "author": [
-                    "inthedark.org"
-                ],
-                "description": "Math stuff",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Math stuff",
-                "tags": [
-                    "utility",
-                    "calulator"
-                ],
-                "type": "COG"
-            },
             "chemistry": {
                 "author": [
                     "inthedark.org"
@@ -12592,24 +12571,34 @@
                 ],
                 "type": "COG"
             },
-            "epicgames": {
+            "conversationgames": {
                 "author": [
                     "inthedark.org"
                 ],
-                "description": "Get free games info from epic games store.",
+                "description": "Conversation games for members.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
+                "end_user_data_statement": "This cog stores users data in form of << member : role >> Discord IDs pairings.\nThis cog supports data removal requests.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "A simple epic games related cog.",
+                "requirements": [
+                    "aiohttp-client-cache",
+                    "typing-extensions"
+                ],
+                "short": "Conversation games for members",
                 "tags": [
-                    "utility",
-                    "epicgames"
+                    "interaction",
+                    "truth",
+                    "dare",
+                    "would",
+                    "you",
+                    "rather",
+                    "never",
+                    "have",
+                    "paranoia"
                 ],
                 "type": "COG"
             },
@@ -12634,27 +12623,6 @@
                 ],
                 "type": "COG"
             },
-            "maplestory": {
-                "author": [
-                    "inthedark.org"
-                ],
-                "description": "Get user info from the maple story API.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A simple maple story related cog.",
-                "tags": [
-                    "utility",
-                    "maplestory"
-                ],
-                "type": "COG"
-            },
             "massunban": {
                 "author": [
                     "aikaterna",
@@ -12673,26 +12641,6 @@
                 "short": "Mass unban users.",
                 "tags": [
                     "unban"
-                ],
-                "type": "COG"
-            },
-            "msgutils": {
-                "author": [
-                    "inthedark.org"
-                ],
-                "description": "Useful message utilities.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "dump stuff",
-                "tags": [
-                    "utility"
                 ],
                 "type": "COG"
             },
