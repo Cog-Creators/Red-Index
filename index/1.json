@@ -10491,7 +10491,7 @@
                 "author": [
                     "fakesmile"
                 ],
-                "description": "A fun word list game cog for your redbot. Try your best to guess the words as they jumbled all the characters within the word",
+                "description": "A fun word puzzle game cog for your redbot. Try your best to guess the words as they jumbled all the characters within the word",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
