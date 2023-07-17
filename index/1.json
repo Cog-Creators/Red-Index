@@ -15534,6 +15534,24 @@
                 "tags": [],
                 "type": ""
             },
+            "chat": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Usage: [p]chat",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Use OpenAI's ChatGPT to respond to the conversation",
+                "tags": [],
+                "type": ""
+            },
             "clone": {
                 "author": [
                     "Eris",
