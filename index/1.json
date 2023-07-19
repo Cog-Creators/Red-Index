@@ -4177,7 +4177,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
                 "short": "See the calendar on Discord!",
                 "tags": [
                     "calendar",
@@ -4198,7 +4200,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
                 "short": "Play the game of Chairs in Discord!",
                 "tags": [
                     "chairs",
@@ -4221,7 +4225,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
                 "short": "A cog that shows how many commands/cogs the bot has.",
                 "tags": [
                     "cogs",
@@ -4244,7 +4250,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
                 ],
                 "short": "Dank Memer commands.",
                 "tags": [
@@ -4267,7 +4273,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji"
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
                 ],
                 "short": "Fake moderation commands.",
                 "tags": [
@@ -4294,6 +4300,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils",
                     "pillow"
                 ],
                 "short": "Generates a random Fumo image \u15dc\u02ec\u15dc",
@@ -4323,7 +4330,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+https://github.com/NiceAesth/aiosu",
-                    "emoji"
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
                 ],
                 "short": "Display user information from osu!",
                 "tags": [
@@ -4345,7 +4352,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
                 "short": "Log added/removed reactions!",
                 "tags": [
                     "log",
@@ -4371,7 +4380,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
                 "short": "Allows to drop and elevate owner permissions.",
                 "tags": [
                     "owner",
@@ -4395,6 +4406,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils",
                     "git+https://github.com/Animenosekai/translate"
                 ],
                 "short": "Translate the given text!",
