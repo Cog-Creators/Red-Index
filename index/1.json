@@ -1808,7 +1808,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1870,7 +1870,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Configure PyLav's global settings.",
                 "tags": [
@@ -1904,7 +1904,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "A media player cog",
                 "tags": [
@@ -1940,7 +1940,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Commands to manage and apply effects to the players.",
                 "tags": [
@@ -1986,7 +1986,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Commands to interact with local media files.",
                 "tags": [
@@ -1999,39 +1999,6 @@
                     "mp3",
                     "flac",
                     "slash"
-                ],
-                "type": "COG"
-            },
-            "pllyrics": {
-                "author": [
-                    "Draper"
-                ],
-                "description": "A Simple cog to allow you to search lyrics for PyLav.\nHelp translate the project to your language by contributing to <https://crowdin.com/project/pylav>; Translations will be made available as an update shortly after they are translated on Crowdin.\nFor issues, bugs, or suggestions contact me in the Discord support server here: https://discord.com/invite/vnmcXqtgeY\nP.S. Make sure to have read the setup instructions for <https://github.com/PyLav/PyLav> (<https://github.com/PyLav/PyLav/blob/master/SETUP.md>) to ensure you have set it up correctly before loading any cogs.",
-                "disabled": false,
-                "end_user_data_statement": "This cog will store user info needed for its functions - for example user IDs to remember user specific settings.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0.dev306",
-                "min_python_version": [
-                    3,
-                    11,
-                    0
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
-                ],
-                "short": "Commands to interact with track lyrics.",
-                "tags": [
-                    "audio",
-                    "music",
-                    "lavalink",
-                    "utilities",
-                    "PyLav",
-                    "lyrics"
                 ],
                 "type": "COG"
             },
@@ -2055,7 +2022,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Commands to configure Pylav's managed node.",
                 "tags": [
@@ -2087,7 +2054,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Convert your Audio settings to PyLav.",
                 "tags": [
@@ -2121,7 +2088,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "A collection of node controller commands for PyLav.",
                 "tags": [
@@ -2154,7 +2121,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Configure PyLav's notifications.",
                 "tags": [
@@ -2192,7 +2159,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Control Playlists from PyLav",
                 "tags": [
@@ -2231,7 +2198,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "Apply some equalizer presets to the PyLav player.",
                 "tags": [
@@ -2267,7 +2234,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav[all]>=1.11.0<1.12"
+                    "Py-Lav[all]>=1.12.1<1.13"
                 ],
                 "short": "A bunch of utility commands for PyLav cogs.",
                 "tags": [
