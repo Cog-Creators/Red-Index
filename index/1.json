@@ -17124,7 +17124,11 @@
                 ],
                 "short": "Random utility commands",
                 "tags": [
-                    "utility"
+                    "utility",
+                    "bot",
+                    "botstats",
+                    "botinfo",
+                    "serverstats"
                 ],
                 "type": "COG"
             },
