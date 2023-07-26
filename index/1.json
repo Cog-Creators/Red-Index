@@ -16737,10 +16737,11 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "googletrans-py",
                     "aiocache",
-                    "ujson",
-                    "msgpack"
+                    "deepl",
+                    "googletrans-py",
+                    "msgpack",
+                    "ujson"
                 ],
                 "short": "Auto translation between two languages.",
                 "tags": [
