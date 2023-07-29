@@ -4318,7 +4318,7 @@
                 "end_user_data_statement": "This cog stores OAuth access and refresh tokens to interact with osu! API. This data can be deleted at any time by revoking client access from osu! settings, using `[p]osu unlink` command, or `[p]mydata forgetme` command.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.3",
                 "min_python_version": [
                     3,
                     9,
