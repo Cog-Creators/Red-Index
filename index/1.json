@@ -16873,7 +16873,8 @@
                     "emoji",
                     "aiocache",
                     "ujson",
-                    "msgpack"
+                    "msgpack",
+                    "tenacity"
                 ],
                 "short": "Leveling System",
                 "tags": [
