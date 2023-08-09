@@ -3903,7 +3903,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji==1.7"
+                    "emoji"
                 ],
                 "short": "Embed the invite command",
                 "tags": [
@@ -4013,7 +4013,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "emoji==1.7"
+                    "emoji"
                 ],
                 "short": "Keep track of things todo",
                 "tags": [
