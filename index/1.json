@@ -588,7 +588,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to generate images with messages and voice stats, for members, roles, guilds, text channels, voice channels and activities!",
+                "description": "A cog to generate images with messages and voice stats, for members, roles, guilds, categories, text channels, voice channels and activities!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -604,13 +604,14 @@
                     "pandas",
                     "kaleido==0.1.0"
                 ],
-                "short": "A cog to generate images with messages and voice stats, for members, roles, guilds, text channels, voice channels and activities!",
+                "short": "A cog to generate images with messages and voice stats, for members, roles, guilds, categories, text channels, voice channels and activities!",
                 "tags": [
                     "stats",
                     "messages",
                     "voice",
-                    "guild",
                     "member",
+                    "guild",
+                    "categories",
                     "channel"
                 ],
                 "type": ""
