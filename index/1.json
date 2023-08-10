@@ -9814,7 +9814,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Create your own welcome bot with a custom profile picture! Set the welcome message to be regular text and/or an embed. Comes with usernames, user avatars, pings/mentions, server member counts, and leave messages.\n\nSend different welcome messsages based on the invite url! Create different 'bots' using webhooks.\n\nUpdated for Red 3.5",
+                "description": "Create your own welcome bot with a custom profile picture! Set the welcome message to be regular text and/or an embed. Comes with usernames, user avatars, pings/mentions, server member counts, and leave messages.\n\nSend invite-based welcome messsages, and assign custom roles when new members join with the invite!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -9829,7 +9829,8 @@
                     "welcome",
                     "invites",
                     "goodbye",
-                    "webhook"
+                    "webhook",
+                    "roleinvites"
                 ],
                 "type": ""
             },
