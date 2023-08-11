@@ -55,6 +55,7 @@ approved:
   - https://github.com/ltzmax/maxcogs
   - https://github.com/vertyco/vrt-cogs
   - https://github.com/Kuro-Rui/Kuro-Cogs
+  - https://github.com/i-am-zaidali/cray-cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -63,7 +64,6 @@ unapproved:
   - https://github.com/coffeebank/coffee-cogs
   - https://github.com/Injabie3/lui-cogs-v3
   - https://github.com/goonstation/gooncogs
-  - https://github.com/i-am-zaidali/cray-cogs
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/jakehlee/JDG-Cogs-V3
   - https://github.com/sravan1946/sravan-cogs
