@@ -12291,7 +12291,7 @@
         "description": "Utility and fun cogs made by crayyy_zee. (Mostly targeted towards a dank memer audience).",
         "name": "cray-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "hitormiss": {
                 "author": [
