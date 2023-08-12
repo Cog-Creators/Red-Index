@@ -15395,13 +15395,13 @@
                 "end_user_data_statement": "This cog stores user ids linked to corresponding external API user ids for the purpose of fetching their information from the API, and user preferences for the cog.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.3",
+                "min_bot_version": "3.5.4",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Red-DiscordBot>=3.5.3,<3.6",
-                    "dronefly-discord==0.1.1.dev6",
+                    "Red-DiscordBot>=3.5.4,<3.6",
+                    "dronefly-discord>=0.1.1.dev7",
                     "timeago>=1.0.15,<2.0.0",
                     "aiolimiter>=1.0.0,<2.0.0",
                     "aiohttp-retry>=2.4.5,<3.0.0"
