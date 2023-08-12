@@ -470,7 +470,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever wanted to export all or part of a channel's messages to an html file? Then this cog is for you!\nRemember that exporting other users' messages from Discord does not respect the TOS.",
+                "description": "Have you ever wanted to export all or a part of the messages of a channel in an html file? Then this cog is for you!\nRemember that exporting other users' messages from Discord does not respect the TOS.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -483,7 +483,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "chat-exporter"
                 ],
-                "short": "A cog to export all or part of a channel's messages to an html file!",
+                "short": "A cog to export all or a part of the messages of a channel in an html file!",
                 "tags": [
                     "export",
                     "messages",
