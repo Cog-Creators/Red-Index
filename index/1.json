@@ -1065,7 +1065,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever wanted to tranfer all messages channel in a other ? Then this cog is for you!",
+                "description": "A cog to transfer messages from a channel to another channel, with many options!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -1077,11 +1077,13 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "A cog to transfer all messages channel in a other channel!",
+                "short": "A cog to transfer messages from a channel to another channel, with many options!",
                 "tags": [
-                    "command",
+                    "transfer",
                     "channel",
-                    "hide"
+                    "messages",
+                    "webhooks",
+                    "attachments"
                 ],
                 "type": ""
             },
