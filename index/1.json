@@ -7353,11 +7353,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pyyaml~=5.4.1",
                     "emoji~=1.6.3",
                     "pydantic~=1.9.1",
-                    "regex==2022.4.24",
-                    "rapidfuzz==3.0.0"
+                    "regex==2022.4.24"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
                 "tags": [
