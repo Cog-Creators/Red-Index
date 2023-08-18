@@ -5866,6 +5866,36 @@
         },
         "short": "Cogs by Skylark95."
     },
+    "https://github.com/T14D3/T14D3-Cogs": {
+        "author": [
+            "T14D3"
+        ],
+        "description": "Collection of Cogs by T14D3",
+        "name": "T14D3-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "BrainfuckCog": {
+                "author": [
+                    "T14D3"
+                ],
+                "description": "Simple Brainfuck Interpreter",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Brainfuck",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Cogs by T14D3"
+    },
     "https://github.com/TheWyn/Wyn-RedV3Cogs": {
         "author": [
             "Wyn"
