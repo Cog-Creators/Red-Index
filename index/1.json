@@ -1264,6 +1264,29 @@
                 ],
                 "type": "COG"
             },
+            "sekai": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Makes a Sekai Sticker with custom text",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Makes a Sekai Sticker with custom text.",
+                "tags": [
+                    "image",
+                    "Sekai",
+                    "meme",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "watamelon": {
                 "author": [
                     "Kuro",
