@@ -5916,6 +5916,25 @@
                 "short": "Brainfuck",
                 "tags": [],
                 "type": ""
+            },
+            "YoutubeApiNotifs": {
+                "author": "T14D3",
+                "description": "A Red-DiscordBot cog to get the link to the newest YouTube video of a channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "youtube",
+                    "cog"
+                ],
+                "type": ""
             }
         },
         "short": "Cogs by T14D3"
