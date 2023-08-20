@@ -5918,7 +5918,9 @@
                 "type": ""
             },
             "YoutubeApiNotifs": {
-                "author": "T14D3",
+                "author": [
+                    "T14D3"
+                ],
                 "description": "A Red-DiscordBot cog to get the link to the newest YouTube video of a channel.",
                 "disabled": false,
                 "end_user_data_statement": "",
@@ -5928,7 +5930,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "google-api-python-client"
+                ],
                 "short": "",
                 "tags": [
                     "youtube",
