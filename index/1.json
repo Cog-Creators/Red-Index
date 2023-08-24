@@ -5944,7 +5944,7 @@
                 "author": [
                     "T14D3"
                 ],
-                "description": "RCON-Client",
+                "description": "Allows you to send RCON commands, right from within discord",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -5954,11 +5954,14 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "discord-py-slash-command",
                     "rcon"
                 ],
                 "short": "RedCon",
-                "tags": [],
+                "tags": [
+                    "rcon",
+                    "tools",
+                    "utility"
+                ],
                 "type": ""
             }
         },
