@@ -594,7 +594,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.3",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
