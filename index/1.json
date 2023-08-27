@@ -5921,24 +5921,6 @@
                 "tags": [],
                 "type": ""
             },
-            "ChannelLink": {
-                "author": [
-                    "T14D3"
-                ],
-                "description": "ChannelLink",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "CLink",
-                "tags": [],
-                "type": ""
-            },
             "YoutubeApiNotifs": {
                 "author": [
                     "T14D3"
@@ -5984,6 +5966,24 @@
                     "tools",
                     "utility"
                 ],
+                "type": ""
+            },
+            "wormhole": {
+                "author": [
+                    "T14D3"
+                ],
+                "description": "ChannelLink",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "CLink",
+                "tags": [],
                 "type": ""
             }
         },
