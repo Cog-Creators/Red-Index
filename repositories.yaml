@@ -56,6 +56,7 @@ approved:
   - https://github.com/vertyco/vrt-cogs
   - https://github.com/Kuro-Rui/Kuro-Cogs
   - https://github.com/i-am-zaidali/cray-cogs
+  - https://github.com/Mister-42/mr42-cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -71,7 +72,6 @@ unapproved:
   - https://github.com/nukdokplex/nukdokplex-cogs
   - https://github.com/Flame442/FlameBountyCogs
   - https://github.com/jmesfo0/jmes-cogs
-  - https://github.com/Mister-42/mr42-cogs
   - https://github.com/orchidalloy/crab-cogs
   - https://github.com/Drapersniper/PyLav-Cogs
   - https://github.com/raidensakura/raiden-cogs
