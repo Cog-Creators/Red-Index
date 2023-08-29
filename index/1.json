@@ -17985,24 +17985,6 @@
                 ],
                 "type": ""
             },
-            "lifx_light": {
-                "author": [
-                    "zhaobenny"
-                ],
-                "description": "Control a single Lifx light",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Control a single Lifx light",
-                "tags": [],
-                "type": ""
-            },
             "oneletteronly": {
                 "author": [
                     "zhaobenny"
