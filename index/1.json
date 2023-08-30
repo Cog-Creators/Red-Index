@@ -4471,7 +4471,7 @@
         "description": "The answer to life, the universe, and everything",
         "name": "mr42-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "avatar": {
                 "author": [
