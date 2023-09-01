@@ -5935,7 +5935,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "github"
+                    "PyGithub"
                 ],
                 "short": "GHStars",
                 "tags": [
