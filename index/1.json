@@ -9831,7 +9831,7 @@
                     "Wyn",
                     "coffeebank"
                 ],
-                "description": "Search anime, manga (manhwa/manhua/light novels), users, and characters from Anilist. See series info, status, episodes/chapters, and tags.\n\nForked from anisearch by Jintaku and Wyn.",
+                "description": "Search anime, manga (manhwa/manhua/light novels), and characters from AniList and MangaDex. See series info, status, episodes/chapters, and tags. Search AniList users.\n\nForked from anisearch by Jintaku and Wyn.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -9844,7 +9844,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Search Anilist for anime, manga, users, characters",
+                "short": "Search Anilist and MangaDex for anime, manga, and characters.",
                 "tags": [
                     "anime",
                     "manga",
@@ -9852,7 +9852,8 @@
                     "list",
                     "\u6f2b\u753b",
                     "\ub9cc\ud654",
-                    "\u6f2b\u753b"
+                    "\u6f2b\u753b",
+                    "mangadex"
                 ],
                 "type": ""
             },
