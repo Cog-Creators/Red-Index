@@ -247,7 +247,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "discord-markdown-ast-parser"
                 ],
                 "short": "A cog to list and display the contents of all sub-functions of `ctx`!",
                 "tags": [
