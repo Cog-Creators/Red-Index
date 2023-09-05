@@ -10817,7 +10817,7 @@
                 "author": [
                     "flare(flare#0001)"
                 ],
-                "description": "Block users who spam commands for a defined period of time..",
+                "description": "Block users who spam commands for a defined period of time.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -11446,7 +11446,7 @@
                 "author": [
                     "flare(flare#0001)"
                 ],
-                "description": "Bump threads to keep them alive forever..",
+                "description": "Bump threads to keep them alive forever.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
