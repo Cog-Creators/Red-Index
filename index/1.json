@@ -1237,7 +1237,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow",
+                    "pillow==9.5.0",
                     "unidecode",
                     "rapidfuzz"
                 ],
@@ -1331,7 +1331,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow"
+                    "pillow==9.5.0"
                 ],
                 "short": "Create comics from channel messages",
                 "tags": [],
