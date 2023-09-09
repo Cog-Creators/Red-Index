@@ -9965,7 +9965,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "asyncio",
-                    "aiohttp"
+                    "aiohttp",
+                    "requests"
                 ],
                 "short": "Custom emote solution for non-nitro users",
                 "tags": [
@@ -10111,7 +10112,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "asyncio",
-                    "aiohttp"
+                    "aiohttp",
+                    "requests"
                 ],
                 "short": "Convert your messages into a message written with Kyaru's tail.",
                 "tags": [
@@ -10257,7 +10259,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "requests"
+                ],
                 "short": "Automatically send replies to Spotify links with the embed preview, for mobile users",
                 "tags": [
                     "spotify",
