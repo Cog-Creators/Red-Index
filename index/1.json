@@ -10002,6 +10002,7 @@
                     "invites",
                     "goodbye",
                     "webhook",
+                    "roleinvite",
                     "roleinvites"
                 ],
                 "type": ""
