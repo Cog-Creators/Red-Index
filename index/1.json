@@ -13866,6 +13866,34 @@
                 ],
                 "type": "COG"
             },
+            "redupdate": {
+                "author": [
+                    "max",
+                    "kuro"
+                ],
+                "description": "Update your bot to latest dev version of red.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Update your bot to latest dev version of red.",
+                "tags": [
+                    "botupdate",
+                    "redupdate"
+                ],
+                "type": "COG"
+            },
             "roleplaycog": {
                 "author": [
                     "max"
@@ -13912,35 +13940,6 @@
                     "pokemon",
                     "pokemontcg",
                     "tcgcard"
-                ],
-                "type": "COG"
-            },
-            "themoviedb": {
-                "author": [
-                    "max"
-                ],
-                "description": "Search for informations of movies and TV shows from themoviedb.org.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    8,
-                    5
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Search for informations of movies and TV shows from themoviedb.org.",
-                "tags": [
-                    "movies",
-                    "movie",
-                    "tvshow",
-                    "tvshows"
                 ],
                 "type": "COG"
             },
