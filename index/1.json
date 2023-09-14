@@ -17045,7 +17045,6 @@
                     "requests",
                     "pillow",
                     "validators",
-                    "tabulate",
                     "colorgram.py",
                     "emoji",
                     "aiocache",
