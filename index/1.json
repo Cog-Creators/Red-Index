@@ -5793,6 +5793,46 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "charlimit": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "v3 version of Kowlin's v2 character limit",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "charlimit",
+                "tags": [],
+                "type": "COG"
+            },
+            "lockdown": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Guild Lockdown System",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Locking System",
+                "tags": [
+                    "Admin",
+                    "Mod",
+                    "Guild Lockdown"
+                ],
+                "type": "COG"
+            },
             "mailsystem": {
                 "author": [
                     "Sharky The King",
@@ -5816,6 +5856,104 @@
                 ],
                 "type": "COG"
             },
+            "morseshark": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Morse code decoder and encoder for people who want to be fancy with text.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Morse code decoder and encoder.",
+                "tags": [
+                    "tools",
+                    "utils",
+                    "encode"
+                ],
+                "type": "COG"
+            },
+            "msgtracker": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Message tracker counter, count how many people have messaged in your server and display it in a leaderboard.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores User IDs and how many messages you have sent to a server that has this enabled. It does NOT store the message contents, only counting how many you've sent.\n\nYou can disable this function by going into the server of your choosing and type `[p]trackignore`, assuming the bot owner hasn't disabled this function.\n\nThis cog will support data removal requests.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Message Tracker",
+                "tags": [
+                    "Message Tracker",
+                    "Message Leaderboard",
+                    "Leaderboard"
+                ],
+                "type": "COG"
+            },
+            "namegen": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Name Generator, gives you a random first and last name from your own list!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Name Generator",
+                "tags": [],
+                "type": "COG"
+            },
+            "newspublish": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Automatic publishing in Discord's news channels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "publish",
+                "tags": [],
+                "type": "COG"
+            },
+            "reports": {
+                "author": [
+                    "Sharky The King"
+                ],
+                "description": "Report system for moderators",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Reports",
+                "tags": [],
+                "type": "COG"
+            },
             "sharkytools": {
                 "author": [
                     "Sharky The King"
@@ -5831,6 +5969,25 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "sharkytools",
+                "tags": [],
+                "type": "COG"
+            },
+            "verify": {
+                "author": [
+                    "Sharky The King",
+                    "Predeactor"
+                ],
+                "description": "Verification System",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Verify system",
                 "tags": [],
                 "type": "COG"
             }
