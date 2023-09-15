@@ -220,16 +220,6 @@ flagged-cogs:
     - spoiler
     - wat
     - wordclouds
-  https://github.com/SharkyTheKing/Sharky:
-    - charlimit
-    - lockdown
-    - morseshark
-    - msgtracker
-    - namegen
-    - newspublish
-    - reports
-    - strawpoll
-    - verify
   https://github.com/TheWyn/Wyn-RedV3Cogs:
     - anisearch
     - lyrics
