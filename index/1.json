@@ -7004,7 +7004,8 @@
                 "requirements": [
                     "pillow",
                     "opencv-python",
-                    "numpy"
+                    "numpy",
+                    "unidecode"
                 ],
                 "short": "Create your own feels!",
                 "tags": [
