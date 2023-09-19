@@ -10166,6 +10166,43 @@
                 ],
                 "type": ""
             },
+            "hwadan": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "Search anime, manga, manhwa/manhua, light novels, and characters. See series info, status, episodes/chapters, and tags.\n\nSearches Anilist, MangaDex, Batoto, and Kakao Webtoon.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "korean_romanizer"
+                ],
+                "short": "Search for anime, manga, manhwa/manhua, light novels, and characters. See series info, status, episodes/chapters, and tags.",
+                "tags": [
+                    "anime",
+                    "manga",
+                    "anilist",
+                    "myanimelist",
+                    "\u6f2b\u753b",
+                    "\ub9cc\ud654",
+                    "\u6f2b\u753b",
+                    "mangadex",
+                    "batoto",
+                    "kakao",
+                    "webtoons",
+                    "anisearch"
+                ],
+                "type": ""
+            },
             "jadict": {
                 "author": [
                     "coffeebank"
