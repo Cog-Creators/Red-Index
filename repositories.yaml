@@ -57,6 +57,7 @@ approved:
   - https://github.com/Kuro-Rui/Kuro-Cogs
   - https://github.com/i-am-zaidali/cray-cogs
   - https://github.com/Mister-42/mr42-cogs
+  - https://github.com/japandotorg/Seina-Cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -79,7 +80,6 @@ unapproved:
   - https://github.com/zhaobenny/bz-cogs
   - https://github.com/DJTOMATO/glas-cogs
   - https://github.com/burnacid/Botc-Red-Cogs
-  - https://github.com/japandotorg/Seina-Cogs
   - https://github.com/flaree/pokecord-red
   - https://github.com/taintedvalor/Valors-cogs
   - https://github.com/fakesmile9704/fake-cogs
