@@ -12902,31 +12902,6 @@
                 ],
                 "type": "COG"
             },
-            "chemistry": {
-                "author": [
-                    "inthedark.org"
-                ],
-                "description": "Calculate molecular mass directly from discord.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "molmass==2021.6.18"
-                ],
-                "short": "Chemistry stuff",
-                "tags": [
-                    "utility",
-                    "chemistry",
-                    "molarmass",
-                    "chem"
-                ],
-                "type": "COG"
-            },
             "codeforces": {
                 "author": [
                     "inthedark.org"
