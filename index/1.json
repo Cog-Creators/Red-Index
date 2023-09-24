@@ -12822,7 +12822,7 @@
         "description": "Fun cogs developed by inthedark.org.",
         "name": "Seina-Cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "animals": {
                 "author": [
