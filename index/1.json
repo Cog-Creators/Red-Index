@@ -1179,6 +1179,28 @@
                 ],
                 "type": "COG"
             },
+            "noargs": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Deletes useless args from urls",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    ""
+                ],
+                "short": "Deletes useless args from urls",
+                "tags": [
+                    "repost"
+                ],
+                "type": "COG"
+            },
             "nohugs": {
                 "author": [
                     "Aikaterna"
