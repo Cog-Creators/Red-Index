@@ -1192,12 +1192,11 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    ""
-                ],
+                "requirements": [],
                 "short": "Deletes useless args from urls",
                 "tags": [
-                    "repost"
+                    "repost",
+                    "noargs"
                 ],
                 "type": "COG"
             },
