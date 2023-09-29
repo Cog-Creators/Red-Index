@@ -1296,7 +1296,7 @@
                 "author": [
                     "Glas"
                 ],
-                "description": "Makes a Sekai Sticker with custom text",
+                "description": "Makes a Proseka Sticker with custom text",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -1305,11 +1305,14 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Makes a Sekai Sticker with custom text.",
+                "requirements": [
+                    "pillow==9.5.0"
+                ],
+                "short": "Makes a Proseka Sticker with custom text.",
                 "tags": [
                     "image",
-                    "Sekai",
+                    "sekai",
+                    "vocaloid",
                     "meme",
                     "fun"
                 ],
