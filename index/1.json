@@ -1346,7 +1346,7 @@
                 "author": [
                     "luna"
                 ],
-                "description": "Creates comics with random characters using a string of messages from a channel.",
+                "description": "Creates comics with random characters (+ 1300 new images) using a string of messages from a channel.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
