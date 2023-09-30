@@ -13950,6 +13950,34 @@
                 ],
                 "type": "COG"
             },
+            "emojispam": {
+                "author": [
+                    "max"
+                ],
+                "description": "Similar emojispam filter to dyno but without ban, kick and mute.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Similar emojispam filter to dyno but without ban, kick and mute.",
+                "tags": [
+                    "emoji",
+                    "emojispam"
+                ],
+                "type": "COG"
+            },
             "nekosbest": {
                 "author": [
                     "max"
