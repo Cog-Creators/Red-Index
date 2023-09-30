@@ -18172,7 +18172,7 @@
         "description": "random, niche, non-user friendly, and duct taped together cogs",
         "name": "bz-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "aiemote": {
                 "author": [
