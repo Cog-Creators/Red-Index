@@ -8424,6 +8424,34 @@
         },
         "short": "Mainly utility cogs."
     },
+    "https://github.com/Viking-Studios-Arma/VSCogs": {
+        "author": [
+            "Amateur-God"
+        ],
+        "description": "My cogs for utility, Moderation, and more coming soon.\nOriginally created for the Viking Studios discord bot",
+        "name": "VSCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "VSMod": {
+                "author": "Amateur-God",
+                "description": "A moderation and utility cog for managing warnings, bans, mutes, banned words, invite link blocking and other features like suggestions.",
+                "disabled": false,
+                "end_user_data_statement": "data such as UIDs of server members and Moderators along with GuildID and RoleID may be stored by the cog for keeping tracking of user warnings, mutes, bans, and offenses",
+                "hidden": "false",
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "3.11.0",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [],
+                "type": ""
+            }
+        },
+        "short": "Cogs Created by the Viking Studios team"
+    },
     "https://github.com/WildStriker/WildCogs": {
         "author": [
             "WildStriker (WildStriker#6222)"
