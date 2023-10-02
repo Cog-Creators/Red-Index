@@ -8434,14 +8434,20 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "VSMod": {
-                "author": "Amateur-God",
+                "author": [
+                    "Amateur-God"
+                ],
                 "description": "A moderation and utility cog for managing warnings, bans, mutes, banned words, invite link blocking and other features like suggestions.",
                 "disabled": false,
                 "end_user_data_statement": "data such as UIDs of server members and Moderators along with GuildID and RoleID may be stored by the cog for keeping track of user warnings, mutes, bans, and offenses",
-                "hidden": "false",
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": "3.11.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
