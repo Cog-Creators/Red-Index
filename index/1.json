@@ -17268,7 +17268,6 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "json5",
                     "plotly",
                     "requests",
                     "pillow",
