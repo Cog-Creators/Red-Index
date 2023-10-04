@@ -4543,22 +4543,28 @@
                 ],
                 "type": "COG"
             },
-            "sup": {
+            "kira": {
                 "author": [
                     "Mr. 42"
                 ],
-                "description": "Automatically tell PeK to shut up.",
+                "description": "Remove links for specified domains, or ask the sender if it's really relevant.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.3",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically tell PeK to shut up.",
-                "tags": [],
+                "short": "Keep It Relevant, A......!",
+                "tags": [
+                    "moderation",
+                    "tools",
+                    "utility",
+                    "spam",
+                    "antispam"
+                ],
                 "type": "COG"
             },
             "youtube": {
