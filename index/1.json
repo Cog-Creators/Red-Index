@@ -18208,7 +18208,7 @@
         "author": [
             "zhaobenny"
         ],
-        "description": "random, niche, non-user friendly, and duct taped together cogs",
+        "description": "Random, niche, and duct taped together cogs",
         "name": "bz-cogs",
         "rx_branch": "",
         "rx_category": "approved",
@@ -18217,14 +18217,16 @@
                 "author": [
                     "zhaobenny"
                 ],
-                "description": "Utilize OpenAI to select the 'best' react for a message",
+                "description": "Human-like Discord reacts to messages powered by OpenAI",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users, but chat messages be sent to OpenAI to generate an emoji selection. Please refer to: <https://openai.com/policies/privacy-policy>. ",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "read_messages"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "openai",
@@ -18244,14 +18246,17 @@
                 "author": [
                     "zhaobenny"
                 ],
-                "description": "Utilize OpenAI to reply to messages and images in approved channels.",
+                "description": "Human-like Discord interactions powered by OpenAI for messages (and images)",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but chat messages may be sent to OpenAI to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>. Images, if enabled for scanning, may be sent to ai-horde. Please refer to: <https://stablehorde.net/privacy>",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but chat messages may be sent to OpenAI to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>. Images (if enabled) may be sent to ai-horde. Please refer to: <https://stablehorde.net/privacy>",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "read_messages",
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "openai",
@@ -18286,7 +18291,7 @@
                 "type": ""
             }
         },
-        "short": "random niche cogs"
+        "short": "Random niche cogs"
     },
     "https://gitlab.com/CrunchBangDev/cbd-cogs": {
         "author": [
