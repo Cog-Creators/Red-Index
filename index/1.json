@@ -17008,7 +17008,7 @@
                     "aiocache",
                     "ujson",
                     "msgpack",
-                    "pydantic>=2.0.1",
+                    "pydantic",
                     "json5",
                     "tiktoken",
                     "scipy",
