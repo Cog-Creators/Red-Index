@@ -14041,6 +14041,34 @@
                 ],
                 "type": "COG"
             },
+            "imageonly": {
+                "author": [
+                    "max"
+                ],
+                "description": "This cog will only let you allow images/links in a set channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "This cog will only let you allow images/links in a set channel.",
+                "tags": [
+                    "links only",
+                    "image only"
+                ],
+                "type": "COG"
+            },
             "nekosbest": {
                 "author": [
                     "max"
