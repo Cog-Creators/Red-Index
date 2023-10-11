@@ -14045,7 +14045,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "This cog will only let you allow images/links in a set channel.",
+                "description": "This cog will only let you allow images in a set channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -14062,7 +14062,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "This cog will only let you allow images/links in a set channel.",
+                "short": "This cog will only let you allow images in a set channel.",
                 "tags": [
                     "links only",
                     "image only"
