@@ -1341,6 +1341,29 @@
                 ],
                 "type": "COG"
             },
+            "stickbugged": {
+                "author": [
+                    "flare(flare#0001)",
+                    "Glas"
+                ],
+                "description": "Get stickbugged. V2",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/DJTOMATO/get-stick-bugged-lol"
+                ],
+                "short": "Get stickbugged. V2",
+                "tags": [
+                    "stickbugged"
+                ],
+                "type": ""
+            },
             "watamelon": {
                 "author": [
                     "Kuro",
