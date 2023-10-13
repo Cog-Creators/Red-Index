@@ -13226,7 +13226,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "TagScript==2.6.2"
+                ],
                 "short": "Thread opener.",
                 "tags": [
                     "channels",
