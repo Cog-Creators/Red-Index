@@ -1123,7 +1123,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to search and show a cooking recipe!",
+                "description": "A cog to display permissions for roles and members, at guild level or in a specified channel!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -1133,15 +1133,14 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
-                    "beautifulsoup4",
-                    "lxml"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "A cog to search and show a cooking recipe!",
+                "short": "A cog to display permissions for roles and members, at guild level or in a specified channel!",
                 "tags": [
-                    "recipe",
-                    "cook",
-                    "food"
+                    "permissions",
+                    "discord",
+                    "advanced",
+                    "dev"
                 ],
                 "type": ""
             }
