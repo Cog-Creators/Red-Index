@@ -1118,6 +1118,32 @@
                     "button"
                 ],
                 "type": ""
+            },
+            "viewpermissions": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to search and show a cooking recipe!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "beautifulsoup4",
+                    "lxml"
+                ],
+                "short": "A cog to search and show a cooking recipe!",
+                "tags": [
+                    "recipe",
+                    "cook",
+                    "food"
+                ],
+                "type": ""
             }
         },
         "short": "Many cogs for Red-DiscordBot!"
