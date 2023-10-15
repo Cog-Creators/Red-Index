@@ -17258,7 +17258,9 @@
                     "administrator"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pydantic"
+                ],
                 "short": "Discord Server Backup/Restore",
                 "tags": [
                     "backup",
