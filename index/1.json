@@ -14181,7 +14181,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "orjson"
+                ],
                 "short": "Sending random kitsune, waifue, husbando and nekos images.",
                 "tags": [
                     "images",
@@ -14268,7 +14270,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "orjson"
+                ],
                 "short": "Roleplay cog. With help of nekos.best.",
                 "tags": [
                     "roleplay"
@@ -14289,7 +14293,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "orjson"
+                ],
                 "short": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
                 "tags": [
                     "pokemon",
