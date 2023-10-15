@@ -4605,13 +4605,33 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Keep It Relevant, A......!",
+                "short": "Keep It Relevant, Asshole!",
                 "tags": [
                     "moderation",
                     "tools",
                     "utility",
                     "spam",
                     "antispam"
+                ],
+                "type": "COG"
+            },
+            "repolist": {
+                "author": [
+                    "Mr. 42"
+                ],
+                "description": "List all installed repos and their available cogs in one command",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "List all installed repos and their available cogs in one command",
+                "tags": [
+                    "tools"
                 ],
                 "type": "COG"
             },
