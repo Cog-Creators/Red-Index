@@ -14263,10 +14263,7 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "TagScript==2.6.2",
-                    "orjson"
-                ],
+                "requirements": [],
                 "short": "Disallow spoilers in your server.",
                 "tags": [
                     "spoiler",
