@@ -17941,7 +17941,9 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Talk as the bot",
-                "tags": [],
+                "tags": [
+                    "say"
+                ],
                 "type": "COG"
             }
         },
