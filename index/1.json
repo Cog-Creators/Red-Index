@@ -4437,6 +4437,31 @@
                 ],
                 "type": "COG"
             },
+            "kurotools": {
+                "author": [
+                    "Kuro"
+                ],
+                "description": "Just some (maybe) useful tools made by Kuro.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/Kuro-Rui/Kuro-Utils"
+                ],
+                "short": "Just some (maybe) useful tools.",
+                "tags": [
+                    "kuro",
+                    "tools",
+                    "utility",
+                    "utilities"
+                ],
+                "type": "COG"
+            },
             "osu": {
                 "author": [
                     "Kuro"
