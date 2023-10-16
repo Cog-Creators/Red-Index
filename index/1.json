@@ -14202,6 +14202,29 @@
                 ],
                 "type": "COG"
             },
+            "customping": {
+                "author": [
+                    "PhenoM4n4n",
+                    "max"
+                ],
+                "description": "Creates a custom ping embed to display latency statistics.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "speedtest-cli"
+                ],
+                "short": "Creates a custom ping embed to display latency statistics.",
+                "tags": [
+                    "ping"
+                ],
+                "type": ""
+            },
             "emojispam": {
                 "author": [
                     "max"
@@ -14318,6 +14341,31 @@
                     "nospoiler"
                 ],
                 "type": "COG"
+            },
+            "plaguegame": {
+                "author": [
+                    "PhenoM4n4n",
+                    "max"
+                ],
+                "description": "Plague game with a doctor and plaguebearer.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data on users based off their interactions within the game. Examples of such data are their 'health state' (healthy or infected) or their 'game role' (user, doctor, plaguebearer).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz"
+                ],
+                "short": "Infect users with the plague!",
+                "tags": [
+                    "fun",
+                    "plague"
+                ],
+                "type": ""
             },
             "redupdate": {
                 "author": [
