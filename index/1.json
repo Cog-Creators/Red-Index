@@ -13344,7 +13344,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.0.1",
+                    "AdvancedTagScriptEngine",
                     "tabulate",
                     "rapidfuzz"
                 ],
@@ -15849,6 +15849,29 @@
                 ],
                 "type": "COG"
             },
+            "forcemention": {
+                "author": [
+                    "Bobloy",
+                    "PhenoM4n4n",
+                    "sravan"
+                ],
+                "description": "Mentions roles that are unmentionable",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Mention unmentionables",
+                "tags": [
+                    "bobloy",
+                    "utils"
+                ],
+                "type": ""
+            },
             "gtn": {
                 "author": [
                     "sravan"
@@ -15933,6 +15956,28 @@
                     "poll"
                 ],
                 "type": "COG"
+            },
+            "prefix": {
+                "author": [
+                    "PhenoM4n4n",
+                    "sravan"
+                ],
+                "description": "Manage guild prefixes more extensively.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage guild prefixes.",
+                "tags": [
+                    "server",
+                    "prefix"
+                ],
+                "type": ""
             },
             "session": {
                 "author": [
