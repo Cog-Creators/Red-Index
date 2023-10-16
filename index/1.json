@@ -13344,7 +13344,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.0.0",
+                    "AdvancedTagScriptEngine==3.0.1",
                     "tabulate",
                     "rapidfuzz"
                 ],
