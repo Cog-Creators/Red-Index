@@ -13344,7 +13344,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.2",
+                    "AdvancedTagScriptEngine==3.1.3",
                     "tabulate",
                     "rapidfuzz"
                 ],
@@ -13368,7 +13368,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.2"
+                    "AdvancedTagScriptEngine==3.1.3"
                 ],
                 "short": "Thread opener.",
                 "tags": [
