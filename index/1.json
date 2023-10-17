@@ -13339,7 +13339,7 @@
                 "end_user_data_statement": "This cog stores End User Data when storing the author of a tag. If a user requests data-deletion, all their tags will be removed from the bot.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.4.0",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
