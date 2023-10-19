@@ -14270,7 +14270,9 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "regex"
+                ],
                 "short": "Similar emojispam filter to dyno but without ban, kick and mute.",
                 "tags": [
                     "emoji",
