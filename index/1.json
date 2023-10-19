@@ -4645,7 +4645,7 @@
                 "author": [
                     "Mr. 42"
                 ],
-                "description": "Returns a user's avatar as attachment.",
+                "description": "Returns a user's avatar as attachment. With optional slash command.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -4655,7 +4655,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Get user's avatar.",
+                "short": "Get a user's avatar.",
                 "tags": [
                     "avatar",
                     "pfp"
