@@ -4711,7 +4711,7 @@
                     "retke (El Laggron)",
                     "Mr. 42"
                 ],
-                "description": "Speak as the bot through multiple options.\nAllow file upload, rift in DM and specific destinations.",
+                "description": "Speak as the bot through multiple options. With optional slash command.\nAllow file upload, rift in DM and specific destinations.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
                 "hidden": false,
@@ -4721,7 +4721,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Speak as the bot through multiple options. With optional slash command.",
+                "short": "Speak as the bot through multiple options.",
                 "tags": [
                     "rift",
                     "upload",
