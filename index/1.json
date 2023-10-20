@@ -4721,7 +4721,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Speak as the bot through multiple options.",
+                "short": "Speak as the bot through multiple options. With optional slash command.",
                 "tags": [
                     "rift",
                     "upload",
