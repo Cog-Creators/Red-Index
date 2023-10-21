@@ -14462,7 +14462,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "unidecode",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "git+https://github.com/ltzmax/maxcogs-utils"
                 ],
                 "short": "Infect users with the plague!",
                 "tags": [
