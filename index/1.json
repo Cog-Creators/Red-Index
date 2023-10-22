@@ -494,6 +494,33 @@
                 ],
                 "type": ""
             },
+            "embedutils": {
+                "author": [
+                    "PhenoM4n4n",
+                    "AAA3A"
+                ],
+                "description": "Create, send, and store embeds!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Create, send, and store embeds!",
+                "tags": [
+                    "embed",
+                    "creator",
+                    "content",
+                    "advanced",
+                    "json"
+                ],
+                "type": ""
+            },
             "exportchannel": {
                 "author": [
                     "AAA3A"
