@@ -1337,11 +1337,11 @@
                 ],
                 "type": ""
             },
-            "npm": {
+            "search": {
                 "author": [
                     "CryptoLover705"
                 ],
-                "description": "view NPM modules",
+                "description": "Search various platforms such as NPM, Youtube, Google",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data",
                 "hidden": false,
@@ -1351,49 +1351,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "View NPM modules",
-                "tags": [
-                    "cryptolover705",
-                    "utils"
-                ],
-                "type": ""
-            },
-            "search": {
-                "author": [
-                    "CryptoLover705"
-                ],
-                "description": "Search various platforms such as NPM, Youtube, Google",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
                 "short": "Search various platforms such as NPM, Youtube, Google",
-                "tags": [
-                    "cryptolover705",
-                    "utils"
-                ],
-                "type": ""
-            },
-            "steam": {
-                "author": [
-                    "CryptoLover705"
-                ],
-                "description": "view Steam games",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "View Steam games",
                 "tags": [
                     "cryptolover705",
                     "utils"
