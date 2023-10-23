@@ -1334,11 +1334,11 @@
                 ],
                 "type": ""
             },
-            "pypi": {
+            "steam": {
                 "author": [
                     "CryptoLover705"
                 ],
-                "description": "view PyPi modules",
+                "description": "view Steam games",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data",
                 "hidden": true,
@@ -1348,7 +1348,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "View PyPi modules",
+                "short": "View Steam games",
                 "tags": [
                     "cryptolover705",
                     "utils"
