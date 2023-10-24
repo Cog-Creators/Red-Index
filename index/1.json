@@ -3679,6 +3679,30 @@
                 ],
                 "type": ""
             },
+            "snsconverter": {
+                "author": [
+                    "j4d3r48817",
+                    "injabie3",
+                    "quachtridat"
+                ],
+                "description": "Converts Twitter/Instagram links to vxtwitter/ddinstagram for better video embeds",
+                "disabled": false,
+                "end_user_data_statement": "no data is stored",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Replace Twitter/Instagram embeds with better embeds",
+                "tags": [
+                    "server"
+                ],
+                "type": ""
+            },
             "spoilers": {
                 "author": [
                     "Injabie3#1660"
@@ -3784,28 +3808,6 @@
                 "short": "Feeling triggered? Say no more, fam.",
                 "tags": [
                     "fun"
-                ],
-                "type": ""
-            },
-            "vxtwitterconverter": {
-                "author": [
-                    "JadeRabbit#9310"
-                ],
-                "description": "Converts Twitter link to VxTwitter for better video embeds",
-                "disabled": false,
-                "end_user_data_statement": "no data is stored",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "twitter embed fix when?",
-                "tags": [
-                    "server"
                 ],
                 "type": ""
             },
