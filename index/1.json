@@ -13111,6 +13111,473 @@
         "rx_cogs": {},
         "short": "Random fandom cogs"
     },
+    "https://github.com/i-am-zaidali/bounty-cogs": {
+        "author": [
+            "crayyy_zee"
+        ],
+        "description": "Utility and fun cogs made by crayyy_zee. (Mostly targeted towards a dank memer audience).",
+        "name": "bounty-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "banonleave": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog automatically bans users that leave the server. It can be useful for preventing raiders or spammers from rejoining the server after being kicked or banned.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically bans users that leave the server.",
+                "tags": [
+                    "moderation",
+                    "security"
+                ],
+                "type": "COG"
+            },
+            "bettermodlog": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog enhances the functionality of the builtin modlog cog by formatting the output of the `listcases` command into an embed, making it easier to read and understand.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "ModLog": "The builtin ModLog cog is required for this cog to function properly."
+                },
+                "requirements": [],
+                "short": "A cog that puts the listcases command's response from the builtin modlog cog into an embed",
+                "tags": [
+                    "moderation",
+                    "modlog",
+                    "embed"
+                ],
+                "type": "COG"
+            },
+            "channeltimezone": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog adds a timezone for a discord text channel where it sends a message for the current time in the given timezone and updates that message every :30 and :00 minutes",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data persistently",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "Adds a timezone for a discord text channel where it sends a message for the current time in the given timezone and updates that message every :30 and :00 minutes",
+                "tags": [
+                    "timezone",
+                    "time",
+                    "discord"
+                ],
+                "type": "COG"
+            },
+            "eventmanager": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog helps create events for World of Warcraft game where discord users can sign up through reactions on the event message and be notified when the event happens.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data persistently to manage events and user signups.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "dateparser"
+                ],
+                "short": "A cog for creating and managing World of Warcraft events",
+                "tags": [
+                    "World of Warcraft",
+                    "event management"
+                ],
+                "type": "COG"
+            },
+            "fishing": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog is just a small minigame where you catch virtual fishes with chances of the fish being common, uncommon or rare",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A small minigame where you catch virtual fishes",
+                "tags": [
+                    "minigame",
+                    "fishing",
+                    "virtual"
+                ],
+                "type": "COG"
+            },
+            "gamebanana": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows users to search for mods for the game Hatsune Miku: Project DIVA Mega Mix+ on the Gamebanana website. Users can search for mods by name or by category, and the cog will return a list of matching mods with links to their Gamebanana pages.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that searches for Hatsune Miku: Project DIVA Mega Mix+ mods on Gamebanana",
+                "tags": [
+                    "gamebanana",
+                    "hatsune miku",
+                    "project diva mega mix+",
+                    "mods"
+                ],
+                "type": "COG"
+            },
+            "inrole": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "InRole is a cog that allows users to view the members of a given discord role. It also provides the ability to set filters that allow non-admin users to see role members of roles that pass those filters. This cog is useful for server administrators who want to keep track of the members of a particular role.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that shows the members having a given discord role, with the ability to set filters that allow non admin users to see role members of roles that pass those filters",
+                "tags": [
+                    "discord",
+                    "role",
+                    "members"
+                ],
+                "type": "COG"
+            },
+            "lastseen": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows you to track users and see when they have been last online.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track when users were last online",
+                "tags": [
+                    "lastseen",
+                    "tracking",
+                    "users"
+                ],
+                "type": "COG"
+            },
+            "mcm": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows players to keep track of their vehicle stats and other important information from the game MissionChief in Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief in Discord.",
+                "tags": [
+                    "MissionChief",
+                    "game",
+                    "stats",
+                    "vehicles"
+                ],
+                "type": "COG"
+            },
+            "paginator": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "The Paginator cog provides a simple way for users to create paginated menus within Discord. These menus can consist of either embeds or non-embedded content, and can be customized to fit the user's needs. The Paginator cog is easy to use and can be a great addition to any Discord server.",
+                "disabled": false,
+                "end_user_data_statement": "The Paginator cog does not store user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that allows users to create their own paginated menus within Discord consisting of embeds and/or non-embedded content.",
+                "tags": [
+                    "pagination",
+                    "menu",
+                    "embeds",
+                    "discord"
+                ],
+                "type": "COG"
+            },
+            "reactrole": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows you to create react roles in Discord with the use of buttons.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create react roles in Discord with the use of buttons",
+                "tags": [
+                    "discord",
+                    "react",
+                    "role",
+                    "button"
+                ],
+                "type": "COG"
+            },
+            "rep": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows you to add or remove reputation points from members in your discord server. It also allows you to add reputation points to everyone present in given voice channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user ids to link with their reputation points.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Add or remove reputation points from members in your discord server.",
+                "tags": [
+                    "reputation",
+                    "points",
+                    "voice channels"
+                ],
+                "type": "COG"
+            },
+            "rolesync": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows you to sync roles across multiple Discord servers. It can be useful for managing roles across different communities or for keeping roles consistent across multiple servers.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Syncs roles across Discord servers.",
+                "tags": [
+                    "roles",
+                    "sync",
+                    "management"
+                ],
+                "type": "COG"
+            },
+            "slashtags": {
+                "author": [
+                    "PhenoM4n4n",
+                    "crayyy_zee"
+                ],
+                "description": "Create custom slash commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine",
+                    "tabulate"
+                ],
+                "short": "Create custom slash commands.",
+                "tags": [
+                    "tags",
+                    "slashcommands",
+                    "custom commands"
+                ],
+                "type": "COG"
+            },
+            "stw": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows the bot owner to add items to a wheel which can be spinned twice a week by users to win items. These items will be added to a user's inventory but do not serve any purpose.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "imageio"
+                ],
+                "short": "A minigame where users can spin a wheel to win items",
+                "tags": [
+                    "minigame",
+                    "inventory",
+                    "items"
+                ],
+                "type": "COG"
+            },
+            "timeout": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows server admins or users with appropriate permissions to timeout members in servers. A timeout is a temporary ban that can be used to prevent a user from sending messages or joining voice channels for a specified period of time.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows admins/people with permissions to timeout members in servers",
+                "tags": [
+                    "moderation",
+                    "timeout",
+                    "ban"
+                ],
+                "type": "COG"
+            },
+            "timerole": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Apply/remove roles based on the # of hours or days on server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Apply roles after # of hours or days",
+                "tags": [
+                    "utilities",
+                    "tools",
+                    "tool",
+                    "roles"
+                ],
+                "type": ""
+            },
+            "verifier": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "The verifier cog allows users who have already been verified to verify other users by mentioning them in a set channel. This is useful for servers that require verification before granting access to certain channels or features.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows verified users to verify other users by mentioning them in a set channel",
+                "tags": [
+                    "verification",
+                    "discord"
+                ],
+                "type": "COG"
+            },
+            "welcome": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog asks a set of questions to users when they join a server and saves their answers to an excel file for review later. The questions can be customized by the server admin.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data persistently in an excel file.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pandas[excel]"
+                ],
+                "short": "Asks given questions to users when they join a server and saves the answers to an excel file for review later.",
+                "tags": [
+                    "welcome",
+                    "questions",
+                    "excel"
+                ],
+                "type": "COG"
+            },
+            "youtube": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Get youtube updates when a subscribed channel posts",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser"
+                ],
+                "short": "Get youtube updates when a subscribed channel posts",
+                "tags": [],
+                "type": "COG"
+            }
+        },
+        "short": "Badly coded but awesome cogs."
+    },
     "https://github.com/i-am-zaidali/cray-cogs": {
         "author": [
             "crayyy_zee"
