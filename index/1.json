@@ -4880,6 +4880,34 @@
                     "yandex"
                 ],
                 "type": "COG"
+            },
+            "typeracer": {
+                "author": [
+                    "Cats3153",
+                    "PhenoM4n4n",
+                    "Kuro"
+                ],
+                "description": "Race to see who can type the fastest!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Race to see who can type the fastest!",
+                "tags": [
+                    "fun",
+                    "game",
+                    "race",
+                    "type",
+                    "typerace"
+                ],
+                "type": "COG"
             }
         },
         "short": "Some cogs made by Kuro for Red-DiscordBot v3."
