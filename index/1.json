@@ -15027,9 +15027,7 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
                     "news",
@@ -15052,8 +15050,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "speedtest-cli",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "speedtest-cli"
                 ],
                 "short": "Creates a custom ping embed to display latency statistics.",
                 "tags": [
@@ -15082,8 +15079,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "regex",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "regex"
                 ],
                 "short": "Similar emojispam filter to dyno but without ban, kick and mute.",
                 "tags": [
@@ -15112,9 +15108,7 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "This cog will only let you allow images in a set channel.",
                 "tags": [
                     "links only",
@@ -15142,8 +15136,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "orjson",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "orjson"
                 ],
                 "short": "Sending random kitsune, waifue, husbando and nekos images.",
                 "tags": [
@@ -15176,9 +15169,7 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Disallow spoilers in your server.",
                 "tags": [
                     "spoiler",
@@ -15202,8 +15193,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "unidecode",
-                    "rapidfuzz",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "rapidfuzz"
                 ],
                 "short": "Infect users with the plague!",
                 "tags": [
@@ -15226,9 +15216,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Find out how (simp/sane/smart/drunk) you are.",
                 "tags": [
                     "rate",
@@ -15258,9 +15246,7 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Update your bot to latest dev version of red.",
                 "tags": [
                     "botupdate",
@@ -15287,9 +15273,7 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Roleplay cog. With help of nekos.best.",
                 "tags": [
                     "roleplay"
@@ -15310,9 +15294,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
                 "tags": [
                     "pokemon",
@@ -15337,8 +15319,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "pillow"
                 ],
                 "short": "Play a game of Who's That Pok\u00e9mon.",
                 "tags": [
