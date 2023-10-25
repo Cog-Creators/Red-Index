@@ -13933,6 +13933,32 @@
                 ],
                 "type": "COG"
             },
+            "captcha": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Captcha verification system.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine==3.1.4",
+                    "Pillow"
+                ],
+                "short": "Captcha verification system.",
+                "tags": [
+                    "security",
+                    "captcha",
+                    "protection",
+                    "mod"
+                ],
+                "type": "COG"
+            },
             "codeforces": {
                 "author": [
                     "inthedark.org"
