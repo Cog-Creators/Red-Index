@@ -15167,8 +15167,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "unidecode",
-                    "rapidfuzz",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "rapidfuzz"
                 ],
                 "short": "Infect users with the plague!",
                 "tags": [
@@ -15221,9 +15220,7 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/ltzmax/maxcogs-utils"
-                ],
+                "requirements": [],
                 "short": "Update your bot to latest dev version of red.",
                 "tags": [
                     "botupdate",
@@ -15296,8 +15293,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow",
-                    "git+https://github.com/ltzmax/maxcogs-utils"
+                    "pillow"
                 ],
                 "short": "Play a game of Who's That Pok\u00e9mon.",
                 "tags": [
