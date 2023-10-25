@@ -13481,7 +13481,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine",
+                    "AdvancedTagScriptEngine==3.1.4",
                     "tabulate"
                 ],
                 "short": "Create custom slash commands.",
