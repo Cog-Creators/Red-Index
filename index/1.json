@@ -1458,6 +1458,28 @@
                 ],
                 "type": "COG"
             },
+            "makesweet": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Generates awesome gifs!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generates awesome gifs!",
+                "tags": [
+                    "image",
+                    "heart",
+                    "meme"
+                ],
+                "type": "COG"
+            },
             "movietar": {
                 "author": [
                     "Glas"
