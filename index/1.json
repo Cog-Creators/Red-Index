@@ -1471,7 +1471,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "unidecode"
+                ],
                 "short": "Generates awesome gifs!",
                 "tags": [
                     "image",
