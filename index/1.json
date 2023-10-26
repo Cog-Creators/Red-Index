@@ -14020,6 +14020,36 @@
                 ],
                 "type": "COG"
             },
+            "disboardreminder": {
+                "author": [
+                    "inthedark.org",
+                    "PhenoM4n4n"
+                ],
+                "description": "Set a reminder to bump on Disboard.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz",
+                    "AdvancedTagScriptEngine"
+                ],
+                "short": "Set a reminder to bump on Disboard.",
+                "tags": [
+                    "Disboard",
+                    "Reminder"
+                ],
+                "type": "COG"
+            },
             "firstmessage": {
                 "author": [
                     "inthedark.org"
