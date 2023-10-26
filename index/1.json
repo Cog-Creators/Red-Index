@@ -14040,6 +14040,31 @@
                 ],
                 "type": "COG"
             },
+            "lock": {
+                "author": [
+                    "inthedark.org",
+                    "PhenoM4n4n"
+                ],
+                "description": "Lock channels or the whole server",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "unidecode",
+                    "rapidfuzz"
+                ],
+                "short": "Lock channels",
+                "tags": [
+                    "utility",
+                    "server"
+                ],
+                "type": "COG"
+            },
             "massunban": {
                 "author": [
                     "aikaterna",
