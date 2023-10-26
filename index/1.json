@@ -1661,7 +1661,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/DJTOMATO/get-stick-bugged-lol"
+                    "git+https://github.com/DJTOMATO/get-stick-bugged-lol",
+                    "Pillow==9.5.0"
                 ],
                 "short": "Get stickbugged. V2",
                 "tags": [
