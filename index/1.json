@@ -15406,7 +15406,9 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "Simple suggestion cog that allows users to send a suggestion.",
                 "tags": [
                     "suggest",
