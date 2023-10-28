@@ -5036,7 +5036,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "feedparser",
-                    "pytube"
+                    "yt-dlp"
                 ],
                 "short": "Subscribe to channels on YouTube.",
                 "tags": [
