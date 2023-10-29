@@ -18403,7 +18403,7 @@
                 "end_user_data_statement": "This cog stores information about your entire discord server including user IDs.\n**NOTE**\nRestoring backups can be rate-limit intensive, and may take quite a while.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.3",
                 "min_python_version": [
                     3,
                     10,
