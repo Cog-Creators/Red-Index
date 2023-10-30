@@ -14094,6 +14094,38 @@
                 ],
                 "type": "COG"
             },
+            "freeloadermode": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Ban freeloaders who leave your server right after an event or something.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores end user data when users are banned from the servers.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine"
+                ],
+                "short": "Ban users that leave your server right after an event or something.",
+                "tags": [
+                    "freeloader",
+                    "freeloadermode",
+                    "security",
+                    "dankmemer",
+                    "dank",
+                    "mod",
+                    "ban"
+                ],
+                "type": "COG"
+            },
             "lock": {
                 "author": [
                     "inthedark.org",
