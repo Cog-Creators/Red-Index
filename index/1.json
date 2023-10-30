@@ -13994,7 +13994,7 @@
                 ],
                 "description": "Conversation games for members.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores users data in form of << member : role >> Discord IDs pairings.\nThis cog supports data removal requests.",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -14143,6 +14143,30 @@
                     "channel",
                     "personal",
                     "utility"
+                ],
+                "type": "COG"
+            },
+            "purge": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Purge (deleted) messages that meet a criteria.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Advanced Purge/Cleanup.",
+                "tags": [
+                    "cleanup",
+                    "purge",
+                    "mod",
+                    "utility",
+                    "server"
                 ],
                 "type": "COG"
             },
