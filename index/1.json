@@ -14050,6 +14050,29 @@
                 ],
                 "type": "COG"
             },
+            "errorhandler": {
+                "author": [
+                    "inthedark.org",
+                    "sitryk"
+                ],
+                "description": "Adds ability to replace the output of the bots error handler when CommandInvokeError is raised, all other errors get handled by the old handler.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow custom error message.",
+                "tags": [
+                    "error",
+                    "errorhandler",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "firstmessage": {
                 "author": [
                     "inthedark.org"
