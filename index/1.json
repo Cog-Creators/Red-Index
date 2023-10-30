@@ -14159,7 +14159,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "arrow"
+                ],
                 "short": "Advanced Purge/Cleanup.",
                 "tags": [
                     "cleanup",
