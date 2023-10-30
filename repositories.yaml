@@ -140,13 +140,6 @@ flagged-cogs:
     - League
     - Leveler
     - oBoobs
-  https://github.com/retke/Laggrons-Dumb-Cogs:
-    - codmw
-    - instantcmd
-    - roleinvite
-    - say
-    - tournaments
-    - warnsystem
   https://github.com/fixator10/Fixator10-Cogs:
     - adminutils
     - captcha
