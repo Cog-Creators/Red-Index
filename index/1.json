@@ -16755,7 +16755,160 @@
         "name": "Laggrons-Dumb-Cogs",
         "rx_branch": "",
         "rx_category": "approved",
-        "rx_cogs": {},
+        "rx_cogs": {
+            "codmw": {
+                "author": [
+                    "retke (El Laggron)"
+                ],
+                "description": "Display statistics about your Call of Duty account, including recent matches.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/retke/laggron-utils"
+                ],
+                "short": "Call of Duty MW stats.",
+                "tags": [
+                    "modernwarfare",
+                    "callofduty",
+                    "cod"
+                ],
+                "type": ""
+            },
+            "instantcmd": {
+                "author": [
+                    "retke (El Laggron)"
+                ],
+                "description": "Command and listener maker from a code snippet through Discord",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Instant command maker",
+                "tags": [
+                    "command",
+                    "listener",
+                    "code"
+                ],
+                "type": ""
+            },
+            "roleinvite": {
+                "author": [
+                    "retke (El Laggron)"
+                ],
+                "description": "Autorole based on the invite the user used.\nIf the user joined using invite x, they will get a list of roles linked to invite x.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/retke/laggron-utils"
+                ],
+                "short": "Autorole based on server's invites",
+                "tags": [
+                    "autorole",
+                    "role",
+                    "join",
+                    "invite"
+                ],
+                "type": ""
+            },
+            "say": {
+                "author": [
+                    "retke (El Laggron)"
+                ],
+                "description": "Speak as the bot through multiple options.\nAllow file upload, rift in DM and specific destinations.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/retke/laggron-utils"
+                ],
+                "short": "Speak as the bot through multiple options.",
+                "tags": [
+                    "rift",
+                    "upload",
+                    "interact"
+                ],
+                "type": ""
+            },
+            "tournaments": {
+                "author": [
+                    "retke (El Laggron)",
+                    "Wonderfall",
+                    "Xyleff"
+                ],
+                "description": "Create and manage huge tournaments in your server!\nWorking with Challonge (and more to come), players will be able to join without any account and play on Discord. They have private channels for their matches, commands for reporting their scores, and the tournament organizers have a lot of tools for managing the tournament.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/retke/Laggron-utils.git",
+                    "apychal==1.11.0",
+                    "aiofiles"
+                ],
+                "short": "Tools for managing your tournaments on Discord.",
+                "tags": [
+                    "tournament",
+                    "challonge",
+                    "smash.gg",
+                    "game",
+                    "smash"
+                ],
+                "type": ""
+            },
+            "warnsystem": {
+                "author": [
+                    "retke (El Laggron)"
+                ],
+                "description": "An alternative to the core moderation cog, similar to Dyno.\nThe cog allows you to take actions against member and keep track with a new modlog system. It also sends a DM to the warned members.\n\nThis is the rewrite of the V2 BetterMod cog. **Note that this cog conflicts with Warnings which must be unloaded.**",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "python-dateutil",
+                    "git+https://github.com/retke/Laggron-utils.git"
+                ],
+                "short": "Moderation tools, providing an alternative to core Red.",
+                "tags": [
+                    "warn",
+                    "warning",
+                    "bettermod",
+                    "punish",
+                    "modlog"
+                ],
+                "type": ""
+            }
+        },
         "short": "Utility cogs for your server."
     },
     "https://github.com/skeith/MayuYukirin": {
