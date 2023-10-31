@@ -11943,7 +11943,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "AdvancedTagScriptEngine"
+                ],
                 "short": "Mod with custom messages.",
                 "tags": [
                     "mod"
