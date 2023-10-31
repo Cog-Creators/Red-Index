@@ -857,6 +857,33 @@
                 ],
                 "type": ""
             },
+            "presencechart": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "A cog to make a chart with the different Discord statuses (presence) of a Discord user, in the previous x days (last 100 days maximum)!",
+                "disabled": false,
+                "end_user_data_statement": "This cog store the differents statuses (presence) of the users, with the starting date-time (last 100 days maximum).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "pillow",
+                    "plotly"
+                ],
+                "short": "A cog to make a chart with the different Discord statuses (presence) of a Discord user, in the previous x days (last 100 days maximum)!",
+                "tags": [
+                    "presence",
+                    "status",
+                    "chart",
+                    "graphic"
+                ],
+                "type": ""
+            },
             "reacttocommand": {
                 "author": [
                     "AAA3A"
