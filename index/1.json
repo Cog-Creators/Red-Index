@@ -861,7 +861,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to make a chart with the different Discord statuses (presence) of a Discord user, in the previous x days (last 100 days maximum)!",
+                "description": "A cog to make a chart with the different Discord statuses (presence) of a Discord member, in the previous x days (last 100 days maximum)!",
                 "disabled": false,
                 "end_user_data_statement": "This cog store the differents statuses (presence) of the users, with the starting date-time (last 100 days maximum).",
                 "hidden": false,
@@ -875,7 +875,7 @@
                     "pillow",
                     "plotly"
                 ],
-                "short": "A cog to make a chart with the different Discord statuses (presence) of a Discord user, in the previous x days (last 100 days maximum)!",
+                "short": "A cog to make a chart with the different Discord statuses (presence) of a Discord member, in the previous x days (last 100 days maximum)!",
                 "tags": [
                     "presence",
                     "status",
