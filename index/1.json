@@ -14465,7 +14465,10 @@
                 "min_python_version": [],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pydub",
+                    "SpeechRecognition"
+                ],
                 "short": "Log the voice note sent by your server members.",
                 "tags": [
                     "voice",
