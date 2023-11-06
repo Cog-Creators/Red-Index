@@ -19987,7 +19987,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai",
+                    "openai==0.28.1",
                     "tenacity",
                     "tiktoken",
                     "Pillow"
