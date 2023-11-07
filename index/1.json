@@ -18626,6 +18626,58 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "assistant": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Set up and configure an AI assistant (or chat) cog for your server with one of OpenAI's ChatGPT language models, with configurable prompt injection, dynamic embeddings, custom function calling, and more",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores prompts and OpenAI API keys on a per server basis. If enabled, conversations with the bot are also persistently stored",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    1
+                ],
+                "permissions": [
+                    "read_messages",
+                    "send_messages",
+                    "embed_links",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "openai>=1.1.1",
+                    "aiocache",
+                    "ujson",
+                    "msgpack",
+                    "pydantic",
+                    "json5",
+                    "tiktoken",
+                    "scipy",
+                    "scikit-learn",
+                    "tenacity",
+                    "matplotlib",
+                    "plotly",
+                    "pandas",
+                    "numpy"
+                ],
+                "short": "Another Chat GPT Cog",
+                "tags": [
+                    "utility",
+                    "assistant",
+                    "gpt",
+                    "ai",
+                    "chat",
+                    "chatgpt",
+                    "chat-gpt",
+                    "llm",
+                    "language model"
+                ],
+                "type": "COG"
+            },
             "autodocs": {
                 "author": [
                     "Vertyco"
