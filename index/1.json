@@ -19957,7 +19957,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai",
+                    "openai>=1.0.0",
                     "tenacity",
                     "tiktoken",
                     "emoji"
@@ -19987,7 +19987,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai==0.28.1",
+                    "openai>=1.0.0",
                     "tenacity",
                     "tiktoken",
                     "Pillow"
