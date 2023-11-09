@@ -18657,7 +18657,8 @@
                     "json5",
                     "tiktoken",
                     "pandas",
-                    "numpy"
+                    "numpy",
+                    "perftracker"
                 ],
                 "short": "Another Chat GPT Cog",
                 "tags": [
