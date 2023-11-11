@@ -19973,21 +19973,23 @@
                 ],
                 "description": "Human-like Discord interactions powered by OpenAI for messages (and images)",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but chat messages may be sent to OpenAI to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>. Images (if enabled) may be sent to ai-horde or OpenAI. Please refer to: <https://stablehorde.net/privacy>",
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users, but chat messages/images may be sent to OpenAI/third parties to generate responses. Please refer to: <https://openai.com/policies/privacy-policy>, <https://stablehorde.net/privacy> and other third party privacy policies for more information.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "read_messages",
+                    "send_messages",
                     "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai>=1.0.0",
+                    "openai>=1.2.3",
                     "tenacity",
                     "tiktoken",
-                    "Pillow"
+                    "Pillow",
+                    "aiohttp"
                 ],
                 "short": "Human-like user behavior powered by OpenAI.",
                 "tags": [
