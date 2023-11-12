@@ -4814,7 +4814,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiosu>=2.1.0",
+                    "aiosu==1.5.0",
                     "git+https://github.com/Kuro-Rui/Kuro-Utils"
                 ],
                 "short": "Display user information from osu!",
