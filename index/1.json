@@ -18679,7 +18679,8 @@
                     "tiktoken",
                     "pandas",
                     "numpy",
-                    "perftracker"
+                    "perftracker",
+                    "tenacity"
                 ],
                 "short": "Another Chat GPT Cog",
                 "tags": [
