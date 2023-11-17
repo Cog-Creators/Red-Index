@@ -15368,64 +15368,6 @@
                 ],
                 "type": ""
             },
-            "emojispam": {
-                "author": [
-                    "max"
-                ],
-                "description": "Similar emojispam filter to dyno but without ban, kick and mute.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "regex"
-                ],
-                "short": "Similar emojispam filter to dyno but without ban, kick and mute.",
-                "tags": [
-                    "emoji",
-                    "emojispam"
-                ],
-                "type": "COG"
-            },
-            "imageonly": {
-                "author": [
-                    "max"
-                ],
-                "description": "This cog will only let you allow images in a set channel.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "manage_messages",
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "This cog will only let you allow images in a set channel.",
-                "tags": [
-                    "links only",
-                    "image only"
-                ],
-                "type": "COG"
-            },
             "nekosbest": {
                 "author": [
                     "max"
@@ -15640,6 +15582,35 @@
                     "pokemon",
                     "pokemontcg",
                     "tcgcard"
+                ],
+                "type": "COG"
+            },
+            "themoviedb": {
+                "author": [
+                    "max"
+                ],
+                "description": "Search for informations of movies and TV shows from themoviedb.org.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    5
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for informations of movies and TV shows from themoviedb.org.",
+                "tags": [
+                    "movies",
+                    "movie",
+                    "tvshow",
+                    "tvshows"
                 ],
                 "type": "COG"
             },
