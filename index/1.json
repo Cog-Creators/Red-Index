@@ -13462,7 +13462,9 @@
                 "min_bot_version": "",
                 "min_python_version": "",
                 "permissions": [],
-                "required_cogs": {},
+                "required_cogs": {
+                    "reminder": "https://github.com/AAA3A-AAA3A/AAA3A-cogs"
+                },
                 "requirements": [],
                 "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief in Discord.",
                 "tags": [
