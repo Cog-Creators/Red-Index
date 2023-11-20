@@ -1418,27 +1418,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "aime": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "For Aime Servers, useless if you don't know it",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "For Aime Servers, do not use",
-                "tags": [
-                    "aime",
-                    "artemis"
-                ],
-                "type": "COG"
-            },
             "anime": {
                 "author": [
                     "TheDiscordHistorian",
@@ -1459,6 +1438,27 @@
                 "short": "Anime news, info etc.",
                 "tags": [],
                 "type": ""
+            },
+            "artemis": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "For Aime Servers, useless if you don't know it",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "For Aime Servers, do not use",
+                "tags": [
+                    "aime",
+                    "artemis"
+                ],
+                "type": "COG"
             },
             "bubble": {
                 "author": [
