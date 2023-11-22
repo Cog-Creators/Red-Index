@@ -1566,7 +1566,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "unidecode"
+                    "beautifulsoup4",
+                    "aiohttp"
                 ],
                 "short": "Obtains info and goal of a Ko-Fi User!",
                 "tags": [
