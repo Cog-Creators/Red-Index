@@ -20232,6 +20232,7 @@
                     "tenacity",
                     "tiktoken",
                     "Pillow",
+                    "beautifulsoup4",
                     "aiohttp"
                 ],
                 "short": "Human-like user behavior powered by LLMs.",
