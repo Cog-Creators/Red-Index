@@ -17672,7 +17672,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "openai",
+                    "pillow"
+                ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
                 "type": ""
