@@ -1496,7 +1496,12 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "lxml",
+                    "asyncio",
+                    "aiohttp",
+                    "bs4"
+                ],
                 "short": "Find game deals in several storefronts.",
                 "tags": [
                     "deals",
