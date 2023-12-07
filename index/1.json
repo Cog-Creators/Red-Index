@@ -17606,6 +17606,39 @@
         },
         "short": "Red V3 Cogs for naturalists by SyntheticBee"
     },
+    "https://github.com/tbr-development/BackRoomCogs": {
+        "author": [
+            "TBR Development"
+        ],
+        "description": "A collection of Cogs for Red DiscordBot built by members of the TBR Development community.",
+        "name": "BackRoomCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "waifus": {
+                "author": [
+                    "TBR Development"
+                ],
+                "description": "Get random waifu images and gifs using waifu.im api.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get random waifu images and gifs.",
+                "tags": [
+                    "images",
+                    "nsfw"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Cogs for Red DiscordBot"
+    },
     "https://github.com/thedataleek/eris-cogs": {
         "author": [
             "Eris"
