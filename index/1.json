@@ -17617,7 +17617,8 @@
         "rx_cogs": {
             "waifus": {
                 "author": [
-                    "TBR Development"
+                    "TBR Development",
+                    "PhantomNimbi"
                 ],
                 "description": "Get random waifu images and gifs using waifu.im api.",
                 "disabled": false,
@@ -17632,7 +17633,8 @@
                 "short": "Get random waifu images and gifs.",
                 "tags": [
                     "images",
-                    "nsfw"
+                    "nsfw",
+                    "sfw"
                 ],
                 "type": ""
             }
