@@ -14030,6 +14030,27 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "activities": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Discord Voice Channel Activities.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Discord Voice Channel Activities.",
+                "tags": [
+                    "activities",
+                    "voicechannel"
+                ],
+                "type": "COG"
+            },
             "afk": {
                 "author": [
                     "inthedark.org"
