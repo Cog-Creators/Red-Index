@@ -16005,6 +16005,33 @@
                 ],
                 "type": ""
             },
+            "gelbooru": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Searches images on Gelbooru with slash command and tag completion support.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "booru"
+                ],
+                "short": "Searches images on Gelbooru with slash command and tag completion support.",
+                "tags": [
+                    "crab",
+                    "booru",
+                    "anime",
+                    "fun",
+                    "images",
+                    "imageboard"
+                ],
+                "type": ""
+            },
             "genshin": {
                 "author": [
                     "OrchidAlloy"
