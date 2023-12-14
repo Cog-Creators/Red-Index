@@ -15991,9 +15991,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "booru"
-                ],
+                "requirements": [],
                 "short": "Searches images on Gelbooru with slash command and tag completion support.",
                 "tags": [
                     "crab",
