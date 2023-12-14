@@ -15982,16 +15982,18 @@
                 "author": [
                     "OrchidAlloy"
                 ],
-                "description": "Searches images on Gelbooru with slash command and tag completion support.",
+                "description": "Searches images on Gelbooru with slash command and tag completion support. ",
                 "disabled": false,
-                "end_user_data_statement": "This cog may internally store individual image tags searched by users, with no identifying information, with the purpose of caching.",
+                "end_user_data_statement": "This cog may internally cache user searches, with no identifying information.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "expiringdict"
+                ],
                 "short": "Searches images on Gelbooru with slash command and tag completion support.",
                 "tags": [
                     "crab",
