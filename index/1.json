@@ -15984,7 +15984,7 @@
                 ],
                 "description": "Searches images on Gelbooru with slash command and tag completion support.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
+                "end_user_data_statement": "This cog may internally store individual image tags searched by users, with no identifying information, with the purpose of caching.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
