@@ -17635,7 +17635,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "Red-DiscordBot>=3.5.5,<3.6",
-                    "dronefly-discord>=0.1.1.dev8",
+                    "dronefly-discord>=0.1.1",
                     "timeago>=1.0.15,<2.0.0",
                     "aiolimiter>=1.0.0,<2.0.0",
                     "aiohttp-retry>=2.4.5,<3.0.0"
