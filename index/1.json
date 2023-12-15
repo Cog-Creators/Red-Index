@@ -16070,7 +16070,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow"
+                    "Pillow",
+                    "expiringdict"
                 ],
                 "short": "Scans images for AI parameters and other metadata.",
                 "tags": [
