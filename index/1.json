@@ -18341,6 +18341,26 @@
                 "tags": [],
                 "type": ""
             },
+            "qr": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Generate QR codes on demand",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "qrcode[pil]"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
             "quotes": {
                 "author": [
                     "Eris"
