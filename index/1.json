@@ -15909,7 +15909,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "googletrans==3.1.0-alpha"
+                    "googletrans-py"
                 ],
                 "short": "Translate messages using Google Translate for free.",
                 "tags": [
