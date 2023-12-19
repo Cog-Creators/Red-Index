@@ -14575,6 +14575,31 @@
                 ],
                 "type": "COG"
             },
+            "stablediffusion": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Stable Diffusion using the Replicate API.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "backoff"
+                ],
+                "short": "Stable Diffusion using the Replicate API.",
+                "tags": [
+                    "ai",
+                    "stablediffusion",
+                    "stable",
+                    "diffusion"
+                ],
+                "type": "COG"
+            },
             "statusrole": {
                 "author": [
                     "Obi-Wan3",
