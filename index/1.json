@@ -16204,6 +16204,32 @@
                 ],
                 "type": ""
             },
+            "tts": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Plays text to speech in voice chat. Overrides music.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "gtts",
+                    "googletrans-py"
+                ],
+                "short": "Plays text to speech in voice chat. Overrides music.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "tts",
+                    "speech"
+                ],
+                "type": ""
+            },
             "voicelog": {
                 "author": [
                     "OrchidAlloy"
