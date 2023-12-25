@@ -7682,7 +7682,7 @@
                 "end_user_data_statement": "This cog stores User ID's for the purposes of tracking votes in pickems.",
                 "hidden": false,
                 "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.3",
                 "min_python_version": [
                     3,
                     7,
