@@ -16169,7 +16169,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "novelai-api"
+                    "novelai-api",
+                    "Pillow"
                 ],
                 "short": "Generate anime images with NovelAI v3.",
                 "tags": [
