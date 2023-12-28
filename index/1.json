@@ -20450,7 +20450,7 @@
                 "author": [
                     "zhaobenny"
                 ],
-                "description": "Use a provided AUTOMATIC1111 Stable Diffusion endpoint to generate images through Discord",
+                "description": "Use a self-provided AUTOMATIC1111 endpoint to generate images through Discord",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -20466,7 +20466,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp",
-                    "tenacity"
+                    "tenacity",
+                    "rapidfuzz"
                 ],
                 "short": "A1111 Stable Diffusion image generation in Discord",
                 "tags": [
