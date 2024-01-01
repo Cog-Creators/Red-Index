@@ -1691,7 +1691,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "moviepy",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "Unidecode"
                 ],
                 "short": "Video + Avatar.",
                 "tags": [
