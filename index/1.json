@@ -14237,7 +14237,8 @@
                 "requirements": [
                     "pillow",
                     "prettytable",
-                    "typing_extensions"
+                    "typing_extensions",
+                    "emoji"
                 ],
                 "short": "Play a match of battle royale.",
                 "tags": [
