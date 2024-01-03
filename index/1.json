@@ -1888,6 +1888,32 @@
                 ],
                 "type": ""
             },
+            "umineko": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Umineko Screenshot Generator, using the PS3 sprites and backgrounds ",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow==9.5.0"
+                ],
+                "short": "Umineko",
+                "tags": [
+                    "image",
+                    "umineko",
+                    "visual_novel",
+                    "meme",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "watamelon": {
                 "author": [
                     "Kuro",
