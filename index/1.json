@@ -15936,6 +15936,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "audioslash": {
+                "author": [
+                    "OrchidAlloy"
+                ],
+                "description": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "youtube-search-python"
+                ],
+                "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "audio",
+                    "music",
+                    "slash"
+                ],
+                "type": ""
+            },
             "autoreact": {
                 "author": [
                     "OrchidAlloy"
