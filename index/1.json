@@ -16033,7 +16033,7 @@
                 "requirements": [
                     "googletrans-py"
                 ],
-                "short": "Translate messages using Google Translate for free.",
+                "short": "Translate messages using Google Translate for free. Supports context menu commands.",
                 "tags": [
                     "crab",
                     "useful",
@@ -16195,7 +16195,7 @@
                     "Pillow",
                     "expiringdict"
                 ],
-                "short": "Scans images for AI parameters and other metadata.",
+                "short": "Scans images for AI parameters and other metadata. Supports context menus.",
                 "tags": [
                     "crab",
                     "message",
@@ -16271,7 +16271,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A few fun commands involving randomness.",
+                "short": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
                 "tags": [
                     "crab",
                     "fun",
