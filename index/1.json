@@ -17836,12 +17836,12 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "waifus": {
+            "waifuim": {
                 "author": [
                     "TBR Development",
                     "PhantomNimbi"
                 ],
-                "description": "Get random waifu images and gifs using waifu.im api.",
+                "description": "Get random waifu images and gifs by tag using waifu.im api.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
                 "hidden": false,
@@ -17854,8 +17854,7 @@
                 "short": "Get random waifu images and gifs.",
                 "tags": [
                     "images",
-                    "nsfw",
-                    "sfw"
+                    "nsfw"
                 ],
                 "type": ""
             }
