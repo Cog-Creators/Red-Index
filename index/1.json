@@ -19809,7 +19809,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "xmltojson",
-                    "xbox-webapi",
+                    "xbox-webapi==2.0.11",
                     "utils",
                     "tabulate"
                 ],
