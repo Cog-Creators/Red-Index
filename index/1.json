@@ -14485,6 +14485,36 @@
                 ],
                 "type": "COG"
             },
+            "modmanager": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Force ban/kick users so that they stay in the ban/kick list even if someone tries to manually unban them.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores end user ids as user data for banning/kicking users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "typing-extensions"
+                ],
+                "short": "Force ban/kick users so that they stay in the ban/kick list even if someone tries to manually unban them.",
+                "tags": [
+                    "kick",
+                    "manager",
+                    "modmanager",
+                    "mod",
+                    "ban"
+                ],
+                "type": "COG"
+            },
             "personalchannels": {
                 "author": [
                     "inthedark.org"
