@@ -20553,7 +20553,8 @@
             },
             "aimage": {
                 "author": [
-                    "zhaobenny"
+                    "zhaobenny",
+                    "OrchidAlloy"
                 ],
                 "description": "Use a self-provided AUTOMATIC1111 endpoint to generate images through Discord",
                 "disabled": false,
