@@ -14218,6 +14218,36 @@
                 ],
                 "type": "COG"
             },
+            "autodelete": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Auto delete messages in specific channels with fancy html logging.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "chat-exporter"
+                ],
+                "short": "Auto delete messages in specific channels with fancy html logging.",
+                "tags": [
+                    "autodelete",
+                    "purge",
+                    "cleanup",
+                    "deleter",
+                    "delete"
+                ],
+                "type": "COG"
+            },
             "battleroyale": {
                 "author": [
                     "inthedark.org",
