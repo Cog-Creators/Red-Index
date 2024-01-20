@@ -18893,6 +18893,24 @@
                 "tags": [],
                 "type": ""
             },
+            "weather": {
+                "author": [
+                    "Eris"
+                ],
+                "description": "Looks up weather based on zip code. Zip code lookups provided by https://gist.github.com/erichurst/7882666",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Weather",
+                "tags": [],
+                "type": ""
+            },
             "weave": {
                 "author": [
                     "Eris",
