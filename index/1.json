@@ -18906,7 +18906,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "apscheduler==3.10.4"
+                ],
                 "short": "Weather",
                 "tags": [],
                 "type": ""
