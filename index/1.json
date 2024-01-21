@@ -15998,7 +15998,7 @@
         "rx_cogs": {
             "audioslash": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
                 "disabled": false,
@@ -16024,7 +16024,7 @@
             },
             "autoreact": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Lets you configure emojis that will be added to any message containing text matching a regex.",
                 "disabled": false,
@@ -16051,7 +16051,7 @@
             },
             "draw": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "A couple fun image filters for your friends' avatars. Also includes an avatar context menu.",
                 "disabled": false,
@@ -16079,7 +16079,7 @@
             },
             "easytranslate": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Translate messages using Google Translate for free. Supports context menu commands.",
                 "disabled": false,
@@ -16108,7 +16108,7 @@
             },
             "emojisteal": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Supports context menu commands. Can also upload stickers from mobile.",
                 "disabled": false,
@@ -16136,7 +16136,7 @@
             },
             "gamealert": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Sends a configured message when a user has been playing a specific game for some time.",
                 "disabled": false,
@@ -16162,7 +16162,7 @@
             },
             "gelbooru": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Searches images on Gelbooru with slash command and tag completion support. ",
                 "disabled": false,
@@ -16189,7 +16189,7 @@
             },
             "genshin": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Simulates Genshin Impact gacha pulls.",
                 "disabled": false,
@@ -16215,7 +16215,7 @@
             },
             "imagelog": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Logs deleted images for moderation purposes.\n\u26a0\ufe0f Usage warning: You may or may not be liable for keeping content that breaks Discord TOS.",
                 "disabled": false,
@@ -16240,7 +16240,7 @@
             },
             "imagescanner": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Scans images for AI parameters and other metadata. Supports context menus.",
                 "disabled": false,
@@ -16267,7 +16267,7 @@
             },
             "logs": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Owner cog to show the latest logs.",
                 "disabled": false,
@@ -16291,7 +16291,7 @@
             },
             "novelai": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Generate anime images with NovelAI v3.",
                 "disabled": false,
@@ -16319,7 +16319,7 @@
             },
             "randomness": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
                 "disabled": false,
@@ -16342,7 +16342,7 @@
             },
             "simulator": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from new messages sent in configured channels, and only from users with the configured role. Will only support a single guild.\n\n\u2699 The bot owner must configure it with [p]simulator set, then they may manually feed past messages using [p]simulator feed [days]. This may take 1 minute per 5000 messages, so be patient!\n\n\ud83d\udd04 While the simulator is running, simulated conversations will randomly occur. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\ud83d\udc64 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
                 "disabled": false,
@@ -16368,7 +16368,7 @@
             },
             "tts": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Plays text to speech in voice chat. Overrides music.",
                 "disabled": false,
@@ -16394,7 +16394,7 @@
             },
             "voicelog": {
                 "author": [
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Logs users joining and leaving a VC, inside the VC chat itself.",
                 "disabled": false,
@@ -20608,7 +20608,7 @@
             "aimage": {
                 "author": [
                     "zhaobenny",
-                    "OrchidAlloy"
+                    "hollowstrawberry"
                 ],
                 "description": "Use a self-provided AUTOMATIC1111 endpoint to generate images through Discord",
                 "disabled": false,
