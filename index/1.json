@@ -18027,7 +18027,7 @@
                 "author": [
                     "Eris"
                 ],
-                "description": "Usage: [p]chat",
+                "description": "Usage: [p]chat. Tarot reference soured from https://www.kaggle.com/datasets/lsind18/tarot-json",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
