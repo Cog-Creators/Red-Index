@@ -17914,8 +17914,7 @@
                 "tags": [
                     "utility",
                     "moderation",
-                    "management",
-                    "hybrid commands"
+                    "management"
                 ],
                 "type": ""
             },
@@ -17937,7 +17936,7 @@
                 "tags": [
                     "images",
                     "nsfw",
-                    "hybrid commands"
+                    "sfw"
                 ],
                 "type": ""
             }
