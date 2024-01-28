@@ -17900,7 +17900,7 @@
                 "author": [
                     "PhantomNimbi"
                 ],
-                "description": "Purge commands for Red DiscordBot",
+                "description": "Simple purge commands for Red DiscordBot",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
                 "hidden": false,
@@ -17910,7 +17910,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Purge commands for Red DiscordBot",
+                "short": "Simple purge commands for Red DiscordBot",
                 "tags": [
                     "utility",
                     "moderation",
