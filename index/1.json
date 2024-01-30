@@ -19227,8 +19227,8 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    9,
-                    1
+                    10,
+                    0
                 ],
                 "permissions": [
                     "read_messages",
@@ -19238,21 +19238,21 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "openai==1.2.3",
                     "aiocache",
-                    "ujson",
-                    "msgpack",
-                    "pydantic",
                     "json5",
-                    "tiktoken",
-                    "pandas",
+                    "msgpack",
                     "numpy",
+                    "openai>=1.10.0",
+                    "pandas",
                     "perftracker",
+                    "pydantic",
                     "pytz",
+                    "sentry_sdk",
                     "tenacity",
-                    "sentry_sdk"
+                    "tiktoken",
+                    "ujson"
                 ],
-                "short": "Another Chat GPT Cog",
+                "short": "Advanced AI assistant (or chat) cog for your server with OpenAI's ChatGPT language models",
                 "tags": [
                     "utility",
                     "assistant",
