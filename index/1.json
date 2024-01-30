@@ -15807,36 +15807,6 @@
                 ],
                 "type": "COG"
             },
-            "suggestion": {
-                "author": [
-                    "max"
-                ],
-                "description": "Simple suggestion cog that allows users to send a suggestion.",
-                "disabled": false,
-                "end_user_data_statement": "This cog displays usernames and userid upon sending a suggestion. It does not store any data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji"
-                ],
-                "short": "Simple suggestion cog that allows users to send a suggestion.",
-                "tags": [
-                    "suggest",
-                    "suggestion"
-                ],
-                "type": "COG"
-            },
             "tcgcard": {
                 "author": [
                     "<@306810730055729152>",
