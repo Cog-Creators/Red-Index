@@ -1,4 +1,116 @@
 {
+    "https://coastalcommits.com/SeaswimmerTheFsh/SeaCogs": {
+        "author": [
+            "SeaswimmerTheFsh (seasw.)"
+        ],
+        "description": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)",
+        "name": "SeaCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "aurora": {
+                "author": [
+                    "SeaswimmerTheFsh"
+                ],
+                "description": "Aurora is a fully-featured moderation system. It is heavily inspired by GalacticBot, and is designed to be a more user-friendly alternative to Red's core Mod cogs. This cog stores all of its data in an SQLite database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the following information:\n- User IDs of accounts who moderate users or are moderated\n- Guild IDs of guilds with the cog enabled\n- Timestamps of moderations\n- Other information relating to moderations",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "humanize",
+                    "pytimeparse2"
+                ],
+                "short": "A full replacement for Red's core Mod cogs.",
+                "tags": [
+                    "mod",
+                    "moderate",
+                    "moderation",
+                    "warn",
+                    "warns",
+                    "warning",
+                    "warnings",
+                    "mute",
+                    "mutes",
+                    "timeout",
+                    "timeouts",
+                    "unmute",
+                    "unmutes",
+                    "untimeout",
+                    "untimeouts",
+                    "kick",
+                    "kicks",
+                    "ban",
+                    "bans",
+                    "unban",
+                    "unbans",
+                    "tempban",
+                    "tempbans",
+                    "galacticbot",
+                    "galactic bot",
+                    "galactic"
+                ],
+                "type": ""
+            },
+            "backup": {
+                "author": [
+                    "SeaswimmerTheFsh"
+                ],
+                "description": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user information.",
+                "hidden": false,
+                "max_bot_version": "3.5.5",
+                "min_bot_version": "3.5.5",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
+                "tags": [],
+                "type": ""
+            },
+            "nerdify": {
+                "author": [
+                    "SeaswimmerTheFsh"
+                ],
+                "description": "Nerdify your text!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Nerdify your text!",
+                "tags": [
+                    "fun",
+                    "text",
+                    "meme"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
+    },
     "https://github.com/AAA3A-AAA3A/AAA3A-cogs": {
         "author": [
             "AAA3A"
