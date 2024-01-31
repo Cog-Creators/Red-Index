@@ -105,15 +105,6 @@ flagged-cogs:
     - roleplay
     - wikia
     - xkcd
-  https://github.com/nmbook/FalcomBot-cogs/:
-    - autoban
-    - hiback
-    - randt
-    - rolereqs
-    - rot13
-    - textt
-    - topic
-    - wikia
   https://github.com/Redjumpman/Jumper-Plugins/:
     - casino
     - coupon
@@ -124,10 +115,6 @@ flagged-cogs:
     - raffle
     - russianroulette
     - shop
-  https://github.com/dualmoon/Cogs.v3:
-    - feedback
-    - selfassign
-    - weeedcog
   https://gitlab.com/Eragon5779/TechCogsV3:
     - cpucompare
     - encode
