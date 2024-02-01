@@ -69,6 +69,28 @@
                 "tags": [],
                 "type": ""
             },
+            "bible": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Retrieve Bible verses from the API.bible API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user information.",
+                "hidden": true,
+                "max_bot_version": "3.5.0",
+                "min_bot_version": "3.5.5",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Retrieve Bible verses",
+                "tags": [],
+                "type": ""
+            },
             "nerdify": {
                 "author": [
                     "SeaswimmerTheFsh (seasw.)"
