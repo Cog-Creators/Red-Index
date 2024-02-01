@@ -10,7 +10,7 @@
         "rx_cogs": {
             "aurora": {
                 "author": [
-                    "SeaswimmerTheFsh"
+                    "SeaswimmerTheFsh (seasw.)"
                 ],
                 "description": "Aurora is a fully-featured moderation system. It is heavily inspired by GalacticBot, and is designed to be a more user-friendly alternative to Red's core Mod cogs. This cog stores all of its data in an SQLite database.",
                 "disabled": false,
@@ -49,7 +49,7 @@
             },
             "backup": {
                 "author": [
-                    "SeaswimmerTheFsh"
+                    "SeaswimmerTheFsh (seasw.)"
                 ],
                 "description": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "disabled": false,
@@ -71,7 +71,7 @@
             },
             "nerdify": {
                 "author": [
-                    "SeaswimmerTheFsh"
+                    "SeaswimmerTheFsh (seasw.)"
                 ],
                 "description": "Nerdify your text!",
                 "disabled": false,
