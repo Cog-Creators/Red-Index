@@ -80,7 +80,7 @@
                 ],
                 "description": "Retrieve Bible verses from the API.Bible API. This cog requires an API.Bible api key.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
+                "end_user_data_statement": "This cog does not store end user data, however it does send the following data to the API.Bible API:\n- The bot user's ID\n- The timestamp of the invoking message\n- The hashed user id of the invoking user",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
