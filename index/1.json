@@ -53,7 +53,7 @@
                 ],
                 "description": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store user information.",
+                "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "3.5.5",
                 "min_bot_version": "3.5.5",
@@ -66,19 +66,24 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
-                "tags": [],
+                "tags": [
+                    "utility",
+                    "backup",
+                    "restore",
+                    "migration"
+                ],
                 "type": ""
             },
             "bible": {
                 "author": [
                     "SeaswimmerTheFsh (seasw.)"
                 ],
-                "description": "Retrieve Bible verses from the API.bible API.",
+                "description": "Retrieve Bible verses from the API.Bible API. This cog requires an API.Bible api key.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store user information.",
+                "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
-                "max_bot_version": "3.5.0",
-                "min_bot_version": "3.5.5",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
                     10,
@@ -87,8 +92,12 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Retrieve Bible verses",
-                "tags": [],
+                "short": "Retrieve Bible verses from API.Bible.",
+                "tags": [
+                    "fun",
+                    "utility",
+                    "api"
+                ],
                 "type": ""
             },
             "nerdify": {
