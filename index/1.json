@@ -76,7 +76,7 @@
                 "description": "Retrieve Bible verses from the API.bible API.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user information.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "3.5.0",
                 "min_bot_version": "3.5.5",
                 "min_python_version": [
