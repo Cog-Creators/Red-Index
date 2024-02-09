@@ -19961,8 +19961,8 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    9,
-                    1
+                    10,
+                    0
                 ],
                 "permissions": [
                     "read_messages",
