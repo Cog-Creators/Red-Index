@@ -17649,6 +17649,115 @@
         },
         "short": "48G/46G related cogs and miscellaneous."
     },
+    "https://github.com/space-wizards/wizard-cogs": {
+        "author": [
+            "Space Wizards"
+        ],
+        "description": "Useful cogs for server hosters to use on their Space Station 14 servers. An open source project based on the cult classic Space Station 13.",
+        "name": "wizard-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "autoresponder": {
+                "author": [
+                    "Space Wizards"
+                ],
+                "description": "Responds with when you code it if a message ends with when, tetris to nanotrasen block game, and based to based on what (with language support).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "WYSI, NANOTRASHEN BLOCK GAME, BASED ON WHAT.",
+                "tags": [
+                    "When you code it",
+                    "Wyci",
+                    "Nanotrasen block game",
+                    "Based on what",
+                    "based",
+                    "when",
+                    "tetris"
+                ],
+                "type": ""
+            },
+            "echo": {
+                "author": [
+                    "Space Wizards"
+                ],
+                "description": "This just copies what you say. And lets you edit it",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "This just copies what you say.",
+                "tags": [
+                    "Echo"
+                ],
+                "type": ""
+            },
+            "gameserverstatus": {
+                "author": [
+                    "Space Wizards"
+                ],
+                "description": "Shows the status of your SS14, SS13, including player count, map, and round status. (and some other game servers that have qstat support)",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Shows the status of your SS14 server and a bunch of other stuff.",
+                "tags": [
+                    "Space Station 14",
+                    "SS14",
+                    "SS13",
+                    "Space Station 13",
+                    "Space Wizards",
+                    "Status",
+                    "qstat"
+                ],
+                "type": ""
+            },
+            "poweractions": {
+                "author": [
+                    "Space Wizards"
+                ],
+                "description": "Allows you to restart servers easily with ss14.watchdog.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Allows you to restart using ss14.watchdog.",
+                "tags": [
+                    "Space Station 14",
+                    "SS14",
+                    "Administration",
+                    "Watchdog"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Useful cogs for server hosters for Space Station 14."
+    },
     "https://github.com/sravan1946/sravan-cogs": {
         "author": [
             "sravan"
