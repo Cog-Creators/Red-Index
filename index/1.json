@@ -18105,28 +18105,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "purge": {
-                "author": [
-                    "PhantomNimbi"
-                ],
-                "description": "Simple purge commands for Red DiscordBot",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Simple purge commands for Red DiscordBot",
-                "tags": [
-                    "utility",
-                    "moderation",
-                    "management"
-                ],
-                "type": ""
-            },
             "waifuim": {
                 "author": [
                     "PhantomNimbi"
