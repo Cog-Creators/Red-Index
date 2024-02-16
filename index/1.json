@@ -20105,9 +20105,7 @@
                 "requirements": [
                     "py-cpuinfo",
                     "speedtest-cli>=2.1.3",
-                    "chat-exporter",
-                    "tabulate",
-                    "Pympler"
+                    "chat-exporter"
                 ],
                 "short": "Assorted utility commands",
                 "tags": [
@@ -20117,9 +20115,7 @@
                     "botinfo",
                     "serverstats",
                     "ping",
-                    "latency",
-                    "profiler",
-                    "profiling"
+                    "latency"
                 ],
                 "type": "COG"
             },
