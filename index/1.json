@@ -19987,6 +19987,32 @@
                 ],
                 "type": "COG"
             },
+            "profiler": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Cog profiling tools for bot owners and developers. Attach profilers to cogs and get runtime metrics for their commands and methods.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic",
+                    "Pympler",
+                    "tabulate"
+                ],
+                "short": "Cog profiling tools for bot owners and developers",
+                "tags": [],
+                "type": "COG"
+            },
             "pupper": {
                 "author": [
                     "aikaterna",
