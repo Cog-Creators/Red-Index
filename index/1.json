@@ -20006,7 +20006,8 @@
                 "requirements": [
                     "pydantic",
                     "Pympler",
-                    "tabulate"
+                    "tabulate",
+                    "plotly"
                 ],
                 "short": "Cog profiling tools for bot owners and developers",
                 "tags": [
