@@ -19408,7 +19408,6 @@
                     "numpy",
                     "openai>=1.10.0",
                     "pandas",
-                    "perftracker",
                     "pydantic",
                     "pytz",
                     "sentry_sdk",
