@@ -18104,7 +18104,34 @@
         "name": "BackRoomCogs",
         "rx_branch": "",
         "rx_category": "unapproved",
-        "rx_cogs": {},
+        "rx_cogs": {
+            "logger": {
+                "author": [
+                    "TBR-Development"
+                ],
+                "description": "Logging cog to log events to a specified channel",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "manage_channels"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Logging cog to log events to a specified channel",
+                "tags": [
+                    "debugging",
+                    "logging",
+                    "events",
+                    "info"
+                ],
+                "type": ""
+            }
+        },
         "short": "Cogs for Red-DiscordBot"
     },
     "https://github.com/thedataleek/eris-cogs": {
