@@ -181,6 +181,29 @@
                 ],
                 "type": ""
             },
+            "gtn": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Play a game of Guess The Number, with configurable difficulty.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple Guess The Number cog",
+                "tags": [
+                    "gtn",
+                    "guess",
+                    "guess the number",
+                    "number"
+                ],
+                "type": ""
+            },
             "meme": {
                 "author": [
                     "blizzardthewolf"
