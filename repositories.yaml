@@ -89,6 +89,7 @@ unapproved:
   - https://github.com/tbr-development/BackRoomCogs
   - https://coastalcommits.com/SeaswimmerTheFsh/SeaCogs
   - https://github.com/space-wizards/wizard-cogs
+  - https://git.purplepanda.cc/blizz/blizz-cogs.git
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
