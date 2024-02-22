@@ -267,6 +267,27 @@
                 ],
                 "type": ""
             },
+            "riddles": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Posts a random riddle from the riddles-api.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Posts a random riddle from the riddles-api.",
+                "tags": [
+                    "riddles",
+                    "riddle"
+                ],
+                "type": ""
+            },
             "uselessfacts": {
                 "author": [
                     "blizzardthewolf"
