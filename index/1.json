@@ -242,7 +242,7 @@
                 "short": "Allow moderators to message a user via the bot.",
                 "tags": [
                     "dm",
-                    "messade"
+                    "message"
                 ],
                 "type": ""
             },
