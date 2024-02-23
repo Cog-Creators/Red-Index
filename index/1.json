@@ -329,6 +329,28 @@
                 ],
                 "type": ""
             },
+            "wordscramble": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Get a scrambled word and try to unscramble it within a short time!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play a game of wordscramble!",
+                "tags": [
+                    "game",
+                    "word",
+                    "scramble"
+                ],
+                "type": ""
+            },
             "ytconverter": {
                 "author": [
                     "blizzardthewolf"
