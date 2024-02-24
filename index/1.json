@@ -183,6 +183,30 @@
                 ],
                 "type": ""
             },
+            "emojigrabber": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Grab the image links of emoji's being sent in chat by replying to that message or using the message ID.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grab the image links of emoji's being sent in chat by replying to that message.",
+                "tags": [
+                    "emoji",
+                    "getemoji",
+                    "download",
+                    "get",
+                    "copy"
+                ],
+                "type": ""
+            },
             "getid": {
                 "author": [
                     "blizzardthewolf"
