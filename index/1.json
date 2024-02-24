@@ -187,7 +187,7 @@
                 "author": [
                     "blizzardthewolf"
                 ],
-                "description": "Grab the image links of emoji's being sent in chat by replying to that message or using the message ID.",
+                "description": "Grab the image links of emoji's being sent in chat by replying to that message or using the link.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
