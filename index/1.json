@@ -156,7 +156,8 @@
                 "tags": [
                     "amount",
                     "bans",
-                    "count"
+                    "count",
+                    "bancount"
                 ],
                 "type": ""
             },
