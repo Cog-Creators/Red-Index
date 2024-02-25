@@ -12027,6 +12027,50 @@
                 "tags": [],
                 "type": ""
             },
+            "feedback": {
+                "author": [
+                    "luna"
+                ],
+                "description": "Allows users to submit anonymous feedback to the moderation team of any server that they share with the bot.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows users to submit anonymous feedback.",
+                "tags": [],
+                "type": ""
+            },
+            "selfassign": {
+                "author": [
+                    "luna"
+                ],
+                "description": "Allows users to self-assign chosen roles without the help of a moderator",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows users to self-assign roles",
+                "tags": [],
+                "type": ""
+            },
             "webthing": {
                 "author": [
                     "luna"
@@ -12046,6 +12090,30 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Testing running a web server as a cog",
+                "tags": [],
+                "type": ""
+            },
+            "weeedcog": {
+                "author": [
+                    "luna"
+                ],
+                "description": "Creates comics with random characters using a string of messages from a channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Create comics from channel messages",
                 "tags": [],
                 "type": ""
             }
@@ -16399,7 +16467,187 @@
         "name": "FalcomBot-cogs",
         "rx_branch": "",
         "rx_category": "approved",
-        "rx_cogs": {},
+        "rx_cogs": {
+            "autoban": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Configurable list of spam words to zap. Users with any roles are ignored.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Configurable list of spam words to zap.",
+                "tags": [
+                    "spam",
+                    "passive",
+                    "ban",
+                    "autoban",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "hiback": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Responds to \"I'm X\" with \"Hi, X\".",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Responds to \"I'm X\" with \"Hi, X\".",
+                "tags": [
+                    "dadjokes",
+                    "jokes"
+                ],
+                "type": ""
+            },
+            "randt": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Utility commands to randomize things.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Utility randomization commands.",
+                "tags": [
+                    "randomization",
+                    "rng",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "rolereqs": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Allows users to request roles from a list set by the moderators.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allows users to request roles.",
+                "tags": [
+                    "roles",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "rot13": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "ROT-13 command and allows users to react with :unlock: to ROT-13 quickly.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "ROT-13 command and reaction system.",
+                "tags": [
+                    "reactions",
+                    "rot13",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "textt": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Utility commands to encode and manipulate text.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Utility text commands.",
+                "tags": [
+                    "text",
+                    "encoding",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "topic": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "View and edit topic command.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View and edit topic command.",
+                "tags": [
+                    "channel",
+                    "topic",
+                    "utilities"
+                ],
+                "type": ""
+            },
+            "wikia": {
+                "author": [
+                    "Ribose"
+                ],
+                "description": "Command to request detailed content of FANDOM Wiki pages.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Command to request FANDOM Wiki pages.",
+                "tags": [
+                    "fandom",
+                    "fandomwiki",
+                    "wikia",
+                    "wiki",
+                    "mediawiki",
+                    "utilities"
+                ],
+                "type": ""
+            }
+        },
         "short": "General utilities for Falcom discord"
     },
     "https://github.com/npc203/npc-cogs": {
