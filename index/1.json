@@ -1751,6 +1751,43 @@
         },
         "short": "Many cogs for Red-DiscordBot!"
     },
+    "https://github.com/Bartixxx32/BartixxxCogs": {
+        "author": [
+            "Bartixxx"
+        ],
+        "description": "Cogs developed by Bartixxx and ChatGPT",
+        "name": "BartixxxCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "tttostr": {
+                "author": [
+                    "Bartixxx",
+                    "Bartixxx"
+                ],
+                "description": "Uploads any tiktok links sended by user to streamble and send it back as video whih can be watched in discord",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pytube",
+                    "yt-dlp",
+                    "requests"
+                ],
+                "short": "TtToStr",
+                "tags": [
+                    "download"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Just some tools for red."
+    },
     "https://github.com/CryptoLover705/cryptolover-cogs": {
         "author": [
             "CryptoLover705"
