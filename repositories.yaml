@@ -59,7 +59,6 @@ approved:
   - https://github.com/Mister-42/mr42-cogs
   - https://github.com/japandotorg/Seina-Cogs
   - https://github.com/zhaobenny/bz-cogs
-  - https://github.com/ChaseCares/CCCogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -92,6 +91,7 @@ unapproved:
   - https://github.com/space-wizards/wizard-cogs
   - https://git.purplepanda.cc/blizz/blizz-cogs
   - https://github.com/Bartixxx32/BartixxxCogs
+  - https://github.com/ChaseCares/CCCogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
