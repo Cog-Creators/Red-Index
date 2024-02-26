@@ -1775,9 +1775,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pytube",
                     "yt-dlp",
-                    "requests"
+                    "aiohttp",
+                    "aiofiles"
                 ],
                 "short": "TtToStr",
                 "tags": [
