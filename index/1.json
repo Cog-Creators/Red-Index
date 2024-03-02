@@ -125,6 +125,36 @@
                     "meme"
                 ],
                 "type": ""
+            },
+            "pterodactyl": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Interface with Pterodactyl through websockets.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "py-dactyl",
+                    "websockets"
+                ],
+                "short": "Interface with Pterodactyl through websockets.",
+                "tags": [
+                    "pterodactyl",
+                    "minecraft",
+                    "server",
+                    "management"
+                ],
+                "type": ""
             }
         },
         "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
