@@ -16254,29 +16254,6 @@
                 ],
                 "type": "COG"
             },
-            "customping": {
-                "author": [
-                    "PhenoM4n4n",
-                    "max"
-                ],
-                "description": "Creates a custom ping embed to display latency statistics.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "speedtest-cli"
-                ],
-                "short": "Creates a custom ping embed to display latency statistics.",
-                "tags": [
-                    "ping"
-                ],
-                "type": ""
-            },
             "hyperlink": {
                 "author": [
                     "max"
@@ -16389,30 +16366,6 @@
                     "plague"
                 ],
                 "type": ""
-            },
-            "ratings": {
-                "author": [
-                    "PhenoM4n4n",
-                    "max"
-                ],
-                "description": "Rate yourself on many things.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Find out how (simp/sane/smart/drunk) you are.",
-                "tags": [
-                    "rate",
-                    "rattings",
-                    "drunk",
-                    "simp"
-                ],
-                "type": "COG"
             },
             "redupdate": {
                 "author": [
