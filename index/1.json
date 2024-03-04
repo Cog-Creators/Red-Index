@@ -16334,7 +16334,9 @@
                     "manage_messages"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "AdvancedTagScriptEngine==3.1.4"
+                ],
                 "short": "Disallow spoilers in your server.",
                 "tags": [
                     "spoiler",
