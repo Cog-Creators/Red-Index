@@ -2394,7 +2394,11 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow==9.5.0",
+                    "unidecode",
+                    "rapidfuzz"
+                ],
                 "short": "Calculate the percentage of love compatibility between two people.",
                 "tags": [
                     "love",
