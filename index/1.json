@@ -144,7 +144,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "py-dactyl",
+                    "git+https://github.com/SeaswimmerTheFsh/pydactyl",
                     "websockets"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
