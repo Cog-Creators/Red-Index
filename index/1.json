@@ -16280,33 +16280,6 @@
                 ],
                 "type": "COG"
             },
-            "hyperlink": {
-                "author": [
-                    "max"
-                ],
-                "description": "Delete messages with hyperlinks in them",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Delete messages with hyperlinks in them",
-                "tags": [
-                    "hyperlink"
-                ],
-                "type": "COG"
-            },
             "nekosbest": {
                 "author": [
                     "max"
