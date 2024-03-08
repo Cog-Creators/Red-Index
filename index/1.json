@@ -25,9 +25,7 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "humanize"
-                ],
+                "requirements": [],
                 "short": "A full replacement for Red's core Mod cogs.",
                 "tags": [
                     "mod",
