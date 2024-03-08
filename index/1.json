@@ -26,8 +26,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "humanize",
-                    "pytimeparse2"
+                    "humanize"
                 ],
                 "short": "A full replacement for Red's core Mod cogs.",
                 "tags": [
