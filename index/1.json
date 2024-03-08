@@ -11377,6 +11377,29 @@
                 ],
                 "type": ""
             },
+            "clara": {
+                "author": [
+                    "coffeebank"
+                ],
+                "description": "See basic guild info. Show information about the Discord servers your bot is in, including approximate total users and guild count.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "See info about the servers your bot is in.",
+                "tags": [
+                    "server",
+                    "info",
+                    "member",
+                    "members"
+                ],
+                "type": ""
+            },
             "coffeeani": {
                 "author": [
                     "coffeebank"
