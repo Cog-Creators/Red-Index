@@ -16541,8 +16541,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow",
-                    "perftracker"
+                    "pillow"
                 ],
                 "short": "Play a game of Who's That Pok\u00e9mon.",
                 "tags": [
