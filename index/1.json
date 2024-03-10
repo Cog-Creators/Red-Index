@@ -384,6 +384,32 @@
                 ],
                 "type": ""
             },
+            "tiktokdownloader": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert TikTok videos to either MP3 or MP4 without watermark.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp"
+                ],
+                "short": "Convert TikTok video's to MP3 or MP4",
+                "tags": [
+                    "TikTok",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader"
+                ],
+                "type": ""
+            },
             "uselessfacts": {
                 "author": [
                     "blizzardthewolf"
@@ -447,7 +473,7 @@
                 ],
                 "type": ""
             },
-            "ytconverter": {
+            "ytdownloader": {
                 "author": [
                     "blizzardthewolf"
                 ],
@@ -468,7 +494,8 @@
                     "youtube",
                     "mp4",
                     "mp3",
-                    "converter"
+                    "converter",
+                    "downloader"
                 ],
                 "type": ""
             }
