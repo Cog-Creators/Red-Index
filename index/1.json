@@ -532,7 +532,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "yt_dlp"
+                    "yt_dlp",
+                    "ffmpeg"
                 ],
                 "short": "Convert youtube video's to MP3 or MP4",
                 "tags": [
