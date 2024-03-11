@@ -247,13 +247,12 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "influxdb-client"
-                ],
+                "requirements": [],
                 "short": "Posts the discord ID of a user",
                 "tags": [
                     "id",
-                    "discordid"
+                    "discordid",
+                    "mention"
                 ],
                 "type": ""
             },
@@ -343,6 +342,28 @@
                 ],
                 "type": ""
             },
+            "pingsite": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Ping a website and view the ping speeds, with the average, max and min times.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ping a website and view the ping time.",
+                "tags": [
+                    "ping",
+                    "pingtime",
+                    "ms"
+                ],
+                "type": ""
+            },
             "repeater": {
                 "author": [
                     "blizzardthewolf"
@@ -383,6 +404,28 @@
                 "tags": [
                     "riddles",
                     "riddle"
+                ],
+                "type": ""
+            },
+            "simpleping": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "View your bot's ping speed, similar to Dyno bot's ping command.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View your bot's ping speed.",
+                "tags": [
+                    "ping",
+                    "pingtime",
+                    "pingspeed"
                 ],
                 "type": ""
             },
