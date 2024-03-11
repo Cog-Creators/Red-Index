@@ -247,7 +247,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "influxdb-client"
+                ],
                 "short": "Posts the discord ID of a user",
                 "tags": [
                     "id",
