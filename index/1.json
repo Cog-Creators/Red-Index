@@ -16347,6 +16347,32 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "achievements": {
+                "author": [
+                    "max"
+                ],
+                "description": "Earn achievements by chatting in channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog records messages sent and Discord IDs for the purpose of earning achievements.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Earn achievements by chatting in channels.",
+                "tags": [
+                    "achievement"
+                ],
+                "type": "COG"
+            },
             "autopublisher": {
                 "author": [
                     "max"
