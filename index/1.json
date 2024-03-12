@@ -513,7 +513,8 @@
                 "requirements": [
                     "yt_dlp",
                     "ffmpeg",
-                    "aiohttp"
+                    "aiohttp",
+                    "validators"
                 ],
                 "short": "Convert video's to MP3 or MP4, and serve them using a simple web server.",
                 "tags": [
