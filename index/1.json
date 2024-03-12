@@ -497,6 +497,36 @@
                 ],
                 "type": ""
             },
+            "videoconverterweb": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert video's to MP3 or MP4, and serve them using a simple web server. CAN BE RESOURCE INTENSIVE!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp",
+                    "ffmpeg",
+                    "aiohttp"
+                ],
+                "short": "Convert video's to MP3 or MP4, and serve them using a simple web server.",
+                "tags": [
+                    "youtube",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader",
+                    "tiktok",
+                    "reddit"
+                ],
+                "type": ""
+            },
             "wordscramble": {
                 "author": [
                     "blizzardthewolf"
