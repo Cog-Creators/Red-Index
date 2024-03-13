@@ -325,6 +325,31 @@
                 ],
                 "type": ""
             },
+            "mentiontracker": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "The MentionTracker cog tracks and displays the last 5 mentions a user has received, including the content, author, and timestamp of each mention. Useful for when you get pinged while asleep!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "The MentionTracker cog tracks and displays the last 5 mentions a user has received, including the content, author, and timestamp of each mention.",
+                "tags": [
+                    "ping",
+                    "mention",
+                    "mentions",
+                    "pings",
+                    "tracker",
+                    "stats"
+                ],
+                "type": ""
+            },
             "message": {
                 "author": [
                     "blizzardthewolf"
@@ -21128,7 +21153,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "xmltojson",
-                    "xbox-webapi==2.0.11",
+                    "xbox-webapi==2.1.0",
                     "utils",
                     "tabulate"
                 ],
