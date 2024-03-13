@@ -165,6 +165,31 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "appeal": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Send a user an appeal link to a form/server before banning them, you can optionally make a tag to automatically send an appeal when banning by using the `tags` cog!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send a user an appeal form before banning.",
+                "tags": [
+                    "appeal",
+                    "ban",
+                    "form",
+                    "banappeal",
+                    "mod",
+                    "dm"
+                ],
+                "type": ""
+            },
             "bannedcount": {
                 "author": [
                     "blizzardthewolf"
