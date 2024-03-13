@@ -859,7 +859,8 @@
                     "error",
                     "console",
                     "logs",
-                    "dev"
+                    "dev",
+                    "errorlogs"
                 ],
                 "type": ""
             },
@@ -18992,7 +18993,7 @@
     },
     "https://github.com/tbr-development/BackRoomCogs": {
         "author": [
-            "TBR-Development"
+            "ShitShowDevelopment"
         ],
         "description": "A collection of Cogs for Red-DiscordBot.",
         "name": "BackRoomCogs",
