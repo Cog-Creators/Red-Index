@@ -1,4 +1,161 @@
 {
+    "https://coastalcommits.com/SeaswimmerTheFsh/SeaCogs": {
+        "author": [
+            "SeaswimmerTheFsh (seasw.)"
+        ],
+        "description": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)",
+        "name": "SeaCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "aurora": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Aurora is a fully-featured moderation system. It is heavily inspired by GalacticBot, and is designed to be a more user-friendly alternative to Red's core Mod cogs. This cog stores all of its data in an SQLite database.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the following information:\n- User IDs of accounts who moderate users or are moderated\n- Guild IDs of guilds with the cog enabled\n- Timestamps of moderations\n- Other information relating to moderations",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A full replacement for Red's core Mod cogs.",
+                "tags": [
+                    "mod",
+                    "moderate",
+                    "moderation",
+                    "warn",
+                    "warning",
+                    "mute",
+                    "timeout",
+                    "unmute",
+                    "untimeout",
+                    "kick",
+                    "ban",
+                    "unban",
+                    "tempban"
+                ],
+                "type": ""
+            },
+            "backup": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "3.5.5",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
+                "tags": [
+                    "utility",
+                    "backup",
+                    "restore",
+                    "migration"
+                ],
+                "type": ""
+            },
+            "bible": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Retrieve Bible verses from the API.Bible API. This cog requires an API.Bible api key.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data, however it does send the following data to the API.Bible API:\n- The bot user's ID\n- The timestamp of the invoking message\n- The hashed user id of the invoking user",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Retrieve Bible verses from API.Bible.",
+                "tags": [
+                    "fun",
+                    "utility",
+                    "api"
+                ],
+                "type": ""
+            },
+            "nerdify": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Nerdify your text!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Nerdify your text!",
+                "tags": [
+                    "fun",
+                    "text",
+                    "meme"
+                ],
+                "type": ""
+            },
+            "pterodactyl": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Interface with Pterodactyl through websockets.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/SeaswimmerTheFsh/pydactyl",
+                    "websockets"
+                ],
+                "short": "Interface with Pterodactyl through websockets.",
+                "tags": [
+                    "pterodactyl",
+                    "minecraft",
+                    "server",
+                    "management"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
+    },
     "https://git.purplepanda.cc/blizz/blizz-cogs": {
         "author": [
             "blizzthewolf"
