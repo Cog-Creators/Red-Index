@@ -95,8 +95,6 @@ unapproved:
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
-  https://github.com/shitshowdevepment/shitshowcogs/:
-    - logger
   https://github.com/Jintaku/Jintaku-Cogs-V3/:
     - anisearch
     - booru
