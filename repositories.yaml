@@ -59,6 +59,7 @@ approved:
   - https://github.com/Mister-42/mr42-cogs
   - https://github.com/japandotorg/Seina-Cogs
   - https://github.com/zhaobenny/bz-cogs
+  - https://github.com/sravan1946/sravan-cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -69,7 +70,6 @@ unapproved:
   - https://github.com/goonstation/gooncogs
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/jakehlee/JDG-Cogs-V3
-  - https://github.com/sravan1946/sravan-cogs
   - https://github.com/karlsbjorn/karlo-cogs
   - https://github.com/Flame442/FlameBountyCogs
   - https://github.com/jmesfo0/jmes-cogs
