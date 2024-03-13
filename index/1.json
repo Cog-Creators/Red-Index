@@ -454,6 +454,29 @@
                 ],
                 "type": ""
             },
+            "textmagic": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Transform text with commands!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Transform text with commands.",
+                "tags": [
+                    "text",
+                    "magic",
+                    "change",
+                    "edit"
+                ],
+                "type": ""
+            },
             "tiktokdownloader": {
                 "author": [
                     "blizzardthewolf"
