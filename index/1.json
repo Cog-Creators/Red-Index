@@ -1994,6 +1994,61 @@
         },
         "short": "Just some tools for red."
     },
+    "https://github.com/ChaseCares/CCCogs": {
+        "author": [
+            "ChaseCares"
+        ],
+        "description": "A collection of simple cogs, some are useful.",
+        "name": "CCCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "broadcastboxlive": {
+                "author": [
+                    "ChaseCares"
+                ],
+                "description": "A simple cog to post currently live streams from https://b.siobud.com.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple Broadcast Box live stream notifier",
+                "tags": [
+                    "broadcast-box",
+                    "Streaming"
+                ],
+                "type": "COG"
+            },
+            "factoriocogfriday": {
+                "author": [
+                    "ChaseCares"
+                ],
+                "description": "A simple cog to post Factorio Friday Facts when they're available.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A simple FFF poster cog",
+                "tags": [
+                    "FFF",
+                    "Factorio",
+                    "Friday Facts"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cog by ChaseCares"
+    },
     "https://github.com/CryptoLover705/cryptolover-cogs": {
         "author": [
             "CryptoLover705"
@@ -18747,7 +18802,7 @@
         "description": "Just some cogs which I made for fun.",
         "name": "sravan-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "acromania": {
                 "author": [
