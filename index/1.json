@@ -18466,7 +18466,12 @@
         "rx_cogs": {
             "logger": {
                 "author": [
-                    "ShitShowDevelopment"
+                    "ShitShowDevelopment",
+                    "Flame422",
+                    "twentysix26",
+                    "aikaterna",
+                    "zephyrkul",
+                    "yamikaito"
                 ],
                 "description": "Log events to a specified channel in the bot owner's guild.",
                 "disabled": false,
