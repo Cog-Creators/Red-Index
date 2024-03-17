@@ -21035,7 +21035,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic",
+                    "plotly"
                 ],
                 "short": "Space Engineers Server Manager",
                 "tags": [
