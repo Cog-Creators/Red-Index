@@ -13261,6 +13261,31 @@
                 ],
                 "type": ""
             },
+            "tiktokreposter": {
+                "author": [
+                    "flare(flare#0001)"
+                ],
+                "description": "Repost TikToks from TikTok to Discord automatically or manually!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt-dlp[default]"
+                ],
+                "short": "Repost TikToks from TikTok to Discord!",
+                "tags": [
+                    "tiktok",
+                    "repost",
+                    "video",
+                    "media"
+                ],
+                "type": ""
+            },
             "tips": {
                 "author": [
                     "flare(flare#0001)"
