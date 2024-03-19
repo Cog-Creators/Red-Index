@@ -15132,6 +15132,31 @@
                 ],
                 "type": "COG"
             },
+            "boostutils": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Various nitro boosting utilities. (WORK IN PROGRESS)",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine==3.1.4"
+                ],
+                "short": "Booster Utilities. (WIP)",
+                "tags": [
+                    "boost",
+                    "nitro",
+                    "booster",
+                    "nitrobooster"
+                ],
+                "type": "COG"
+            },
             "captcha": {
                 "author": [
                     "inthedark.org"
