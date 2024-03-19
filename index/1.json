@@ -15099,6 +15099,33 @@
                 ],
                 "type": "COG"
             },
+            "autoreact": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Create automatic reactions for specific triggers or events.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create automatic reactions for specific triggers or events.",
+                "tags": [
+                    "reaction",
+                    "autoreact",
+                    "react",
+                    "smart"
+                ],
+                "type": "COG"
+            },
             "battleroyale": {
                 "author": [
                     "inthedark.org",
