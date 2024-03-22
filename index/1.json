@@ -16515,7 +16515,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "emoji"
+                ],
                 "short": "Earn achievements by chatting in channels.",
                 "tags": [
                     "achievement"
