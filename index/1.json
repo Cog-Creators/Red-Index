@@ -11547,7 +11547,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Search anime, manga, manhwa/manhua, light novels, and characters. See series info, status, episodes/chapters, and tags.\n\nSearches Anilist, MangaDex, Batoto, and Kakao Webtoon.\n\nForked from anisearch by Jintaku and Wyn.",
+                "description": "Search anime, manga, manhwa/manhua, light novels, and characters. See series info, status, episodes/chapters, and tags.\n\nSearches Anilist, MangaDex, and Batoto.\n\nForked from anisearch by Jintaku and Wyn.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -11560,8 +11560,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "aiohttp",
-                    "korean_romanizer"
+                    "aiohttp"
                 ],
                 "short": "Search for anime, manga, manhwa/manhua, light novels, and characters. See series info, status, episodes/chapters, and tags.",
                 "tags": [
@@ -11574,7 +11573,6 @@
                     "\u6f2b\u753b",
                     "mangadex",
                     "batoto",
-                    "kakao",
                     "webtoons",
                     "anisearch"
                 ],
