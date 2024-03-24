@@ -16146,6 +16146,34 @@
                 ],
                 "type": "COG"
             },
+            "colour": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "View information about a colour.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "View information about a colour.",
+                "tags": [
+                    "Colour",
+                    "Hex",
+                    "RGB",
+                    "HSL",
+                    "HSV",
+                    "CMYK",
+                    "XYZ"
+                ],
+                "type": "COG"
+            },
             "consoleclearer": {
                 "author": [
                     "Kreusada"
