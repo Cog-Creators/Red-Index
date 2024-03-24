@@ -20592,6 +20592,34 @@
                 "tags": [],
                 "type": "COG"
             },
+            "bankevents": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Dispatches events when different bank transactions occur, such as when a user deposits credits, withdraws credits, or transfers credits.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bank transaction listener events for 3rd party cogs",
+                "tags": [
+                    "bank",
+                    "events",
+                    "listeners",
+                    "economy",
+                    "developers"
+                ],
+                "type": "COG"
+            },
             "cartographer": {
                 "author": [
                     "Vertyco"
