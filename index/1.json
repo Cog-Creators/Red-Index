@@ -529,6 +529,29 @@
                 ],
                 "type": ""
             },
+            "unbanall": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Unban all banned members in your server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Unban all banned members in your server.",
+                "tags": [
+                    "unban",
+                    "bans",
+                    "ban",
+                    "banned"
+                ],
+                "type": ""
+            },
             "uselessfacts": {
                 "author": [
                     "blizzardthewolf"
