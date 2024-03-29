@@ -15995,6 +15995,34 @@
                 ],
                 "type": "COG"
             },
+            "pylavrpc": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "RPC methods for PyLav. This cog has no commands, it is meant to be used only for RPC.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0.dev306",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav>=1.10.10"
+                ],
+                "short": "RPC methods for PyLav.",
+                "tags": [
+                    "music",
+                    "pylav",
+                    "rpc"
+                ],
+                "type": "COG"
+            },
             "silentreplier": {
                 "author": [
                     "Karlo"
