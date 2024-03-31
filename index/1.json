@@ -2068,6 +2068,27 @@
                 ],
                 "type": "COG"
             },
+            "imgen": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "Imgen cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "emoji",
+                    "emojis"
+                ],
+                "type": "COG"
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
@@ -2092,7 +2113,7 @@
                 "author": [
                     "bencos18"
                 ],
-                "description": "airplanes tracking cog for the https://airplanes.live api .",
+                "description": "allows you to set a message to send whenever a user sends a message  .",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs and also the custom message for the purposes of creating a custom message when a certain user talks in a server. Please review the privacy policy for more details.",
                 "hidden": false,
@@ -2104,8 +2125,8 @@
                 "requirements": [],
                 "short": "some random cogs I made for my own use and decided to make public.",
                 "tags": [
-                    "airplanes",
-                    "airplaneslive"
+                    "talk",
+                    "notifier"
                 ],
                 "type": "COG"
             }
