@@ -2017,6 +2017,101 @@
         },
         "short": "Just some tools for red."
     },
+    "https://github.com/BenCos17/ben-cogs": {
+        "author": [
+            "bencos18 (492089091320446976)"
+        ],
+        "description": "airplanes tracking cog for the https://airplanes.live api and some misc random ones I'm working on.",
+        "name": "ben-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "airplaneslive": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "airplanes tracking cog for the https://airplanes.live api .",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "airplanes",
+                    "airplaneslive"
+                ],
+                "type": "COG"
+            },
+            "emojilink": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "commands to get emoji links and other info.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "emoji",
+                    "emojis"
+                ],
+                "type": "COG"
+            },
+            "spamatron": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "spam command for admins in a server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "spam"
+                ],
+                "type": "COG"
+            },
+            "talknotifier": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "airplanes tracking cog for the https://airplanes.live api .",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs and also the custom message for the purposes of creating a custom message when a certain user talks in a server. Please review the privacy policy for more details.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "airplanes",
+                    "airplaneslive"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "some random cogs I made for my own use and decided to make public."
+    },
     "https://github.com/ChaseCares/CCCogs": {
         "author": [
             "ChaseCares"
