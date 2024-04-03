@@ -21874,7 +21874,7 @@
                 "description": "Create and manage roles and text channels for VC users. Useful for nomic / microphoneless setups.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
