@@ -20937,7 +20937,8 @@
                     "bankevents": "https://github.com/vertyco/vrt-cogs.git"
                 },
                 "requirements": [
-                    "pydantic"
+                    "pydantic",
+                    "aiocache"
                 ],
                 "short": "Extended bot currency economy features.",
                 "tags": [
