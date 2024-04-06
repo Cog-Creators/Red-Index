@@ -88,7 +88,10 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "numpy",
+                    "pillow"
+                ],
                 "short": "Retrieve Bible verses from API.Bible.",
                 "tags": [
                     "fun",
