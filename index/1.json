@@ -16783,12 +16783,18 @@
                 ],
                 "description": "Prevent users from sending messages with too many caps.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_messages"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Prevent users from sending messages with too many caps.",
