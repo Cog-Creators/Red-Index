@@ -21614,14 +21614,16 @@
                 ],
                 "description": "Collect 'cards' (emoji) to complete sets for points",
                 "disabled": true,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "end_user_data_statement": "This cog stores the UserID and GuildID combination.",
                 "hidden": true,
-                "max_bot_version": "3.4.26",
-                "min_bot_version": "3.4.0",
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0.dev276",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "databases[aiosqlite]"
+                ],
                 "short": "A 'card' (emoji) collecting game",
                 "tags": [],
                 "type": "COG"
