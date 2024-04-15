@@ -438,7 +438,10 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "fernet",
-                    "markdown2"
+                    "markdown2",
+                    "wtforms",
+                    "werkzeug",
+                    "markupsafe"
                 ],
                 "short": "Interact with your bot through a web Dashboard!",
                 "tags": [
