@@ -441,7 +441,8 @@
                     "markdown2",
                     "wtforms",
                     "werkzeug",
-                    "markupsafe"
+                    "markupsafe",
+                    "itsdangerous"
                 ],
                 "short": "Interact with your bot through a web Dashboard!",
                 "tags": [
