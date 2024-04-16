@@ -8,6 +8,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "antipolls": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "AntiPolls deletes messages that contain polls, with a configurable per-guild role and channel whitelist and support for default Discord permissions (Manage Messages).",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "AntiPolls deletes messages that contain polls.",
+                "tags": [
+                    "automod",
+                    "automoderation",
+                    "polls"
+                ],
+                "type": ""
+            },
             "aurora": {
                 "author": [
                     "SeaswimmerTheFsh (seasw.)"
