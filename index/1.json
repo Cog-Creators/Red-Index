@@ -10900,7 +10900,7 @@
                 "description": "Create an offline chatbot that talks like your average member using Machine Learning. See setup instructions at https://github.com/bobloy/Fox-V3/tree/master/chatter",
                 "disabled": false,
                 "end_user_data_statement": "This cog only stores anonymous conversations data; no End User Data is stored.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.6",
                 "min_python_version": "",
