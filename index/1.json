@@ -10926,30 +10926,6 @@
                 ],
                 "type": ""
             },
-            "coglint": {
-                "author": [
-                    "Bobloy"
-                ],
-                "description": "Lint python code posted in chat",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pylint"
-                ],
-                "short": "Python cog linter",
-                "tags": [
-                    "bobloy",
-                    "utils",
-                    "tools"
-                ],
-                "type": ""
-            },
             "conquest": {
                 "author": [
                     "Bobloy"
