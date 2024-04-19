@@ -2151,6 +2151,26 @@
                 ],
                 "type": "COG"
             },
+            "invoice": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "invoice cog .",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data inputed through the invoice command in a json file in the cog data folder. This data is only used for the invoice command and is not shared with anyone, All data is stored in a temp folder and deleted after the command is ran ",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "invoice"
+                ],
+                "type": "COG"
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
