@@ -2171,6 +2171,26 @@
                 ],
                 "type": "COG"
             },
+            "legal": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "random legal cog I made for a server I'm in.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "legal"
+                ],
+                "type": "COG"
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
