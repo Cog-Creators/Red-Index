@@ -1589,6 +1589,26 @@
                 ],
                 "type": "COG"
             },
+            "application": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "random application cog I made for a server I'm in a while ago.",
+                "disabled": false,
+                "end_user_data_statement": "Application Channel: The ID of the text channel where applications are submitted. This is stored using application_channel setting. \n Questions: A dictionary that maps role IDs to a list of questions associated with that role. This is stored using the questions setting.\nApplications: A dictionary that maps role IDs to another dictionary, which maps member IDs to their application responses. This is stored using the applications setting.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "application"
+                ],
+                "type": "COG"
+            },
             "emojilink": {
                 "author": [
                     "bencos18 (492089091320446976)"
@@ -1628,6 +1648,26 @@
                 "tags": [
                     "emoji",
                     "emojis"
+                ],
+                "type": "COG"
+            },
+            "invoice": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "invoice cog I made written by bencos18, this cog is used to create invoices, This cog is still in development and may have bugs, please report any bugs to me on discord or github.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data inputed through the invoice command in a json file in the cog data folder. This data is only used for the invoice command and is not shared with anyone, All data is stored in a temp folder and deleted after the command is ran ",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    ""
                 ],
                 "type": "COG"
             },
