@@ -16894,7 +16894,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "emoji",
+                    "emoji~=2.0.0",
                     "AdvancedTagScriptEngine==3.1.4"
                 ],
                 "short": "Prevent users from spamming emojis",
