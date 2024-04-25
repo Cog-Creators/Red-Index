@@ -2195,7 +2195,7 @@
                 "author": [
                     "bencos18 (492089091320446976)"
                 ],
-                "description": "random legal cog I made for a server I'm in.",
+                "description": "Random legal cog I made for a server I'm in.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -2205,7 +2205,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "some random cogs I made for my own use and decided to make public.",
+                "short": "Some random cogs I made for my own use and decided to make public.",
                 "tags": [
                     "legal"
                 ],
