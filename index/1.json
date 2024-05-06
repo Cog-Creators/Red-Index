@@ -16875,6 +16875,36 @@
                 ],
                 "type": "COG"
             },
+            "nbaschedule": {
+                "author": [
+                    "max"
+                ],
+                "description": "Get the current NBA schedule for next game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    5
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "orjson"
+                ],
+                "short": "Get the current NBA schedule for next game.",
+                "tags": [
+                    "basketball",
+                    "nba",
+                    "espn"
+                ],
+                "type": "COG"
+            },
             "nekosbest": {
                 "author": [
                     "max"
