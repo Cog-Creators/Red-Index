@@ -18301,15 +18301,15 @@
                     "zephyrkul",
                     "yamikaito"
                 ],
-                "description": "Logger cog to aid in debugging and support. Logs events from every guild the bot is in to a set channel in the bot owner's guild.",
+                "description": "Logger cog to aid in debugging and support. Logs guild events to specified channels.",
                 "disabled": false,
-                "end_user_data_statement": "This cog logs information about users, guilds, and errors to a set logger channel for use with debugging and support purposes. This cog does not persistantly store data or metadata about users or guilds.",
+                "end_user_data_statement": "This cog logs information about users, guilds, and errors to channels within the guild for use with debugging and support purposes. This cog does not persistantly store data or metadata about users or guilds.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
-                    "is_owner"
+                    "manage_channels, manage_guild"
                 ],
                 "required_cogs": {},
                 "requirements": [],
