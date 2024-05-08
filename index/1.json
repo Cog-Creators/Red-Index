@@ -126,6 +126,32 @@
                 ],
                 "type": ""
             },
+            "emojiinfo": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "Retrieve information about emojis.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "colorthief"
+                ],
+                "short": "Retrieve information about emojis.",
+                "tags": [
+                    "utility"
+                ],
+                "type": ""
+            },
             "nerdify": {
                 "author": [
                     "SeaswimmerTheFsh (seasw.)"
