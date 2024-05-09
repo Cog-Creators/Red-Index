@@ -18877,19 +18877,19 @@
                     "zephyrkul",
                     "yamikaito"
                 ],
-                "description": "Logger cog to aid in debugging and support. Logs guild events to specified channels.",
+                "description": "Logs events to specified channels.",
                 "disabled": false,
-                "end_user_data_statement": "This cog logs information about users, guilds, and errors to channels within the guild for use with debugging and support purposes. This cog does not persistantly store data or metadata about users or guilds.",
+                "end_user_data_statement": "This cog logs information about users, guilds, and errors to channels within the guild. This cog does not persistantly store data or metadata about users or guilds.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
-                    "manage_channels, manage_guild"
+                    "administrator, manage_guild"
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Logger cog to aid in debugging and support.",
+                "short": "Logs events to specified channels.",
                 "tags": [
                     "logging"
                 ],
