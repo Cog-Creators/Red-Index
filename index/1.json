@@ -16902,6 +16902,34 @@
                 ],
                 "type": "COG"
             },
+            "lockdown": {
+                "author": [
+                    "max"
+                ],
+                "description": "Let moderators lockdown a channel to prevent messages from being sent.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.5",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_channels"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Let moderators lockdown a channel to prevent messages from being sent.",
+                "tags": [
+                    "lockdown",
+                    "unlock",
+                    "lock"
+                ],
+                "type": "COG"
+            },
             "nbaschedule": {
                 "author": [
                     "max"
