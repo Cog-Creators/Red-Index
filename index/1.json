@@ -1263,7 +1263,7 @@
                     "PhenoM4n4n",
                     "AAA3A"
                 ],
-                "description": "Create, send, and store embeds!",
+                "description": "Create, send, and store rich embeds, from Red-Dashboard too!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -1275,13 +1275,16 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "Create, send, and store embeds!",
+                "short": "Create, send, and store rich embeds, from Red-Dashboard too!",
                 "tags": [
                     "embed",
                     "creator",
                     "content",
                     "advanced",
-                    "json"
+                    "json",
+                    "yaml",
+                    "rich",
+                    "dashboard"
                 ],
                 "type": ""
             },
