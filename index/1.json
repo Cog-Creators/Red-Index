@@ -2114,7 +2114,8 @@
         "rx_cogs": {
             "airplaneslive": {
                 "author": [
-                    "bencos18 (492089091320446976)"
+                    "bencos18 (492089091320446976)",
+                    "Beehive (https://github.com/BeeHiveCyberSecurity)"
                 ],
                 "description": "airplanes tracking cog for the https://airplanes.live api .",
                 "disabled": false,
@@ -2133,7 +2134,7 @@
                     "aircraft",
                     "aircraft tracking"
                 ],
-                "type": "COG"
+                "type": ""
             },
             "application": {
                 "author": [
