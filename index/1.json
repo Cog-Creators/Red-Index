@@ -21014,7 +21014,7 @@
                 ],
                 "description": "Get crafting information for Ark Survival Evolved!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any data.",
+                "end_user_data_statement": "This cog does not store any data. Data used for crafting requirements was sourced from https://ark.wiki.gg/wiki/Items",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.3",
