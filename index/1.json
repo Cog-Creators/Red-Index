@@ -2995,7 +2995,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow",
+                    "Pillow==9.5.0",
                     "unidecode"
                 ],
                 "short": "Steal a!",
