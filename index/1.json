@@ -211,6 +211,526 @@
         },
         "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
     },
+    "https://git.purplepanda.cc/blizz/blizz-cogs": {
+        "author": [
+            "blizzthewolf"
+        ],
+        "description": "Cogs requested by others, or cogs that I needed for myself, feel free to DM me at @blizzardthewolf if you have simple requests.",
+        "name": "blizz-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "appeal": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Send a user an appeal link to a form/server before banning them, you can optionally make a tag to automatically send an appeal when banning by using the `tags` cog!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send a user an appeal form before banning.",
+                "tags": [
+                    "appeal",
+                    "ban",
+                    "form",
+                    "banappeal",
+                    "mod",
+                    "dm"
+                ],
+                "type": ""
+            },
+            "bannedcount": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Get the number of banned members in the server",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get the number of banned members in the server",
+                "tags": [
+                    "amount",
+                    "bans",
+                    "count",
+                    "bancount"
+                ],
+                "type": ""
+            },
+            "clap": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Clappify your text",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Clappify your text",
+                "tags": [
+                    "clap",
+                    "clappify",
+                    "text"
+                ],
+                "type": ""
+            },
+            "emojigrabber": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Grab the image links of emoji's being sent in chat by replying to that message or using the link.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grab the image links of emoji's being sent in chat by replying to that message.",
+                "tags": [
+                    "emoji",
+                    "getemoji",
+                    "download",
+                    "get",
+                    "copy"
+                ],
+                "type": ""
+            },
+            "getid": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Posts the discord ID of a user",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Posts the discord ID of a user",
+                "tags": [
+                    "id",
+                    "discordid",
+                    "mention"
+                ],
+                "type": ""
+            },
+            "gtn": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Play a game of Guess The Number, with configurable difficulty.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simple Guess The Number cog",
+                "tags": [
+                    "gtn",
+                    "guess",
+                    "guess the number",
+                    "number"
+                ],
+                "type": ""
+            },
+            "meme": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Posts a random SFW meme from a subreddit, optionally from a specific one.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Posts a random SFW meme from a subreddit.",
+                "tags": [
+                    "meme",
+                    "reddit"
+                ],
+                "type": ""
+            },
+            "mentiontracker": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "The MentionTracker cog tracks and displays the last 5 mentions a user has received, including the content, author, and timestamp of each mention. Useful for when you get pinged while asleep!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "The MentionTracker cog tracks and displays the last 5 mentions a user has received, including the content, author, and timestamp of each mention.",
+                "tags": [
+                    "ping",
+                    "mention",
+                    "mentions",
+                    "pings",
+                    "tracker",
+                    "stats"
+                ],
+                "type": ""
+            },
+            "message": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Allow moderators to message a user via the bot.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow moderators to message a user via the bot.",
+                "tags": [
+                    "dm",
+                    "message"
+                ],
+                "type": ""
+            },
+            "namechanger": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Allow users to change their nickname using your bot.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow users to change their nickname using your bot.",
+                "tags": [
+                    "nickname",
+                    "changename"
+                ],
+                "type": ""
+            },
+            "pingsite": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Ping a website and view the ping speeds, with the average, max and min times.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ping a website and view the ping time.",
+                "tags": [
+                    "ping",
+                    "pingtime",
+                    "ms"
+                ],
+                "type": ""
+            },
+            "repeater": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Repeats a word after it's been said for 3 times in a row in a chain.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Repeats a word after it's been said 3 times in a row.",
+                "tags": [
+                    "chain",
+                    "repeater",
+                    "repeat"
+                ],
+                "type": ""
+            },
+            "riddles": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Posts a random riddle from the riddles-api.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Posts a random riddle from the riddles-api.",
+                "tags": [
+                    "riddles",
+                    "riddle"
+                ],
+                "type": ""
+            },
+            "simpleping": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "View your bot's ping speed, similar to Dyno bot's ping command.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View your bot's ping speed.",
+                "tags": [
+                    "ping",
+                    "pingtime",
+                    "pingspeed"
+                ],
+                "type": ""
+            },
+            "textmagic": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Transform text with commands!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Transform text with commands.",
+                "tags": [
+                    "text",
+                    "magic",
+                    "change",
+                    "edit"
+                ],
+                "type": ""
+            },
+            "tiktokdownloader": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert TikTok videos to either MP3 or MP4 without watermark.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp",
+                    "ffmpeg"
+                ],
+                "short": "Convert TikTok video's to MP3 or MP4",
+                "tags": [
+                    "TikTok",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader"
+                ],
+                "type": ""
+            },
+            "unbanall": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Unban all banned members in your server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Unban all banned members in your server.",
+                "tags": [
+                    "unban",
+                    "bans",
+                    "ban",
+                    "banned"
+                ],
+                "type": ""
+            },
+            "uselessfacts": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Posts a useless fact from the uselessfacts api, in embed form.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grabs a useless fact from the uselessfacts api!",
+                "tags": [
+                    "fact"
+                ],
+                "type": ""
+            },
+            "uwu": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "OwO-fies text by replacing the R and L with W's",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "OwO-fies text",
+                "tags": [
+                    "owo",
+                    "uwu"
+                ],
+                "type": ""
+            },
+            "videoconverterweb": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert video's to MP3 or MP4, and serve them using a simple web server. CAN BE RESOURCE INTENSIVE!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp",
+                    "ffmpeg",
+                    "aiohttp",
+                    "validators"
+                ],
+                "short": "Convert video's to MP3 or MP4, and serve them using a simple web server.",
+                "tags": [
+                    "youtube",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader",
+                    "tiktok",
+                    "reddit"
+                ],
+                "type": ""
+            },
+            "wordscramble": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Get a scrambled word and try to unscramble it within a short time!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play a game of wordscramble!",
+                "tags": [
+                    "game",
+                    "word",
+                    "scramble"
+                ],
+                "type": ""
+            },
+            "ytdownloader": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert youtube videos to either MP3 or MP4 using this cog!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp",
+                    "ffmpeg"
+                ],
+                "short": "Convert youtube video's to MP3 or MP4",
+                "tags": [
+                    "youtube",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Utility and fun cogs"
+    },
     "https://github.com/AAA3A-AAA3A/AAA3A-cogs": {
         "author": [
             "AAA3A"
