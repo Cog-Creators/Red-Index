@@ -19647,7 +19647,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "openai",
-                    "pillow"
+                    "pillow",
+                    "markdownify"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
