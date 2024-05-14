@@ -207,6 +207,28 @@
                     "management"
                 ],
                 "type": ""
+            },
+            "seautils": {
+                "author": [
+                    "SeaswimmerTheFsh (seasw.)"
+                ],
+                "description": "A collection of useful utilities.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A collection of useful utilities.",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
