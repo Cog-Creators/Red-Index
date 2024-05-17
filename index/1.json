@@ -2362,7 +2362,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "requests"
+                    "aiohttp",
+                    "asyncio"
                 ],
                 "short": "Use URLScan API To Analyze URL's",
                 "tags": [
