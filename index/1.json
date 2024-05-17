@@ -2128,6 +2128,311 @@
         },
         "short": "Just some tools for red."
     },
+    "https://github.com/BeeHiveCyberSecurity/BeeHive-Cogs": {
+        "author": [
+            "movelaterally"
+        ],
+        "description": "Cogs made to help better protect and serve Discord communities that use Red for server management and operations.",
+        "name": "BeeHive-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "antiphishing": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Screen for malicious links in your server",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Screen for malicious links in your server",
+                "tags": [],
+                "type": ""
+            },
+            "easyrules": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Setup rules in your server without hassle",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "discord-py-interactions"
+                ],
+                "short": "Rules made easy because some people struggle to choose what is and is not acceptable in their server.",
+                "tags": [
+                    "rules",
+                    "moderation",
+                    "community safety"
+                ],
+                "type": ""
+            },
+            "malcore": {
+                "author": [
+                    "movelaterally",
+                    "Sorted"
+                ],
+                "description": "Analyze urls via Malcore thru Red-DiscordBot using the Malcore API",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Use the Malcore API to analyze files and URLs",
+                "tags": [
+                    "file scanning",
+                    "antivirus",
+                    "malcore",
+                    "file analysis",
+                    "security",
+                    "safety"
+                ],
+                "type": ""
+            },
+            "orchestrator": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "See basic server info. Show bot info about the Discord servers your bot is in, including approximate total user count/member count and server count. Guild info, such as guild ID and guild names are also shown.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Server Information Viewer",
+                "tags": [
+                    "servers",
+                    "member",
+                    "members",
+                    "information"
+                ],
+                "type": ""
+            },
+            "products": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Get product details thru Discord commands",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "discord-py-interactions"
+                ],
+                "short": "View information about company products",
+                "tags": [
+                    "sales",
+                    "products",
+                    "URLScan"
+                ],
+                "type": ""
+            },
+            "reviews": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Manage and post user reviews within your server",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "reportlab"
+                ],
+                "short": "Manage user reviews",
+                "tags": [],
+                "type": ""
+            },
+            "serverinfo": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Display server information with additional details",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Display server information",
+                "tags": [],
+                "type": ""
+            },
+            "skysearch": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "airplanes tracking cog for the https://airplanes.live api.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "reportlab"
+                ],
+                "short": "Check on plane data thru Red-Discordbot",
+                "tags": [
+                    "airplanes",
+                    "airplaneslive",
+                    "aircraft",
+                    "aircraft tracking"
+                ],
+                "type": ""
+            },
+            "stripeidentity": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Verify ages and identities using Stripe Identity",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "discord-py-interactions",
+                    "stripe"
+                ],
+                "short": "Verify ages and identities via Discord",
+                "tags": [
+                    "stripe",
+                    "identity",
+                    "age-gate"
+                ],
+                "type": ""
+            },
+            "urlscan": {
+                "author": [
+                    "movelaterally",
+                    "Sorted"
+                ],
+                "description": "Analyze urls via URLScan thru Red-DiscordBot using the URLScan API",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Use URLScan API To Analyze URL's",
+                "tags": [
+                    "file scanning",
+                    "antivirus",
+                    "URLScan",
+                    "file analysis",
+                    "security",
+                    "safety"
+                ],
+                "type": ""
+            },
+            "virustotal": {
+                "author": [
+                    "movelaterally",
+                    "Sorted"
+                ],
+                "description": "Analyze files via VirusTotal thru Red-DiscordBot using the VirusTotal API",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "asyncio",
+                    "matplotlib"
+                ],
+                "short": "Check files using VirusTotal and an API key",
+                "tags": [
+                    "file scanning",
+                    "antivirus",
+                    "virustotal",
+                    "file analysis",
+                    "security",
+                    "safety"
+                ],
+                "type": ""
+            },
+            "weather": {
+                "author": [
+                    "TrustyJAID"
+                ],
+                "description": "Check the current weather in many cities around the world including in Kelvin.",
+                "disabled": false,
+                "end_user_data_statement": "This cog may store User ID's for the purposes of setting default preferred temperature units.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Show the current weather in specified locations!",
+                "tags": [
+                    "weather",
+                    "utility"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Security, safety, and server management cogs"
+    },
     "https://github.com/BenCos17/ben-cogs": {
         "author": [
             "bencos18 (492089091320446976)"
