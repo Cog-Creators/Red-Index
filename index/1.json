@@ -2208,29 +2208,6 @@
                 ],
                 "type": ""
             },
-            "orchestrator": {
-                "author": [
-                    "movelaterally"
-                ],
-                "description": "See basic server info. Show bot info about the Discord servers your bot is in, including approximate total user count/member count and server count. Guild info, such as guild ID and guild names are also shown.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Server Information Viewer",
-                "tags": [
-                    "servers",
-                    "member",
-                    "members",
-                    "information"
-                ],
-                "type": ""
-            },
             "products": {
                 "author": [
                     "movelaterally"
