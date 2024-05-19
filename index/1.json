@@ -2280,7 +2280,7 @@
                 "end_user_data_statement": "SkySearch stores no user data. Usage of external API integrations provided in SkySearch is subject to the Privacy Policy, and Terms of Service, of the respective service.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
@@ -2329,7 +2329,7 @@
                     "movelaterally",
                     "Sorted"
                 ],
-                "description": "Analyze urls via URLScan thru Red-DiscordBot using the URLScan API",
+                "description": "Analyze domains and URL's via URLScan, with support for automated analysis and removal",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2342,7 +2342,7 @@
                     "aiohttp",
                     "asyncio"
                 ],
-                "short": "Use URLScan API To Analyze URL's",
+                "short": "Analyze domains and URL's via URLScan, with support for automated analysis and removal",
                 "tags": [
                     "file scanning",
                     "antivirus",
