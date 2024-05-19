@@ -2304,7 +2304,7 @@
                 ],
                 "description": "Verify ages and identities using Stripe Identity",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "Stores User ID's and Verification Session ID's, only when pending. Usage of Stripe Identity is subject to the Stripe Consumer Terms of Service, and Privacy Policy",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
