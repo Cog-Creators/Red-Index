@@ -2162,20 +2162,20 @@
                 "description": "Interact with Cloudflare's API via Discord",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "requests",
-                    "discord-py-interactions"
+                    "aiohttp"
                 ],
-                "short": "View information about company products",
+                "short": "Interact with your Cloudflare account, zones, and assets thru Red-Discordbot",
                 "tags": [
-                    "cloudflare",
-                    "waf"
+                    "R2",
+                    "Email Routing",
+                    "HyperDrive"
                 ],
                 "type": ""
             },
