@@ -2159,7 +2159,7 @@
                 "author": [
                     "movelaterally"
                 ],
-                "description": "Interact with Cloudflare's API via Discord",
+                "description": "Interact with Cloudflare services thru your Discord bot",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2175,7 +2175,8 @@
                 "tags": [
                     "R2",
                     "Email Routing",
-                    "HyperDrive"
+                    "HyperDrive",
+                    "Intelligence"
                 ],
                 "type": ""
             },
