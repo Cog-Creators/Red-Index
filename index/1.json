@@ -1,10 +1,10 @@
 {
-    "https://coastalcommits.com/SeaswimmerTheFsh/SeaCogs": {
+    "https://coastalcommits.com/Sea/Cogs": {
         "author": [
             "SeaswimmerTheFsh (seasw.)"
         ],
         "description": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)",
-        "name": "SeaCogs",
+        "name": "Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
