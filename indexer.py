@@ -89,6 +89,7 @@ class Repo:
             self._error = "Error reading repo info.json. Possibly invalid."
             return
 
+        self.name = info.get("name", self.name)
         self.author = info.get("author", [])
         self.description = info.get("description", "")
         self.short = info.get("short", "")
