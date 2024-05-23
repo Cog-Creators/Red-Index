@@ -16296,11 +16296,16 @@
                 "requirements": [
                     "AdvancedTagScriptEngine==3.1.4",
                     "tabulate",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "wtforms",
+                    "markupsafe"
                 ],
                 "short": "Create and use tags.",
                 "tags": [
-                    "tags"
+                    "tags",
+                    "custom commands",
+                    "custom",
+                    "commands"
                 ],
                 "type": "COG"
             },
