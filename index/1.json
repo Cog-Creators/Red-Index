@@ -19273,7 +19273,7 @@
         "rx_cogs": {
             "logger": {
                 "author": [
-                    "ShitShowDevelopment",
+                    "Shit Show Development",
                     "Flame422",
                     "TwentySix",
                     "aikaterna",
@@ -19284,11 +19284,16 @@
                 "disabled": false,
                 "end_user_data_statement": "This cog logs information about users, guilds, and errors to channels within the guild. This cog does not persistantly store data or metadata about users or guilds.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [
-                    "administrator, manage_guild"
+                    "administrator",
+                    "manage_guild"
                 ],
                 "required_cogs": {},
                 "requirements": [],
@@ -19296,19 +19301,56 @@
                 "tags": [
                     "logging"
                 ],
-                "type": ""
+                "type": "COG"
+            },
+            "runescape": {
+                "author": [
+                    "TrustyJAID",
+                    "Shit Show Development"
+                ],
+                "description": "A cog to grab Runescape and OSRS stats and profile information.",
+                "disabled": false,
+                "end_user_data_statement": "This cog may store User ID's linked with an external API name for the purposes of simplifying command usage.\nUsers may clear this saved information at any time by command.",
+                "hidden": false,
+                "max_bot_version": "0.0.0",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate",
+                    "pytz",
+                    "matplotlib"
+                ],
+                "short": "Show your Runescape stats in discord!",
+                "tags": [
+                    "runescape",
+                    "games",
+                    "osrs"
+                ],
+                "type": "COG"
             },
             "waifuim": {
                 "author": [
-                    "ShitShowDevelopment"
+                    "Shit Show Development"
                 ],
                 "description": "Get waifu images and gifs using waifu.im api.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
                 "hidden": false,
-                "max_bot_version": "",
+                "max_bot_version": "0.0.0",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [
                     "send_messages",
                     "embed_links"
@@ -19321,7 +19363,7 @@
                     "nsfw",
                     "sfw"
                 ],
-                "type": ""
+                "type": "COG"
             }
         },
         "short": "Cogs for Red-DiscordBot"
