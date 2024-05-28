@@ -2469,30 +2469,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "airplaneslive": {
-                "author": [
-                    "bencos18 (492089091320446976)",
-                    "Beehive (https://github.com/BeeHiveCyberSecurity)"
-                ],
-                "description": "airplanes tracking cog for the https://airplanes.live api .",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "some random cogs I made for my own use and decided to make public.",
-                "tags": [
-                    "airplanes",
-                    "airplaneslive",
-                    "aircraft",
-                    "aircraft tracking"
-                ],
-                "type": ""
-            },
             "amazon": {
                 "author": [
                     "bencos18 (492089091320446976)"
