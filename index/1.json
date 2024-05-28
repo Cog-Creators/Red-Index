@@ -2205,6 +2205,28 @@
                 ],
                 "type": ""
             },
+            "invitetracker": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Tracks user invites with customizable announcements, rewards, and perks.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Tracks user invites with customizable announcements, rewards, and perks.",
+                "tags": [
+                    "invites",
+                    "rewards",
+                    "announcements"
+                ],
+                "type": ""
+            },
             "malcore": {
                 "author": [
                     "movelaterally",
