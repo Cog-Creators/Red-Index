@@ -2493,6 +2493,28 @@
                 ],
                 "type": ""
             },
+            "amazon": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "Amazon affiliate link cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores configuration data per guild, specifically affiliate tags and enable/disable state for affiliate link handling.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [
+                    "amazon",
+                    "affiliate",
+                    "affiliate links"
+                ],
+                "type": ""
+            },
             "application": {
                 "author": [
                     "bencos18 (492089091320446976)"
