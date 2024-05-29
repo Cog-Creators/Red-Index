@@ -225,7 +225,10 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "beautifulsoup4",
+                    "markdownify"
+                ],
                 "short": "A collection of useful utilities.",
                 "tags": [],
                 "type": ""
