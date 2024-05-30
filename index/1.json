@@ -19314,38 +19314,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "logger": {
-                "author": [
-                    "Shit Show Development",
-                    "Flame422",
-                    "TwentySix",
-                    "aikaterna",
-                    "zephyrkul",
-                    "yamikaito"
-                ],
-                "description": "Logs events to specified channels.",
-                "disabled": false,
-                "end_user_data_statement": "This cog logs information about users, guilds, and errors to channels within the guild. This cog does not persistantly store data or metadata about users or guilds.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "administrator",
-                    "manage_guild"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Logs events to specified channels.",
-                "tags": [
-                    "logging"
-                ],
-                "type": "COG"
-            },
             "runescape": {
                 "author": [
                     "TrustyJAID",
