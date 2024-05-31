@@ -21834,7 +21834,9 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pydantic"
+                ],
                 "short": "Anti-Nuke Cog",
                 "tags": [
                     "nuke",
