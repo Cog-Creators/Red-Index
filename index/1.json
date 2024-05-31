@@ -19305,47 +19305,6 @@
         },
         "short": "Utility cogs for your server."
     },
-    "https://github.com/shitshowdevelopment/ShitShowCogs": {
-        "author": [
-            "Shit Show Development"
-        ],
-        "description": "A collection of Cogs for Red-DiscordBot.",
-        "name": "ShitShowCogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "waifuim": {
-                "author": [
-                    "Shit Show Development"
-                ],
-                "description": "Get waifu images and gifs using waifu.im api.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistantly store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "send_messages",
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Get waifu images and gifs using waifu.im api.",
-                "tags": [
-                    "images",
-                    "nsfw",
-                    "sfw"
-                ],
-                "type": "COG"
-            }
-        },
-        "short": "Cogs for Red-DiscordBot"
-    },
     "https://github.com/skeith/MayuYukirin": {
         "author": [
             "Yukirin (Yukirin#0048)"
