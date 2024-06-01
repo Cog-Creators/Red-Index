@@ -17910,6 +17910,35 @@
                 ],
                 "type": ""
             },
+            "dalle": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generate anime images with Dall-E 3",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Generate anime images with NovelAI v3.",
+                "tags": [
+                    "crab",
+                    "image",
+                    "ai",
+                    "generation",
+                    "imagine",
+                    "dalle",
+                    "dall-e",
+                    "openai"
+                ],
+                "type": ""
+            },
             "draw": {
                 "author": [
                     "hollowstrawberry"
