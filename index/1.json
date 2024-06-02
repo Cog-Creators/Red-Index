@@ -2230,34 +2230,6 @@
                 ],
                 "type": ""
             },
-            "malcore": {
-                "author": [
-                    "movelaterally",
-                    "Sorted"
-                ],
-                "description": "Analyze urls via Malcore thru Red-DiscordBot using the Malcore API",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "requests"
-                ],
-                "short": "Use the Malcore API to analyze files and URLs",
-                "tags": [
-                    "file scanning",
-                    "antivirus",
-                    "malcore",
-                    "file analysis",
-                    "security",
-                    "safety"
-                ],
-                "type": ""
-            },
             "products": {
                 "author": [
                     "movelaterally"
