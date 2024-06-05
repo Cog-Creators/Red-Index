@@ -19409,7 +19409,7 @@
         "author": [
             "Space Wizards"
         ],
-        "description": "Useful cogs for server hosters to use on their Space Station 14 servers. An open source project based on the cult classic Space Station 13.",
+        "description": "Useful cogs for server operators to use alongside their Space Station 14 servers. An open source project based on the cult classic Space Station 13.",
         "name": "wizard-cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -19464,7 +19464,7 @@
                 "author": [
                     "Space Wizards"
                 ],
-                "description": "Shows the status of your SS14, SS13, including player count, map, and round status. (and some other game servers that have qstat support)",
+                "description": "Shows the status of your Space Station 14 servers that include map, player count, round lenght, and more. Also supports Space Station 13 servers and qstat compatible games.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -19474,7 +19474,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Shows the status of your SS14 server and a bunch of other stuff.",
+                "short": "Shows the status of your SS14 servers.",
                 "tags": [
                     "Space Station 14",
                     "SS14",
@@ -19490,7 +19490,7 @@
                 "author": [
                     "Space Wizards"
                 ],
-                "description": "Allows you to restart servers easily with ss14.watchdog.",
+                "description": "Allows you to restart, stop and update servers easily with ss14.watchdog.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -19502,7 +19502,7 @@
                 "requirements": [
                     "aiohttp"
                 ],
-                "short": "Allows you to restart using ss14.watchdog.",
+                "short": "Allows you to control your server ss14.watchdog.",
                 "tags": [
                     "Space Station 14",
                     "SS14",
@@ -19512,7 +19512,7 @@
                 "type": ""
             }
         },
-        "short": "Useful cogs for server hosters for Space Station 14."
+        "short": "Useful cogs for server operators of Space Station 14 game servers."
     },
     "https://github.com/sravan1946/sravan-cogs": {
         "author": [
