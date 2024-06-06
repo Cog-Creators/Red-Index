@@ -9858,7 +9858,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "emoji~=1.6.3",
-                    "pydantic~=1.9.1",
+                    "pydantic~=2.7.2",
                     "regex==2022.4.24"
                 ],
                 "short": "Protects your community with automod features and empowers the staff and users you trust with advanced moderation tools",
