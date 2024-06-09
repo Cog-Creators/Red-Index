@@ -15186,6 +15186,34 @@
                 ],
                 "type": "COG"
             },
+            "patchnotes": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A cog that posts patch notes of software (namely streamlabs, twitch, and OBS) to a discord channel",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "rss": "https://github.com/aikaterna/aikaterna-cogs"
+                },
+                "requirements": [
+                    "beautifulsoup4",
+                    "semver",
+                    "pyppeteer"
+                ],
+                "short": "A cog that posts patch notes of software (namely streamlabs, twitch, and OBS) to a discord channel",
+                "tags": [
+                    "OBS",
+                    "Streamlabs",
+                    "Twitch"
+                ],
+                "type": "COG"
+            },
             "reactrole": {
                 "author": [
                     "crayyy_zee"
