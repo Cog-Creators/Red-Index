@@ -22107,7 +22107,7 @@
                 ],
                 "description": "Assorted utility commands for viewing bot stats and users",
                 "disabled": false,
-                "end_user_data_statement": "This cog contains a collection of random commands I have found useful over the years. The cog does not store data about users.\n\nDOCUMENTATION: https://github.com/vertyco/vrt-cogs/blob/main/vrtutils/README.md",
+                "end_user_data_statement": "This cog is stateless and retains no user or server data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
