@@ -13738,7 +13738,7 @@
                     "flare(flare#0001)"
                 ],
                 "description": "Show colour palette of images, avatars, emojis etc",
-                "disabled": false,
+                "disabled": true,
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
