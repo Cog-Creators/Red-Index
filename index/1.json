@@ -8181,6 +8181,27 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "boardgamegeek": {
+                "author": [
+                    "Skylark95"
+                ],
+                "description": "Look up board games on BoardGameGeek",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Look up board games on BoardGameGeek",
+                "tags": [
+                    "boardgamegeek",
+                    "bgg"
+                ],
+                "type": "COG"
+            },
             "chatgpt": {
                 "author": [
                     "Skylark95"
@@ -8239,7 +8260,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Wingspan game related commands",
+                "short": "Countdown to Gen Con and other related commands",
                 "tags": [
                     "gencon"
                 ],
