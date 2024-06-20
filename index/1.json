@@ -2255,6 +2255,24 @@
                 ],
                 "type": ""
             },
+            "quickassist": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Quickly create and obtain a permissions-elevated role for a temporary amount of time to help with server moderation issues",
+                "disabled": true,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Temporary elevated roles for moderation",
+                "tags": [],
+                "type": ""
+            },
             "reviews": {
                 "author": [
                     "movelaterally"
