@@ -17341,37 +17341,6 @@
                 ],
                 "type": "COG"
             },
-            "emojispam": {
-                "author": [
-                    "max"
-                ],
-                "description": "Prevent users from spamming emojis",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji~=2.0.0",
-                    "AdvancedTagScriptEngine==3.1.4"
-                ],
-                "short": "Prevent users from spamming emojis",
-                "tags": [
-                    "emoji",
-                    "emojispam"
-                ],
-                "type": "COG"
-            },
             "lockdown": {
                 "author": [
                     "max"
