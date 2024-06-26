@@ -22915,7 +22915,7 @@
                     "zhaobenny",
                     "hollowstrawberry"
                 ],
-                "description": "Use a self-provided AUTOMATIC1111 endpoint to generate images through Discord",
+                "description": "Enables the generation of Stable Diffusion images in Discord using a provided AUTOMATIC1111 stable-diffusion-webui endpoint",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
