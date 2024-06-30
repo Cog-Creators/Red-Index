@@ -10062,6 +10062,32 @@
                 ],
                 "type": ""
             },
+            "autoping": {
+                "author": [
+                    "Vexed (@vexingvexed)"
+                ],
+                "description": "Do you ever forget to check for messages in a channel? This cog automatically pings a user/role when a message is sent in a channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the channel ID and role/user ID for each channel that has a ping set. No other data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.1",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically ping a user/role when a message is sent in a channel.",
+                "tags": [
+                    "utility",
+                    "ping",
+                    "mention"
+                ],
+                "type": ""
+            },
             "beautify": {
                 "author": [
                     "Vexed (@vexingvexed)"
