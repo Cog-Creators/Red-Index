@@ -2570,22 +2570,6 @@
                 ],
                 "type": ""
             },
-            "earthquake": {
-                "author": "bencos18",
-                "description": "Fetches the latest earthquake information from the USGS API.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
-            },
             "emojilink": {
                 "author": [
                     "bencos18 (492089091320446976)"
