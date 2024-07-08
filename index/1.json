@@ -16291,6 +16291,33 @@
                 ],
                 "type": "COG"
             },
+            "info": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Extended info commands such as userinfo.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Extended info commands.",
+                "tags": [
+                    "utility",
+                    "userinfo",
+                    "info",
+                    "mod"
+                ],
+                "type": "COG"
+            },
             "lock": {
                 "author": [
                     "inthedark.org",
