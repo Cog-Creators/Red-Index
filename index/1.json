@@ -15802,6 +15802,30 @@
                 ],
                 "type": "COG"
             },
+            "sharedcd": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Create shared cooldowns for commands across multiple cogs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Shared cooldowns for commands.",
+                "tags": [
+                    "cooldown",
+                    "custom",
+                    "restrict",
+                    "delay",
+                    "block"
+                ],
+                "type": "COG"
+            },
             "tickchanger": {
                 "author": [
                     "crayyy_zee"
