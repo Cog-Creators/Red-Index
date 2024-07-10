@@ -17619,6 +17619,41 @@
                 ],
                 "type": "COG"
             },
+            "github": {
+                "author": [
+                    "Obi-Wan3",
+                    "ltzmax"
+                ],
+                "description": "Customizable system for GitHub commit updates similar to the webhook.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server settings, as well as the GitHub commit feed links provided by users (to fetch new commit updates).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser",
+                    "html2text"
+                ],
+                "short": "GitHub RSS Commit Feeds",
+                "tags": [
+                    "utility",
+                    "github",
+                    "rss",
+                    "feed",
+                    "commits",
+                    "embed"
+                ],
+                "type": "COG"
+            },
             "lockdown": {
                 "author": [
                     "max"
