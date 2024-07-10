@@ -16288,6 +16288,36 @@
                 ],
                 "type": "COG"
             },
+            "extendedmentionhelp": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Set a custom message to be sent on bot mention (Supports TagScript).",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores provided server and global settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Customizable Mention Help Message (Supports TagScript).",
+                "tags": [
+                    "utility",
+                    "mentionhelp",
+                    "custom",
+                    "message",
+                    "tagscript"
+                ],
+                "type": "COG"
+            },
             "firstmessage": {
                 "author": [
                     "inthedark.org"
