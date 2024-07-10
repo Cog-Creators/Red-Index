@@ -16265,6 +16265,45 @@
                 ],
                 "type": "COG"
             },
+            "emojitools": {
+                "author": [
+                    "inthedark.org",
+                    "Obi-Wan3"
+                ],
+                "description": "Various tools for managing custom emojis in servers.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users. If enabled, the `[p]emojitools save` command group saves to folders in the cog data path image files of emojis that server administrators select.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "manage_emojis",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "aiozipstream"
+                ],
+                "short": "Tools for Managing Custom Emojis",
+                "tags": [
+                    "utility",
+                    "emojis",
+                    "management",
+                    "tools",
+                    "zip",
+                    "save",
+                    "add",
+                    "delete",
+                    "info"
+                ],
+                "type": "COG"
+            },
             "errorhandler": {
                 "author": [
                     "inthedark.org",
