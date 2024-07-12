@@ -16491,7 +16491,10 @@
                 ],
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "AdvancedTagScriptEngine",
+                    "diot"
+                ],
                 "short": "Restrict messages and/or commands in DMs.",
                 "tags": [
                     "deny",
