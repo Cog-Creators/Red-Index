@@ -17772,7 +17772,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Cog that sends random nekos, kitsune, husbando and waifu images from nekos.best",
+                "description": "Random Nekos.best images + RolePlay Commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -17790,7 +17790,7 @@
                 "requirements": [
                     "orjson"
                 ],
-                "short": "Sending random kitsune, waifue, husbando and nekos images.",
+                "short": "Random Nekos.best images + RolePlay Commands.",
                 "tags": [
                     "images",
                     "waifu",
@@ -17881,32 +17881,6 @@
                 "tags": [
                     "botupdate",
                     "redupdate"
-                ],
-                "type": "COG"
-            },
-            "roleplaycog": {
-                "author": [
-                    "max"
-                ],
-                "description": "Roleplay cog with alot of fun to have with your members. This is with help of nekos.best.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.19",
-                "min_python_version": [
-                    3,
-                    8,
-                    1
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Roleplay cog. With help of nekos.best.",
-                "tags": [
-                    "roleplay"
                 ],
                 "type": "COG"
             },
@@ -22172,7 +22146,8 @@
                     "psutil",
                     "tenacity",
                     "ujson",
-                    "uvicorn"
+                    "uvicorn",
+                    "requests"
                 ],
                 "short": "Discord leveling system",
                 "tags": [
