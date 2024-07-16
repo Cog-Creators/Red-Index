@@ -17856,6 +17856,33 @@
                 ],
                 "type": ""
             },
+            "pokemon": {
+                "author": [
+                    "<@306810730055729152>",
+                    "ltzmax (MAX#1000)",
+                    "Flame (Flame#2941)"
+                ],
+                "description": "Play a game of Who's That Pok\u00e9mon or Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Play a game of Who's That Pok\u00e9mon or Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
+                "tags": [
+                    "pokemon",
+                    "tcgcard",
+                    "whosthatpokemon",
+                    "whos that pokemon"
+                ],
+                "type": "COG"
+            },
             "redupdate": {
                 "author": [
                     "max",
@@ -17881,29 +17908,6 @@
                 "tags": [
                     "botupdate",
                     "redupdate"
-                ],
-                "type": "COG"
-            },
-            "tcgcard": {
-                "author": [
-                    "<@306810730055729152>",
-                    "ltzmax (MAX#1000)"
-                ],
-                "description": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game (a.k.a Pok\u00e9mon TCG)",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
-                "tags": [
-                    "pokemon",
-                    "pokemontcg",
-                    "tcgcard"
                 ],
                 "type": "COG"
             },
@@ -17933,32 +17937,6 @@
                     "movie",
                     "tvshow",
                     "tvshows"
-                ],
-                "type": "COG"
-            },
-            "whosthatpokemon": {
-                "author": [
-                    "<@306810730055729152>",
-                    "ltzmax (MAX#1000)",
-                    "Flame (Flame#2941)"
-                ],
-                "description": "Play a game of Who's That Pok\u00e9mon.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "pillow"
-                ],
-                "short": "Play a game of Who's That Pok\u00e9mon.",
-                "tags": [
-                    "pokemon",
-                    "whosthatpokemon",
-                    "whos that pokemon"
                 ],
                 "type": "COG"
             }
