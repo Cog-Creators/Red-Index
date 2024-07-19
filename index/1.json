@@ -6480,13 +6480,15 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiosu==1.5.0",
+                    "aiosu==2.3.1",
                     "git+https://github.com/Kuro-Rui/Kuro-Utils"
                 ],
                 "short": "Display user information from osu!",
                 "tags": [
+                    "game",
                     "osu",
-                    "osu!"
+                    "osu!",
+                    "rythm"
                 ],
                 "type": "COG"
             },
