@@ -1212,7 +1212,7 @@
                 "description": "Track votes on Disurl, assign roles to voters and remind them to vote!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
