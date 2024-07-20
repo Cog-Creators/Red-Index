@@ -2094,6 +2094,40 @@
         },
         "short": "Many cogs for Red-DiscordBot!"
     },
+    "https://github.com/Avexiis/xeon_cogs": {
+        "author": [
+            "@xeon.__"
+        ],
+        "description": "A cog to manage and track vouches. Has both text and slash versions of each command. Use to keep track of feedback for you and/or your server staff",
+        "name": "xeon_cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "vouchtracker": {
+                "author": [
+                    "@xeon.__"
+                ],
+                "description": "A cog to manage and track vouches. Has both text and slash versions of each command. Use to keep track of feedback for you and/or your server staff",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.9",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Vouch tracking/management",
+                "tags": [
+                    "vouches",
+                    "tracking",
+                    "management"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Vouch tracking/management"
+    },
     "https://github.com/Bartixxx32/BartixxxCogs": {
         "author": [
             "Bartixxx"
