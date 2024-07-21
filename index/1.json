@@ -1020,8 +1020,8 @@
             },
             "dashboard": {
                 "author": [
-                    "Neuro Assassin",
-                    "AAA3A"
+                    "AAA3A",
+                    "Neuro Assassin"
                 ],
                 "description": "Interact with your bot through a web Dashboard! Thank you very much to Neuro for the initial work!",
                 "disabled": false,
