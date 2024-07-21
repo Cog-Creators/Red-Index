@@ -13914,10 +13914,11 @@
             },
             "palette": {
                 "author": [
-                    "flare(flare#0001)"
+                    "flare(flare#0001)",
+                    "Kuro"
                 ],
                 "description": "Show colour palette of images, avatars, emojis etc",
-                "disabled": true,
+                "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
                 "max_bot_version": "",
@@ -13927,7 +13928,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pillow",
-                    "colorgram.py"
+                    "colorgram.py==1.2.0",
+                    "tabulate"
                 ],
                 "short": "Show colour palette of images, avatars etc.",
                 "tags": [
