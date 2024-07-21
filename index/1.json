@@ -18164,27 +18164,6 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
-            "menubuttons": {
-                "author": [
-                    "epic guy"
-                ],
-                "description": "Converts red menus to buttons and also enables support for custom default menu emojis",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.3.10",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "red menus to buttons + support for custom menu emojis",
-                "tags": [
-                    "fun",
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "simpleweb": {
                 "author": [
                     "epic guy"
