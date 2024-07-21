@@ -18166,6 +18166,104 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "bible": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Powered by biblegateway, this cog can get bible verses",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "html2text",
+                    "beautifulsoup4",
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
+                "short": "Pull up biblical verses fast",
+                "tags": [
+                    "utility",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "customhelp": {
+                "author": [
+                    "epic guy",
+                    "PhenoM4n4n"
+                ],
+                "description": "This is customisable help, kindly read the readme of this cog, to set it up",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate",
+                    "packaging"
+                ],
+                "short": "A custom help",
+                "tags": [
+                    "help",
+                    "utility",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "google": {
+                "author": [
+                    "epic guy",
+                    "ow0x",
+                    "fixator10"
+                ],
+                "description": "This searches google and fetches results using a custom scraper. The reverse search supports replies as well",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "html2text",
+                    "beautifulsoup4"
+                ],
+                "short": "A google search cog, with rich card results",
+                "tags": [
+                    "fun",
+                    "utility",
+                    "internet"
+                ],
+                "type": "COG"
+            },
+            "noreplyping": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Cog's meant to jump to message where you are replied with a ping off so that you might not have noticed ",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores uids for a toggle to notify people of reply ping or not",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track the people who reply but turned off their ping",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "simpleweb": {
                 "author": [
                     "epic guy"
@@ -18189,6 +18287,143 @@
                     "web"
                 ],
                 "type": "COG"
+            },
+            "snake": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Ratelimit hell based classic snake game on discord",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
+                "short": "A simple Snake Game on discord",
+                "tags": [
+                    "games",
+                    "fun"
+                ],
+                "type": "COG"
+            },
+            "snipe": {
+                "author": [
+                    "epic guy"
+                ],
+                "description": "Bulk sniping to stab back those anti-sniping smart ass users",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
+                "short": "Multi Snipe for fun and non-profit",
+                "tags": [
+                    "fun",
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "speak": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "Ever wanted to speak as someone else or other bots? or you didn't have the right words to say? This cog speaks for you! or mimics other's identity as well, except that it adds a bot tag. It uses webhooks",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog that speaks for you or speaks what you type as others",
+                "tags": [
+                    "speak",
+                    "tell",
+                    "fun"
+                ],
+                "type": ""
+            },
+            "todo": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "A simple todo list cog with add remove and list todos",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the todos associated with uids",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
+                "short": "A simple todo list",
+                "tags": [
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "typeracer": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "This cog can be used to check your typing speed, it isnt that accurate cause of ping issues, otherwise it's a decent one",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "A fun typing speed test cog",
+                "tags": [
+                    "utility",
+                    "fun",
+                    "speedtest"
+                ],
+                "type": ""
+            },
+            "weeb": {
+                "author": [
+                    "epic guy#0715"
+                ],
+                "description": "a random bunch of emoticons for the otakus",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bunch of weeb emoticons OwO",
+                "tags": [
+                    "emoticons",
+                    "emojis",
+                    "weeb",
+                    "fun"
+                ],
+                "type": ""
             }
         },
         "short": "A decent bunch of cogs aimed for having fun"
