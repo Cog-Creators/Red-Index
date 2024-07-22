@@ -1517,6 +1517,32 @@
                 ],
                 "type": ""
             },
+            "kofitracker": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Track donations, subscriptions and shop orders on KoFi!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Track donations, subscriptions and shop orders on KoFi!",
+                "tags": [
+                    "kofi",
+                    "tracker",
+                    "donations",
+                    "subscriptions",
+                    "orders"
+                ],
+                "type": ""
+            },
             "linkquoter": {
                 "author": [
                     "PhenoM4n4n",
