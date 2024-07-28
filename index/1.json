@@ -16065,7 +16065,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4"
+                    "AdvancedTagScriptEngine==3.2.0"
                 ],
                 "short": "Away From Keyboard",
                 "tags": [
@@ -16225,7 +16225,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4"
+                    "AdvancedTagScriptEngine==3.2.0"
                 ],
                 "short": "Booster Utilities. (WIP)",
                 "tags": [
@@ -16254,7 +16254,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4",
+                    "AdvancedTagScriptEngine==3.2.0",
                     "Pillow"
                 ],
                 "short": "Captcha verification system.",
@@ -16366,7 +16366,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4"
+                    "AdvancedTagScriptEngine==3.2.0"
                 ],
                 "short": "Manage And Log Builtin Discord Polls.",
                 "tags": [
@@ -16835,7 +16835,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4",
+                    "AdvancedTagScriptEngine==3.2.0",
                     "tabulate",
                     "rapidfuzz",
                     "wtforms",
@@ -16868,7 +16868,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4"
+                    "AdvancedTagScriptEngine==3.2.0"
                 ],
                 "short": "Thread opener.",
                 "tags": [
