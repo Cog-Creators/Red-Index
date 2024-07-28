@@ -2777,6 +2777,27 @@
                 ],
                 "type": "COG"
             },
+            "ports": {
+                "author": [
+                    "bencos17"
+                ],
+                "description": "port scanner cog",
+                "disabled": false,
+                "end_user_data_statement": ".",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "port scanner!",
+                "tags": [
+                    "ports",
+                    "scanner"
+                ],
+                "type": "COG"
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
