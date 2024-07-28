@@ -17905,7 +17905,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "AdvancedTagScriptEngine==3.1.4"
+                    "AdvancedTagScriptEngine==3.2.2"
                 ],
                 "short": "Disallow spoilers in your server.",
                 "tags": [
