@@ -2374,6 +2374,27 @@
                 ],
                 "type": ""
             },
+            "ping": {
+                "author": [
+                    "movelaterally",
+                    "escalateprivs"
+                ],
+                "description": "A simple ping command to check the bot's latency and network speed.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "speedtest-cli"
+                ],
+                "short": "Check bot's latency and network speed",
+                "tags": [],
+                "type": ""
+            },
             "products": {
                 "author": [
                     "movelaterally"
@@ -2434,6 +2455,25 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Display server information",
+                "tags": [],
+                "type": ""
+            },
+            "sesh": {
+                "author": [
+                    "movelaterally",
+                    "escalateprivs"
+                ],
+                "description": "Coordinate smoking sessions with your friends",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Coordinate smoking sessions",
                 "tags": [],
                 "type": ""
             },
