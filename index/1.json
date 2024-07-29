@@ -2472,7 +2472,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "speechrecognition",
+                    "pyaudio"
+                ],
                 "short": "Coordinate smoking sessions",
                 "tags": [],
                 "type": ""
