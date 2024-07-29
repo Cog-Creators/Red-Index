@@ -22125,7 +22125,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic",
+                    "tenacity"
                 ],
                 "short": "Discord Server Backup/Restore",
                 "tags": [
