@@ -2473,8 +2473,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "speechrecognition",
-                    "pyaudio"
+                    "speechrecognition"
                 ],
                 "short": "Coordinate smoking sessions",
                 "tags": [],
