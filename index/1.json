@@ -2473,7 +2473,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "speechrecognition"
+                    "pynacl"
                 ],
                 "short": "Coordinate smoking sessions",
                 "tags": [],
