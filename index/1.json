@@ -1397,6 +1397,31 @@
                 ],
                 "type": ""
             },
+            "fastclickgame": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Play to click on the right button as fast as you can!",
+                "disabled": false,
+                "end_user_data_statement": "This cog saves levels and XP of users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "prettytable"
+                ],
+                "short": "Play to click on the right button as fast as you can!",
+                "tags": [
+                    "fast",
+                    "click",
+                    "game"
+                ],
+                "type": ""
+            },
             "getdocs": {
                 "author": [
                     "AAA3A",
@@ -1688,7 +1713,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "A cog to play to Memory game, with buttons, leaderboard and Red bank!",
+                "description": "Play to Memory game, with buttons, leaderboard and Red bank!",
                 "disabled": false,
                 "end_user_data_statement": "This cog saves levels and XP of users.",
                 "hidden": false,
@@ -1701,7 +1726,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "prettytable"
                 ],
-                "short": "A cog to play to Memory game, with buttons, leaderboard and Red bank!",
+                "short": "Play to Memory game, with buttons, leaderboard and Red bank!",
                 "tags": [
                     "memory",
                     "game"
