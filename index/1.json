@@ -17951,6 +17951,35 @@
                 ],
                 "type": "COG"
             },
+            "chest": {
+                "author": [
+                    "max"
+                ],
+                "description": "First to click the button gets random credits to their `[p]bank balance`.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.10",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "First to click the button gets random credits to their `[p]bank balance`.",
+                "tags": [
+                    "fun",
+                    "economy"
+                ],
+                "type": "COG"
+            },
             "github": {
                 "author": [
                     "Obi-Wan3",
