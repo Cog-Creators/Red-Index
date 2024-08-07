@@ -18487,6 +18487,7 @@
                 "requirements": [
                     "html2text",
                     "beautifulsoup4",
+                    "js2py",
                     "git+https://github.com/npc203/redbot-ext-menus-views"
                 ],
                 "short": "A google search cog, with rich card results",
