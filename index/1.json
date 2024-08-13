@@ -1759,6 +1759,34 @@
                 ],
                 "type": ""
             },
+            "personalreact": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Make the bot react to messages with your mention, reply or your custom trigger, based on roles perks!",
+                "disabled": false,
+                "end_user_data_statement": "This cog records your user ID and the settings you set.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "emoji"
+                ],
+                "short": "Make the bot react to messages with your mention, reply or your custom trigger, based on roles perks!",
+                "tags": [
+                    "personal",
+                    "react",
+                    "reaction",
+                    "emoji",
+                    "custom",
+                    "trigger"
+                ],
+                "type": ""
+            },
             "presencechart": {
                 "author": [
                     "AAA3A"
