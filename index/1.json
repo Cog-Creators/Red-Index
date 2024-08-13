@@ -15626,6 +15626,24 @@
                 ],
                 "type": "COG"
             },
+            "memberhistory": {
+                "author": [],
+                "description": "A cog used to store member avatars per guild and globally along with their avatar decorations.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiofiles"
+                ],
+                "short": "Store avatars and their decos.",
+                "tags": [],
+                "type": "COG"
+            },
             "minigames": {
                 "author": [
                     "crayyy_zee"
