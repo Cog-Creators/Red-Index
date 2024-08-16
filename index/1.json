@@ -1763,7 +1763,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Make the bot react to messages with your mention, reply or your custom trigger, based on roles perks!",
+                "description": "Make the bot react to messages with your mention, reply, your user ID or a custom trigger, based on roles perks!",
                 "disabled": false,
                 "end_user_data_statement": "This cog records your user ID and the settings you set.",
                 "hidden": false,
@@ -1776,10 +1776,13 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "emoji"
                 ],
-                "short": "Make the bot react to messages with your mention, reply or your custom trigger, based on roles perks!",
+                "short": "Make the bot react to messages with your mention, reply, your user ID or a custom trigger, based on roles perks!",
                 "tags": [
                     "personal",
                     "react",
+                    "mention",
+                    "replies",
+                    "id",
                     "reaction",
                     "emoji",
                     "custom",
