@@ -18021,7 +18021,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pytz",
-                    "emoji"
+                    "emoji",
+                    "redis"
                 ],
                 "short": "First to click the button gets random credits to their `[p]bank balance`.",
                 "tags": [
