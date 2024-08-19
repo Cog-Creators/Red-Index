@@ -23061,6 +23061,98 @@
         },
         "short": "Utility & Game Server cogs by Vertyco"
     },
+    "https://github.com/willamettefour/willamette-cogs": {
+        "author": [
+            "willamette"
+        ],
+        "description": "some cogs i've made for Red V3",
+        "name": "willamette-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "discordinfo": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Get info on users, servers, and other things on Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "reactionmenu>=3.0.0"
+                ],
+                "short": "Get info on users, servers, and other things on Discord.",
+                "tags": [],
+                "type": ""
+            },
+            "thumbnail": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Get a YouTube video's thumbnail from its ID.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Get a YouTube video's thumbnail from its ID.",
+                "tags": [],
+                "type": ""
+            },
+            "vcstats": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Displays statistics in a voice channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "reactionmenu>=2.0.4"
+                ],
+                "short": "Tracks various stats in a voice channel.",
+                "tags": [
+                    "discord",
+                    "stats",
+                    "tracking"
+                ],
+                "type": ""
+            }
+        },
+        "short": "cogs i've made for Red V3"
+    },
     "https://github.com/yamikaitou/YamiCogs": {
         "author": [
             "YamiKaitou#8975"
