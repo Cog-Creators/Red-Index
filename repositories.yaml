@@ -96,6 +96,7 @@ unapproved:
   - https://github.com/BeeHiveCyberSecurity/BeeHive-Cogs
   - https://github.com/Avexiis/xeon_cogs
   - https://codeberg.org/jakjakob/jak-cogs
+  - https://github.com/willamettefour/willamette-cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
