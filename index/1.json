@@ -236,40 +236,6 @@
         },
         "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
     },
-    "https://codeberg.org/jakjakob/jak-cogs": {
-        "author": [
-            "jakjakob"
-        ],
-        "description": "Various cogs made by Jakob for the discord.red Discord bot",
-        "name": "jak-cogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "songshare": {
-                "author": [
-                    "jakjakob"
-                ],
-                "description": "Easily share music thanks to universally translated links",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data, but remember that it interacts with the Songlink API.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": 3.8,
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Share music with every music service",
-                "tags": [
-                    "music",
-                    "songlink",
-                    "odesli"
-                ],
-                "type": ""
-            }
-        },
-        "short": "Jakob's cogs for discord.red"
-    },
     "https://git.purplepanda.cc/blizz/blizz-cogs": {
         "author": [
             "blizzthewolf"
@@ -2344,9 +2310,9 @@
                 "author": [
                     "adminescalation"
                 ],
-                "description": "Screen for malicious links in your server",
+                "description": "Enable scanning and detection for known malicious links, with customizable protection options.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores no user information. This cog stores statistical information about threats actioned while installed. While using this cog, your bot's public IP may be revealed when following and scanning cloaked links",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
