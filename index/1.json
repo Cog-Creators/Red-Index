@@ -2342,7 +2342,7 @@
         "rx_cogs": {
             "antiphishing": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Screen for malicious links in your server",
                 "disabled": false,
@@ -2360,7 +2360,7 @@
             },
             "cloudflare": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Interact with Cloudflare services thru your Discord bot",
                 "disabled": false,
@@ -2410,7 +2410,7 @@
             },
             "invitetracker": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Tracks user invites with customizable announcements, rewards, and perks.",
                 "disabled": false,
@@ -2432,7 +2432,7 @@
             },
             "nicknamemanagement": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Cog for managing and normalizing user nicknames.",
                 "disabled": false,
@@ -2454,7 +2454,7 @@
             },
             "ping": {
                 "author": [
-                    "movelaterally",
+                    "adminescalation",
                     "escalateprivs"
                 ],
                 "description": "A simple ping command to check the bot's latency and network speed.",
@@ -2475,7 +2475,7 @@
             },
             "products": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Get product details thru Discord commands",
                 "disabled": false,
@@ -2500,7 +2500,7 @@
             },
             "reviews": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Manage and post user reviews within your server",
                 "disabled": false,
@@ -2520,7 +2520,7 @@
             },
             "serverinfo": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Display server information with additional details",
                 "disabled": false,
@@ -2538,7 +2538,7 @@
             },
             "sesh": {
                 "author": [
-                    "movelaterally",
+                    "adminescalation",
                     "escalateprivs"
                 ],
                 "description": "Coordinate smoking sessions with your friends",
@@ -2559,7 +2559,7 @@
             },
             "skysearch": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "SkySearch is made to let you fetch information about aircraft, and airports. You can query active flights by a selection of variables, or get airport information, runway information, airport forecasts, and more. ",
                 "disabled": false,
@@ -2586,7 +2586,7 @@
             },
             "stripeidentity": {
                 "author": [
-                    "movelaterally"
+                    "adminescalation"
                 ],
                 "description": "Verify ages and identities using Stripe Identity",
                 "disabled": false,
@@ -2612,8 +2612,8 @@
             },
             "urlscan": {
                 "author": [
-                    "movelaterally",
-                    "Sorted"
+                    "adminescalation",
+                    "wldvr"
                 ],
                 "description": "Analyze domains and URL's via URLScan, with support for automated analysis and removal",
                 "disabled": false,
@@ -2641,8 +2641,8 @@
             },
             "virustotal": {
                 "author": [
-                    "movelaterally",
-                    "Sorted"
+                    "adminescalation",
+                    "wldvr"
                 ],
                 "description": "Analyze files via VirusTotal thru Red-DiscordBot using the VirusTotal API",
                 "disabled": false,
