@@ -2346,7 +2346,7 @@
                 ],
                 "description": "Enable scanning and detection for known malicious links, with customizable protection options.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores no user information. This cog stores statistical information about threats actioned while installed. While using this cog, your bot's public IP may be revealed when following and scanning cloaked links",
+                "end_user_data_statement": "This cog stores no user information. This cog stores statistical information about threats actioned while installed. While using this cog, your bot's public IP may be revealed when following and scanning cloaked links, and will be logged by us when your bot fetches blocklist updates",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -2590,7 +2590,7 @@
                 ],
                 "description": "Verify ages and identities using Stripe Identity",
                 "disabled": false,
-                "end_user_data_statement": "Stores User ID's and Verification Session ID's, only when pending. Usage of Stripe Identity is subject to the Stripe Consumer Terms of Service, and Privacy Policy",
+                "end_user_data_statement": "Stores User ID's and Verification Session ID's, only when pending. Usage of Stripe Identity is subject to the Stripe Consumer Terms of Service, and Privacy Policy. ",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -2644,9 +2644,9 @@
                     "adminescalation",
                     "wldvr"
                 ],
-                "description": "Analyze files via VirusTotal thru Red-DiscordBot using the VirusTotal API",
+                "description": "Submit files to VirusTotal for analysis, and help stop users from sharing malware in your server. VirusTotal is a free online service that analyzes files and URLs to detect viruses, malware, and other security threats.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores a temporary per-user submission history, which is deleted when the bot is restarted",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -2655,8 +2655,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "requests",
-                    "asyncio",
-                    "matplotlib"
+                    "asyncio"
                 ],
                 "short": "Check files using VirusTotal and an API key",
                 "tags": [
