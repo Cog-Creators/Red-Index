@@ -1759,6 +1759,31 @@
                 ],
                 "type": ""
             },
+            "onlyallow": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Only allow users to execute specific commands or commands from specific cogs, on specific servers! If nothing is set in a server, all cogs/commands are permitted.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Only allow users to execute specific commands or commands from specific cogs, on specific servers! If nothing is set in a server, all cogs/commands are permitted.",
+                "tags": [
+                    "only",
+                    "allow",
+                    "cogs",
+                    "commands"
+                ],
+                "type": ""
+            },
             "personalreact": {
                 "author": [
                     "AAA3A"
