@@ -15408,6 +15408,29 @@
                 "tags": [],
                 "type": ""
             },
+            "banappeal": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A cog that makes use of user installable applciations to allow users to appeal after they have been banned from a server that has appeals enabled",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "Mod": "https://github.com/cog-creators/red-discordbot"
+                },
+                "requirements": [],
+                "short": "A user installable slash command to be able to appeal bans on servers that have appeals enabled",
+                "tags": [
+                    "appeal",
+                    "ban"
+                ],
+                "type": ""
+            },
             "banonleave": {
                 "author": [
                     "crayyy_zee"
@@ -15453,6 +15476,35 @@
                 ],
                 "type": "COG"
             },
+            "boosterroles": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A cog that allows server owners to create roles 'templates' that server boosters can create custom roles from.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {
+                    "boostutils": "https://github.com/japandotorg/Seina-Cogs"
+                },
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Give custom roles to server boosters",
+                "tags": [
+                    "boost",
+                    "roles",
+                    "server",
+                    "custom",
+                    "boosters",
+                    "nitro"
+                ],
+                "type": "COG"
+            },
             "channeltimezone": {
                 "author": [
                     "crayyy_zee"
@@ -15474,6 +15526,32 @@
                     "timezone",
                     "time",
                     "discord"
+                ],
+                "type": "COG"
+            },
+            "deletecounter": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Allows the bot to count deleted messages in a sever and punish a user if he passes a threshold of deletes. Lets you set an exempt list of users and channels.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/astanin/python-tabulate.git@master"
+                ],
+                "short": "Count deleted messages and punish users",
+                "tags": [
+                    "moderation",
+                    "messages",
+                    "delete",
+                    "punish",
+                    "threshold"
                 ],
                 "type": "COG"
             },
@@ -15899,6 +15977,31 @@
                 ],
                 "type": "COG"
             },
+            "ticketmaster": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Use the ticketmaster API to be informed about nfl games and concerts.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "Get informed about nfl games and concerts",
+                "tags": [
+                    "ticketmaster",
+                    "nfl",
+                    "concerts",
+                    "events"
+                ],
+                "type": "COG"
+            },
             "tierlists": {
                 "author": [
                     "crayyy_zee"
@@ -15919,7 +16022,7 @@
                 "requirements": [
                     "pydantic",
                     "numpy",
-                    "tabulate==0.9.0",
+                    "git+https://github.com/astanin/python-tabulate.git@master",
                     "fuzzywuzzy"
                 ],
                 "short": "",
@@ -15994,6 +16097,24 @@
                     "verification",
                     "discord"
                 ],
+                "type": "COG"
+            },
+            "voteout": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Allow users to voteout other users from the server. Has settings for allowed role which are mutually exclusive, aka a user with one of these roles cannot start a voteout against another user with the same or different role.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Voteout users from the server",
+                "tags": [],
                 "type": "COG"
             },
             "welcome": {
