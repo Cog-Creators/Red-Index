@@ -2446,7 +2446,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "matplotlib"
+                ],
                 "short": "Tracks user invites with customizable announcements, rewards, and perks.",
                 "tags": [
                     "invites",
