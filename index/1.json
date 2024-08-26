@@ -1552,6 +1552,30 @@
                 ],
                 "type": ""
             },
+            "honeypot": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Create a channel at the top of the server to attract self bots/scammers and notify/mute/kick/ban them immediately!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Create a channel at the top of the server to attract self bots/scammers and notify/mute/kick/ban them immediately!",
+                "tags": [
+                    "channel",
+                    "bots",
+                    "scam"
+                ],
+                "type": ""
+            },
             "ip": {
                 "author": [
                     "AAA3A"
