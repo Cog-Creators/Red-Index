@@ -1,16 +1,16 @@
 {
     "https://coastalcommits.com/Sea/Cogs": {
         "author": [
-            "SeaswimmerTheFsh (seasw.)"
+            "cswimr"
         ],
-        "description": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)",
+        "description": "Various cogs for Red, by cswimr",
         "name": "Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
             "antipolls": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "AntiPolls deletes messages that contain polls, with a configurable per-guild role and channel whitelist and support for default Discord permissions (Manage Messages).",
                 "disabled": false,
@@ -36,7 +36,7 @@
             },
             "aurora": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "Aurora is a fully-featured moderation system. It is heavily inspired by GalacticBot, and is designed to be a more user-friendly alternative to Red's core Mod cogs. This cog stores all of its data in an SQLite database.",
                 "disabled": false,
@@ -72,13 +72,13 @@
             },
             "backup": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
-                "max_bot_version": "3.5.12",
+                "max_bot_version": "3.5.13",
                 "min_bot_version": "3.5.6",
                 "min_python_version": [
                     3,
@@ -99,7 +99,7 @@
             },
             "bible": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "Retrieve Bible verses from the API.Bible API. This cog requires an API.Bible api key.",
                 "disabled": false,
@@ -128,7 +128,7 @@
             },
             "emojiinfo": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "Retrieve information about emojis.",
                 "disabled": false,
@@ -154,7 +154,7 @@
             },
             "nerdify": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "Nerdify your text!",
                 "disabled": false,
@@ -180,7 +180,7 @@
             },
             "pterodactyl": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "Interface with Pterodactyl through websockets.",
                 "disabled": false,
@@ -196,7 +196,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/SeaswimmerTheFsh/pydactyl",
+                    "git+https://github.com/cswimr/pydactyl",
                     "websockets"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
@@ -210,7 +210,7 @@
             },
             "seautils": {
                 "author": [
-                    "SeaswimmerTheFsh (seasw.)"
+                    "cswimr"
                 ],
                 "description": "A collection of useful utilities.",
                 "disabled": false,
@@ -234,7 +234,7 @@
                 "type": ""
             }
         },
-        "short": "Various cogs for Red, by SeaswimmerTheFsh (seasw.)"
+        "short": "Various cogs for Red, by cswimr"
     },
     "https://codeberg.org/jakjakob/jak-cogs": {
         "author": [
