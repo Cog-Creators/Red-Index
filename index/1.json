@@ -2458,6 +2458,28 @@
                 ],
                 "type": ""
             },
+            "disclaimers": {
+                "author": [
+                    "adminescalation"
+                ],
+                "description": "Manage and display disclaimers for users based on their professions. This cog allows you to add, remove, and display predefined disclaimers for users in your Discord server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores flags on a user about their profession.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage and display user disclaimers based on professions",
+                "tags": [
+                    "disclaimers",
+                    "user management",
+                    "profession"
+                ],
+                "type": ""
+            },
             "invitetracker": {
                 "author": [
                     "adminescalation"
