@@ -2696,9 +2696,9 @@
                     "adminescalation",
                     "wldvr"
                 ],
-                "description": "Submit files to VirusTotal for analysis, and help stop users from sharing malware in your server. VirusTotal is a free online service that analyzes files and URLs to detect viruses, malware, and other security threats.",
+                "description": "Submit files to VirusTotal for analysis, check hashes from chat alone, and help stop users from sharing malware in your server. VirusTotal is a free online service that analyzes files and URLs to detect viruses, malware, and other security threats.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores a temporary per-user submission history, which is deleted when the bot is restarted",
+                "end_user_data_statement": "This cog stores a temporary per-user submission history.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
