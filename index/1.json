@@ -22506,7 +22506,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "piccolo"
+                    "piccolo>=1.0.0"
                 ],
                 "short": "Click the cow!",
                 "tags": [
