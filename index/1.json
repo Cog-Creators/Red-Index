@@ -18326,7 +18326,7 @@
                 ],
                 "description": "Random Nekos.best images + RolePlay Commands.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
+                "end_user_data_statement": "This cog stores Discord IDs for the count of each actions from any roleplay commands used. No privately informations is stored about users.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
