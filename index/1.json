@@ -2419,7 +2419,7 @@
                 "author": [
                     "adminescalation"
                 ],
-                "description": "Enable scanning and detection for known malicious links, with customizable protection options.",
+                "description": "Enable scanning and detection for known malicious links, with customizable alert and/or punishment options, backed by enterprise-grade threat intelligence.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores no user information. This cog stores statistical information about threats actioned while installed. While using this cog, your bot's public IP may be revealed when following and scanning cloaked links, and will be logged by us when your bot fetches blocklist updates",
                 "hidden": false,
@@ -2455,31 +2455,6 @@
                     "Email Routing",
                     "HyperDrive",
                     "Intelligence"
-                ],
-                "type": ""
-            },
-            "easyrules": {
-                "author": [
-                    "movelaterally"
-                ],
-                "description": "Setup rules in your server without hassle",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "requests",
-                    "discord-py-interactions"
-                ],
-                "short": "Rules made easy because some people struggle to choose what is and is not acceptable in their server.",
-                "tags": [
-                    "rules",
-                    "moderation",
-                    "community safety"
                 ],
                 "type": ""
             },
@@ -2536,7 +2511,7 @@
                 ],
                 "description": "A simple ping command to check the bot's latency and network speed.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores no user information",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
