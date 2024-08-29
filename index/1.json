@@ -18220,7 +18220,8 @@
                 "requirements": [
                     "pytz",
                     "emoji",
-                    "redis"
+                    "databases",
+                    "databases[sqlite]"
                 ],
                 "short": "First to click the button gets random credits to their `[p]bank balance`.",
                 "tags": [
