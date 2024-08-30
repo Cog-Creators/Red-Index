@@ -2741,33 +2741,6 @@
                     "safety"
                 ],
                 "type": ""
-            },
-            "weather": {
-                "author": [
-                    "TrustyJAID"
-                ],
-                "description": "Check the current weather in many cities around the world including in Kelvin.",
-                "disabled": false,
-                "end_user_data_statement": "This cog may store User ID's for the purposes of setting default preferred temperature units.",
-                "hidden": false,
-                "max_bot_version": "0.0.0",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Show the current weather in specified locations!",
-                "tags": [
-                    "weather",
-                    "utility"
-                ],
-                "type": "COG"
             }
         },
         "short": "Security, safety, and server management cogs"
