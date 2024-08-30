@@ -18194,7 +18194,8 @@
                     "pytz",
                     "emoji",
                     "databases",
-                    "databases[sqlite]"
+                    "databases[sqlite]",
+                    "tabulate"
                 ],
                 "short": "First to click the button gets random credits to their `[p]bank balance`.",
                 "tags": [
