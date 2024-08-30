@@ -2748,7 +2748,7 @@
                 ],
                 "description": "A cog for fetching and displaying weather information from weather.gov. Data available thru this cog is relevant to the United States and nearby Weather.gov service area.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores no user data",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2762,7 +2762,7 @@
                     "weather.gov",
                     "forecast"
                 ],
-                "type": "COG"
+                "type": ""
             }
         },
         "short": "Security, safety, and server management cogs"
