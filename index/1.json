@@ -2741,6 +2741,28 @@
                     "safety"
                 ],
                 "type": ""
+            },
+            "weatherdotgov": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog for fetching and displaying weather information from weather.gov. Data available thru this cog is relevant to the United States and nearby Weather.gov service area.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Weather information from weather.gov",
+                "tags": [
+                    "weather",
+                    "weather.gov",
+                    "forecast"
+                ],
+                "type": "COG"
             }
         },
         "short": "Security, safety, and server management cogs"
