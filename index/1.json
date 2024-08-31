@@ -2748,7 +2748,7 @@
                 ],
                 "description": "Current conditions, future forecasts, radar station information, observation station information, and a glossary of hundreds of weather-related terms all in one cog.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores zip codes and alert preferences linked to users.",
+                "end_user_data_statement": "This cog logs user information like zip codes, and statistical information like the amount of users who use weather functionality, how many zip codes are stored in the bot's memory, how many users have alerts enabled, how many severe weather alerts have been dispatched, how many nowcasts have been provided, and how many forecasts have been provided",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
