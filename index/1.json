@@ -2746,9 +2746,9 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "Current conditions, future forecasts, severe and extreme weather alerts, radar station information, observation station information, and a glossary of hundreds of weather-related terms all in one cog.",
+                "description": "Current conditions, future forecasts, severe and extreme weather alerts, extreme heat alerts, extreme chill alerts, radar station information, observation station information, and a glossary of hundreds of weather-related terms all in one cog.",
                 "disabled": false,
-                "end_user_data_statement": "This cog logs user information like zip codes, and statistical information like the amount of users who use weather functionality, how many zip codes are stored in the bot's memory, how many users have alerts enabled, how many severe weather alerts have been dispatched, how many nowcasts have been provided, and how many forecasts have been provided",
+                "end_user_data_statement": "This cog logs user information like zip codes, and statistical information like the amount of users who use weather functionality, how many zip codes are stored for users, how many users are subscribed to severe weather alerts, how many are subscribed to extreme cold alerts, how many are subscribed to extreme heat alerts, how many severe alerts have been dispatched to users, how many nowcasts have been provided, how many forecasts have been provided, and how many glossary terms have been shown - all global statistics across your bot.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
