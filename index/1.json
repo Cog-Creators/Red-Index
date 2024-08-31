@@ -18456,7 +18456,9 @@
                 "permissions": [
                     "embed_links"
                 ],
-                "required_cogs": {},
+                "required_cogs": {
+                    "shell": "https://github.com/Jackenmen/JackCogs"
+                },
                 "requirements": [],
                 "short": "Update your bot to latest dev version of red.",
                 "tags": [
