@@ -16001,11 +16001,11 @@
                 ],
                 "type": "COG"
             },
-            "stw": {
+            "spinthewheel": {
                 "author": [
                     "crayyy_zee"
                 ],
-                "description": "This cog allows the bot owner to add items to a wheel which can be spinned twice a week by users to win items. These items will be added to a user's inventory but do not serve any purpose.",
+                "description": "This cog allows the bot owner to add items to wheels and spin them whence the bot creates and sends a gif of the wheel spinning. Items can have arbitrary labels and rarities (these affect the outcome of the wheel spin).",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data persistently.",
                 "hidden": false,
@@ -16018,11 +16018,13 @@
                     "Pillow",
                     "imageio"
                 ],
-                "short": "A minigame where users can spin a wheel to win items",
+                "short": "Spin the wheel with custom item labels",
                 "tags": [
                     "minigame",
-                    "inventory",
-                    "items"
+                    "spin",
+                    "spinthewheel",
+                    "wheel",
+                    "random"
                 ],
                 "type": "COG"
             },
