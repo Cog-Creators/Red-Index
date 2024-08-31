@@ -2748,7 +2748,7 @@
                 ],
                 "description": "Current conditions, future forecasts, severe and extreme weather alerts, extreme heat alerts, extreme chill alerts, radar station information, observation station information, and a glossary of hundreds of weather-related terms all in one cog.",
                 "disabled": false,
-                "end_user_data_statement": "This cog logs user information like zip codes, and statistical information like the amount of users who use weather functionality, how many zip codes are stored for users, how many users are subscribed to severe weather alerts, how many are subscribed to extreme cold alerts, how many are subscribed to extreme heat alerts, how many severe alerts have been dispatched to users, how many nowcasts have been provided, how many forecasts have been provided, and how many glossary terms have been shown - all global statistics across your bot.",
+                "end_user_data_statement": "This cog tracks user information such as zip codes and various statistics, including the number of users utilizing weather features, stored zip codes, subscriptions to severe weather, extreme cold, and extreme heat alerts, the total number of severe alerts sent, nowcasts provided, forecasts given, and glossary terms displayed\u2014covering all global statistics for your bot",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -2756,11 +2756,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Weather information from weather.gov",
+                "short": "Forecasts and weather information",
                 "tags": [
                     "weather",
                     "weather.gov",
-                    "forecast"
+                    "forecast",
+                    "nowcast",
+                    "weather alerts",
+                    "heat alerts",
+                    "cold alerts",
+                    "severe alerts"
                 ],
                 "type": ""
             }
