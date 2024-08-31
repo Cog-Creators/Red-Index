@@ -2746,7 +2746,7 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "A cog for fetching and displaying weather information from weather.gov. Data available thru this cog is relevant to the United States and nearby Weather.gov service area.",
+                "description": "Current conditions, future forecasts, radar station information, observation station information, and a glossary of hundreds of weather-related terms all in one cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores zip codes and alert preferences linked to users.",
                 "hidden": false,
