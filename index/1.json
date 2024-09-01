@@ -17774,6 +17774,28 @@
                 ],
                 "type": "COG"
             },
+            "cocktail": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get information about different cocktails and their ingredients.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the user's favourite cocktails which may be removed at any time.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get information about different cocktails and their ingredients.",
+                "tags": [
+                    "Cocktails",
+                    "Alcohol",
+                    "Drinks"
+                ],
+                "type": "COG"
+            },
             "cogpaths": {
                 "author": [
                     "Kreusada"
