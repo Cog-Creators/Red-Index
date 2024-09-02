@@ -1618,7 +1618,7 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "A cog to get the ip adress of the bot's host machine!",
+                "short": "A cog to get the ip address of the bot's host machine!",
                 "tags": [
                     "ip",
                     "host",
