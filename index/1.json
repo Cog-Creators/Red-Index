@@ -2480,7 +2480,7 @@
                 ],
                 "type": ""
             },
-            "invitetracker": {
+            "invites": {
                 "author": [
                     "adminescalation"
                 ],
@@ -2504,7 +2504,7 @@
                 ],
                 "type": ""
             },
-            "nicknamemanagement": {
+            "names": {
                 "author": [
                     "adminescalation"
                 ],
