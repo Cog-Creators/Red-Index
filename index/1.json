@@ -2753,7 +2753,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Forecasts and weather information",
