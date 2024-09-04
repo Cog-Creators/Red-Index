@@ -16287,7 +16287,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "feedparser"
+                    "feedparser",
+                    "dateparser"
                 ],
                 "short": "Get youtube updates when a subscribed channel posts",
                 "tags": [],
