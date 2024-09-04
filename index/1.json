@@ -2426,7 +2426,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Screen for malicious links in your server",
@@ -2444,7 +2446,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp"
@@ -2469,7 +2473,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Manage and display user disclaimers based on professions",
@@ -2491,7 +2497,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp",
@@ -2516,7 +2524,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "matplotlib"
@@ -2526,6 +2536,30 @@
                     "invites",
                     "rewards",
                     "announcements"
+                ],
+                "type": ""
+            },
+            "meetings": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Schedule meetings with users and bring all users into one place to meet, with reminders and notes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage and schedule meetings.",
+                "tags": [
+                    "meetings",
+                    "scheduling",
+                    "management"
                 ],
                 "type": ""
             },
@@ -2540,7 +2574,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Cog for managing and normalizing user nicknames.",
@@ -2563,7 +2599,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "speedtest-cli"
@@ -2583,7 +2621,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "requests",
@@ -2608,7 +2648,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "reportlab"
@@ -2628,7 +2670,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Display server information",
@@ -2647,7 +2691,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "pynacl"
@@ -2667,7 +2713,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "reportlab"
@@ -2694,7 +2742,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "requests",
@@ -2721,7 +2771,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp",
@@ -2750,7 +2802,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "requests",
