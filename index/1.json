@@ -2593,7 +2593,7 @@
                 ],
                 "description": "This cog allows you to fetch information about recently missing children from the National Center for Missing and Exploited Children (NCMEC).",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores and shares no user data, unless coincidentally that user is also a missing person, in which case - you good?",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -2606,8 +2606,8 @@
                 "short": "Interact with the National Center for Missing and Exploited Children",
                 "tags": [
                     "NCMEC",
-                    "Missing Children",
-                    "Information"
+                    "missing persons",
+                    "have you seen them?"
                 ],
                 "type": ""
             },
