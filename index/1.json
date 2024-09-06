@@ -2030,6 +2030,29 @@
                 ],
                 "type": ""
             },
+            "rumblenotifier": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Ping a role when a rumble starts, and let members suscribe or unsuscribe from the notifications!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Ping a role when a rumble starts, and let members suscribe or unsuscribe from the notifications!",
+                "tags": [
+                    "rumble",
+                    "notifier"
+                ],
+                "type": ""
+            },
             "runcode": {
                 "author": [
                     "AAA3A"
