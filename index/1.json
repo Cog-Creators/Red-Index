@@ -2513,6 +2513,30 @@
                 ],
                 "type": ""
             },
+            "infocontrol": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Manage what types of potentially sensitive information users are and are not allowed to share. Enable all protections to impede DOXing",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically delete sensitive information.",
+                "tags": [
+                    "moderation",
+                    "security",
+                    "privacy"
+                ],
+                "type": "COG"
+            },
             "invites": {
                 "author": [
                     "adminescalation"
@@ -2598,7 +2622,9 @@
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp"
