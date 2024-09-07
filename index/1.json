@@ -3268,6 +3268,75 @@
         },
         "short": "Cog by ChaseCares"
     },
+    "https://github.com/Coltuna/unknown-cogs": {
+        "author": [
+            "unknown.in"
+        ],
+        "description": "Utility cogs for red which are required by my server.",
+        "name": "unknown-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "decancer": {
+                "author": [
+                    "unknown.in",
+                    "KableKompany",
+                    "PhenoM4n4n"
+                ],
+                "description": "Clears special characters, and accented characters from usernames. Customize default fallback name on unsuccessful decancer and translates glyphs",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.10",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "stringcase",
+                    "unidecode"
+                ],
+                "short": "Decancer users names removing special and accented chars. `[p]decancerset` to get started if you're already using redbot core modlog",
+                "tags": [
+                    "decancer",
+                    "moderation",
+                    "decancer"
+                ],
+                "type": "COG"
+            },
+            "selfrole": {
+                "author": [
+                    "unknown.in"
+                ],
+                "description": "A simple selfrole system but with slash commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores role discord ID's",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.10",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Self Role",
+                "tags": [
+                    "role",
+                    "selfrole",
+                    "utility"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Utility cogs by unknown.in"
+    },
     "https://github.com/CryptoLover705/cryptolover-cogs": {
         "author": [
             "CryptoLover705"
