@@ -23607,6 +23607,30 @@
                 "tags": [],
                 "type": ""
             },
+            "spotify": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Gets info/lyrics based on what's playing on a member's Spotify.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "reactionmenu>=3.0.0",
+                    "lyricsgenius"
+                ],
+                "short": "Spotify commands.",
+                "tags": [
+                    "spotify",
+                    "lyrics"
+                ],
+                "type": ""
+            },
             "thumbnail": {
                 "author": [
                     "willamette"
