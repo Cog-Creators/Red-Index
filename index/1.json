@@ -18490,6 +18490,33 @@
                 ],
                 "type": "COG"
             },
+            "counting": {
+                "author": [
+                    "max"
+                ],
+                "description": "Count from 1 to infinity! with some customizable settings.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Count from 1 to infinity! with some customizable settings.",
+                "tags": [
+                    "counting",
+                    "count"
+                ],
+                "type": "COG"
+            },
             "github": {
                 "author": [
                     "Obi-Wan3",
