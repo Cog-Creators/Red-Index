@@ -18481,7 +18481,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "apscheduler"
+                    "apscheduler",
+                    "tabulate"
                 ],
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
