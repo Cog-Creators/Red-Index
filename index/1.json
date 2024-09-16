@@ -2438,6 +2438,29 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "abuseipdb": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog to interact with the AbuseIPDB API to check IP addresses for abuse reports.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Check IP addresses against AbuseIPDB.",
+                "tags": [
+                    "abuseipdb",
+                    "ip",
+                    "security",
+                    "api"
+                ],
+                "type": ""
+            },
             "alertsinua": {
                 "author": [
                     "adminelevation"
