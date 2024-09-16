@@ -2442,7 +2442,7 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "A cog to interact with the AbuseIPDB API to check IP addresses for abuse reports.",
+                "description": "A cog to interact with the AbuseIPDB API to report and check IP addresses for abuse activities. AbuseIPDB is a project to help combat the spread of hackers, spammers, and abusive activity on the internet by providing a central blacklist for webmasters, system administrators, and other interested parties to report IP's engaged in bad behavior. Learn more at https://www.abuseipdb.com",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
