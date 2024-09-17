@@ -18558,7 +18558,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "tabulate",
-                    "emoji"
+                    "emoji",
+                    "apscheduler"
                 ],
                 "short": "Count from 1 to infinity! with some customizable settings.",
                 "tags": [
