@@ -2902,6 +2902,29 @@
                 ],
                 "type": ""
             },
+            "triage": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Submit files for analysis to the tria.ge API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Interact with the tria.ge API for file analysis.",
+                "tags": [
+                    "security",
+                    "analysis",
+                    "file",
+                    "api"
+                ],
+                "type": ""
+            },
             "urlscan": {
                 "author": [
                     "adminescalation",
