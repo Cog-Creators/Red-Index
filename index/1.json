@@ -2915,7 +2915,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "hatching-triage"
+                ],
                 "short": "Interact with the tria.ge API for file analysis.",
                 "tags": [
                     "security",
