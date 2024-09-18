@@ -2802,6 +2802,27 @@
                 "tags": [],
                 "type": ""
             },
+            "rules": {
+                "author": [
+                    "adminescalation",
+                    "escalateprivs"
+                ],
+                "description": "A cog to send server rules in an organized and visually appealing manner.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send server rules",
+                "tags": [],
+                "type": ""
+            },
             "serverinfo": {
                 "author": [
                     "adminescalation"
