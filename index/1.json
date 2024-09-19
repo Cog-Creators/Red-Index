@@ -17512,7 +17512,8 @@
                     "transformers",
                     "torch",
                     "tensorflow",
-                    "tf-keras"
+                    "tf-keras",
+                    "protobuf==4.25.3"
                 ],
                 "short": "Take web page screenshots with your bot without compromising privacy of your machine.",
                 "tags": [
