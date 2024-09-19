@@ -17466,6 +17466,44 @@
                 ],
                 "type": "COG"
             },
+            "screenshot": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Take web page screenshots with your bot without compromising privacy of your machine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.12",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "selenium",
+                    "mozdownload",
+                    "Pillow",
+                    "transformers",
+                    "torch",
+                    "tensorflow",
+                    "tf-keras"
+                ],
+                "short": "Take web page screenshots with your bot without compromising privacy of your machine.",
+                "tags": [
+                    "screenshot",
+                    "scraping",
+                    "scrape",
+                    "scraper",
+                    "screen",
+                    "shot",
+                    "tor"
+                ],
+                "type": "COG"
+            },
             "seinatools": {
                 "author": [
                     "inthedark.org"
