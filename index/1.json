@@ -2756,6 +2756,28 @@
                 ],
                 "type": ""
             },
+            "qotd": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog that provides a question of the day feature for your Discord server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Question of the Day",
+                "tags": [
+                    "fun",
+                    "questions",
+                    "engagement"
+                ],
+                "type": ""
+            },
             "ransomwaredotlive": {
                 "author": [
                     "adminelevation"
