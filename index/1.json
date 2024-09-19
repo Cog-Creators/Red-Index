@@ -17513,7 +17513,8 @@
                     "torch",
                     "tensorflow",
                     "tf-keras",
-                    "protobuf==4.25.3"
+                    "google",
+                    "protobuf"
                 ],
                 "short": "Take web page screenshots with your bot without compromising privacy of your machine.",
                 "tags": [
