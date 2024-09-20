@@ -18933,6 +18933,35 @@
                     "redupdate"
                 ],
                 "type": "COG"
+            },
+            "themoviedb": {
+                "author": [
+                    "max"
+                ],
+                "description": "Search for informations of movies and TV shows from themoviedb.org.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Search for informations of movies and TV shows from themoviedb.org.",
+                "tags": [
+                    "movies",
+                    "movie",
+                    "tvshow",
+                    "tvshows"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
