@@ -2982,7 +2982,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "TikTokLive",
-                    "yt_dlp"
+                    "yt_dlp",
+                    "ffmpeg"
                 ],
                 "short": "Monitor TikTok live streams.",
                 "tags": [
