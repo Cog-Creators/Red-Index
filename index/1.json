@@ -2981,7 +2981,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "TikTokLive"
+                    "TikTokLive",
+                    "yt_dlp"
                 ],
                 "short": "Monitor TikTok live streams.",
                 "tags": [
