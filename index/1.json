@@ -2967,6 +2967,31 @@
                 ],
                 "type": ""
             },
+            "tiktoklive": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog for monitoring TikTok live streams and sending alerts to Discord channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord server IDs and TikTok usernames for the purpose of monitoring live streams. No other personal data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "TikTokLive"
+                ],
+                "short": "Monitor TikTok live streams.",
+                "tags": [
+                    "tiktok",
+                    "live",
+                    "alerts",
+                    "discord"
+                ],
+                "type": ""
+            },
             "urlscan": {
                 "author": [
                     "adminescalation",
