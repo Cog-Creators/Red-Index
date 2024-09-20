@@ -17554,7 +17554,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "selenium",
-                    "mozdownload",
+                    "git+https://github.com/mozilla/mozdownload.git@master",
                     "Pillow",
                     "transformers",
                     "torch",
