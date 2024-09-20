@@ -2917,6 +2917,28 @@
                 ],
                 "type": ""
             },
+            "statusrotator": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog that rotates the bot's status message periodically.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Rotates bot status",
+                "tags": [
+                    "status",
+                    "rotation",
+                    "utility"
+                ],
+                "type": ""
+            },
             "stripeidentity": {
                 "author": [
                     "adminescalation"
