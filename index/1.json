@@ -17543,7 +17543,7 @@
                 "author": [
                     "inthedark.org"
                 ],
-                "description": "Take web page screenshots with your bot without compromising privacy of your machine.",
+                "description": "Take web page screenshots with your bot without compromising privacy of your machine. Atleast 2GB RAM and 10GB storage disk is recommended to use this cog.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store End User Data.",
                 "hidden": false,
@@ -17558,14 +17558,12 @@
                 "required_cogs": {},
                 "requirements": [
                     "selenium",
-                    "git+https://github.com/mozilla/mozdownload.git@master",
                     "Pillow",
                     "transformers",
                     "torch",
                     "tensorflow",
                     "tf-keras",
-                    "google",
-                    "protobuf"
+                    "cloud-tpu-client"
                 ],
                 "short": "Take web page screenshots with your bot without compromising privacy of your machine.",
                 "tags": [
