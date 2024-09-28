@@ -2206,8 +2206,8 @@
             },
             "temproles": {
                 "author": [
-                    "Obi-Wan3",
-                    "AAA3A"
+                    "AAA3A",
+                    "Obi-Wan3"
                 ],
                 "description": "A cog to assign temporary roles to users, expiring after a set time!",
                 "disabled": false,
