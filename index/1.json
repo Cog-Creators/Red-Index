@@ -3408,6 +3408,72 @@
         },
         "short": "Cog by ChaseCares"
     },
+    "https://github.com/Chovin/Dumb-Cogs": {
+        "author": [
+            "chovin (irdumb)"
+        ],
+        "description": "Various engagement, quality of life cogs and tools",
+        "name": "Dumb-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "invasion": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "Monsters are invading and they want your currency! When they arrive, who will be brave enough to fight them off?",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fight off random monster encounters for currency",
+                "tags": [
+                    "game",
+                    "fun",
+                    "engagement",
+                    "fight",
+                    "bank",
+                    "economy"
+                ],
+                "type": "COG"
+            },
+            "pico8": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "Runs PICO-8 code and generates gifs or pictures out of the output. Also provides some facilities for adding transparency and other simple editing features.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "numpy",
+                    "Pillow"
+                ],
+                "short": "Creates pictures and gifs out of PICO-8 code",
+                "tags": [
+                    "pico-8",
+                    "code",
+                    "repl",
+                    "pico8",
+                    "gif",
+                    "pixel-art",
+                    "art"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Various engagement, quality of life cogs and tools"
+    },
     "https://github.com/Coltuna/unknown-cogs": {
         "author": [
             "unknown.in"
