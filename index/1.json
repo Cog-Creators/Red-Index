@@ -1541,6 +1541,31 @@
                 ],
                 "type": ""
             },
+            "guessthecandygame": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Recognise the correct candy as fast as you can!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Recognise the correct candy as fast as you can!",
+                "tags": [
+                    "guess",
+                    "candy",
+                    "halloween",
+                    "game"
+                ],
+                "type": ""
+            },
             "guildstats": {
                 "author": [
                     "AAA3A"
