@@ -16166,6 +16166,40 @@
                 ],
                 "type": "COG"
             },
+            "freegames": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Get updates on free games from Epic Games, Steam, and more! Sources data from the FreeStuffBot API and GamerPower API.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic",
+                    "emoji"
+                ],
+                "short": "Get updates on free games from Epic Games, Steam, and more!",
+                "tags": [
+                    "free",
+                    "games",
+                    "epic",
+                    "steam",
+                    "gamerpower",
+                    "freestuff"
+                ],
+                "type": "COG"
+            },
             "gamebanana": {
                 "author": [
                     "crayyy_zee"
