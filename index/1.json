@@ -16293,7 +16293,7 @@
                 "author": [
                     "crayyy_zee"
                 ],
-                "description": "This cog allows players to keep track of their vehicle stats and other important information from the game MissionChief in Discord.",
+                "description": "This cog allows players to keep track of their vehicle stats and other important information from the game MissionChief.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data persistently.",
                 "hidden": false,
@@ -16304,8 +16304,10 @@
                 "required_cogs": {
                     "reminder": "https://github.com/AAA3A-AAA3A/AAA3A-cogs"
                 },
-                "requirements": [],
-                "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief in Discord.",
+                "requirements": [
+                    "git+https://github.com/astanin/python-tabulate.git@master"
+                ],
+                "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief.",
                 "tags": [
                     "MissionChief",
                     "game",
