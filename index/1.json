@@ -2580,6 +2580,28 @@
                 ],
                 "type": ""
             },
+            "fotd": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Fact of the Day (FotD) cog for Discord bots. This cog allows you to set a channel, time, and role for daily facts.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the channel ID, time, timezone, and role ID for the FotD feature. No other user data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Daily facts",
+                "tags": [
+                    "fact",
+                    "daily",
+                    "fun"
+                ],
+                "type": ""
+            },
             "holidays": {
                 "author": [
                     "adminelevation"
@@ -2787,7 +2809,7 @@
                 ],
                 "description": "A cog that provides a question of the day feature for your Discord server.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores the channel ID, time, timezone, role ID, enabled categories, current question, response count, and last asked time for the QotD feature. No other user data is stored.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
