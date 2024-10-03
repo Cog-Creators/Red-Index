@@ -4213,6 +4213,30 @@
                 ],
                 "type": "COG"
             },
+            "vwiki": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Search info on vtubers",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "unidecode"
+                ],
+                "short": "Obtains data from Virtual YouTuber Wiki!",
+                "tags": [
+                    "Vtuber",
+                    "Wiki",
+                    "Info"
+                ],
+                "type": "COG"
+            },
             "watamelon": {
                 "author": [
                     "Kuro",
