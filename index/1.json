@@ -823,6 +823,33 @@
                 ],
                 "type": ""
             },
+            "adventcalendar": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Set up an Advent Calendar for your members, with custom rewards or messages each day! Work in december only...",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "pillow"
+                ],
+                "short": "Set up an Advent Calendar for your members, with custom rewards or messages each day! Work in december only...",
+                "tags": [
+                    "advent",
+                    "calendar",
+                    "christmas",
+                    "december",
+                    "reward"
+                ],
+                "type": ""
+            },
             "antinuke": {
                 "author": [
                     "AAA3A"
