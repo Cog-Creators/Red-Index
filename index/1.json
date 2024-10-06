@@ -19023,29 +19023,31 @@
                 ],
                 "type": "COG"
             },
-            "nbaschedule": {
+            "nba": {
                 "author": [
                     "max"
                 ],
-                "description": "Get the current NBA schedule for next game.",
+                "description": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.13",
                 "min_python_version": [
                     3,
-                    8,
-                    5
+                    10,
+                    0
                 ],
                 "permissions": [
                     "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "orjson"
+                    "orjson",
+                    "feedparser",
+                    "sqlalchemy"
                 ],
-                "short": "Get the current NBA schedule for next game.",
+                "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
                     "basketball",
                     "nba",
