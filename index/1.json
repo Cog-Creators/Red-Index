@@ -3492,6 +3492,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "hammertime": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "A command for making it easier to talk about times across your members' various timezones. Inspired by the tool of the same name: https://hammertime.cyou/",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores timezone information for the user.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "Talk about time easier across timezones",
+                "tags": [
+                    "time",
+                    "date",
+                    "tool",
+                    "quality of life",
+                    "timezone"
+                ],
+                "type": "COG"
+            },
             "invasion": {
                 "author": [
                     "chovin (irdumb)"
