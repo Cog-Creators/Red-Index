@@ -18573,6 +18573,31 @@
                 ],
                 "type": "COG"
             },
+            "messagedeleter": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Delete messages from users and bots, inclusively or exclusively, in text channels.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Delete messages from users and bots, inclusively or exclusively, in text channels.",
+                "tags": [
+                    "Messages",
+                    "Delete",
+                    "Deletion",
+                    "Bots",
+                    "Humans",
+                    "Users"
+                ],
+                "type": "COG"
+            },
             "minifier": {
                 "author": [
                     "Kreusada"
@@ -18692,6 +18717,26 @@
                 "tags": [
                     "Quotes",
                     "QOTD"
+                ],
+                "type": "COG"
+            },
+            "riddles": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Get a random riddle.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get a random riddle.",
+                "tags": [
+                    "Riddles"
                 ],
                 "type": "COG"
             },
