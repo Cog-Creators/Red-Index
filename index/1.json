@@ -18298,6 +18298,34 @@
                 ],
                 "type": "COG"
             },
+            "w3champions": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Cog for interacting with W3Champions",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.5.3.dev0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tabulate"
+                ],
+                "short": "Cog for interacting with W3Champions",
+                "tags": [
+                    "warcraft",
+                    "w3champions",
+                    "ladder"
+                ],
+                "type": "COG"
+            },
             "warcraftlogsretail": {
                 "author": [
                     "aikaterna",
