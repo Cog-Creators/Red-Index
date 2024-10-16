@@ -19117,7 +19117,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "orjson",
-                    "feedparser"
+                    "feedparser",
+                    "pytz"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
