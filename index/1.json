@@ -18316,13 +18316,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "emoji-country-flag",
+                    "pydantic"
                 ],
                 "short": "Cog for interacting with W3Champions",
                 "tags": [
                     "warcraft",
                     "w3champions",
-                    "ladder"
+                    "ladder",
+                    "w3c"
                 ],
                 "type": "COG"
             },
