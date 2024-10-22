@@ -6822,7 +6822,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "pillow~=9.1",
-                    "rlapi==0.6.0a1"
+                    "rlapi==0.7.0a1"
                 ],
                 "short": "Get your Rocket League stats with a single command! Needs access to Rocket League API which is currently in closed beta.",
                 "tags": [
