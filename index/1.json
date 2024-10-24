@@ -2454,6 +2454,31 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "custommusiccog": {
+                "author": [
+                    "Bartixxx",
+                    "Bartixxx"
+                ],
+                "description": "Uploads any tiktok links sended by user to streamble and send it back as video whih can be watched in discord",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt-dlp",
+                    "aiohttp",
+                    "aiofiles"
+                ],
+                "short": "audiobart",
+                "tags": [
+                    "download"
+                ],
+                "type": "COG"
+            },
             "tttostr": {
                 "author": [
                     "Bartixxx",
