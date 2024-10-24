@@ -2454,12 +2454,12 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "custommusiccog": {
+            "bartixxxmusic": {
                 "author": [
                     "Bartixxx",
                     "Bartixxx"
                 ],
-                "description": "Uploads any tiktok links sended by user to streamble and send it back as video whih can be watched in discord",
+                "description": "Fetches and plays audio from YouTube links sent by users using the Cobalt API, allowing for seamless playback in Discord voice channels.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2469,13 +2469,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "yt-dlp",
-                    "aiohttp",
-                    "aiofiles"
+                    "requests"
                 ],
                 "short": "audiobart",
                 "tags": [
-                    "download"
+                    "audio",
+                    "youtube",
+                    "music"
                 ],
                 "type": "COG"
             },
