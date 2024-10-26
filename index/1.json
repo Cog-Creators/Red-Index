@@ -3241,6 +3241,27 @@
                 ],
                 "type": "COG"
             },
+            "bell": {
+                "author": [
+                    "bencos18 "
+                ],
+                "description": "A cog that allows users to ring a bell and keep track of their bell count in the server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user bell counts per server using a users user id.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Bell ringing cog",
+                "tags": [
+                    "fun",
+                    "utility"
+                ],
+                "type": ""
+            },
             "csvparse": {
                 "author": [
                     "bencos18 (492089091320446976)"
