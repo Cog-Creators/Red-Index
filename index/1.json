@@ -18296,6 +18296,35 @@
                 ],
                 "type": "COG"
             },
+            "pylavchannelstatus": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Third-party PyLav cog to have the bot automatically set a channel status while a track is playing.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.10",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Py-Lav"
+                ],
+                "short": "Third-party PyLav cog to have the bot automatically set a channel status while a track is playing.",
+                "tags": [
+                    "music",
+                    "pylav",
+                    "channel",
+                    "status"
+                ],
+                "type": "COG"
+            },
             "pylavrpc": {
                 "author": [
                     "Karlo"
