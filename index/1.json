@@ -3538,6 +3538,38 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "genesisapps": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "Adds tools to ease the application process for the Genesis server. This includes Wufoo form integration and a customizable application checklist",
+                "disabled": false,
+                "end_user_data_statement": "This cog reposts images, messages, and join/leave dates in forum posts setup by the server admins",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/Chovin/pyfoo.git",
+                    "tldextract"
+                ],
+                "short": "Eases the application process for the Genesis server",
+                "tags": [
+                    "wufoo",
+                    "application",
+                    "tool",
+                    "quality of life",
+                    "forum",
+                    "tracking",
+                    "form",
+                    "inactivity",
+                    "alarm",
+                    "kick"
+                ],
+                "type": "COG"
+            },
             "hammertime": {
                 "author": [
                     "chovin (irdumb)"
