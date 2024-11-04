@@ -2282,6 +2282,34 @@
                 ],
                 "type": ""
             },
+            "tickets": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Configure and manage a tickets system for your server!",
+                "disabled": false,
+                "end_user_data_statement": "This cog records the hoster and winners of the events.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "emoji",
+                    "chat-exporter"
+                ],
+                "short": "Configure and manage a tickets system for your server!",
+                "tags": [
+                    "tickets",
+                    "support",
+                    "system",
+                    "modular",
+                    "help"
+                ],
+                "type": ""
+            },
             "tickettool": {
                 "author": [
                     "AAA3A"
