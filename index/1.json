@@ -21547,6 +21547,40 @@
         },
         "short": "Useful cogs for server operators of Space Station 14 game servers."
     },
+    "https://github.com/spidey-simp/spideysimp-cogs": {
+        "author": [
+            "spideysimp"
+        ],
+        "description": "",
+        "name": "spideysimp-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "identitytheft": {
+                "author": [
+                    "spideysimp"
+                ],
+                "description": "Responds to people saying 'I'm [bot name]' with an admonishment for identity theft",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Identity Theft bot",
+                "tags": [
+                    "spideysimp",
+                    "joke",
+                    "comedy"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Cogs by spideysimp"
+    },
     "https://github.com/sravan1946/sravan-cogs": {
         "author": [
             "sravan"
