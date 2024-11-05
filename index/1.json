@@ -21605,6 +21605,28 @@
                     "comedy"
                 ],
                 "type": ""
+            },
+            "swgohtools": {
+                "author": [
+                    "spideysimp"
+                ],
+                "description": "Has various features for swgoh farming. Will be updated so join spideysimp's discord if you want notifs to when that will be.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores only data parameters",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Swgoh Tools bot",
+                "tags": [
+                    "spideysimp",
+                    "tools",
+                    "swgoh"
+                ],
+                "type": ""
             }
         },
         "short": "Cogs by spideysimp"
