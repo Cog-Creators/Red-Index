@@ -21611,7 +21611,7 @@
                 "author": [
                     "spideysimp"
                 ],
-                "description": "Returns a random HOI 4 leader. Eventually, filters will be added, but for now, it's just all of them.",
+                "description": "Returns a random HOI 4 leader. Eventually, filters will be added, but for now, it's just all of them. Part of this cog's functionality is that it shows a picture of the leader of the country it generates. That includes one man who is.... His initials are A.H. Don't use if that distresses you!",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores no data",
                 "hidden": false,
