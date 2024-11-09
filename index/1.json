@@ -23757,7 +23757,9 @@
                 },
                 "requirements": [
                     "pydantic",
-                    "aiocache"
+                    "aiocache",
+                    "plotly",
+                    "pandas"
                 ],
                 "short": "Extended bot currency economy features.",
                 "tags": [
