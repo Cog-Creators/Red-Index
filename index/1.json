@@ -18913,6 +18913,31 @@
                 ],
                 "type": "COG"
             },
+            "rhymes": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Generate rhymes, use a reverse dictionary, and more word related generators.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Generate rhymes, use a reverse dictionary, and more word related generators.",
+                "tags": [
+                    "Reverse Dictionary",
+                    "Rhyme",
+                    "Rhyming",
+                    "Consonants",
+                    "Homophones",
+                    "Triggers"
+                ],
+                "type": "COG"
+            },
             "riddles": {
                 "author": [
                     "Kreusada"
@@ -19027,6 +19052,27 @@
                 ],
                 "type": "COG"
             },
+            "textfont": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Write \ud835\udd65\ud835\udd56\ud835\udd69\ud835\udd65 in \ud835\uddf1\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\ude8f\ud835\ude98\ud835\ude97\ud835\ude9d\ud835\ude9c!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Write \ud835\udd65\ud835\udd56\ud835\udd69\ud835\udd65 in \ud835\uddf1\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\ude8f\ud835\ude98\ud835\ude97\ud835\ude9d\ud835\ude9c!",
+                "tags": [
+                    "Text",
+                    "Fonts"
+                ],
+                "type": "COG"
+            },
             "timestamps": {
                 "author": [
                     "Kreusada"
@@ -19071,11 +19117,11 @@
                 ],
                 "type": "COG"
             },
-            "wordbase": {
+            "unicodelookup": {
                 "author": [
                     "Kreusada"
                 ],
-                "description": "Generate rhymes, use a reverse dictionary, and more word related generators.",
+                "description": "Search the unicode library for characters and names. Supports fuzzy searching.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -19085,14 +19131,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Generate rhymes, use a reverse dictionary, and more word related generators.",
+                "short": "Search the unicode library for characters and names. Supports fuzzy searching.",
                 "tags": [
-                    "Reverse Dictionary",
-                    "Rhyme",
-                    "Rhyming",
-                    "Consonants",
-                    "Homophones",
-                    "Triggers"
+                    "Unicode",
+                    "Characters",
+                    "Names",
+                    "Fuzzy",
+                    "Search"
                 ],
                 "type": "COG"
             }
