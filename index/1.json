@@ -17753,6 +17753,29 @@
                 ],
                 "type": "COG"
             },
+            "lottery": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Make and host lotteries in your server. (this is a true re-creation of the `RaffleBot#8827` discord bot!)",
+                "disabled": false,
+                "end_user_data_statement": "This cog may or may not store usernames and user ids.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Make and host lotteries in your server. (a re-creation of RaffleBot#8827)",
+                "tags": [
+                    "lottery",
+                    "lotteries",
+                    "raffle",
+                    "raffles"
+                ],
+                "type": "COG"
+            },
             "massunban": {
                 "author": [
                     "aikaterna",
