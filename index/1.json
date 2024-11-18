@@ -16538,7 +16538,8 @@
                     "reminder": "https://github.com/AAA3A-AAA3A/AAA3A-cogs"
                 },
                 "requirements": [
-                    "git+https://github.com/astanin/python-tabulate.git@master"
+                    "git+https://github.com/astanin/python-tabulate.git@master",
+                    "dateparser"
                 ],
                 "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief.",
                 "tags": [
