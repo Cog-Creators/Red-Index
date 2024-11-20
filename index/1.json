@@ -21809,7 +21809,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "humanize"
+                ],
                 "short": "Spidey Life Sim",
                 "tags": [
                     "spideysimp",
