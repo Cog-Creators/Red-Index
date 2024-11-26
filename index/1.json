@@ -22784,7 +22784,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "thefuzz"
+                ],
                 "short": "Magic the Gathering Tools",
                 "tags": [],
                 "type": ""
