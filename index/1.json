@@ -3208,6 +3208,28 @@
                 ],
                 "type": ""
             },
+            "watchduty": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "WatchDuty cog for Discord bots. This cog helps manage and configure safety settings, including blocklists.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores configuration settings related to safety features. No personal user data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Safety configuration",
+                "tags": [
+                    "safety",
+                    "configuration",
+                    "blocklist"
+                ],
+                "type": ""
+            },
             "weatherpro": {
                 "author": [
                     "adminelevation"
