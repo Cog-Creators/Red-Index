@@ -16208,7 +16208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/astanin/python-tabulate",
+                    "git+https://github.com/astanin/python-tabulate.git@ef4a407058db61dd5b8320d55adbeaba6809841f",
                     "pytimeparse2",
                     "dateparser"
                 ],
@@ -16924,6 +16924,35 @@
                     "roles"
                 ],
                 "type": ""
+            },
+            "timeslots": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Create a menu with a list of timeslots for users to choose from.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic",
+                    "matplotlib",
+                    "numpy",
+                    "pandas"
+                ],
+                "short": "Create a menu with a list of timeslots for users to choose from.",
+                "tags": [],
+                "type": "COG"
             },
             "verifier": {
                 "author": [
