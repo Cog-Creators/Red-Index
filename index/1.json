@@ -838,7 +838,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
-                    "pillow"
+                    "pillow",
+                    "plotly"
                 ],
                 "short": "Set up an Advent Calendar for your members, with custom rewards or messages each day! Work in december only...",
                 "tags": [
