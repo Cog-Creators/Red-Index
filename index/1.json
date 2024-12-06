@@ -3294,6 +3294,30 @@
                 ],
                 "type": ""
             },
+            "ampremover": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "A Redbot cog that converts AMP URLs to canonical URLs using the AmputatorBot API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for the purpose of tracking opt-in status.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Converts AMP URLs to canonical URLs.",
+                "tags": [
+                    "url",
+                    "amp",
+                    "converter"
+                ],
+                "type": "COG"
+            },
             "application": {
                 "author": [
                     "bencos18 (492089091320446976)"
