@@ -23607,6 +23607,40 @@
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
+            "appeals": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Turn a secondary Discord into a ban appeal server, with intuitive and customizable settings.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Discord IDs and ban appeal data, which includes user responses to ban appeal questions.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "ban_members"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "piccolo[sqlite]"
+                ],
+                "short": "Intuitive ban appeal system.",
+                "tags": [
+                    "appeal",
+                    "appeals",
+                    "ban",
+                    "bans",
+                    "vrt",
+                    "vert",
+                    "banappeals"
+                ],
+                "type": "COG"
+            },
             "assistant": {
                 "author": [
                     "Vertyco"
