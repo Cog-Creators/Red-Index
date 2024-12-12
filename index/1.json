@@ -17442,6 +17442,37 @@
                 ],
                 "type": "COG"
             },
+            "applications": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Create custom applications such as Staff Application, Event Manager Application, Trail Mod Application, etc...",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.12",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic",
+                    "AdvancedTagScriptEngine==3.2.2"
+                ],
+                "short": "Create custom applications for your server. [ BETA ]",
+                "tags": [
+                    "apps",
+                    "application",
+                    "applications",
+                    "mod",
+                    "staff"
+                ],
+                "type": "COG"
+            },
             "autodelete": {
                 "author": [
                     "inthedark.org"
