@@ -19511,7 +19511,8 @@
                 "requirements": [
                     "orjson",
                     "feedparser",
-                    "pytz"
+                    "pytz",
+                    "redis"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
