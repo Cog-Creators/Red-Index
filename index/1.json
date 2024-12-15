@@ -20183,7 +20183,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "youtube-search-python"
+                    "youtube-search-python",
+                    "yt-dlp"
                 ],
                 "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
                 "tags": [
@@ -20415,6 +20416,36 @@
                 ],
                 "type": ""
             },
+            "gptmemory": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "OpenAI-powered user with persistent memory. Experimental.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores text-based \"memories\" which may contain information about users and their conversations, and they may be sent to OpenAI servers for the AI to process.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai",
+                    "tiktoken",
+                    "expiringdict",
+                    "trafilatura"
+                ],
+                "short": "OpenAI-powered user with persistent memory. Experimental.",
+                "tags": [
+                    "crab",
+                    "ai",
+                    "gpt",
+                    "llm",
+                    "chatgpt",
+                    "chatbot"
+                ],
+                "type": ""
+            },
             "imagelog": {
                 "author": [
                     "hollowstrawberry"
@@ -20488,6 +20519,34 @@
                     "dev",
                     "owner",
                     "debug"
+                ],
+                "type": ""
+            },
+            "minecraft": {
+                "author": [
+                    "hollowstrawberry",
+                    "Dav",
+                    "palmtree5"
+                ],
+                "description": "Manage a Minecraft server from Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores end user data in order to allow it to whitelist players on a minecraft server. It stores minecraft player names(and user IDs) as well as discord user IDs.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aio-mc-rcon",
+                    "mcstatus",
+                    "validators"
+                ],
+                "short": "Manage a Minecraft server from Discord.",
+                "tags": [
+                    "Minecraft",
+                    "Whitelist",
+                    "Automation"
                 ],
                 "type": ""
             },
