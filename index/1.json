@@ -8551,7 +8551,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pyparsing"
+                    "pyparsing",
+                    "jinja2"
                 ],
                 "short": "Automatic voice channel management.",
                 "tags": [
