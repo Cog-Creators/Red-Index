@@ -18570,6 +18570,32 @@
                 ],
                 "type": "COG"
             },
+            "netdataalerts": {
+                "author": [
+                    "Karlo"
+                ],
+                "description": "Receieve alerts whenever a Netdata alarm is triggered on the bot's machine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "3.6.0.dev0",
+                "min_bot_version": "3.5.3.dev0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic"
+                ],
+                "short": "Receieve alerts whenever a Netdata alarm is triggered on the bot's machine.",
+                "tags": [
+                    "netdata"
+                ],
+                "type": "COG"
+            },
             "pylavchannelstatus": {
                 "author": [
                     "Karlo"
@@ -20183,7 +20209,6 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "youtube-search-python",
                     "yt-dlp"
                 ],
                 "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
