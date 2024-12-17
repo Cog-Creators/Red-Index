@@ -19053,6 +19053,31 @@
                 ],
                 "type": "COG"
             },
+            "namegenerator": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Generate names.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "mimesis"
+                ],
+                "short": "Generate names.",
+                "tags": [
+                    "Generate",
+                    "Names",
+                    "Encode",
+                    "Decode"
+                ],
+                "type": "COG"
+            },
             "onthisday": {
                 "author": [
                     "Kreusada"
