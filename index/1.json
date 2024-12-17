@@ -20553,7 +20553,7 @@
                     "Dav",
                     "palmtree5"
                 ],
-                "description": "Manage a Minecraft server from within Discord.",
+                "description": "Manage your Minecraft server from within your Discord server, and check server status and online players without opening the game.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores Minecraft usernames associated to Discord user IDs.",
                 "hidden": false,
@@ -20566,7 +20566,7 @@
                     "aio-mc-rcon",
                     "mcstatus"
                 ],
-                "short": "Manage a Minecraft server from Discord.",
+                "short": "Manage a Minecraft server from within Discord.",
                 "tags": [
                     "crab",
                     "minecraft",
