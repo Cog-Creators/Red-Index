@@ -20225,7 +20225,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Lets you configure emojis that will be added to any message containing text matching a regex.",
+                "description": "Make the bot react along with everyone else. The bot owner may set regex patterns that the bot will react to with specific emojis.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -20237,14 +20237,14 @@
                 "requirements": [
                     "emoji"
                 ],
-                "short": "Reacts to specific messages with emojis.",
+                "short": "Make the bot react along with everyone else.",
                 "tags": [
                     "crab",
                     "fun",
                     "emoji",
                     "react",
-                    "auto",
-                    "reaction"
+                    "reaction",
+                    "regex"
                 ],
                 "type": ""
             },
