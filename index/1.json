@@ -19412,7 +19412,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "apscheduler",
-                    "tabulate"
+                    "tabulate",
+                    "aiosqlite"
                 ],
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
