@@ -8583,6 +8583,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "func-timeout",
                     "jinja2"
                 ],
                 "short": "Automatic voice channel management.",
