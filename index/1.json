@@ -6205,6 +6205,38 @@
         },
         "short": "A mixture of cogs made by Flame."
     },
+    "https://github.com/Grommish/Grommish-Cogs": {
+        "author": [
+            "Donald Hoskins <Grommish>"
+        ],
+        "description": "RedBot-Discord 3.x (3.5.5) Cogs by Grommish",
+        "name": "Grommish-Cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "virustotal": {
+                "author": [
+                    "Donald Hoskins <gamingwithgeezers>"
+                ],
+                "description": "VirusTotal Link Scanning for RedBot-Discord 3.x that checks links sent to Discord against VirusTotal for malicious or suspicious reports\nThis Cog requires a VirusTotal API key, available for free at https://www.virustotal.com",
+                "disabled": false,
+                "end_user_data_statement": "This Cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "VirusTotal Link Scanning for RedBot-Discord 3.x",
+                "tags": [
+                    "Grommish VirusTotal"
+                ],
+                "type": ""
+            }
+        },
+        "short": "RedBot-Discord 3.x Cogs by Grommish"
+    },
     "https://github.com/Injabie3/lui-cogs-v3": {
         "author": [
             "Injabie3#1660",
