@@ -23827,8 +23827,9 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "piccolo[sqlite]",
-                    "aiosqlite"
+                    "piccolo",
+                    "aiosqlite",
+                    "sqlite3"
                 ],
                 "short": "Intuitive ban appeal system.",
                 "tags": [
