@@ -19470,8 +19470,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "apscheduler",
-                    "tabulate",
-                    "aiosqlite"
+                    "tabulate"
                 ],
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
@@ -19596,8 +19595,7 @@
                 "requirements": [
                     "orjson",
                     "feedparser",
-                    "pytz",
-                    "redis"
+                    "pytz"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
