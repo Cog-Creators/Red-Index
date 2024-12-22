@@ -18962,6 +18962,28 @@
                 ],
                 "type": "COG"
             },
+            "counting": {
+                "author": [
+                    "saurichable",
+                    "Kreusada"
+                ],
+                "description": "Make a counting channel with goals.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs if they are the last one to count.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Counting channel.",
+                "tags": [
+                    "counting",
+                    "count"
+                ],
+                "type": ""
+            },
             "embedcreator": {
                 "author": [
                     "Kreusada"
@@ -19011,6 +19033,71 @@
                     "Countries"
                 ],
                 "type": "COG"
+            },
+            "gallery": {
+                "author": [
+                    "saurichable",
+                    "Kreusada"
+                ],
+                "description": "Set channels as galleries, deleting all messages that don't contain any attachments.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Set channels as galleries, deleting all messages that don't contain any attachments.",
+                "tags": [
+                    "gallery"
+                ],
+                "type": ""
+            },
+            "lock": {
+                "author": [
+                    "saurichable",
+                    "Kreusada"
+                ],
+                "description": "Lock `@everyone` from sending messages in channels or the entire guild, and only allow Moderators to talk.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lock `@everyone` from sending messages.",
+                "tags": [
+                    "lockdown",
+                    "lock"
+                ],
+                "type": ""
+            },
+            "mentionable": {
+                "author": [
+                    "saurichable",
+                    "bobloy",
+                    "Kreusada"
+                ],
+                "description": "Very simple way to make unmentionable roles mentionable.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Makes unmentionable roles mentionable.",
+                "tags": [
+                    "mentionable"
+                ],
+                "type": ""
             },
             "messagedeleter": {
                 "author": [
@@ -19136,6 +19223,31 @@
                     "Date"
                 ],
                 "type": "COG"
+            },
+            "pick": {
+                "author": [
+                    "Kreusada",
+                    "saurichable",
+                    "AAA3A"
+                ],
+                "description": "Pick a random member.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Pick a random member.",
+                "tags": [
+                    "pick",
+                    "random",
+                    "member",
+                    "nestedcommands"
+                ],
+                "type": ""
             },
             "pypi": {
                 "author": [
