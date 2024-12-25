@@ -1466,7 +1466,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
-                    "mimesis"
+                    "mimesis",
+                    "pycountry"
                 ],
                 "short": "Generate random and fake identities, including names, addresses, emails, and phone numbers!",
                 "tags": [
