@@ -25098,7 +25098,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "requests"
+                ],
                 "short": "Emoji-related commands.",
                 "tags": [],
                 "type": ""
@@ -25142,7 +25144,9 @@
                     7,
                     0
                 ],
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [
                     "requests",
@@ -25150,10 +25154,7 @@
                     "reactionmenu>=2.0.4"
                 ],
                 "short": "Get a YouTube video's thumbnail from its ID.",
-                "tags": [
-                    "youtube",
-                    "thumbnail"
-                ],
+                "tags": [],
                 "type": ""
             },
             "vcstats": {
