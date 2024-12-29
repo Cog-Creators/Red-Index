@@ -4,3 +4,6 @@ https://github.com/joaovti/vti-cogs: Error reading repo info.json. Possibly inva
 https://github.com/shitshowdevelopment/ShitShowCogs: Repo path does not exist. Cloning
   failed?
 https://github.com/taintedvalor/Valors-cogs: No repo info.json found.
+https://github.com/willamettefour/willamette-cogs:
+  emoji: Error reading cog info.json. Possibly invalid.
+  thumbnail: Error reading cog info.json. Possibly invalid.
