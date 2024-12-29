@@ -25079,6 +25079,30 @@
                 "tags": [],
                 "type": ""
             },
+            "emoji": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Emoji-related commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data provided by users for the express purpose of re-displaying. It does not store user data which was not provided through a command. Users may delete their own data with or without making a data request.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Emoji-related commands.",
+                "tags": [],
+                "type": ""
+            },
             "spotify": {
                 "author": [
                     "willamette"
@@ -25100,6 +25124,35 @@
                 "tags": [
                     "spotify",
                     "lyrics"
+                ],
+                "type": ""
+            },
+            "thumbnail": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Get a YouTube video's thumbnail from its ID.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    7,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "requests",
+                    "git+https://github.com/oohlaf/python-whirlpool",
+                    "reactionmenu>=2.0.4"
+                ],
+                "short": "Get a YouTube video's thumbnail from its ID.",
+                "tags": [
+                    "youtube",
+                    "thumbnail"
                 ],
                 "type": ""
             },
