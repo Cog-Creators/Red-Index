@@ -3656,6 +3656,47 @@
         },
         "short": "some random cogs I made for my own use and decided to make public."
     },
+    "https://github.com/CalaMariGold/CalaMari-Cogs": {
+        "author": [
+            "CalaMariGold (CalaMariGold \u30de\u30ea#1998)"
+        ],
+        "description": "Assortment of Red v3 cogs created for my Discord bot, Baa",
+        "name": "CalaMari-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "city": {
+                "author": [
+                    "CalaMariGold"
+                ],
+                "description": "A modular city simulation system that includes various activities for users to engage in. Currently features a crime system for earning credits through virtual crimes with different risk levels, cooldowns, rewards, jail system, jail breaks, dynamic events, and more.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data including:\n- Cooldown timers for various activities\n- Statistics for activities (e.g., successful/failed crimes)\n- Jail status and duration\n- Last target information for anti-farming\nAll data can be removed with the standard Red delete data commands.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A comprehensive city simulation system with various activities",
+                "tags": [
+                    "fun",
+                    "economy",
+                    "games",
+                    "crime",
+                    "city",
+                    "simulation"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Assortment of Red v3 cogs created for my Discord bot, Baa"
+    },
     "https://github.com/ChaseCares/CCCogs": {
         "author": [
             "ChaseCares"
