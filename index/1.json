@@ -3658,9 +3658,9 @@
     },
     "https://github.com/CalaMariGold/CalaMari-Cogs": {
         "author": [
-            "CalaMariGold (CalaMariGold \u30de\u30ea#1998)"
+            "CalaMariGold"
         ],
-        "description": "Assortment of Red v3 cogs created for my Discord bot, Baa",
+        "description": "A collection of Red v3 cogs providing various utilities and features",
         "name": "CalaMari-Cogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -3695,7 +3695,7 @@
                 "type": "COG"
             }
         },
-        "short": "Assortment of Red v3 cogs created for my Discord bot, Baa"
+        "short": "Collection of utility cogs for Red v3"
     },
     "https://github.com/ChaseCares/CCCogs": {
         "author": [
