@@ -3693,6 +3693,36 @@
                     "simulation"
                 ],
                 "type": "COG"
+            },
+            "lootdrop": {
+                "author": [
+                    "CalaMariGold"
+                ],
+                "description": "A dynamic resource distribution system that creates random drops in configured channels and threads. Features include streak bonuses, party drops for multiple users, risk/reward mechanics with good/bad outcomes, leaderboards, and detailed statistics tracking.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user data including:\n- Drop statistics (successful/failed claims)\n- Streak information and history\n- Last claim timestamps for streak tracking\n- Highest achieved streaks\nAll data can be removed using `[p]lootdrop wipestats` or the standard Red delete data commands.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Interactive random resource drops with risk/reward mechanics",
+                "tags": [
+                    "fun",
+                    "economy",
+                    "games",
+                    "drops",
+                    "city",
+                    "simulation",
+                    "interactive"
+                ],
+                "type": "COG"
             }
         },
         "short": "Collection of utility cogs for Red v3"
