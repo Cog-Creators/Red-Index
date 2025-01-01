@@ -3690,7 +3690,8 @@
                     "games",
                     "crime",
                     "city",
-                    "simulation"
+                    "simulation",
+                    "interactive"
                 ],
                 "type": "COG"
             },
@@ -3714,13 +3715,9 @@
                 "requirements": [],
                 "short": "Interactive random resource drops with risk/reward mechanics",
                 "tags": [
-                    "fun",
                     "economy",
-                    "games",
-                    "drops",
-                    "city",
-                    "simulation",
-                    "interactive"
+                    "fun",
+                    "games"
                 ],
                 "type": "COG"
             }
