@@ -1,5 +1,7 @@
 https://github.com/BeeHiveCyberSecurity/BeeHive-Cogs:
   vanityguard: Error reading cog info.json. Possibly invalid.
+https://github.com/IndustrialMindustry/industrial-cogs: Error reading repo info.json.
+  Possibly invalid.
 https://github.com/joaovti/vti-cogs: Error reading repo info.json. Possibly invalid.
 https://github.com/shitshowdevelopment/ShitShowCogs: Repo path does not exist. Cloning
   failed?
