@@ -24975,6 +24975,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "piccolo",
                     "piccolo[sqlite]",
                     "aiosqlite"
                 ],
