@@ -2024,7 +2024,8 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "pillow",
-                    "plotly"
+                    "plotly",
+                    "kaleido"
                 ],
                 "short": "A cog to make a chart with the different Discord statuses (presence) of a Discord member, in the previous x days (last 100 days maximum)!",
                 "tags": [
