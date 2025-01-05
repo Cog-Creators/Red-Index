@@ -20839,7 +20839,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "Pillow",
-                    "expiringdict"
+                    "expiringdict",
+                    "sd_prompt_reader"
                 ],
                 "short": "Scans images for AI parameters and other metadata. Supports context menus.",
                 "tags": [
