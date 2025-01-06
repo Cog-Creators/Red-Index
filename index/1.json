@@ -19817,6 +19817,37 @@
                 ],
                 "type": "COG"
             },
+            "honeycombs": {
+                "author": [
+                    "max"
+                ],
+                "description": "Play a game similar to Sugar Honeycombs, inspired by the Netflix series Squid Game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog saves Discord user IDs to add you to the games you participate in, but these IDs are deleted once the game concludes. It does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.14",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play a game similar to Sugar Honeycombs, inspired by the Netflix series Squid Game.",
+                "tags": [
+                    "squid game",
+                    "honeycombs",
+                    "Sugar honeycombs",
+                    "fun",
+                    "enonomy"
+                ],
+                "type": "COG"
+            },
             "lockdown": {
                 "author": [
                     "max"
