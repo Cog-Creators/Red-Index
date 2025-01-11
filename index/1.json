@@ -16751,6 +16751,30 @@
                 ],
                 "type": "COG"
             },
+            "imageutils": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "This cog allows users to edit images using various commands within discord. This is currently a WIP and only supports upscaling and downscaling",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data persistently.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow==11.0.0"
+                ],
+                "short": "A cog that allows you to edit images",
+                "tags": [
+                    "image",
+                    "editing",
+                    "upscaling"
+                ],
+                "type": "COG"
+            },
             "inrole": {
                 "author": [
                     "crayyy_zee"
