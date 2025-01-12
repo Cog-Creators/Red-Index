@@ -2926,6 +2926,26 @@
                 ],
                 "type": ""
             },
+            "openbanlist": {
+                "author": "adminelevation",
+                "description": "A cog to manage a global banlist for Discord servers.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about users who are on the global banlist, including their Discord IDs and ban reasons. This data is used solely for moderation purposes.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Global Banlist Management",
+                "tags": [
+                    "banlist",
+                    "moderation",
+                    "discord"
+                ],
+                "type": ""
+            },
             "ping": {
                 "author": [
                     "adminescalation",
