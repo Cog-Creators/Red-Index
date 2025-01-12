@@ -3269,6 +3269,26 @@
                 ],
                 "type": ""
             },
+            "vanityguard": {
+                "author": "adminelevation",
+                "description": "A cog to protect the server's vanity URL from unauthorized changes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Protect your server's vanity URL.",
+                "tags": [
+                    "utility",
+                    "vanity",
+                    "protection"
+                ],
+                "type": ""
+            },
             "virustotal": {
                 "author": [
                     "adminescalation",
