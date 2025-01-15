@@ -2697,7 +2697,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "tldextract"
+                ],
                 "short": "Screen for malicious links in your server",
                 "tags": [],
                 "type": ""
