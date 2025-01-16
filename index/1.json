@@ -3292,7 +3292,9 @@
                 "type": ""
             },
             "vanityguard": {
-                "author": "adminelevation",
+                "author": [
+                    "adminelevation"
+                ],
                 "description": "A cog to protect the server's vanity URL from unauthorized changes.",
                 "disabled": false,
                 "end_user_data_statement": "",
