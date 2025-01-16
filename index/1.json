@@ -2886,7 +2886,7 @@
                 "author": "adminelevation",
                 "description": "A cog to manage a global banlist for Discord servers.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores data about users who are on the global banlist, including their Discord IDs and ban reasons. This data is used solely for moderation purposes.",
+                "end_user_data_statement": "This cog stores no user data. This cog stores configuration data. Data about users who are on the global banlist, including their Discord IDs and ban reasons, are stored by OpenBanlist. This data is used solely for moderation and safety purposes.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
@@ -3080,29 +3080,6 @@
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Display server information",
-                "tags": [],
-                "type": ""
-            },
-            "sesh": {
-                "author": [
-                    "adminescalation",
-                    "escalateprivs"
-                ],
-                "description": "Coordinate smoking sessions with your friends",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pynacl"
-                ],
-                "short": "Coordinate smoking sessions",
                 "tags": [],
                 "type": ""
             },
