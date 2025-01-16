@@ -2755,28 +2755,6 @@
                 ],
                 "type": ""
             },
-            "fotd": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "Fact of the Day (FotD) cog for Discord bots. This cog allows you to set a channel, time, and role for daily facts.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores the channel ID, time, timezone, and role ID for the FotD feature. No other user data is stored.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Daily facts",
-                "tags": [
-                    "fact",
-                    "daily",
-                    "fun"
-                ],
-                "type": ""
-            },
             "holidays": {
                 "author": [
                     "adminelevation"
@@ -2851,30 +2829,6 @@
                     "invites",
                     "rewards",
                     "announcements"
-                ],
-                "type": ""
-            },
-            "meetings": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "Schedule meetings with users and bring all users into one place to meet, with reminders and notes.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Manage and schedule meetings.",
-                "tags": [
-                    "meetings",
-                    "scheduling",
-                    "management"
                 ],
                 "type": ""
             },
