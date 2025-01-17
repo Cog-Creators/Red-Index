@@ -2883,7 +2883,9 @@
                 "type": ""
             },
             "openbanlist": {
-                "author": "adminelevation",
+                "author": [
+                    "adminelevation"
+                ],
                 "description": "A cog to manage a global banlist for Discord servers.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores no user data. This cog stores configuration data. Data about users who are on the global banlist, including their Discord IDs and ban reasons, are stored by OpenBanlist. This data is used solely for moderation and safety purposes.",
