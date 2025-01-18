@@ -8771,7 +8771,7 @@
                 "author": [
                     "PhasecoreX (PhasecoreX#0635)"
                 ],
-                "description": "This cog allows server admins to ban users on their server when they are banned on another server that the bot is in.",
+                "description": "This cog allows server admins to have moderation actions automatically applied to members on their server when those actions are performed on another server that the bot is in.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -8785,7 +8785,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Automatically sync bans across servers.",
+                "short": "Automatically sync moderation actions across servers.",
                 "tags": [
                     "auto",
                     "automated",
@@ -8794,6 +8794,7 @@
                     "moderation",
                     "pull",
                     "sync",
+                    "timeout",
                     "utility"
                 ],
                 "type": ""
