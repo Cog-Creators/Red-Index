@@ -2886,9 +2886,9 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "A cog to manage a global banlist for Discord servers.",
+                "description": "Enhance your community's safety by integrating OpenBanlist with your Red-DiscordBot instance. OpenBanlist is a community-driven initiative dedicated to identifying and cataloging malicious users on Discord. Our database of dangerous Discord users combined with our free-to-use integrations helps to stop these users from harming your server, or members, to begin with.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores no user data. This cog stores configuration data. Data about users who are on the global banlist, including their Discord IDs and ban reasons, are stored by OpenBanlist. This data is used solely for moderation and safety purposes.",
+                "end_user_data_statement": "This cog stores no user data. This cog stores configuration data. Data about users who are on the global banlist, including their Discord IDs and ban reasons, are stored by OpenBanlist. This data is used solely for moderation and safety purposes. Banlisted users cannot control data storage without a ban removal.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
