@@ -25110,7 +25110,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "pydantic",
-                    "apscheduler"
+                    "apscheduler",
+                    "openai"
                 ],
                 "short": "Schedule bot commands within a simple menu",
                 "tags": [
