@@ -26216,6 +26216,34 @@
                 ],
                 "type": ""
             },
+            "bittensorimg": {
+                "author": [
+                    "zhaobenny"
+                ],
+                "description": "Enables the AI generation of images using some select BitTensor subnets providers",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "wrapper around select BitTensor subnets image gen providers for Discord",
+                "tags": [
+                    "image",
+                    "ai image",
+                    "ai art",
+                    "image generation"
+                ],
+                "type": ""
+            },
             "oneletteronly": {
                 "author": [
                     "zhaobenny"
