@@ -22496,6 +22496,29 @@
                     "swgoh"
                 ],
                 "type": ""
+            },
+            "whoami": {
+                "author": [
+                    "spideysimp"
+                ],
+                "description": "A simple cog that gives you a fortune or randomly generated rpg stats.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no data!",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Who Am I",
+                "tags": [
+                    "spideysimp",
+                    "fun",
+                    "fortune",
+                    "rpg"
+                ],
+                "type": ""
             }
         },
         "short": "Cogs by spideysimp"
