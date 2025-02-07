@@ -16703,9 +16703,7 @@
                     "administrator"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "pydantic"
-                ],
+                "requirements": [],
                 "short": "",
                 "tags": [
                     "server",
