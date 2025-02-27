@@ -20050,7 +20050,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.14",
+                "min_bot_version": "3.5.13",
                 "min_python_version": [
                     3,
                     9,
@@ -20066,8 +20066,8 @@
                 "short": "A cog to display historical events for the current day.",
                 "tags": [
                     "history",
+                    "history of the day",
                     "on this day",
-                    "today in history",
                     "history events"
                 ],
                 "type": "COG"
