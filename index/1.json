@@ -20041,6 +20041,37 @@
                 ],
                 "type": "COG"
             },
+            "history": {
+                "author": [
+                    "max"
+                ],
+                "description": "A cog to display historical events for the current day.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.14",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "A cog to display historical events for the current day.",
+                "tags": [
+                    "history",
+                    "on this day",
+                    "today in history",
+                    "history events"
+                ],
+                "type": "COG"
+            },
             "honeycombs": {
                 "author": [
                     "max"
