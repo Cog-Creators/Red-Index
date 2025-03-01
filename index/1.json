@@ -20103,6 +20103,34 @@
                 ],
                 "type": "COG"
             },
+            "iss": {
+                "author": [
+                    "max"
+                ],
+                "description": "Track the International Space Station's location and details.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track the International Space Station's location and details.",
+                "tags": [
+                    "International Space Station",
+                    "ISS",
+                    "Space Station"
+                ],
+                "type": "COG"
+            },
             "lockdown": {
                 "author": [
                     "max"
