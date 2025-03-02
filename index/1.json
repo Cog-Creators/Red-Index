@@ -19954,14 +19954,15 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.3",
+                "min_bot_version": "3.5.13",
                 "min_python_version": [
                     3,
                     9,
                     0
                 ],
                 "permissions": [
-                    "manage_messages"
+                    "manage_messages",
+                    "view_channel"
                 ],
                 "required_cogs": {},
                 "requirements": [
@@ -19971,7 +19972,8 @@
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
                     "news",
-                    "auto publish"
+                    "auto publish",
+                    "autopublish"
                 ],
                 "type": "COG"
             },
