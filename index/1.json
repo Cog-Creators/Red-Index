@@ -3739,28 +3739,6 @@
                     "notifier"
                 ],
                 "type": "COG"
-            },
-            "watchdog": {
-                "author": [
-                    "bencos17"
-                ],
-                "description": "Monitors the bot's status and interacts with systemd's watchdog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Bot status monitor with systemd integration.",
-                "tags": [
-                    "monitor",
-                    "systemd",
-                    "watchdog"
-                ],
-                "type": "COG"
             }
         },
         "short": "some random cogs I made for my own use and decided to make public."
