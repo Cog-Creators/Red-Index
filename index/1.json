@@ -3699,6 +3699,30 @@
                 ],
                 "type": ""
             },
+            "seasons": {
+                "author": [
+                    "bencos17"
+                ],
+                "description": "A cog for Christian seasons and holidays like Pancake Tuesday, Lent, and Easter.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "Christian",
+                    "Seasons",
+                    "Holidays",
+                    "Easter",
+                    "Lent"
+                ],
+                "type": "COG"
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
