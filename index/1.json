@@ -25434,7 +25434,8 @@
                 "requirements": [
                     "pydantic",
                     "apscheduler",
-                    "openai"
+                    "openai",
+                    "pytz"
                 ],
                 "short": "Schedule bot commands within a simple menu",
                 "tags": [
