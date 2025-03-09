@@ -13937,7 +13937,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Replacement for 'General' cog, since it needs to be disabled to override certain commands. Changes 'choose' to use | divider.",
+                "description": "Slightly customized version of `General` cog. Changes `choose` to use | divider. All built-in commands are moved to [p]general.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -13947,7 +13947,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Replacement for 'General' cog, with some common tools",
+                "short": "Slightly customized version of `General` cog",
                 "tags": [
                     "tools",
                     "choose",
