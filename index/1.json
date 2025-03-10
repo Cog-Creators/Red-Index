@@ -14167,9 +14167,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "requests"
-                ],
+                "requirements": [],
                 "short": "Send love to other members of the server with hugs, kisses, etc.",
                 "tags": [
                     "love",
