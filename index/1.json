@@ -19460,6 +19460,31 @@
                 ],
                 "type": ""
             },
+            "higherorlower": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Play Higher Or Lower, win big!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow"
+                ],
+                "short": "Play Higher Or Lower, win big!",
+                "tags": [
+                    "Cards",
+                    "Game",
+                    "Money",
+                    "Economy"
+                ],
+                "type": "COG"
+            },
             "lock": {
                 "author": [
                     "saurichable",
