@@ -14190,10 +14190,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "aiohttp",
-                    "requests"
-                ],
+                "requirements": [],
                 "short": "Move messages across channels and servers",
                 "tags": [
                     "relays",
@@ -14211,7 +14208,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Make a bulletin board pinned message! Users can add/remove their own content to/from a shared, \"bulletin board\" style pinned message.",
+                "description": "Make a communal notes board! Users can add and remove their contributions to a pinned message at any time, like adding sticky notes to an office board.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores the data you submit into a pinned message, in order to keep pinned messages updated.",
                 "hidden": false,
@@ -14221,7 +14218,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Make bulletin board style pinned messages! Let people add/remove their own blurbs in a pinned message.",
+                "short": "Make a communal notes board! Users can add and remove their contributions to a pinned message at any time, like adding sticky notes to an office board.",
                 "tags": [
                     "pins",
                     "pinned",
