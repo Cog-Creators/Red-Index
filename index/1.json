@@ -20032,7 +20032,9 @@
                 ],
                 "permissions": [
                     "manage_messages",
-                    "view_channel"
+                    "view_channel",
+                    "read_message_history",
+                    "send_messages"
                 ],
                 "required_cogs": {},
                 "requirements": [
