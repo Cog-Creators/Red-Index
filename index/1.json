@@ -14291,9 +14291,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "requests"
-                ],
+                "requirements": [],
                 "short": "The comprehensive webhooks cog, with sending, listing, and creating of webhooks",
                 "tags": [
                     "webhook"
