@@ -20078,6 +20078,31 @@
                 ],
                 "type": "COG"
             },
+            "currency": {
+                "author": [
+                    "max"
+                ],
+                "description": "A cog to convert currencies using ExchangeRate-API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to convert currencies using ExchangeRate-API.",
+                "tags": [
+                    "currency",
+                    "convert currency"
+                ],
+                "type": "COG"
+            },
             "forwarddeleter": {
                 "author": [
                     "max"
