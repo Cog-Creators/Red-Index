@@ -3219,6 +3219,33 @@
                 ],
                 "type": ""
             },
+            "staffmanager": {
+                "author": [
+                    "adminescalation"
+                ],
+                "description": "StaffManager is designed to help manage and track staff activities, including role changes, suspensions, and punishments issued.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about staff members, including their roles, suspension status, and punishments issued. No personal data is stored beyond what is necessary for these functions.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_roles",
+                    "ban_members"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage and track staff activities",
+                "tags": [
+                    "staff",
+                    "management",
+                    "roles",
+                    "suspension",
+                    "discord"
+                ],
+                "type": ""
+            },
             "statusrotator": {
                 "author": [
                     "adminelevation"
