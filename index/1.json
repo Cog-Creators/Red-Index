@@ -22335,6 +22335,59 @@
         },
         "short": "Cogs made by Raiden for Red Discord bot."
     },
+    "https://github.com/reediculous456/RedBot-Cogs": {
+        "author": [
+            "reediculous456"
+        ],
+        "description": "A collection of cogs",
+        "name": "RedBot-Cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "quote_otd": {
+                "author": [
+                    "reediculous456"
+                ],
+                "description": "Posts a random quote from a list of quotes at the desired time each day.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Quote poster",
+                "tags": [
+                    "quote",
+                    "daily"
+                ],
+                "type": "COG"
+            },
+            "verifier": {
+                "author": [
+                    "reediculous456"
+                ],
+                "description": "Verify your users by asking them questions via DM",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Verification system",
+                "tags": [
+                    "verify"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs from reediculous456"
+    },
     "https://github.com/retke/Laggrons-Dumb-Cogs": {
         "author": [
             "El Laggron"
