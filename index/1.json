@@ -2983,7 +2983,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "aiohttp"
+                    "aiohttp",
+                    "openai"
                 ],
                 "short": "Moderate messages using OpenAI's omni-moderation.",
                 "tags": [],
