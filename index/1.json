@@ -2966,27 +2966,24 @@
             },
             "omni": {
                 "author": [
-                    "adminescalation",
-                    "escalateprivs"
+                    "adminescalation"
                 ],
-                "description": "A cog for moderating messages using OpenAI's omni-moderation endpoint.",
+                "description": "AI-powered automatic text moderation using frontier moderation models from OpenAI. Get AI-powered moderation in your server for absolutely free",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores server-specific configuration data such as API keys and moderation settings.",
+                "end_user_data_statement": "This cog stores server-specific configuration data such as API keys, moderation settings, and message statistics.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
                     "manage_messages",
-                    "embed_links",
-                    "manage_roles"
+                    "embed_links"
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "aiohttp",
-                    "openai"
+                    "aiohttp"
                 ],
-                "short": "Moderate messages using OpenAI's omni-moderation.",
+                "short": "AI-powered text moderation using frontier models.",
                 "tags": [],
                 "type": ""
             },
@@ -3269,34 +3266,6 @@
                 ],
                 "type": ""
             },
-            "stripeidentity": {
-                "author": [
-                    "adminescalation"
-                ],
-                "description": "Verify ages and identities using Stripe Identity",
-                "disabled": false,
-                "end_user_data_statement": "Stores User ID's and Verification Session ID's, only when pending. Usage of Stripe Identity is subject to the Stripe Consumer Terms of Service, and Privacy Policy. ",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "requests",
-                    "discord-py-interactions",
-                    "stripe"
-                ],
-                "short": "Verify ages and identities via Discord",
-                "tags": [
-                    "stripe",
-                    "identity",
-                    "age-gate"
-                ],
-                "type": ""
-            },
             "tiktoklive": {
                 "author": [
                     "adminelevation"
@@ -3355,28 +3324,6 @@
                 ],
                 "type": ""
             },
-            "vanityguard": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "A cog to protect the server's vanity URL from unauthorized changes.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Protect your server's vanity URL.",
-                "tags": [
-                    "utility",
-                    "vanity",
-                    "protection"
-                ],
-                "type": ""
-            },
             "virustotal": {
                 "author": [
                     "adminescalation",
@@ -3405,28 +3352,6 @@
                     "file analysis",
                     "security",
                     "safety"
-                ],
-                "type": ""
-            },
-            "watchduty": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "WatchDuty cog for Discord bots. This cog helps manage and configure safety settings, including blocklists.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores configuration settings related to safety features. No personal user data is stored.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Safety configuration",
-                "tags": [
-                    "safety",
-                    "configuration",
-                    "blocklist"
                 ],
                 "type": ""
             },
