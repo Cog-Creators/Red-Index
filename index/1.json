@@ -2964,6 +2964,31 @@
                 ],
                 "type": ""
             },
+            "omni": {
+                "author": [
+                    "adminescalation",
+                    "escalateprivs"
+                ],
+                "description": "A cog for moderating messages using OpenAI's omni-moderation endpoint.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores server-specific configuration data such as API keys and moderation settings.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_messages",
+                    "embed_links",
+                    "manage_roles"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Moderate messages using OpenAI's omni-moderation.",
+                "tags": [],
+                "type": ""
+            },
             "openbanlist": {
                 "author": [
                     "adminelevation"
