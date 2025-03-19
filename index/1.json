@@ -2938,32 +2938,6 @@
                 ],
                 "type": ""
             },
-            "ncmec": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "This cog allows you to fetch information about recently missing children from the National Center for Missing and Exploited Children (NCMEC).",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores and shares no user data, unless coincidentally that user is also a missing person, in which case - you good?",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "aiohttp"
-                ],
-                "short": "Interact with the National Center for Missing and Exploited Children",
-                "tags": [
-                    "NCMEC",
-                    "missing persons",
-                    "have you seen them?"
-                ],
-                "type": ""
-            },
             "omni": {
                 "author": [
                     "adminescalation"
