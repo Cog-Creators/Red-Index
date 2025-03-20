@@ -22260,12 +22260,12 @@
         },
         "short": "Cogs made by Raiden for Red Discord bot."
     },
-    "https://github.com/reediculous456/RedBot-Cogs": {
+    "https://github.com/reediculous456/Reediculous-Cogs": {
         "author": [
             "reediculous456"
         ],
         "description": "A collection of cogs",
-        "name": "RedBot-Cogs",
+        "name": "Reediculous-Cogs",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
