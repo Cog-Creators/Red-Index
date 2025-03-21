@@ -4173,27 +4173,6 @@
                 "tags": [],
                 "type": ""
             },
-            "artemis": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "For Aime Servers, useless if you don't know it",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "For Aime Servers, do not use",
-                "tags": [
-                    "aime",
-                    "artemis"
-                ],
-                "type": "COG"
-            },
             "bubble": {
                 "author": [
                     "TrustyJaid",
@@ -4244,32 +4223,6 @@
                 ],
                 "type": "COG"
             },
-            "diceai": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "Generates images using AI.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "perchance",
-                    "argparse",
-                    "asyncio"
-                ],
-                "short": "Generates images using AI.",
-                "tags": [
-                    "image",
-                    "ai",
-                    "generation"
-                ],
-                "type": "COG"
-            },
             "fire": {
                 "author": [
                     "TrustyJaid",
@@ -4317,28 +4270,6 @@
                 ],
                 "type": "COG"
             },
-            "guildid": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "Retrieves Guild&Invite Stats",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Retrieves Stats.",
-                "tags": [
-                    "Guild",
-                    "Invites",
-                    "Stats"
-                ],
-                "type": "COG"
-            },
             "holowiki": {
                 "author": [
                     "Glas"
@@ -4360,32 +4291,6 @@
                     "Hololive",
                     "Wiki",
                     "Info"
-                ],
-                "type": "COG"
-            },
-            "kofi": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "Ko-fi User info!",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "beautifulsoup4",
-                    "aiohttp"
-                ],
-                "short": "Obtains info and goal of a Ko-Fi User!",
-                "tags": [
-                    "ko-fi",
-                    "donations",
-                    "crowdfundings",
-                    "kofi"
                 ],
                 "type": "COG"
             },
@@ -4658,30 +4563,6 @@
                     "ship"
                 ],
                 "type": "COG"
-            },
-            "stickbugged": {
-                "author": [
-                    "flare(flare#0001)",
-                    "Glas"
-                ],
-                "description": "Get stickbugged. V2",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "git+https://github.com/DJTOMATO/get-stick-bugged-lol",
-                    "Pillow==9.5.0"
-                ],
-                "short": "Get stickbugged. V2",
-                "tags": [
-                    "stickbugged"
-                ],
-                "type": ""
             },
             "umineko": {
                 "author": [
