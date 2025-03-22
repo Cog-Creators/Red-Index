@@ -2911,6 +2911,29 @@
                 ],
                 "type": ""
             },
+            "offers": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog to browse money-saving offers across various categories.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Browse money-saving offers.",
+                "tags": [
+                    "offers",
+                    "shopping",
+                    "savings",
+                    "discounts"
+                ],
+                "type": ""
+            },
             "omni": {
                 "author": [
                     "adminescalation"
