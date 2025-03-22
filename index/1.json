@@ -2837,33 +2837,6 @@
                 ],
                 "type": ""
             },
-            "holidays": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "Cog to view and check public holidays and get alerted when it is one, in your supported country",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user country codes for fetching public holidays.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "aiohttp",
-                    "asyncio"
-                ],
-                "short": "Fetch public holidays",
-                "tags": [
-                    "holidays",
-                    "API",
-                    "Nager.Date"
-                ],
-                "type": ""
-            },
             "infocontrol": {
                 "author": [
                     "adminelevation"
@@ -18422,7 +18395,7 @@
             },
             "shazam": {
                 "author": [
-                    "inthedark.org"
+                    "japan.org"
                 ],
                 "description": "Search songs using Shazam.",
                 "disabled": false,
@@ -18434,13 +18407,19 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "shazamio"
+                    "shazamio==0.8.0"
                 ],
                 "short": "Search songs using Shazam.",
                 "tags": [
+                    "song",
                     "songs",
                     "audio",
-                    "shazam"
+                    "music",
+                    "shazam",
+                    "media",
+                    "utility",
+                    "tools",
+                    "util"
                 ],
                 "type": "COG"
             },
