@@ -2915,14 +2915,16 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "A cog to browse money-saving offers across various categories.",
+                "description": "Validated ways to save money, earn more money, and get discounts on products. Explore offers on banking, hosting, electronics, and more - 100% legitimate, 100% organized just for you.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
                 "short": "Browse money-saving offers.",
