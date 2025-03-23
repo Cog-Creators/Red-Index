@@ -4292,6 +4292,30 @@
                 ],
                 "type": "COG"
             },
+            "howlongtobeat": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "A cog to fetch game information such as playtime from HowLongToBeat.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "howlongtobeatpy"
+                ],
+                "short": "Fetch game information from HowLongToBeat.com",
+                "tags": [
+                    "games",
+                    "utilities",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "letterdance": {
                 "author": [
                     "Glas"
