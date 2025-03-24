@@ -14185,10 +14185,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "asyncio",
-                    "aiohttp"
-                ],
+                "requirements": [],
                 "short": "Chinese dictionary bot",
                 "tags": [
                     "dictionary",
