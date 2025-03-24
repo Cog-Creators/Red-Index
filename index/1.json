@@ -2861,6 +2861,27 @@
                 ],
                 "type": "COG"
             },
+            "invitefilter": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "Discord invite/advertising detection & control. Automatically delete, issue timeouts, and more to those who advertise in your server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores server-specific configuration data such as invite settings and statistics.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [
+                    "manage_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Detect and remove Discord invites.",
+                "tags": [],
+                "type": ""
+            },
             "invites": {
                 "author": [
                     "adminescalation"
