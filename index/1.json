@@ -13814,7 +13814,7 @@
                 "author": [
                     "coffeebank"
                 ],
-                "description": "Slightly customized version of `General` cog. Changes `choose` to use | divider. All built-in commands are moved to [p]general.",
+                "description": "Slightly customized version of `General` cog. Changes `choose` to use | divider. All built-in commands are moved to [p]general. Adds slash commands support.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
