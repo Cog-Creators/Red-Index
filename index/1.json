@@ -17083,6 +17083,39 @@
                 ],
                 "type": "COG"
             },
+            "risk": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A rendition of the classic board game Risk on discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs and game data in order to function.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic",
+                    "Pillow"
+                ],
+                "short": "A rendition of the classic board game Risk on discord.",
+                "tags": [
+                    "board",
+                    "games",
+                    "game",
+                    "fun",
+                    "risk"
+                ],
+                "type": "COG"
+            },
             "rolesync": {
                 "author": [
                     "crayyy_zee"
