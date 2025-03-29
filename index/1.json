@@ -5232,6 +5232,43 @@
         },
         "short": "Cogs made by Dav"
     },
+    "https://github.com/DragoPrime/Prime-Cogs": {
+        "author": [
+            "Drago Prime (dragoprime)"
+        ],
+        "description": "Some cogs for Red Discord Bot!",
+        "name": "Prime-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "benchmarkleaderboard": {
+                "author": [
+                    "Drago Prime"
+                ],
+                "description": "A cog that allows users to add and track benchmark scores, creating leaderboards for different performance metrics.",
+                "disabled": false,
+                "end_user_data_statement": "Stores user IDs and their benchmark scores. Users can delete their data via the delete command.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track benchmark scores across different categories",
+                "tags": [
+                    "utility",
+                    "benchmark",
+                    "leaderboard"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Some cogs for Red Discord Bot!"
+    },
     "https://github.com/Drapersniper/PyLav-Cogs": {
         "author": [
             "Draper"
