@@ -20144,7 +20144,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Display public holidays for countries worldwide, with support for setting a default country and listing available countries.",
+                "description": "Display holidays for countries worldwide, with support for setting a default country and listing available countries.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -20163,7 +20163,7 @@
                     "pycountry",
                     "pytz"
                 ],
-                "short": "Display public holidays for countries worldwide, with support for setting a default country and listing available countries.",
+                "short": "Display holidays for countries worldwide, with support for setting a default country and listing available countries.",
                 "tags": [
                     "public holiday",
                     "holiday",
