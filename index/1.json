@@ -5265,6 +5265,34 @@
                     "leaderboard"
                 ],
                 "type": ""
+            },
+            "calendarsync": {
+                "author": [
+                    "Drago Prime"
+                ],
+                "description": "Automatically syncs Discord scheduled events to a Google Calendar, making event management easier for your community.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Google Calendar credentials for the server. No personal user data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "google-api-python-client",
+                    "google-auth-httplib2",
+                    "google-auth-oauthlib",
+                    "pytz"
+                ],
+                "short": "Sync Discord events to Google Calendar",
+                "tags": [
+                    "calendar",
+                    "events",
+                    "google",
+                    "utility"
+                ],
+                "type": ""
             }
         },
         "short": "Some cogs for Red Discord Bot!"
