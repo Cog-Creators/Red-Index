@@ -5293,6 +5293,26 @@
                     "utility"
                 ],
                 "type": ""
+            },
+            "jellyfin_library_stats": {
+                "author": [
+                    "Drago Prime"
+                ],
+                "description": "A module that weekly updates statistics of libraries from a Jellyfin server",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Monitors Jellyfin library statistics",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Some cogs for Red Discord Bot!"
