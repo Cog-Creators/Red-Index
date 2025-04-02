@@ -5294,25 +5294,29 @@
                 ],
                 "type": ""
             },
-            "jellyfin_library_stats": {
+            "jellyfinsearch": {
                 "author": [
-                    "Drago Prime"
+                    "DragoPrime"
                 ],
-                "description": "A module that weekly updates statistics of libraries from a Jellyfin server",
+                "description": "A cog that allows users to search for content on a Jellyfin server directly from Discord. Includes detailed media information and direct playback links.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp"
                 ],
-                "short": "Monitors Jellyfin library statistics",
-                "tags": [],
-                "type": ""
+                "short": "Search for content on your Jellyfin server",
+                "tags": [
+                    "jellyfin",
+                    "media",
+                    "search"
+                ],
+                "type": "COG"
             }
         },
         "short": "Some cogs for Red Discord Bot!"
