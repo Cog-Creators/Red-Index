@@ -19514,6 +19514,28 @@
                 ],
                 "type": ""
             },
+            "didyoumean": {
+                "author": [
+                    "Kreusada"
+                ],
+                "description": "Provides command suggestions for mistyped top-level commands using Levenshtein distance.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Provides command suggestions for mistyped top-level commands using Levenshtein distance.",
+                "tags": [
+                    "command",
+                    "mistyped",
+                    "fuzzy"
+                ],
+                "type": "COG"
+            },
             "embedcreator": {
                 "author": [
                     "Kreusada"
