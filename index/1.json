@@ -14506,6 +14506,88 @@
         },
         "short": "SS13 cogs"
     },
+    "https://github.com/cryosphericleaf/ncogs": {
+        "author": [
+            "nem"
+        ],
+        "description": "",
+        "name": "ncogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "emojimanager": {
+                "author": [
+                    "nem"
+                ],
+                "description": "Add, remove emojis and track emoji usage.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    12
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage Emojis.",
+                "tags": [
+                    "emoji"
+                ],
+                "type": ""
+            },
+            "multicommands": {
+                "author": [
+                    "nem"
+                ],
+                "description": "Run multiple commands from a single message.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    12
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Run multiple commands from a single message.",
+                "tags": [],
+                "type": ""
+            },
+            "serverauctions": {
+                "author": [
+                    "nem"
+                ],
+                "description": "Simulates auctions using Discord threads.\nActions can be created by an auctioneer or the bot owner.\n`[p]auction contract` to make someone an auctioneer.\nYou can also use Red's bank for managing auction funds.\n`[p]auction togglebank` to enable or disable Red's bank, By default, the bank is not used and any user can bid any amount.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data except for user ids to track auctions",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    12
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Server Auctions using Discord threads.",
+                "tags": [
+                    "auctions"
+                ],
+                "type": ""
+            }
+        },
+        "short": ""
+    },
     "https://github.com/designbyadrian/CogsByAdrian": {
         "author": [
             "ThinkAdrian"
