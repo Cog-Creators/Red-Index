@@ -22606,7 +22606,7 @@
                 "description": "Autorole based on the invite the user used.\nIf the user joined using invite x, they will get a list of roles linked to invite x.",
                 "disabled": false,
                 "end_user_data_statement": "",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
