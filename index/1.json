@@ -3002,29 +3002,6 @@
                 ],
                 "type": ""
             },
-            "phantomcleanup": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "A Discord bot cog to clean up damage related to phantom logger raids.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Cleanup tool for phantom logger raid damage.",
-                "tags": [
-                    "cleanup",
-                    "moderation",
-                    "discord",
-                    "security"
-                ],
-                "type": ""
-            },
             "ping": {
                 "author": [
                     "adminescalation",
@@ -3283,6 +3260,31 @@
                     "live",
                     "alerts",
                     "discord"
+                ],
+                "type": ""
+            },
+            "transcriber": {
+                "author": [
+                    "movelaterally"
+                ],
+                "description": "A Discord bot cog that transcribes voice notes using AI models.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Transcribe voice notes with OpenAI.",
+                "tags": [
+                    "transcription",
+                    "voice",
+                    "OpenAI",
+                    "Discord"
                 ],
                 "type": ""
             },
