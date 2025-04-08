@@ -2837,6 +2837,29 @@
                 ],
                 "type": ""
             },
+            "fileinfo": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog to display debug information about files shared in a channel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "File information display cog.",
+                "tags": [
+                    "file",
+                    "information",
+                    "discord",
+                    "cog"
+                ],
+                "type": ""
+            },
             "infocontrol": {
                 "author": [
                     "adminelevation"
@@ -2978,32 +3001,6 @@
                 ],
                 "short": "AI-powered text moderation using frontier models.",
                 "tags": [],
-                "type": ""
-            },
-            "ontherecord": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "A cog to record and transcribe voice channels.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "soundfile",
-                    "aiohttp"
-                ],
-                "short": "Record and transcribe voice channels.",
-                "tags": [
-                    "audio",
-                    "recording",
-                    "transcription",
-                    "voice"
-                ],
                 "type": ""
             },
             "openbanlist": {
