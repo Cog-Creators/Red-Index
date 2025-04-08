@@ -3259,6 +3259,29 @@
                 ],
                 "type": ""
             },
+            "summarizer": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "This cog provides a summary of chat activity in a server, allowing users to see recent messages and activity.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Summarize chat activity for users.",
+                "tags": [
+                    "chat",
+                    "summary",
+                    "activity",
+                    "discord"
+                ],
+                "type": ""
+            },
             "tiktoklive": {
                 "author": [
                     "adminelevation"
