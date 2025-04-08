@@ -2980,6 +2980,32 @@
                 "tags": [],
                 "type": ""
             },
+            "ontherecord": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A cog to record and transcribe voice channels.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "soundfile",
+                    "aiohttp"
+                ],
+                "short": "Record and transcribe voice channels.",
+                "tags": [
+                    "audio",
+                    "recording",
+                    "transcription",
+                    "voice"
+                ],
+                "type": ""
+            },
             "openbanlist": {
                 "author": [
                     "adminelevation"
