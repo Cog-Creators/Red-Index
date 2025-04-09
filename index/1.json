@@ -20308,12 +20308,12 @@
                 "author": [
                     "max"
                 ],
-                "description": "Easter hunt cog that provides a fun Easter-themed game where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "description": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.14",
                 "min_python_version": [
                     3,
                     9,
@@ -20322,13 +20322,12 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Easter hunt cog that provides a fun Easter-themed game where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "short": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
                 "tags": [
                     "easter",
                     "hunting",
-                    "eggs",
-                    "leaderboard",
-                    "achievements",
+                    "easter eggs",
+                    "economy",
                     "work",
                     "steal"
                 ],
