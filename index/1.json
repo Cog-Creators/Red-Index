@@ -2481,7 +2481,7 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "A cog to let you interact with war intelligence within Ukraine. Endpoints this cog uses were datamined and may stop working at anytime/at the choice of the Ukrainian government",
+                "description": "A Discord cog to fetch and display recent war activity alerts in Ukraine using the alerts.in.ua API.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -2490,13 +2490,16 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aiohttp"
+                ],
                 "short": "Fetch and display recent war activity alerts.",
                 "tags": [
                     "alerts",
                     "war",
                     "activity",
-                    "discord"
+                    "discord",
+                    "ukraine"
                 ],
                 "type": ""
             },
@@ -2504,21 +2507,26 @@
                 "author": [
                     "adminescalation"
                 ],
-                "description": "Enable scanning and detection for known malicious links, with customizable alert and/or punishment options, backed by enterprise-grade threat intelligence.",
+                "description": "Guard users from malicious links and phishing attempts with customizable protection options, backed by enterprise-grade threat intelligence.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores no user information. This cog stores statistical information about threats actioned while installed. While using this cog, your bot's public IP may be revealed when following and scanning cloaked links, and will be logged by us when your bot fetches blocklist updates",
+                "end_user_data_statement": "This cog stores no user information. It stores statistical information about threats actioned while installed.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [
-                    "embed_links"
+                    "embed_links",
+                    "manage_messages",
+                    "kick_members",
+                    "ban_members",
+                    "moderate_members"
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "tldextract"
+                    "tldextract",
+                    "aiohttp"
                 ],
-                "short": "Screen for malicious links in your server",
+                "short": "Guard against malicious links in your server",
                 "tags": [],
                 "type": ""
             },
@@ -2526,7 +2534,7 @@
                 "author": [
                     "adminescalation"
                 ],
-                "description": "Interact with Cloudflare services thru your Discord bot",
+                "description": "Manage and interact with Cloudflare services through your Discord bot",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -2540,12 +2548,17 @@
                 "requirements": [
                     "aiohttp"
                 ],
-                "short": "Interact with your Cloudflare account, zones, and assets thru Red-Discordbot",
+                "short": "Manage your Cloudflare account, zones, and assets through Red-Discordbot",
                 "tags": [
                     "R2",
                     "Email Routing",
                     "HyperDrive",
-                    "Intelligence"
+                    "Intelligence",
+                    "DNSSEC",
+                    "Load Balancing",
+                    "Bot Management",
+                    "Domain History",
+                    "URL Scanning"
                 ],
                 "type": ""
             },
