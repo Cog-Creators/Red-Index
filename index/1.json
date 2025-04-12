@@ -3112,6 +3112,31 @@
                 ],
                 "type": ""
             },
+            "twilio": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "A Discord bot cog to lookup phone numbers using the Twilio API and charge users via Stripe.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Phone number lookup using Twilio.",
+                "tags": [
+                    "twilio",
+                    "phone",
+                    "lookup",
+                    "stripe"
+                ],
+                "type": ""
+            },
             "urlscan": {
                 "author": [
                     "adminescalation",
