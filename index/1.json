@@ -2586,6 +2586,36 @@
                 ],
                 "type": ""
             },
+            "extendedmodlog": {
+                "author": [
+                    "RePulsR",
+                    "TrustyJAID",
+                    "adminelevation"
+                ],
+                "description": "A fork of extendedmodlog with significant style and functionality changes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track changes made in the server.",
+                "tags": [
+                    "mod",
+                    "logs",
+                    "modlogs"
+                ],
+                "type": "COG"
+            },
             "fileinfo": {
                 "author": [
                     "adminelevation"
