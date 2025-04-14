@@ -9918,6 +9918,28 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "RPCalander": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A cog for managing an RP calendar with daily updates.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "RP calendar with daily updates.",
+                "tags": [
+                    "calendar",
+                    "rp",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "RandomWeather": {
                 "author": [
                     "Taako"
