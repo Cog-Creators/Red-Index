@@ -9931,7 +9931,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pytz"
+                ],
                 "short": "RP calendar with daily updates.",
                 "tags": [
                     "calendar",
