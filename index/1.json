@@ -2787,7 +2787,7 @@
                 ],
                 "description": "AI-powered automatic text moderation using frontier moderation models from OpenAI. Get AI-powered moderation in your server for absolutely free",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores server-specific configuration data such as API keys, moderation settings, and message statistics.",
+                "end_user_data_statement": "This cog stores server-specific data like statistics and settings. A copy of moderated messages are transmitted and temporarily stored for developer validation.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -2800,7 +2800,7 @@
                 "requirements": [
                     "aiohttp"
                 ],
-                "short": "AI-powered text moderation using frontier models.",
+                "short": "AI-powered text and image moderation using frontier AI models.",
                 "tags": [],
                 "type": ""
             },
