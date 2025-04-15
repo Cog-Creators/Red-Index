@@ -9944,7 +9944,7 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "A cog for generating random daily weather updates.",
+                "description": "A cog for generating random daily weather updates with realistic seasonal patterns.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
@@ -9954,11 +9954,12 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Random weather generator.",
+                "short": "Smart weather generator with seasonal patterns.",
                 "tags": [
                     "weather",
                     "random",
-                    "utility"
+                    "utility",
+                    "roleplay"
                 ],
                 "type": "COG"
             }
