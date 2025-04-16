@@ -10253,6 +10253,31 @@
                     "roleplay"
                 ],
                 "type": "COG"
+            },
+            "YALC": {
+                "author": "Taako",
+                "description": "\ud83d\udcdd Yet Another Logging Cog (YALC)! Logs all the spicy server events with style and fun! \ud83c\udf89",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores log channel and event settings per guild. No personal user data is stored.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A fun and powerful logging cog for Redbot.",
+                "tags": [
+                    "logging",
+                    "moderation",
+                    "utility",
+                    "fun"
+                ],
+                "type": "COG"
             }
         },
         "short": "High-quality cogs for Red-DiscordBot."
