@@ -4774,6 +4774,31 @@
                 ],
                 "type": "COG"
             },
+            "shibe": {
+                "author": [
+                    "Chris/Gai",
+                    "Glas"
+                ],
+                "description": "Dedicated to my shiba loving friend <3 Use `[p]shibe` to get a random shiba picture!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Get a random shiba pic",
+                "tags": [
+                    "shiba"
+                ],
+                "type": ""
+            },
             "ship": {
                 "author": [
                     "Glas"
