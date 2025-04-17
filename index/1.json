@@ -10258,21 +10258,27 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "\ud83d\udcdd Yet Another Logging Cog (YALC)! Logs all the spicy server events with style and fun! \ud83c\udf89",
+                "description": "\ud83d\udcdd A powerful Discord server logging cog with customizable events, channels, and filters. Supports both classic and slash commands.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores log channel and event settings per guild. No personal user data is stored.",
+                "end_user_data_statement": "This cog stores guild-specific settings like log channels and event configurations. No personal user data is stored permanently.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Yet Another Logging Cog",
+                "short": "Comprehensive server logging with style!",
                 "tags": [
                     "logging",
                     "moderation",
-                    "utility"
+                    "utility",
+                    "admin",
+                    "audit"
                 ],
                 "type": "COG"
             }
