@@ -3928,6 +3928,33 @@
                     "notifier"
                 ],
                 "type": "COG"
+            },
+            "ytdownloader": {
+                "author": [
+                    "blizzardthewolf"
+                ],
+                "description": "Convert youtube videos to either MP3 or MP4 using this cog!",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.4",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp",
+                    "ffmpeg"
+                ],
+                "short": "Convert youtube video's to MP3 or MP4",
+                "tags": [
+                    "youtube",
+                    "mp4",
+                    "mp3",
+                    "converter",
+                    "downloader"
+                ],
+                "type": ""
             }
         },
         "short": "some random cogs I made for my own use and decided to make public."
