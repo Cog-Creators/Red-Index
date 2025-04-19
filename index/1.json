@@ -10207,6 +10207,31 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "Fable": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A living world tracker for character-driven RP groups. Track characters, relationships, events, and lore collaboratively.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Living world tracker for RP groups.",
+                "tags": [
+                    "rp",
+                    "roleplay",
+                    "tracker",
+                    "characters",
+                    "lore",
+                    "timeline"
+                ],
+                "type": "COG"
+            },
             "RPCalander": {
                 "author": [
                     "Taako"
