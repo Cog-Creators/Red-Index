@@ -260,3 +260,5 @@ flagged-cogs:
     - temprole
     - translate
     - uploadstreaks
+  https://github.com/phenom4n4n/phen-cogs:
+    - slashtags
