@@ -23962,7 +23962,8 @@
                 "requirements": [
                     "openai",
                     "pillow",
-                    "markdownify"
+                    "markdownify",
+                    "async-lru"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
