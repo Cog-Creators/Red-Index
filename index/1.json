@@ -4025,6 +4025,33 @@
                     "games"
                 ],
                 "type": "COG"
+            },
+            "reactboard": {
+                "author": [
+                    "CalaMariGold"
+                ],
+                "description": "Provides a command (`reactboard`) to show messages with the most reactions in the server, with an option to filter by emoji. Tracks reactions using event listeners.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores message IDs, channel IDs, and reaction counts per guild to provide the leaderboard functionality. It also stores a guild setting for including NSFW channels. Data is pruned when messages are deleted or reactions are removed. No user data is stored directly.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Leaderboard for message reactions.",
+                "tags": [
+                    "reactions",
+                    "leaderboard",
+                    "utility",
+                    "reactboard"
+                ],
+                "type": "COG"
             }
         },
         "short": "Collection of utility cogs for Red v3"
