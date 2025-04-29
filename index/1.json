@@ -20085,7 +20085,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow"
+                    "pillow>=10.1.0"
                 ],
                 "short": "Play Higher Or Lower, win big!",
                 "tags": [
