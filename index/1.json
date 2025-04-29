@@ -1978,6 +1978,37 @@
                 ],
                 "type": ""
             },
+            "onepiecebounties": {
+                "author": [
+                    "AAA3A",
+                    "ultpanda"
+                ],
+                "description": "Give One Piece's bounties to your members, based on their time in the server, their level and their roles, then generate their wanted posters, and also welcome them when they join!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "one-piece-wanted-poster"
+                ],
+                "short": "Give One Piece's bounties to your members, based on their time in the server, their level and their roles, then generate their wanted posters, and also welcome them when they join!",
+                "tags": [
+                    "one",
+                    "piece",
+                    "bounty",
+                    "level",
+                    "roles",
+                    "wanted",
+                    "poster",
+                    "welcome"
+                ],
+                "type": ""
+            },
             "onepiecegame": {
                 "author": [
                     "AAA3A"
