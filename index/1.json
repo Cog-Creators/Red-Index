@@ -24062,10 +24062,11 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai",
-                    "pillow",
-                    "markdownify",
-                    "async-lru"
+                    "openai==1.76.2",
+                    "pillow==11.2.1",
+                    "markdownify==1.1.0",
+                    "async-lru==2.0.5",
+                    "beautifulsoup4==4.13.4"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
