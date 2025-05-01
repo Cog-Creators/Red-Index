@@ -2292,7 +2292,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Ping a role when a rumble starts, and let members suscribe or unsuscribe from the notifications!",
+                "description": "Ping a role when a rumble starts, and let members subscribe or unsubscribe from the notifications!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -2304,10 +2304,11 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "Ping a role when a rumble starts, and let members suscribe or unsuscribe from the notifications!",
+                "short": "Ping a role when a rumble starts, and let members subscribe or unsubscribe from the notifications!",
                 "tags": [
                     "rumble",
-                    "notifier"
+                    "notifier",
+                    "subscribing"
                 ],
                 "type": ""
             },
