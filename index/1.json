@@ -2987,31 +2987,6 @@
                 ],
                 "type": ""
             },
-            "homeworkai": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "Ask AI-powered questions about your homework! Includes application, phone verification, and billing integration.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user application data, phone numbers, and billing information (customer ID) for the purpose of managing access and billing. Data is not shared with third parties except for required integrations (OpenAI, Stripe, Twilio).",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "AI-powered homework help with billing and application system.",
-                "tags": [
-                    "ai",
-                    "homework",
-                    "education",
-                    "stripe",
-                    "twilio",
-                    "openai"
-                ],
-                "type": ""
-            },
             "honeypot": {
                 "author": [
                     "adminelevation"
@@ -3358,6 +3333,31 @@
                 "requirements": [],
                 "short": "Send server rules",
                 "tags": [],
+                "type": ""
+            },
+            "schoolworkai": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Ask AI-powered questions about your homework! Includes application, phone verification, and billing integration.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user application data, phone numbers, and billing information (customer ID) for the purpose of managing access and billing. Data is not shared with third parties except for required integrations (OpenAI, Stripe, Twilio).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "AI-powered homework help with billing and application system.",
+                "tags": [
+                    "ai",
+                    "homework",
+                    "education",
+                    "stripe",
+                    "twilio",
+                    "openai"
+                ],
                 "type": ""
             },
             "serverinfo": {
