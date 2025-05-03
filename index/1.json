@@ -19837,7 +19837,7 @@
                     "aiolimiter",
                     "Pillow",
                     "aiowowapi==2.1.5",
-                    "git+https://github.com/karlsbjorn/raiderio-async.git@v1.1.1",
+                    "raiderio-async",
                     "dictdiffer",
                     "rapidfuzz",
                     "beautifulsoup4"
