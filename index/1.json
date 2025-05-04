@@ -19565,7 +19565,7 @@
         "description": "Cogs for WoW and other stuff.",
         "name": "karlo-cogs",
         "rx_branch": "",
-        "rx_category": "unapproved",
+        "rx_category": "approved",
         "rx_cogs": {
             "autoplay": {
                 "author": [
