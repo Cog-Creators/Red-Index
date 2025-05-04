@@ -62,6 +62,7 @@ approved:
   - https://github.com/sravan1946/sravan-cogs
   - https://github.com/Grommish/Grommish-Cogs
   - https://github.com/reediculous456/Reediculous-Cogs
+  - https://github.com/karlsbjorn/karlo-cogs
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
@@ -72,7 +73,6 @@ unapproved:
   - https://github.com/goonstation/gooncogs
   - https://github.com/NoPlagiarism/PlusyCogs
   - https://github.com/jakehlee/JDG-Cogs-V3
-  - https://github.com/karlsbjorn/karlo-cogs
   - https://github.com/Flame442/FlameBountyCogs
   - https://github.com/jmesfo0/jmes-cogs
   - https://github.com/orchidalloy/crab-cogs
