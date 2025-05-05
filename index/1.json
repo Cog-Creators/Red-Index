@@ -15302,6 +15302,39 @@
         },
         "short": "Cogs by luna"
     },
+    "https://github.com/duduws/duduw-cogs": {
+        "author": [
+            "duduws"
+        ],
+        "description": "A collection of custom cogs developed for Red-DiscordBot, including advanced audio features and much more.",
+        "name": "duduw-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "enchanced_audio": {
+                "author": "duduw",
+                "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds and custom commands for a better music playback experience.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "audio",
+                    "music",
+                    "interactive",
+                    "redbot"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Custom cogs for Red-DiscordBot."
+    },
     "https://github.com/elijabesu/SauriCogs": {
         "author": [
             "saurichable"
