@@ -15312,7 +15312,9 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "enchanced_audio": {
-                "author": "duduw",
+                "author": [
+                    "duduw"
+                ],
                 "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds and custom commands for a better music playback experience.",
                 "disabled": false,
                 "end_user_data_statement": "",
