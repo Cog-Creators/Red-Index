@@ -21005,7 +21005,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Disallow spoilers in your server.",
+                "description": "Prevent spoilers in the server by deleting messages with spoiler tags or attachments.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -21022,7 +21022,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Disallow spoilers in your server.",
+                "short": "Prevent spoilers in the server by deleting messages with spoiler tags or attachments.",
                 "tags": [
                     "spoiler",
                     "nospoiler"
