@@ -19669,7 +19669,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Py-Lav"
+                    "Py-Lav",
+                    "aiolimiter"
                 ],
                 "short": "Third-party PyLav cog to have the bot automatically set a channel status while a track is playing.",
                 "tags": [
