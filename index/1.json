@@ -20689,7 +20689,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "tabulate"
+                    "tabulate",
+                    "emoji"
                 ],
                 "short": "Count from 1 to infinity! with some customizable settings.",
                 "tags": [
