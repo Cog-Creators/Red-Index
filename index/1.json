@@ -15313,7 +15313,7 @@
         "rx_cogs": {
             "enhanced_audio": {
                 "author": [
-                    "duduw"
+                    "duduws"
                 ],
                 "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds, ephemeral responses, full slash command support, auto-disconnect from voice channels, and automatic cleanup of old Audio cog messages.",
                 "disabled": false,
@@ -15325,7 +15325,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
+                "short": "Modern audio experience for Redbot with slash commands and interactive embeds.",
                 "tags": [
                     "audio",
                     "music",
