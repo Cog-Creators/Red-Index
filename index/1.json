@@ -15315,7 +15315,7 @@
                 "author": [
                     "duduw"
                 ],
-                "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds, ephemeral responses, and full slash command support for a better music playback experience.",
+                "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds, ephemeral responses, full slash command support, auto-disconnect from voice channels, and automatic cleanup of old Audio cog messages.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -15332,7 +15332,9 @@
                     "interactive",
                     "redbot",
                     "slash",
-                    "modern"
+                    "modern",
+                    "autoclean",
+                    "autodisconnect"
                 ],
                 "type": "COG"
             }
