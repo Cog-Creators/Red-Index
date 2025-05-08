@@ -4200,6 +4200,24 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "bumpalert": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "For those of you competitive about bumping",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores your bump counts and whether or not you registered for alerts",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "For you competitive bumpers",
+                "tags": [],
+                "type": "COG"
+            },
             "genesisapps": {
                 "author": [
                     "chovin (irdumb)"
@@ -4215,7 +4233,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "git+https://github.com/Chovin/pyfoo.git",
-                    "tldextract"
+                    "tldextract",
+                    "async-lru"
                 ],
                 "short": "Eases the application process for the Genesis server",
                 "tags": [
@@ -4309,6 +4328,30 @@
                     "gif",
                     "pixel-art",
                     "art"
+                ],
+                "type": "COG"
+            },
+            "sortinghat": {
+                "author": [
+                    "chovin (irdumb)"
+                ],
+                "description": "People use a command to sort themselves into one of several customizable roles. The role membership can be set to have a balanced distribution",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Have people sort themselves into roles",
+                "tags": [
+                    "tool",
+                    "util",
+                    "roles",
+                    "self",
+                    "assign"
                 ],
                 "type": "COG"
             }
