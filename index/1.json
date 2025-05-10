@@ -7915,9 +7915,9 @@
     },
     "https://github.com/Just-Jojo/JojoCogs": {
         "author": [
-            "Jojo#7791"
+            "Amy (jojo7791)"
         ],
-        "description": "Just a bunch of weird cogs developed by Jojo.",
+        "description": "Just a bunch of weird cogs developed by Amy (jojo7791).",
         "name": "JojoCogs",
         "rx_branch": "",
         "rx_category": "approved",
@@ -8052,6 +8052,26 @@
                 ],
                 "type": "COG"
             },
+            "simpletag": {
+                "author": [
+                    "Amy (jojo7791)"
+                ],
+                "description": "Create simple tags",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data provided by users for the express purpose of redisplaying. It does not store user data which was not provided through a command. Users may remove their own data without making a data removal request. This cog does not support data reqeusts, but will respect deletion requests",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create simple tags",
+                "tags": [
+                    "custom command"
+                ],
+                "type": "COG"
+            },
             "todo": {
                 "author": [
                     "Jojo#7791"
@@ -8077,7 +8097,7 @@
                 "type": "COG"
             }
         },
-        "short": "Silly (and sometimes useful) cogs by Jojo"
+        "short": "Silly (and sometimes useful) cogs by Amy (jojo7791)"
     },
     "https://github.com/Kowlin/Sentinel": {
         "author": [
