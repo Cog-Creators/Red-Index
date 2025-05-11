@@ -8068,7 +8068,9 @@
                 "requirements": [],
                 "short": "Create simple tags",
                 "tags": [
-                    "custom command"
+                    "custom command",
+                    "tags",
+                    "tag"
                 ],
                 "type": "COG"
             },
