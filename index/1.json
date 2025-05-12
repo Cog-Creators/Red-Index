@@ -10494,7 +10494,7 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "A cog for generating random daily weather updates with realistic seasonal patterns and rare extreme weather events that follow natural seasons and enhanced winter conditions.",
+                "description": "A cog for generating random daily weather updates with realistic seasonal patterns and dramatic emergency alerts for rare extreme weather events.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
