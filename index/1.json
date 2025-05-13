@@ -10470,7 +10470,7 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "A cog for managing an RP calendar with daily updates.",
+                "description": "A cog for managing an RP calendar with daily updates, moon phase tracking, and blood moon events.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores local data in the form of a `post_tracker.json` file to track the last post timestamp. No end user data is stored or shared.",
                 "hidden": false,
@@ -10482,11 +10482,13 @@
                 "requirements": [
                     "pytz"
                 ],
-                "short": "RP calendar with daily updates.",
+                "short": "RP calendar with daily updates and moon phases.",
                 "tags": [
                     "calendar",
                     "rp",
-                    "utility"
+                    "utility",
+                    "moon",
+                    "weather"
                 ],
                 "type": "COG"
             },
