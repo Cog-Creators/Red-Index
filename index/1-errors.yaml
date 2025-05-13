@@ -1,4 +1,5 @@
 https://github.com/BeeHiveSafety/BeeHive-Cogs:
+  antispam: Error reading cog info.json. Possibly invalid.
   joinmonitor: Error reading cog info.json. Possibly invalid.
   sisterserver: Error reading cog info.json. Possibly invalid.
   v2a: Error reading cog info.json. Possibly invalid.
