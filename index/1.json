@@ -2816,7 +2816,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Dynamic slowmode for channels.",
+                "short": "Adaptive slowmode for channels.",
                 "tags": [
                     "moderation",
                     "slowmode",
