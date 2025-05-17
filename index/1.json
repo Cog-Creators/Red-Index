@@ -2828,33 +2828,6 @@
                 ],
                 "type": ""
             },
-            "antiphishing": {
-                "author": [
-                    "adminescalation"
-                ],
-                "description": "Guard users from malicious links and phishing attempts with customizable protection options, backed by enterprise-grade threat intelligence.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores no user information. It stores statistical information about threats actioned while installed.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [
-                    "embed_links",
-                    "manage_messages",
-                    "kick_members",
-                    "ban_members",
-                    "moderate_members"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "tldextract",
-                    "aiohttp"
-                ],
-                "short": "Guard against malicious links in your server",
-                "tags": [],
-                "type": ""
-            },
             "automod": {
                 "author": [
                     "adminescalation"
@@ -2956,36 +2929,6 @@
                     "auto"
                 ],
                 "type": ""
-            },
-            "extendedmodlog": {
-                "author": [
-                    "RePulsR",
-                    "TrustyJAID",
-                    "adminelevation"
-                ],
-                "description": "A fork of extendedmodlog with significant style and functionality changes.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    7,
-                    2
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Track changes made in the server.",
-                "tags": [
-                    "mod",
-                    "logs",
-                    "modlogs"
-                ],
-                "type": "COG"
             },
             "fileinfo": {
                 "author": [
@@ -3102,6 +3045,63 @@
                     "announcements"
                 ],
                 "type": ""
+            },
+            "linksafety": {
+                "author": [
+                    "adminescalation"
+                ],
+                "description": "Guard users from malicious links and phishing attempts with customizable protection options, backed by enterprise-grade threat intelligence.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores no user information. It stores statistical information about threats actioned while installed.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links",
+                    "manage_messages",
+                    "kick_members",
+                    "ban_members",
+                    "moderate_members"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "tldextract",
+                    "aiohttp"
+                ],
+                "short": "Guard against malicious links in your server",
+                "tags": [],
+                "type": ""
+            },
+            "logging": {
+                "author": [
+                    "RePulsR",
+                    "TrustyJAID",
+                    "adminelevation"
+                ],
+                "description": "A fork of extendedmodlog with significant style and functionality changes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    7,
+                    2
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track changes made in the server.",
+                "tags": [
+                    "mod",
+                    "logs",
+                    "modlogs"
+                ],
+                "type": "COG"
             },
             "names": {
                 "author": [
