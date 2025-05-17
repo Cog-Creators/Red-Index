@@ -2802,6 +2802,29 @@
                 ],
                 "type": ""
             },
+            "adaptiveslowmode": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Automatically adjusts slowmode in specified channels to maintain a target message rate.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Dynamic slowmode for channels.",
+                "tags": [
+                    "moderation",
+                    "slowmode",
+                    "utility",
+                    "auto"
+                ],
+                "type": ""
+            },
             "alertsinua": {
                 "author": [
                     "adminelevation"
@@ -2904,29 +2927,6 @@
                     "disclaimers",
                     "user management",
                     "profession"
-                ],
-                "type": ""
-            },
-            "dynamicslowmode": {
-                "author": [
-                    "adminelevation"
-                ],
-                "description": "Automatically adjusts slowmode in specified channels to maintain a target message rate.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Dynamic slowmode for channels.",
-                "tags": [
-                    "moderation",
-                    "slowmode",
-                    "utility",
-                    "auto"
                 ],
                 "type": ""
             },
