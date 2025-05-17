@@ -3101,7 +3101,7 @@
                     "logs",
                     "modlogs"
                 ],
-                "type": "COG"
+                "type": ""
             },
             "names": {
                 "author": [
