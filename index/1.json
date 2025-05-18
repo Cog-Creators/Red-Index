@@ -1763,6 +1763,30 @@
                 ],
                 "type": ""
             },
+            "karutadropleaderboard": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Get a leaderboard of Karuta drops in your server!",
+                "disabled": false,
+                "end_user_data_statement": "This cog saves levels and XP of users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Get a leaderboard of Karuta drops in your server!",
+                "tags": [
+                    "karuta",
+                    "drops",
+                    "leaderboard"
+                ],
+                "type": ""
+            },
             "kofitracker": {
                 "author": [
                     "AAA3A"
