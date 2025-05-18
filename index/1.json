@@ -2336,6 +2336,31 @@
                 ],
                 "type": ""
             },
+            "rumbleroyaleutils": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Allow Rumble Royale players to check easely if they are dead or not and ping the host when a Rumble Royale ends!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Allow Rumble Royale players to check easely if they are dead or not and ping the host when a Rumble Royale ends!",
+                "tags": [
+                    "rumble",
+                    "royale",
+                    "dead",
+                    "host"
+                ],
+                "type": ""
+            },
             "runcode": {
                 "author": [
                     "AAA3A"
@@ -2545,10 +2570,10 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Have you ever wanted to set up a Tickets system, with many options for the user and the support team, on your server? Then this cog is for you! It has many settings, buttons, a reaction to create the ticket, many commands working in the ticket channel, different roles with access to different options... There is also a system of panels!",
+                "description": "Have you ever wanted to set up a Tickets system, with many options for the user and the support team, on your server? Then this cog is for you! It has many settings, buttons, a reaction to create the ticket, many commands working in the ticket channel, different roles with access to different options... There is also a system of panels!\n\n**Note: The Tickets cog on my repo is a rewrite of TicketTool with a better layout and new features, you should use it instead!**",
                 "disabled": false,
                 "end_user_data_statement": "This cog records all the data needed to operate the ticket system. It records the reason for the ticket, the open/close dates, the members who have opened/closed/claimed a ticket. Apart from deleting the ticket with `[p]ticket delete`, this cog is not configured to delete this operational data. The reason for a user's tickets can be communicated to OpenAI if the user requests informations about their own open tickets with the Vert's Assistant cog.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
