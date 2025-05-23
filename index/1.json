@@ -932,7 +932,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Play the Black Tea game!",
+                "description": "Play the Black Tea game, in multiple languages!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -944,7 +944,7 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "Play the Black Tea game!",
+                "short": "Play the Black Tea game, in multiple languages!",
                 "tags": [
                     "black",
                     "tea",
