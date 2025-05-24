@@ -21408,6 +21408,36 @@
                 ],
                 "type": "COG"
             },
+            "restrictposts": {
+                "author": [
+                    "max"
+                ],
+                "description": "A cog to restrict posts to attachments and links in a specific channel(s).",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.9",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A cog to restrict posts to attachments and links in a specific channel(s).",
+                "tags": [
+                    "moderation",
+                    "attachments",
+                    "links",
+                    "restrict"
+                ],
+                "type": "COG"
+            },
             "themoviedb": {
                 "author": [
                     "max"
