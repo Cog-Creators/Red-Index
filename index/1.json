@@ -2977,6 +2977,32 @@
                 ],
                 "type": ""
             },
+            "antispam": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Detects and mitigates message spam, flooding, copypasta, ascii art, emoji spam, unicode/invisible abuse, and more.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores per-guild configuration and recent message metadata for spam detection. No persistent user data is stored beyond what is required for anti-spam operation.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "rapidfuzz"
+                ],
+                "short": "Heuristic-based anti-spam for Red-DiscordBot.",
+                "tags": [
+                    "moderation",
+                    "antispam",
+                    "raid",
+                    "security",
+                    "utility"
+                ],
+                "type": ""
+            },
             "automod": {
                 "author": [
                     "adminescalation"
