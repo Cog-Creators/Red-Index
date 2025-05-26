@@ -27430,7 +27430,7 @@
                 "description": "Communicate with other servers through Red! Works to and from DMs as well.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store any data or metadata about users. This cog does store user IDs necessary for anti-abuse measures, i.e. blocklists.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
