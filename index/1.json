@@ -15593,6 +15593,34 @@
                     "autodisconnect"
                 ],
                 "type": "COG"
+            },
+            "gccprofile": {
+                "author": [
+                    "Eduardo"
+                ],
+                "description": "A cog for managing Grand Chase Classic player profiles, tracking character stats, and displaying leaderboards. Features OCR for extracting game data from screenshots, guild-specific profiles, and admin controls.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about users' Grand Chase Classic profiles including in-game nickname, C-Level, character statistics, and screenshots. All data is essential for tracking player progress and displaying profiles. Users can delete their data through the standard Red bot data deletion commands.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grand Chase Classic player profile and stats manager",
+                "tags": [
+                    "profile",
+                    "stats",
+                    "gaming",
+                    "grandchase",
+                    "ocr"
+                ],
+                "type": ""
             }
         },
         "short": "Custom cogs for Red-DiscordBot."
