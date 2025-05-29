@@ -17429,6 +17429,108 @@
         "rx_cogs": {},
         "short": "Random fandom cogs"
     },
+    "https://github.com/hollowstrawberry/holo-cogs": {
+        "author": [
+            "hollowstrawberry"
+        ],
+        "description": "Extra spicy cogs.",
+        "name": "holo-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "audioplayer": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Live player interface for the audio cog.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Live player interface for the audio cog.",
+                "tags": [
+                    "holo",
+                    "voice",
+                    "audio",
+                    "music",
+                    "player",
+                    "buttons",
+                    "live"
+                ],
+                "type": ""
+            },
+            "gptmemory": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "OpenAI-powered user with persistent memory. Experimental.",
+                "disabled": false,
+                "end_user_data_statement": "This cog sends the recent chat history to OpenAI servers for the AI to process. It may also store text-based memories containing information about users and past conversations. It is not meant for public use.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai",
+                    "tiktoken",
+                    "expiringdict",
+                    "trafilatura"
+                ],
+                "short": "OpenAI-powered user with persistent memory. Experimental.",
+                "tags": [
+                    "holo",
+                    "ai",
+                    "gpt",
+                    "llm",
+                    "chatgpt",
+                    "chatbot",
+                    "openai"
+                ],
+                "type": ""
+            },
+            "gptwelcome": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Uses AI to give a unique welcome message for each new user, according to their username and avatar.",
+                "disabled": false,
+                "end_user_data_statement": "This cog sends to OpenAI the name and avatar of new users joining the server.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Uses AI to give a unique welcome message for each new user.",
+                "tags": [
+                    "holo",
+                    "ai",
+                    "gpt",
+                    "llm",
+                    "chatgpt",
+                    "chatbot",
+                    "welcome",
+                    "openai"
+                ],
+                "type": ""
+            }
+        },
+        "short": "holo-cogs"
+    },
     "https://github.com/i-am-zaidali/bounty-cogs": {
         "author": [
             "crayyy_zee"
@@ -22158,66 +22260,6 @@
                     "genshin",
                     "impact",
                     "random"
-                ],
-                "type": ""
-            },
-            "gptmemory": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "OpenAI-powered user with persistent memory. Experimental.",
-                "disabled": false,
-                "end_user_data_statement": "This cog sends the recent chat history to OpenAI servers for the AI to process. It may also store text-based memories containing information about users and past conversations. It is not meant for public use.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "openai",
-                    "tiktoken",
-                    "expiringdict",
-                    "trafilatura"
-                ],
-                "short": "OpenAI-powered user with persistent memory. Experimental.",
-                "tags": [
-                    "crab",
-                    "ai",
-                    "gpt",
-                    "llm",
-                    "chatgpt",
-                    "chatbot",
-                    "openai"
-                ],
-                "type": ""
-            },
-            "gptwelcome": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Uses AI to give a unique welcome message for each new user, according to their username and avatar.",
-                "disabled": false,
-                "end_user_data_statement": "This cog sends to OpenAI the name and avatar of new users joining the server.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "openai"
-                ],
-                "short": "Uses AI to give a unique welcome message for each new user.",
-                "tags": [
-                    "crab",
-                    "ai",
-                    "gpt",
-                    "llm",
-                    "chatgpt",
-                    "chatbot",
-                    "welcome",
-                    "openai"
                 ],
                 "type": ""
             },
