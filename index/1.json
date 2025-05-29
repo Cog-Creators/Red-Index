@@ -21193,9 +21193,7 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [
-                    "pytz"
-                ],
+                "requirements": [],
                 "short": "A cog to display historical events for the current day.",
                 "tags": [
                     "history",
