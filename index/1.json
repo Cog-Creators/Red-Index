@@ -17442,7 +17442,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Live player interface for the audio cog.",
+                "description": "Live player interface for the audio cog. Updates every 10 seconds or whenever the song changes or you press a button. Stays at the bottom of chat for as long as there is audio playing.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -17478,7 +17478,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -17509,7 +17513,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
