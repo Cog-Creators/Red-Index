@@ -4731,7 +4731,7 @@
                     "TrustyJaid",
                     "Glas"
                 ],
-                "description": "Generates a bubble speech on images!.",
+                "description": "Generates a bubble speech on images!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -4740,8 +4740,10 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Generates a bubble speech on images!.",
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "",
                 "tags": [
                     "image",
                     "bubble",
@@ -4776,33 +4778,6 @@
                 ],
                 "type": "COG"
             },
-            "doro": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "A cog that dorifies user avatars.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": [
-                    3,
-                    10,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Dorifier Cog",
-                "tags": [
-                    "fun",
-                    "avatar",
-                    "doro",
-                    "nikke"
-                ],
-                "type": "COG"
-            },
             "fire": {
                 "author": [
                     "TrustyJaid",
@@ -4817,9 +4792,7 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [
-                    "yt-dlp==2025.1.15"
-                ],
+                "requirements": [],
                 "short": "Generates a random firework.",
                 "tags": [
                     "image",
@@ -4884,11 +4857,17 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "howlongtobeatpy"
+                    "howlongtobeatpy",
+                    "fake-useragent>=2.0.3",
+                    "fuzzywuzzy"
                 ],
                 "short": "Fetch game information from HowLongToBeat.com",
                 "tags": [
@@ -4900,6 +4879,7 @@
             },
             "letterdance": {
                 "author": [
+                    "ntoskrn",
                     "Glas"
                 ],
                 "description": "Dance with letters!",
@@ -4957,11 +4937,12 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": "3.11.0",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "moviepy",
+                    "moviepy==2.1.2",
+                    "numpy>=1.25.0",
                     "rapidfuzz",
                     "Unidecode"
                 ],
@@ -5070,23 +5051,24 @@
             },
             "redbus": {
                 "author": [
+                    "TrustyJaid",
                     "Glas"
                 ],
-                "description": "Fetches detailed bus stop (Chile) information from an API and displays it in a Discord embed.",
+                "description": "Generates a random firework from an API.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Fetches bus (Chile) stop information.",
+                "short": "Find bus stop information in Chile.",
                 "tags": [
-                    "bus",
-                    "transportation",
-                    "info"
+                    "image",
+                    "firework",
+                    "gif"
                 ],
                 "type": "COG"
             },
@@ -5247,6 +5229,7 @@
             },
             "vwiki": {
                 "author": [
+                    "daffpy",
                     "Glas"
                 ],
                 "description": "Search info on vtubers",
@@ -5259,7 +5242,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "unidecode"
+                    "vtuberwiki-py"
                 ],
                 "short": "Obtains data from Virtual YouTuber Wiki!",
                 "tags": [
@@ -5350,8 +5333,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "Pillow==9.5.0",
-                    "unidecode"
+                    "Pillow==9.5.0"
                 ],
                 "short": "Steal a!",
                 "tags": [
