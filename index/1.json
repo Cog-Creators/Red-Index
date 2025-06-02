@@ -3591,7 +3591,7 @@
                 "author": [
                     "adminelevation"
                 ],
-                "description": "This cog provides a summary of chat activity in a server, allowing users to see recent messages and activity.",
+                "description": "Summarize chat activity, news stories, server info, and moderation logs using advanced AI models. Includes support for premium models, Stripe integration, and customizable summaries.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -3603,13 +3603,17 @@
                 "requirements": [
                     "aiohttp",
                     "stripe",
-                    "colorthief"
+                    "colorthief",
+                    "tiktoken"
                 ],
-                "short": "Summarize chat activity for users.",
+                "short": "AI-powered summaries for chat, news, and moderation.",
                 "tags": [
-                    "chat",
-                    "summary",
-                    "activity",
+                    "summarizer",
+                    "news",
+                    "moderation",
+                    "ai",
+                    "openai",
+                    "stripe",
                     "discord"
                 ],
                 "type": ""
