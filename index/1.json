@@ -3729,6 +3729,32 @@
                 ],
                 "type": ""
             },
+            "triageanalysis": {
+                "author": [
+                    "adminelevation"
+                ],
+                "description": "Integrate with tria.ge for malware analysis, autoscan, and moderation actions.",
+                "disabled": false,
+                "end_user_data_statement": "This cog may store sample IDs, scan results, and user actions for moderation and logging purposes. No personal data is shared with third parties.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pyzipper"
+                ],
+                "short": "Triage malware analysis integration",
+                "tags": [
+                    "malware",
+                    "security",
+                    "triage",
+                    "analysis",
+                    "moderation"
+                ],
+                "type": ""
+            },
             "twilio": {
                 "author": [
                     "adminelevation"
