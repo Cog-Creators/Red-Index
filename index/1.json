@@ -22115,35 +22115,6 @@
                 ],
                 "type": ""
             },
-            "dalle": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Generate images with OpenAI's Dall-E 3",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "openai"
-                ],
-                "short": "Generate images with OpenAI's Dall-E 3.",
-                "tags": [
-                    "crab",
-                    "image",
-                    "ai",
-                    "generation",
-                    "imagine",
-                    "dalle",
-                    "dall-e",
-                    "openai"
-                ],
-                "type": ""
-            },
             "draw": {
                 "author": [
                     "hollowstrawberry"
@@ -22313,6 +22284,35 @@
                     "genshin",
                     "impact",
                     "random"
+                ],
+                "type": ""
+            },
+            "gptimage": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generate images with OpenAI",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Generate images with OpenAI",
+                "tags": [
+                    "crab",
+                    "image",
+                    "ai",
+                    "generation",
+                    "imagine",
+                    "dalle",
+                    "dall-e",
+                    "openai"
                 ],
                 "type": ""
             },
