@@ -15603,6 +15603,73 @@
         },
         "short": "Cogs by luna"
     },
+    "https://github.com/duduws/duduw-cogs": {
+        "author": [
+            "duduws"
+        ],
+        "description": "A collection of custom cogs developed for Red-DiscordBot, including advanced audio features and much more.",
+        "name": "duduw-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "enhanced_audio": {
+                "author": [
+                    "duduws"
+                ],
+                "description": "An enhanced version of Redbot's Audio cog, featuring interactive embeds, ephemeral responses, full slash command support, auto-disconnect from voice channels, and automatic cleanup of old Audio cog messages.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Modern audio experience for Redbot with slash commands and interactive embeds.",
+                "tags": [
+                    "audio",
+                    "music",
+                    "interactive",
+                    "redbot",
+                    "slash",
+                    "modern",
+                    "autoclean",
+                    "autodisconnect"
+                ],
+                "type": "COG"
+            },
+            "gccprofile": {
+                "author": [
+                    "Eduardo"
+                ],
+                "description": "A cog for managing Grand Chase Classic player profiles, tracking character stats, and displaying leaderboards. Features OCR for extracting game data from screenshots, guild-specific profiles, and admin controls.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data about users' Grand Chase Classic profiles including in-game nickname, C-Level, character statistics, and screenshots. All data is essential for tracking player progress and displaying profiles. Users can delete their data through the standard Red bot data deletion commands.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Grand Chase Classic player profile and stats manager",
+                "tags": [
+                    "profile",
+                    "stats",
+                    "gaming",
+                    "grandchase",
+                    "ocr"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Custom cogs for Red-DiscordBot."
+    },
     "https://github.com/elijabesu/SauriCogs": {
         "author": [
             "saurichable"
