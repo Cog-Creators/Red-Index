@@ -2464,6 +2464,40 @@
                 ],
                 "type": ""
             },
+            "security": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Protect your servers from unwanted members, spam, but also from nuke attacks and more! This includes a quarantine/modlog system, and many modules like Auto Mod, Reports, Logging, Anti Nuke, Protected Roles, and more!",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "onetimepass",
+                    "qrcode",
+                    "pillow",
+                    "numpy",
+                    "fuzzywuzzy",
+                    "emoji",
+                    "chat-exporter"
+                ],
+                "short": "Protect your servers from unwanted members, spam, but also from nuke attacks and more! This includes a quarantine/modlog system, and many modules like Auto Mod, Reports, Logging, Anti Nuke, Protected Roles, and more!",
+                "tags": [
+                    "security",
+                    "spam",
+                    "raid",
+                    "protection",
+                    "nuke",
+                    "logging"
+                ],
+                "type": ""
+            },
             "seen": {
                 "author": [
                     "AAA3A"
