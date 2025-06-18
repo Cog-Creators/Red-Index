@@ -41,7 +41,7 @@
                 "description": "Aurora is a fully-featured moderation system. It is heavily inspired by GalacticBot, and is designed to be a more user-friendly alternative to Red's core Mod cogs. This cog stores all of its data in an SQLite database.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores the following information:\n- User IDs of accounts who moderate users or are moderated\n- Guild IDs of guilds with the cog enabled\n- Timestamps of moderations\n- Other information relating to moderations",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
