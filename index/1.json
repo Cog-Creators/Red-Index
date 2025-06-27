@@ -183,7 +183,7 @@
                 "author": [
                     "cswimr"
                 ],
-                "description": "",
+                "description": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -199,7 +199,7 @@
                 "requirements": [
                     "red-tidegear[pydantic]>=1.0.6"
                 ],
-                "short": "",
+                "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
                     "git",
                     "github",
