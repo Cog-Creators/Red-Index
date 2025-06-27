@@ -179,6 +179,37 @@
                 ],
                 "type": ""
             },
+            "issuecards": {
+                "author": [
+                    "cswimr"
+                ],
+                "description": "",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.17",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "red-tidegear[pydantic]>=1.0.6"
+                ],
+                "short": "",
+                "tags": [
+                    "git",
+                    "github",
+                    "forgejo",
+                    "gitea",
+                    "gitlab",
+                    "issues"
+                ],
+                "type": ""
+            },
             "nerdify": {
                 "author": [
                     "cswimr"
