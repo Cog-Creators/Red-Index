@@ -278,12 +278,14 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    8,
+                    10,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "red-tidegear>=1.0.6",
+                    "dnspython",
                     "beautifulsoup4",
                     "markdownify"
                 ],
