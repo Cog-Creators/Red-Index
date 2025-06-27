@@ -121,6 +121,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "red-tidegear>=1.0.6",
                     "colorthief"
                 ],
                 "short": "Retrieve information about emojis.",
