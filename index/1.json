@@ -235,6 +235,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.0.6",
+                    "pymcsrvstatus>=1.1.2",
                     "websockets"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
@@ -21236,35 +21237,6 @@
                 "tags": [
                     "currency",
                     "convert currency"
-                ],
-                "type": "COG"
-            },
-            "easterhunt": {
-                "author": [
-                    "max"
-                ],
-                "description": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.14",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
-                "tags": [
-                    "easter",
-                    "hunting",
-                    "easter eggs",
-                    "economy",
-                    "work",
-                    "steal"
                 ],
                 "type": "COG"
             },
