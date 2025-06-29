@@ -234,7 +234,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/iamkubi/pydactyl@v2.0.5",
+                    "red-tidegear>=1.0.6",
                     "websockets"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
