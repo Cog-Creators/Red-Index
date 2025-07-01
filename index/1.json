@@ -2498,6 +2498,7 @@
                     "pillow",
                     "numpy",
                     "fuzzywuzzy",
+                    "Levenshtein",
                     "emoji",
                     "chat-exporter"
                 ],
