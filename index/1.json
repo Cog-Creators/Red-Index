@@ -25830,6 +25830,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "aiocache",
+                    "chromadb",
                     "json5",
                     "msgpack",
                     "numpy",
