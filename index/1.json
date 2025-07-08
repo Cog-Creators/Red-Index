@@ -2404,7 +2404,7 @@
                 "author": [
                     "AAA3A"
                 ],
-                "description": "Allow Rumble Royale players to check easely if they are dead or not and ping the host when a Rumble Royale ends!",
+                "description": "Allow Rumble Royale players to check easely if they are alive or not and ping the host when a Rumble Royale ends!",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -2416,11 +2416,13 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
-                "short": "Allow Rumble Royale players to check easely if they are dead or not and ping the host when a Rumble Royale ends!",
+                "short": "Allow Rumble Royale players to check easely if they are alive or not and ping the host when a Rumble Royale ends!",
                 "tags": [
                     "rumble",
                     "royale",
+                    "alive",
                     "dead",
+                    "revive",
                     "host"
                 ],
                 "type": ""
