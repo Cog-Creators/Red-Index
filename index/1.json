@@ -4265,6 +4265,35 @@
                 ],
                 "type": "COG"
             },
+            "skysearch": {
+                "author": [
+                    "adminescalation"
+                ],
+                "description": "SkySearch is made to let you fetch information about aircraft, and airports. You can query active flights by a selection of variables, or get airport information, runway information, airport forecasts, and more. ",
+                "disabled": false,
+                "end_user_data_statement": "SkySearch stores no user data. Usage of external API integrations provided in SkySearch is subject to the Privacy Policy, and Terms of Service, of the respective service.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "reportlab"
+                ],
+                "short": "Get aircraft and airport information thru Discord, enhanced with a variety of consumer APIs",
+                "tags": [
+                    "airplanes",
+                    "airplaneslive",
+                    "aircraft",
+                    "aircraft tracking",
+                    "ADS-B",
+                    "plane spotting"
+                ],
+                "type": ""
+            },
             "spamatron": {
                 "author": [
                     "bencos18 (492089091320446976)"
