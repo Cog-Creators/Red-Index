@@ -4293,7 +4293,7 @@
             },
             "skysearch": {
                 "author": [
-                    "adminescalation"
+                    "bencos17, adminescalation"
                 ],
                 "description": "SkySearch is made to let you fetch information about aircraft, and airports. You can query active flights by a selection of variables, or get airport information, runway information, airport forecasts, and more. ",
                 "disabled": false,
