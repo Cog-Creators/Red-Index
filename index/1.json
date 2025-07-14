@@ -2665,6 +2665,32 @@
                 ],
                 "type": ""
             },
+            "teams": {
+                "author": [
+                    "AAA3A"
+                ],
+                "description": "Manage teams with captains, vice captains and members, and points, leaderboard and contributor leaderboard!",
+                "disabled": false,
+                "end_user_data_statement": "This cog records the hoster and winners of the events.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                ],
+                "short": "Manage teams with captains, vice captains and members, and points, leaderboard and contributor leaderboard!",
+                "tags": [
+                    "team",
+                    "captain",
+                    "points",
+                    "contributors",
+                    "leaderboard"
+                ],
+                "type": ""
+            },
             "temproles": {
                 "author": [
                     "AAA3A",
