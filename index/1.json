@@ -3985,28 +3985,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "amazon": {
-                "author": [
-                    "bencos18 (492089091320446976)"
-                ],
-                "description": "Automatically converts Amazon links to affiliate links using a configurable tag per server.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores configuration data per guild, specifically affiliate tags and enable/disable state for affiliate link handling.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Amazon affiliate link handler for Discord.",
-                "tags": [
-                    "amazon",
-                    "affiliate",
-                    "affiliate links"
-                ],
-                "type": ""
-            },
             "ampremover": {
                 "author": [
                     "bencos18"
@@ -4094,27 +4072,6 @@
                 ],
                 "type": ""
             },
-            "calendar": {
-                "author": [
-                    "bencos18"
-                ],
-                "description": "A simple cog to display a calendar message to users.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Show a simple calendar.",
-                "tags": [
-                    "calendar",
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "currency": {
                 "author": [
                     "bencos18"
@@ -4166,10 +4123,10 @@
                 "author": [
                     "bencos18"
                 ],
-                "description": "Get the latest earthquake information",
+                "description": "DO NOT USE SPAMS channel and bot Get the latest earthquake information",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not record end user data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "",
                 "min_python_version": "",
@@ -4284,27 +4241,6 @@
                     "bank",
                     "loan",
                     "economy"
-                ],
-                "type": "COG"
-            },
-            "ports": {
-                "author": [
-                    "bencos17"
-                ],
-                "description": "port scanner cog",
-                "disabled": false,
-                "end_user_data_statement": ".",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "port scanner!",
-                "tags": [
-                    "ports",
-                    "scanner"
                 ],
                 "type": "COG"
             },
