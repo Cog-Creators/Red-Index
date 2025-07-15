@@ -4051,6 +4051,28 @@
                 ],
                 "type": "COG"
             },
+            "autochannel": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "Cog to automatically reply in specified channels. Lets you set channels where the bot will always reply to messages.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores channel IDs for the purpose of tracking which channels are set for auto-reply. All data is stored using Red's Config system and is not shared with third parties.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Automatically reply in specified channels.",
+                "tags": [
+                    "auto",
+                    "channel",
+                    "reply"
+                ],
+                "type": "COG"
+            },
             "bell": {
                 "author": [
                     "bencos18 "
@@ -4072,23 +4094,24 @@
                 ],
                 "type": ""
             },
-            "csvparse": {
+            "calendar": {
                 "author": [
-                    "bencos18 (492089091320446976)"
+                    "bencos18"
                 ],
-                "description": "csv parsing stuff.",
+                "description": "A simple cog to display a calendar message to users.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "some random cogs I made for my own use and decided to make public.",
+                "short": "Show a simple calendar.",
                 "tags": [
-                    "csv"
+                    "calendar",
+                    "utility"
                 ],
                 "type": "COG"
             },
@@ -4115,6 +4138,29 @@
                     "exchange rates"
                 ],
                 "type": ""
+            },
+            "dnd": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "A feature-rich DnD cog for Redbot, including character creation, combat, inventory, and campaign management.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user and guild data for the purpose of tracking DnD characters, campaigns, and inventory. All data is stored using Red's Config system and is not shared with third parties.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play DnD-style adventures in Discord.",
+                "tags": [
+                    "dnd",
+                    "rpg",
+                    "adventure",
+                    "game"
+                ],
+                "type": "COG"
             },
             "earthquake": {
                 "author": [
@@ -4220,20 +4266,26 @@
                 "type": "COG"
             },
             "loan": {
-                "author": "bencos18",
-                "description": "A bank loan system for Redbot",
+                "author": [
+                    "bencos18"
+                ],
+                "description": "A cog that provides a bank loan system for Redbot, allowing users to take out and repay loans.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores user loan data for the purpose of tracking outstanding loans and repayments. All data is stored using Red's Config system and is not shared with third parties.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
+                "min_bot_version": "3.4.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "",
-                "tags": [],
-                "type": ""
+                "short": "A bank loan system for Redbot.",
+                "tags": [
+                    "bank",
+                    "loan",
+                    "economy"
+                ],
+                "type": "COG"
             },
             "ports": {
                 "author": [
@@ -4304,6 +4356,32 @@
                     "Holidays",
                     "Easter",
                     "Lent"
+                ],
+                "type": "COG"
+            },
+            "servertools": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "A cog providing various server management utilities, such as mod DMs, voice moves, auto-reactions, and more.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores guild and user data for the purpose of managing server utilities and notifications. All data is stored using Red's Config system and is not shared with third parties.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "Pillow"
+                ],
+                "short": "Server management utilities.",
+                "tags": [
+                    "server",
+                    "tools",
+                    "moderation",
+                    "utility"
                 ],
                 "type": "COG"
             },
