@@ -4161,6 +4161,31 @@
                 ],
                 "type": "COG"
             },
+            "enumbers": {
+                "author": [
+                    "bencos18"
+                ],
+                "description": "Look up E-numbers (food additives) using the enumbers API and get OpenFoodFacts links.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "",
+                "tags": [
+                    "food",
+                    "lookup",
+                    "e-numbers",
+                    "additives"
+                ],
+                "type": "COG"
+            },
             "imgen": {
                 "author": [
                     "bencos18 (492089091320446976)"
