@@ -21353,6 +21353,37 @@
                 ],
                 "type": "COG"
             },
+            "earthquake": {
+                "author": [
+                    "max"
+                ],
+                "description": "Posts live worldwide earthquake updates from USGS to a designated channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "tenacity"
+                ],
+                "short": "Posts live worldwide earthquake updates from USGS to a designated channel.",
+                "tags": [
+                    "Earthquake",
+                    "USGS",
+                    "Seismic",
+                    "Alert"
+                ],
+                "type": "COG"
+            },
             "forwarddeleter": {
                 "author": [
                     "max"
@@ -21441,38 +21472,6 @@
                     "history of the day",
                     "on this day",
                     "history events"
-                ],
-                "type": "COG"
-            },
-            "holiday": {
-                "author": [
-                    "max"
-                ],
-                "description": "Display holidays for countries worldwide, with support for setting a default country and listing available countries.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.13",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "pycountry",
-                    "pytz"
-                ],
-                "short": "Display holidays for countries worldwide, with support for setting a default country and listing available countries.",
-                "tags": [
-                    "public holiday",
-                    "holiday",
-                    "holidays",
-                    "public holidays"
                 ],
                 "type": "COG"
             },
