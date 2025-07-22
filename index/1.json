@@ -148,6 +148,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
+                    "red-tidegear>=1.0.6",
                     "watchdog"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
