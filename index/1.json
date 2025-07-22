@@ -4123,6 +4123,28 @@
                 ],
                 "type": ""
             },
+            "dank": {
+                "author": [
+                    "yourname"
+                ],
+                "description": "Gay and Simp rating machine, Dank Memer style.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "fun",
+                    "meme",
+                    "rating"
+                ],
+                "type": "COG"
+            },
             "dnd": {
                 "author": [
                     "bencos18"
