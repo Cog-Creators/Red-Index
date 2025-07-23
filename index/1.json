@@ -23602,6 +23602,26 @@
                 ],
                 "type": "COG"
             },
+            "pcmasterrace": {
+                "author": [
+                    "raidensakura"
+                ],
+                "description": "This cog allows users to submit their PC builds, view other users' builds, and rank them based on various criteria. It includes features for submitting builds, viewing leaderboards, and managing user submissions. Very much contains scuffed codes.",
+                "disabled": false,
+                "end_user_data_statement": "This cog only stores user provided system configuration does not persistently store any PII data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.12",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "PCMasterRace cog to track PC build combo and rank them among other builds in the server.",
+                "tags": [
+                    "pcmastterrace"
+                ],
+                "type": "COG"
+            },
             "throw": {
                 "author": [
                     "raidensakura",
