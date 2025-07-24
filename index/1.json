@@ -4236,6 +4236,30 @@
                 ],
                 "type": "COG"
             },
+            "example": {
+                "author": [
+                    "bencos17"
+                ],
+                "description": "An example cog that demonstrates how to connect to and use the SquawkAlertAPI for handling aircraft squawk alerts. This shows developers how to register callbacks and handle squawk alert events.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Example cog for SquawkAlertAPI integration",
+                "tags": [
+                    "aviation",
+                    "alerts",
+                    "example",
+                    "squawk",
+                    "api"
+                ],
+                "type": ""
+            },
             "imgen": {
                 "author": [
                     "bencos18 (492089091320446976)"
