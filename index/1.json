@@ -11008,6 +11008,29 @@
                     "audit"
                 ],
                 "type": "COG"
+            },
+            "ZodiacColorRoles": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "Provides slash commands for server owners to create zodiac and color roles for users.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store or share any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create zodiac and color roles easily.",
+                "tags": [
+                    "roles",
+                    "zodiac",
+                    "color",
+                    "slashcommands"
+                ],
+                "type": "COG"
             }
         },
         "short": "High-quality cogs for Red-DiscordBot."
