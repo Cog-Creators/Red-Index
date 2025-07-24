@@ -4240,23 +4240,28 @@
                 "author": [
                     "bencos17"
                 ],
-                "description": "An example cog that demonstrates how to connect to and use the SquawkAlertAPI for handling aircraft squawk alerts. This shows developers how to register callbacks and handle squawk alert events.",
+                "description": "An enhanced example cog that demonstrates advanced integration with the SkySearch SquawkAlertAPI. Features include real-time alert detection, message updating capabilities, alert history tracking, statistics, and configurable settings. Shows developers how to register callbacks, handle squawk alert events, and update existing messages from the SkySearch cog.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
+                "end_user_data_statement": "This cog stores alert history data including timestamps, aircraft information, and guild information for tracking purposes. No personal user data is stored.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
-                "permissions": [],
+                "permissions": [
+                    "add_reactions",
+                    "embed_links"
+                ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Example cog for SquawkAlertAPI integration",
+                "short": "Enhanced cog for SquawkAlertAPI integration with message updating",
                 "tags": [
                     "aviation",
                     "alerts",
                     "example",
                     "squawk",
-                    "api"
+                    "api",
+                    "tracking",
+                    "monitoring"
                 ],
                 "type": ""
             },
