@@ -5144,7 +5144,10 @@
                     ""
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "gradio_client",
+                    "aiohttp"
+                ],
                 "short": "Ghibli image generation",
                 "tags": [],
                 "type": "COG"
