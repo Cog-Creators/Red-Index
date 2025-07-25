@@ -10931,6 +10931,28 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "Dicey": {
+                "author": "Taako",
+                "description": "A Red DiscordBot cog for random chance utilities: coin flips, dice rolls, and more.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random chance utilities for Red.",
+                "tags": [
+                    "fun",
+                    "random",
+                    "dice",
+                    "coin",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "Fable": {
                 "author": [
                     "Taako"
