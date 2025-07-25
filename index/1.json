@@ -5125,6 +5125,30 @@
                 ],
                 "type": "COG"
             },
+            "ghibli": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Ghibli image generation cog.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    ""
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Ghibli image generation",
+                "tags": [],
+                "type": "COG"
+            },
             "googleit": {
                 "author": [
                     "Glas"
