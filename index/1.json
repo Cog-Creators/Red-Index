@@ -24724,28 +24724,6 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
-            "agent": {
-                "author": [
-                    "Eris"
-                ],
-                "description": "LLM Agent designed to interact with all of the bot's functionality in an intelligent way",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "openai==1.76.2",
-                    "langchain==0.3.27",
-                    "langgraph==0.5.4"
-                ],
-                "short": "Use OpenAI's ChatGPT to respond to the conversation",
-                "tags": [],
-                "type": ""
-            },
             "alot": {
                 "author": [
                     "Eris"
@@ -24876,11 +24854,13 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai==1.76.2",
-                    "pillow==11.2.1",
-                    "markdownify==1.1.0",
-                    "async-lru==2.0.5",
-                    "beautifulsoup4==4.13.4"
+                    "async-lru>=2.0.5",
+                    "beautifulsoup4>=4.13.4",
+                    "langchain[openai]>=0.3.27",
+                    "langgraph>=0.5.4",
+                    "markdownify>=1.1.0",
+                    "openai>=1.97.1",
+                    "pillow>=11.2.1"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
