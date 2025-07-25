@@ -24900,7 +24900,8 @@
                     "langgraph>=0.5.4",
                     "markdownify>=1.1.0",
                     "openai>=1.97.1",
-                    "pillow>=11.2.1"
+                    "pillow>=11.2.1",
+                    "rich>=14.0.0"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
                 "tags": [],
