@@ -10934,13 +10934,38 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "EmojiPorter": {
+                "author": "Taako",
+                "description": "A Red DiscordBot cog for copying emojis and stickers between Discord servers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Copy emojis and stickers between Discord servers.",
+                "tags": [
+                    "utility",
+                    "emoji",
+                    "sticker",
+                    "server",
+                    "copy",
+                    "migration"
+                ],
+                "type": "COG"
+            },
             "Fable": {
                 "author": [
                     "Taako"
                 ],
-                "description": "A living world tracker for character-driven RP groups. Track characters, relationships, events, and lore collaboratively.",
+                "description": "Advanced living world tracker for character-driven roleplay. Features rich character development, relationship tracking, location management, timeline visualization, and collaborative lore building.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog stores character profiles, relationships, locations, and timeline data as configured by users. No data is shared externally without explicit user action (e.g., Google Docs export).",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -10948,14 +10973,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Living world tracker for RP groups.",
+                "short": "Advanced RP world tracker with characters, relationships, and timelines.",
                 "tags": [
-                    "rp",
                     "roleplay",
-                    "tracker",
-                    "characters",
+                    "character",
+                    "relationships",
+                    "timeline",
                     "lore",
-                    "timeline"
+                    "visualization",
+                    "worldbuilding",
+                    "development"
                 ],
                 "type": "COG"
             },
@@ -10984,9 +11011,9 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "A cog for managing an RP calendar with daily updates, moon phase tracking, and blood moon events.",
+                "description": "Comprehensive roleplay calendar system with automatic daily updates, accurate moon phase tracking, and special blood moon events. Perfect for D&D campaigns and fantasy roleplay servers.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores local data in the form of a `post_tracker.json` file to track the last post timestamp. No end user data is stored or shared.",
+                "end_user_data_statement": "This cog stores local data in the form of a `post_tracker.json` file to track the last post timestamp. No end user data is persistently stored or shared.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -10996,13 +11023,16 @@
                 "requirements": [
                     "pytz"
                 ],
-                "short": "RP calendar with daily updates and moon phases.",
+                "short": "Advanced RP calendar with daily updates, moon phases, and blood moon events.",
                 "tags": [
+                    "roleplay",
                     "calendar",
-                    "rp",
-                    "utility",
+                    "dnd",
                     "moon",
-                    "weather"
+                    "timeline",
+                    "fantasy",
+                    "campaign",
+                    "immersion"
                 ],
                 "type": "COG"
             },
@@ -11010,22 +11040,28 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "A cog for generating random daily weather updates with realistic seasonal patterns and dramatic emergency alerts for rare extreme weather events.",
+                "description": "Comprehensive weather simulation system with realistic seasonal patterns, extreme weather events, and beautiful embeds. Perfect for roleplay servers and atmospheric immersion.",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data.",
+                "end_user_data_statement": "This cog does not persistently store or share any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
-                "short": "Smart weather generator with seasonal patterns.",
+                "requirements": [
+                    "pytz"
+                ],
+                "short": "Advanced weather simulation with seasonal accuracy and extreme events.",
                 "tags": [
                     "weather",
-                    "random",
-                    "utility",
-                    "roleplay"
+                    "simulation",
+                    "seasonal",
+                    "roleplay",
+                    "extreme",
+                    "atmospheric",
+                    "immersion",
+                    "timezone"
                 ],
                 "type": "COG"
             },
@@ -11061,7 +11097,7 @@
                 "author": [
                     "Taako"
                 ],
-                "description": "Provides slash commands for server owners to create zodiac and color roles for users.",
+                "description": "Comprehensive role management system for zodiac signs, colors, pronouns, and ping preferences. Supports both slash commands and prefix commands with bulk creation options.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store or share any end user data.",
                 "hidden": false,
@@ -11071,12 +11107,16 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Create zodiac and color roles easily.",
+                "short": "Advanced role creation system for zodiac, color, pronoun, and ping roles.",
                 "tags": [
                     "roles",
                     "zodiac",
                     "color",
-                    "slashcommands"
+                    "pronouns",
+                    "ping",
+                    "hybrid",
+                    "management",
+                    "bulk"
                 ],
                 "type": "COG"
             }
