@@ -18636,7 +18636,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "Pillow",
-                    "imageio"
+                    "imageio",
+                    "tabulate"
                 ],
                 "short": "Spin the wheel with custom item labels",
                 "tags": [
