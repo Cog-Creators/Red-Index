@@ -11066,9 +11066,7 @@
                 "type": "COG"
             },
             "YALC": {
-                "author": [
-                    "Taako"
-                ],
+                "author": "Taako",
                 "description": "\ud83d\udcdd A powerful Discord server logging cog with customizable events, channels, and filters. Supports both classic and slash commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores guild-specific settings like log channels and event configurations. No personal user data is stored permanently.",
