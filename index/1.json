@@ -28160,7 +28160,8 @@
                     "tiktoken",
                     "Pillow",
                     "trafilatura",
-                    "aiohttp"
+                    "aiohttp",
+                    "gradio_client"
                 ],
                 "short": "Human-like user behavior powered by LLMs.",
                 "tags": [
