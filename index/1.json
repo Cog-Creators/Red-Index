@@ -10986,27 +10986,6 @@
                 ],
                 "type": "COG"
             },
-            "Flipper": {
-                "author": "Taako",
-                "description": "A Red DiscordBot cog for flipping coins.",
-                "disabled": false,
-                "end_user_data_statement": "",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.0.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Coin flip utility for Red.",
-                "tags": [
-                    "fun",
-                    "random",
-                    "coin",
-                    "utility"
-                ],
-                "type": "COG"
-            },
             "RPCalander": {
                 "author": [
                     "Taako"
@@ -11066,7 +11045,9 @@
                 "type": "COG"
             },
             "YALC": {
-                "author": "Taako",
+                "author": [
+                    "Taako"
+                ],
                 "description": "\ud83d\udcdd A powerful Discord server logging cog with customizable events, channels, and filters. Supports both classic and slash commands.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores guild-specific settings like log channels and event configurations. No personal user data is stored permanently.",
