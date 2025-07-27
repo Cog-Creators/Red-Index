@@ -10935,7 +10935,9 @@
         "rx_category": "unapproved",
         "rx_cogs": {
             "EmojiPorter": {
-                "author": "Taako",
+                "author": [
+                    "Taako"
+                ],
                 "description": "A Red DiscordBot cog for copying emojis and stickers between Discord servers.",
                 "disabled": false,
                 "end_user_data_statement": "",
@@ -10983,6 +10985,29 @@
                     "visualization",
                     "worldbuilding",
                     "development"
+                ],
+                "type": "COG"
+            },
+            "Flipper": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A Red DiscordBot cog for flipping coins.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Coin flip utility for Red.",
+                "tags": [
+                    "fun",
+                    "random",
+                    "coin",
+                    "utility"
                 ],
                 "type": "COG"
             },
