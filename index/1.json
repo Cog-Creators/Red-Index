@@ -23764,7 +23764,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow"
+                ],
                 "short": "PCMasterRace cog to track PC build combo and rank them among other builds in the server.",
                 "tags": [
                     "pcmastterrace"
