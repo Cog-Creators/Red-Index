@@ -5000,6 +5000,40 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "aigen": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "A cog for generating images using various AI models.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "gradio_client",
+                    "requests",
+                    "aiohttp",
+                    "pillow",
+                    "numpy"
+                ],
+                "short": "AI Image Generation",
+                "tags": [
+                    "AI",
+                    "Image Generation",
+                    "Pollinations"
+                ],
+                "type": "COG"
+            },
             "anime": {
                 "author": [
                     "TheDiscordHistorian",
