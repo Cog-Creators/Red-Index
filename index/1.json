@@ -13252,8 +13252,7 @@
                 "requirements": [
                     "pandas>=1.1.0",
                     "psutil",
-                    "plotly",
-                    "kaleido",
+                    "plotly[kaleido]",
                     "aiosqlite"
                 ],
                 "short": "Stat tracking cog including ping, member counts and counts of commands/messages. View the data in Discord.",
