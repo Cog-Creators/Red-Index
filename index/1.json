@@ -12905,7 +12905,7 @@
                 "requirements": [
                     "pandas",
                     "plotly",
-                    "kaleido"
+                    "plotly[kaleido]"
                 ],
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
@@ -12962,7 +12962,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "plotly",
-                    "kaleido",
+                    "plotly[kaleido]",
                     "pandas"
                 ],
                 "short": "A poll in Discord, but with powered by buttons and with a pie chart at the end!",
@@ -13166,7 +13166,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "plotly",
-                    "kaleido",
+                    "plotly[kaleido]",
                     "pytrends"
                 ],
                 "short": "Find out what the world is searching, right from Discord. Includes charts.",
