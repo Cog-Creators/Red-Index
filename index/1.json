@@ -4017,7 +4017,7 @@
                 "author": [
                     "bencos18"
                 ],
-                "description": "A Redbot cog that converts AMP URLs to canonical URLs using the AmputatorBot API.",
+                "description": "A Redbot cog that converts AMP URLs to canonical URLs using the AmputatorBot API. Includes Red-Web-Dashboard integration for web-based management.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user IDs for the purpose of tracking opt-in status.",
                 "hidden": false,
@@ -4027,13 +4027,15 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "requests"
+                    "requests",
+                    "aiohttp"
                 ],
-                "short": "Converts AMP URLs to canonical URLs.",
+                "short": "Converts AMP URLs to canonical URLs with web dashboard support.",
                 "tags": [
                     "url",
                     "amp",
-                    "converter"
+                    "converter",
+                    "dashboard"
                 ],
                 "type": "COG"
             },
