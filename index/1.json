@@ -7451,6 +7451,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "IFTTT": {
+                "author": [
+                    "Frogerman1234"
+                ],
+                "description": "Relay Discord messages (with rate-limiting and optional bot filtering) to an IFTTT Webhooks endpoint.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores per-guild configuration such as the IFTTT webhook URL, rate-limit settings and allowed bot ID. It stores no personal user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Send Discord messages to IFTTT Webhooks",
+                "tags": [
+                    "notifications",
+                    "webhook",
+                    "ifttt"
+                ],
+                "type": "COG"
+            },
             "NTFY": {
                 "author": [
                     "Frogerman1234"
