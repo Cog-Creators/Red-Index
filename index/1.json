@@ -7455,23 +7455,29 @@
                 "author": [
                     "Frogerman1234"
                 ],
-                "description": "Relay Discord messages (with rate-limiting and optional bot filtering) to an IFTTT Webhooks endpoint.",
+                "description": "Send messages to IFTTT endpoints with configurable settings. Allows automatic forwarding of Discord messages to IFTTT Webhooks.",
                 "disabled": false,
-                "end_user_data_statement": "This cog stores per-guild configuration such as the IFTTT webhook URL, rate-limit settings and allowed bot ID. It stores no personal user data.",
+                "end_user_data_statement": "This cog does not store any end user data. It only stores guild-specific configuration settings such as IFTTT URLs and optional rate limits.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "aiohttp"
                 ],
-                "short": "Send Discord messages to IFTTT Webhooks",
+                "short": "Send Discord messages to IFTTT endpoints",
                 "tags": [
                     "notifications",
-                    "webhook",
-                    "ifttt"
+                    "IFTTT",
+                    "messaging",
+                    "alerts",
+                    "utility"
                 ],
                 "type": "COG"
             },
