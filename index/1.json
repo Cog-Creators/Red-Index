@@ -7446,7 +7446,7 @@
         "author": [
             "This_Gai (Frogerman1234)"
         ],
-        "description": "This is just a small repo at the moment if i feel like making a new cog ill update this but for now its just a one off thing",
+        "description": "This is just a small repo at the moment if i feel like making a new cog ill update this but for now its just a one off thing.",
         "name": "ntfy-cog",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -7506,7 +7506,7 @@
                 "type": "COG"
             }
         },
-        "short": "Just a small repo for this one cog at the moment."
+        "short": "Just a small repo for these two cogs at the moment."
     },
     "https://github.com/Grommish/Grommish-Cogs": {
         "author": [
