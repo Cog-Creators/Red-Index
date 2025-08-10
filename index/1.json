@@ -7442,6 +7442,48 @@
         },
         "short": "A mixture of cogs made by Flame."
     },
+    "https://github.com/Frogerman1234/ntfy-cog": {
+        "author": [
+            "This_Gai (Frogerman1234)"
+        ],
+        "description": "This is just a small repo at the moment if i feel like making a new cog ill update this but for now its just a one off thing",
+        "name": "ntfy-cog",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "NTFY": {
+                "author": [
+                    "Frogerman1234"
+                ],
+                "description": "Send messages to NTFY endpoints with configurable settings. Allows automatic forwarding of Discord messages to NTFY notification services with customizable headers.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data. It only stores guild-specific configuration settings such as NTFY URLs, headers, tokens, and optional rate limits.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Send Discord messages to NTFY notification endpoints",
+                "tags": [
+                    "notifications",
+                    "ntfy",
+                    "messaging",
+                    "alerts",
+                    "utility"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Just a small repo for this one cog at the moment."
+    },
     "https://github.com/Grommish/Grommish-Cogs": {
         "author": [
             "Donald Hoskins <Grommish>"
