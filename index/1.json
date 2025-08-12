@@ -17990,6 +17990,512 @@
         "rx_cogs": {},
         "short": "Random fandom cogs"
     },
+    "https://github.com/hollowstrawberry/crab-cogs": {
+        "author": [
+            "hollowstrawberry"
+        ],
+        "description": "Fun/useful/curious cogs originally created for a friend group called Crab.",
+        "name": "crab-cogs",
+        "rx_branch": "",
+        "rx_category": "approved",
+        "rx_cogs": {
+            "audioslash": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete. Uses up ~10 slash commands out of the available 100.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt-dlp"
+                ],
+                "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "audio",
+                    "music",
+                    "slash"
+                ],
+                "type": ""
+            },
+            "autoreact": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Make the bot react along with everyone else. The bot owner may set regex patterns that the bot will react to with specific emojis.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Make the bot react along with everyone else.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "emoji",
+                    "react",
+                    "reaction",
+                    "regex"
+                ],
+                "type": ""
+            },
+            "draw": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "A couple fun image filters for your friends' avatars. Also includes an avatar context menu.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "opencv_python_headless"
+                ],
+                "short": "Fun image filters and an avatar context menu.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "image",
+                    "draw",
+                    "filter",
+                    "avatar"
+                ],
+                "type": ""
+            },
+            "easytranslate": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Translate messages using Google Translate for free. Supports context menu commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the preferred language of a user if they choose one.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "googletrans-py"
+                ],
+                "short": "Translate messages using Google Translate for free. Supports context menu commands.",
+                "tags": [
+                    "crab",
+                    "useful",
+                    "translate",
+                    "translation",
+                    "slash",
+                    "message",
+                    "context",
+                    "menu"
+                ],
+                "type": ""
+            },
+            "emojisteal": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Supports context menu commands. Can also upload stickers from mobile.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Steals emojis and stickers sent by other people.",
+                "tags": [
+                    "crab",
+                    "emoji",
+                    "sticker",
+                    "steal",
+                    "image",
+                    "slash",
+                    "message",
+                    "context",
+                    "menu"
+                ],
+                "type": ""
+            },
+            "gamealert": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Sends a configured message when a user has been playing a specific game for some time.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send a message when someone is playing a game for some time.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "game",
+                    "alert",
+                    "notification",
+                    "joke",
+                    "health"
+                ],
+                "type": ""
+            },
+            "gelbooru": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Searches images on Gelbooru with slash command and tag completion support. ",
+                "disabled": false,
+                "end_user_data_statement": "This cog may internally cache user searches, with no identifying information.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "expiringdict"
+                ],
+                "short": "Searches images on Gelbooru with slash command and tag completion support.",
+                "tags": [
+                    "crab",
+                    "booru",
+                    "anime",
+                    "fun",
+                    "images",
+                    "imageboard"
+                ],
+                "type": ""
+            },
+            "genshin": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Simulates Genshin Impact gacha pulls.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs to keep track of your inventory.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Simulates Genshin Impact gacha pulls.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "game",
+                    "gacha",
+                    "genshin",
+                    "impact",
+                    "random"
+                ],
+                "type": ""
+            },
+            "gptimage": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generate images with OpenAI",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai"
+                ],
+                "short": "Generate images with OpenAI",
+                "tags": [
+                    "crab",
+                    "image",
+                    "ai",
+                    "generation",
+                    "imagine",
+                    "dalle",
+                    "dall-e",
+                    "openai"
+                ],
+                "type": ""
+            },
+            "imagelog": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Logs deleted images for moderation purposes.\n\u26a0\ufe0f Usage warning: Content saved by this method is **not** usable for reporting users to Discord. You may also be liable for keeping content that breaks Discord TOS.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores images sent by users into a moderation channel until they are manually removed. You may or may not be liable for their content if they break Discord TOS.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Logs deleted images for moderation purposes.",
+                "tags": [
+                    "crab",
+                    "message",
+                    "scan",
+                    "log",
+                    "image",
+                    "moderation"
+                ],
+                "type": ""
+            },
+            "imagescanner": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Scans images for AI parameters and other metadata. Supports context menus.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow",
+                    "expiringdict",
+                    "sd_prompt_reader"
+                ],
+                "short": "Scans images for AI parameters and other metadata. Supports context menus.",
+                "tags": [
+                    "crab",
+                    "message",
+                    "scan",
+                    "ai",
+                    "image"
+                ],
+                "type": ""
+            },
+            "logs": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Owner cog to show the latest logs.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Owner cog to show the latest logs.",
+                "tags": [
+                    "crab",
+                    "logs",
+                    "dev",
+                    "owner",
+                    "debug"
+                ],
+                "type": ""
+            },
+            "minecraft": {
+                "author": [
+                    "hollowstrawberry",
+                    "Dav",
+                    "palmtree5"
+                ],
+                "description": "Manage your Minecraft server from within your Discord server, and check server status and online players without opening the game.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores Minecraft usernames associated to Discord user IDs.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aio-mc-rcon",
+                    "mcstatus"
+                ],
+                "short": "Manage a Minecraft server from within Discord.",
+                "tags": [
+                    "crab",
+                    "minecraft",
+                    "whitelist",
+                    "automation",
+                    "game"
+                ],
+                "type": ""
+            },
+            "novelai": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generate anime images with NovelAI v3.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user preferences related to cog functionality.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "novelai-api",
+                    "Pillow"
+                ],
+                "short": "Generate anime images with NovelAI v3.",
+                "tags": [
+                    "crab",
+                    "image",
+                    "ai",
+                    "generation",
+                    "imagine",
+                    "anime"
+                ],
+                "type": ""
+            },
+            "randomness": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs to keep track of your donut score.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "random",
+                    "misc"
+                ],
+                "type": ""
+            },
+            "simulator": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from new messages sent in configured channels, and only from users with the configured role. Will only support a single guild.\n\n\u2699 The bot owner must configure it with [p]simulator set, then they may manually feed past messages using [p]simulator feed [days]. This may take 1 minute per 5000 messages, so be patient!\n\n\ud83d\udd04 While the simulator is running, simulated conversations will randomly occur. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\ud83d\udc64 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
+                "disabled": false,
+                "end_user_data_statement": "This cog will locally store and analyze past and future messages sent by participating users, in order to generate new messages in an owner-configured output channel.\nYou may opt out completely and delete your simulator data with the [p]dontsimulateme command.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiosqlite"
+                ],
+                "short": "Simulates messages from your friend group.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "simulator",
+                    "markov",
+                    "friends"
+                ],
+                "type": ""
+            },
+            "tts": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Plays text to speech in voice chat. Overrides music.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "gtts",
+                    "googletrans-py"
+                ],
+                "short": "Plays text to speech in voice chat. Overrides music.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "tts",
+                    "speech"
+                ],
+                "type": ""
+            },
+            "voicelog": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Logs users joining and leaving a VC, inside the VC chat itself.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Logs users joining and leaving a VC, inside the VC chat itself.",
+                "tags": [
+                    "crab",
+                    "voice",
+                    "log",
+                    "moderation"
+                ],
+                "type": ""
+            }
+        },
+        "short": "crab-cogs"
+    },
     "https://github.com/hollowstrawberry/holo-cogs": {
         "author": [
             "hollowstrawberry"
@@ -22564,512 +23070,6 @@
             }
         },
         "short": "A decent bunch of cogs aimed for having fun"
-    },
-    "https://github.com/orchidalloy/crab-cogs": {
-        "author": [
-            "hollowstrawberry"
-        ],
-        "description": "Fun/useful/curious cogs originally created for a friend group called Crab.",
-        "name": "crab-cogs",
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "audioslash": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete. Uses up ~10 slash commands out of the available 100.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "yt-dlp"
-                ],
-                "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
-                "tags": [
-                    "crab",
-                    "voice",
-                    "audio",
-                    "music",
-                    "slash"
-                ],
-                "type": ""
-            },
-            "autoreact": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Make the bot react along with everyone else. The bot owner may set regex patterns that the bot will react to with specific emojis.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "emoji"
-                ],
-                "short": "Make the bot react along with everyone else.",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "emoji",
-                    "react",
-                    "reaction",
-                    "regex"
-                ],
-                "type": ""
-            },
-            "draw": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "A couple fun image filters for your friends' avatars. Also includes an avatar context menu.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "Pillow",
-                    "opencv_python_headless"
-                ],
-                "short": "Fun image filters and an avatar context menu.",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "image",
-                    "draw",
-                    "filter",
-                    "avatar"
-                ],
-                "type": ""
-            },
-            "easytranslate": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Translate messages using Google Translate for free. Supports context menu commands.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores the preferred language of a user if they choose one.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "googletrans-py"
-                ],
-                "short": "Translate messages using Google Translate for free. Supports context menu commands.",
-                "tags": [
-                    "crab",
-                    "useful",
-                    "translate",
-                    "translation",
-                    "slash",
-                    "message",
-                    "context",
-                    "menu"
-                ],
-                "type": ""
-            },
-            "emojisteal": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Steals emojis and stickers sent by other people and optionally uploads them to your own server. Supports context menu commands. Can also upload stickers from mobile.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Steals emojis and stickers sent by other people.",
-                "tags": [
-                    "crab",
-                    "emoji",
-                    "sticker",
-                    "steal",
-                    "image",
-                    "slash",
-                    "message",
-                    "context",
-                    "menu"
-                ],
-                "type": ""
-            },
-            "gamealert": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Sends a configured message when a user has been playing a specific game for some time.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Send a message when someone is playing a game for some time.",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "game",
-                    "alert",
-                    "notification",
-                    "joke",
-                    "health"
-                ],
-                "type": ""
-            },
-            "gelbooru": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Searches images on Gelbooru with slash command and tag completion support. ",
-                "disabled": false,
-                "end_user_data_statement": "This cog may internally cache user searches, with no identifying information.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "expiringdict"
-                ],
-                "short": "Searches images on Gelbooru with slash command and tag completion support.",
-                "tags": [
-                    "crab",
-                    "booru",
-                    "anime",
-                    "fun",
-                    "images",
-                    "imageboard"
-                ],
-                "type": ""
-            },
-            "genshin": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Simulates Genshin Impact gacha pulls.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user IDs to keep track of your inventory.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Simulates Genshin Impact gacha pulls.",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "game",
-                    "gacha",
-                    "genshin",
-                    "impact",
-                    "random"
-                ],
-                "type": ""
-            },
-            "gptimage": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Generate images with OpenAI",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "openai"
-                ],
-                "short": "Generate images with OpenAI",
-                "tags": [
-                    "crab",
-                    "image",
-                    "ai",
-                    "generation",
-                    "imagine",
-                    "dalle",
-                    "dall-e",
-                    "openai"
-                ],
-                "type": ""
-            },
-            "imagelog": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Logs deleted images for moderation purposes.\n\u26a0\ufe0f Usage warning: Content saved by this method is **not** usable for reporting users to Discord. You may also be liable for keeping content that breaks Discord TOS.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores images sent by users into a moderation channel until they are manually removed. You may or may not be liable for their content if they break Discord TOS.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Logs deleted images for moderation purposes.",
-                "tags": [
-                    "crab",
-                    "message",
-                    "scan",
-                    "log",
-                    "image",
-                    "moderation"
-                ],
-                "type": ""
-            },
-            "imagescanner": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Scans images for AI parameters and other metadata. Supports context menus.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "Pillow",
-                    "expiringdict",
-                    "sd_prompt_reader"
-                ],
-                "short": "Scans images for AI parameters and other metadata. Supports context menus.",
-                "tags": [
-                    "crab",
-                    "message",
-                    "scan",
-                    "ai",
-                    "image"
-                ],
-                "type": ""
-            },
-            "logs": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Owner cog to show the latest logs.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Owner cog to show the latest logs.",
-                "tags": [
-                    "crab",
-                    "logs",
-                    "dev",
-                    "owner",
-                    "debug"
-                ],
-                "type": ""
-            },
-            "minecraft": {
-                "author": [
-                    "hollowstrawberry",
-                    "Dav",
-                    "palmtree5"
-                ],
-                "description": "Manage your Minecraft server from within your Discord server, and check server status and online players without opening the game.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores Minecraft usernames associated to Discord user IDs.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "aio-mc-rcon",
-                    "mcstatus"
-                ],
-                "short": "Manage a Minecraft server from within Discord.",
-                "tags": [
-                    "crab",
-                    "minecraft",
-                    "whitelist",
-                    "automation",
-                    "game"
-                ],
-                "type": ""
-            },
-            "novelai": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Generate anime images with NovelAI v3.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user preferences related to cog functionality.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "novelai-api",
-                    "Pillow"
-                ],
-                "short": "Generate anime images with NovelAI v3.",
-                "tags": [
-                    "crab",
-                    "image",
-                    "ai",
-                    "generation",
-                    "imagine",
-                    "anime"
-                ],
-                "type": ""
-            },
-            "randomness": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user IDs to keep track of your donut score.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "random",
-                    "misc"
-                ],
-                "type": ""
-            },
-            "simulator": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Designates a channel that will send automated messages mimicking your friends using Markov chains. They will have your friends' avatars and nicknames too! Inspired by /r/SubredditSimulator and similar concepts.\n\n\ud83e\udde0 It will learn from new messages sent in configured channels, and only from users with the configured role. Will only support a single guild.\n\n\u2699 The bot owner must configure it with [p]simulator set, then they may manually feed past messages using [p]simulator feed [days]. This may take 1 minute per 5000 messages, so be patient!\n\n\ud83d\udd04 While the simulator is running, simulated conversations will randomly occur. Trying to type in the output channel will delete the message and trigger a conversation.\n\n\ud83d\udc64 A user may permanently exclude themselves from their messages being read and analyzed by using the [p]dontsimulateme command. This will also delete all their data.",
-                "disabled": false,
-                "end_user_data_statement": "This cog will locally store and analyze past and future messages sent by participating users, in order to generate new messages in an owner-configured output channel.\nYou may opt out completely and delete your simulator data with the [p]dontsimulateme command.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "aiosqlite"
-                ],
-                "short": "Simulates messages from your friend group.",
-                "tags": [
-                    "crab",
-                    "fun",
-                    "simulator",
-                    "markov",
-                    "friends"
-                ],
-                "type": ""
-            },
-            "tts": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Plays text to speech in voice chat. Overrides music.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "gtts",
-                    "googletrans-py"
-                ],
-                "short": "Plays text to speech in voice chat. Overrides music.",
-                "tags": [
-                    "crab",
-                    "voice",
-                    "tts",
-                    "speech"
-                ],
-                "type": ""
-            },
-            "voicelog": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Logs users joining and leaving a VC, inside the VC chat itself.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Logs users joining and leaving a VC, inside the VC chat itself.",
-                "tags": [
-                    "crab",
-                    "voice",
-                    "log",
-                    "moderation"
-                ],
-                "type": ""
-            }
-        },
-        "short": "crab-cogs"
     },
     "https://github.com/palmtree5/palmtree5-cogs": {
         "author": [
