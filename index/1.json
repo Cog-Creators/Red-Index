@@ -4496,6 +4496,32 @@
                     "notifier"
                 ],
                 "type": "COG"
+            },
+            "xkcd": {
+                "author": [
+                    "BenCos18"
+                ],
+                "description": "A comprehensive XKCD comic lookup cog for Red Discord Bot that allows users to search, browse, and discover XKCD comics directly in Discord.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "XKCD comic lookup and search",
+                "tags": [
+                    "xkcd",
+                    "comics",
+                    "search",
+                    "fun",
+                    "entertainment"
+                ],
+                "type": ""
             }
         },
         "short": "some random cogs I made for my own use and decided to make public."
