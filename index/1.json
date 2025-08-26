@@ -22191,7 +22191,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.21",
                 "min_python_version": [
                     3,
                     9,
@@ -22402,7 +22402,7 @@
                 "end_user_data_statement": "This cog saves Discord user IDs to add you to the games you participate in, but these IDs are deleted once the game concludes. It does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.14",
+                "min_bot_version": "3.5.21",
                 "min_python_version": [
                     3,
                     9,
@@ -22666,7 +22666,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.14",
+                "min_bot_version": "3.5.21",
                 "min_python_version": [
                     3,
                     9,
