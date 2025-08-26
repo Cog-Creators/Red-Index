@@ -25124,6 +25124,7 @@
                     "markdownify>=1.1.0",
                     "openai>=1.97.1",
                     "pillow>=11.2.1",
+                    "pyyaml>=6",
                     "rich>=14.0.0"
                 ],
                 "short": "Use OpenAI's ChatGPT to respond to the conversation",
