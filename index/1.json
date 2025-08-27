@@ -15083,6 +15083,74 @@
         },
         "short": "Cogs by Bobloy"
     },
+    "https://github.com/botagas/botagas-Cogs": {
+        "author": [
+            "botagas"
+        ],
+        "description": "Modernized cogs reworked by botagas",
+        "name": "botagas-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "captcha": {
+                "author": [
+                    "inthedark.org, botagas"
+                ],
+                "description": "Reworked Captcha verification system.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow"
+                ],
+                "short": "Reworked Captcha verification system.",
+                "tags": [
+                    "security",
+                    "captcha",
+                    "protection",
+                    "mod"
+                ],
+                "type": "COG"
+            },
+            "roomer": {
+                "author": [
+                    "Dav"
+                ],
+                "description": "Tools for voicechannels. \n - Automated voicechannel creation \n - Private voicechannels \n - Private textchannels",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Tools for voicechannels NEW: Private Text channels",
+                "tags": [
+                    "members",
+                    "vc",
+                    "voicechannel",
+                    "textchannel",
+                    "automation",
+                    "private",
+                    "private channels",
+                    "tools"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Reworked tools from other repositories for modern use."
+    },
     "https://github.com/burnacid/Botc-Red-Cogs": {
         "author": [
             "Burnacid"
