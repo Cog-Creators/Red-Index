@@ -18648,7 +18648,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "OpenAI-powered user with persistent memory. Experimental.",
+                "description": "OpenAI-powered user with persistent memory and various tools. Experimental.",
                 "disabled": false,
                 "end_user_data_statement": "This cog sends the recent chat history to OpenAI servers for the AI to process. It may also store text-based memories containing information about users and past conversations. It is not meant for public use.",
                 "hidden": false,
@@ -18668,7 +18668,7 @@
                     "trafilatura",
                     "rapidfuzz"
                 ],
-                "short": "OpenAI-powered user with persistent memory. Experimental.",
+                "short": "OpenAI-powered user with persistent memory and various tools. Experimental.",
                 "tags": [
                     "holo",
                     "ai",
