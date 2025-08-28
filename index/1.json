@@ -12135,7 +12135,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "pytz",
-                    "tabulate"
+                    "tabulate",
+                    "cairosvg",
+                    "pillow"
                 ],
                 "short": "Hockey commands",
                 "tags": [
