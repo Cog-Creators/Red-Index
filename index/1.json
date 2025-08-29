@@ -62,7 +62,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6"
+                    "red-tidegear>=1.1.0"
                 ],
                 "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "tags": [
@@ -91,7 +91,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6",
+                    "red-tidegear>=1.1.0",
                     "numpy",
                     "pillow"
                 ],
@@ -121,7 +121,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6",
+                    "red-tidegear>=1.1.0",
                     "colorthief"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -148,7 +148,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6",
+                    "red-tidegear>=1.1.0",
                     "watchdog"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -176,7 +176,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear[pydantic]>=1.0.6"
+                    "red-tidegear[pydantic]>=1.1.0"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -207,7 +207,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6"
+                    "red-tidegear>=1.1.0"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -235,7 +235,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6",
+                    "red-tidegear>=1.1.0",
                     "pymcsrvstatus>=1.1.2",
                     "websockets"
                 ],
@@ -266,7 +266,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.0.6",
+                    "red-tidegear>=1.1.0",
                     "dnspython",
                     "beautifulsoup4",
                     "markdownify"
