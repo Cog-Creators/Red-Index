@@ -22707,7 +22707,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.3",
                 "min_python_version": [
                     3,
                     9,
