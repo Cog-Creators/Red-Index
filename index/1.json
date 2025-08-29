@@ -22373,6 +22373,35 @@
                 ],
                 "type": "COG"
             },
+            "easterhunt": {
+                "author": [
+                    "max"
+                ],
+                "description": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data although it does store Discord IDs to track user progress and economy data. This data can be deleted with the `[p]easterhunt resetme` command.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiosqlite"
+                ],
+                "short": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "tags": [
+                    "easter",
+                    "hunting",
+                    "easter eggs",
+                    "economy"
+                ],
+                "type": "COG"
+            },
             "forwarddeleter": {
                 "author": [
                     "max"
