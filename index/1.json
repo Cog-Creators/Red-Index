@@ -4334,6 +4334,31 @@
                 ],
                 "type": "COG"
             },
+            "jarvisban": {
+                "author": [
+                    "Your Name"
+                ],
+                "description": "A RedBot cog that allows users to ban someone by saying 'jarvis ban this guy'",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discord.py",
+                    "redbot"
+                ],
+                "short": "Ban users with 'jarvis ban this guy'",
+                "tags": [
+                    "moderation",
+                    "ban",
+                    "jarvis"
+                ],
+                "type": ""
+            },
             "legal": {
                 "author": [
                     "bencos18 (492089091320446976)"
