@@ -22377,7 +22377,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "description": "Easter hunt cog that provides a fun Easter-themed game where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data although it does store Discord IDs to track user progress and economy data. This data can be deleted with the `[p]easterhunt resetme` command.",
                 "hidden": false,
@@ -22393,7 +22393,7 @@
                 "requirements": [
                     "aiosqlite"
                 ],
-                "short": "Easter games where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements and more.",
+                "short": "Easter hunt cog that provides a fun Easter-themed game where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements.",
                 "tags": [
                     "easter",
                     "hunting",
