@@ -4065,48 +4065,6 @@
                 ],
                 "type": "COG"
             },
-            "application": {
-                "author": [
-                    "bencos18 (492089091320446976)"
-                ],
-                "description": "random application cog I made for a server I'm in a while ago.",
-                "disabled": false,
-                "end_user_data_statement": "Application Channel: The ID of the text channel where applications are submitted. This is stored using application_channel setting. \n Questions: A dictionary that maps role IDs to a list of questions associated with that role. This is stored using the questions setting.\nApplications: A dictionary that maps role IDs to another dictionary, which maps member IDs to their application responses. This is stored using the applications setting.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "some random cogs I made for my own use and decided to make public.",
-                "tags": [
-                    "application"
-                ],
-                "type": "COG"
-            },
-            "autochannel": {
-                "author": [
-                    "bencos18"
-                ],
-                "description": "Cog to automatically reply in specified channels. Lets you set channels where the bot will always reply to messages.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores channel IDs for the purpose of tracking which channels are set for auto-reply. All data is stored using Red's Config system and is not shared with third parties.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Automatically reply in specified channels.",
-                "tags": [
-                    "auto",
-                    "channel",
-                    "reply"
-                ],
-                "type": "COG"
-            },
             "bell": {
                 "author": [
                     "bencos18 "
@@ -4171,29 +4129,6 @@
                     "fun",
                     "meme",
                     "rating"
-                ],
-                "type": "COG"
-            },
-            "dnd": {
-                "author": [
-                    "bencos18"
-                ],
-                "description": "A feature-rich DnD cog for Redbot, including character creation, combat, inventory, and campaign management.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores user and guild data for the purpose of tracking DnD characters, campaigns, and inventory. All data is stored using Red's Config system and is not shared with third parties.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.4.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Play DnD-style adventures in Discord.",
-                "tags": [
-                    "dnd",
-                    "rpg",
-                    "adventure",
-                    "game"
                 ],
                 "type": "COG"
             },
@@ -4331,51 +4266,6 @@
                 "short": "some random cogs I made for my own use and decided to make public.",
                 "tags": [
                     ""
-                ],
-                "type": "COG"
-            },
-            "jarvisban": {
-                "author": [
-                    "Your Name"
-                ],
-                "description": "A RedBot cog that allows users to ban someone by saying 'jarvis ban this guy'",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "discord.py",
-                    "redbot"
-                ],
-                "short": "Ban users with 'jarvis ban this guy'",
-                "tags": [
-                    "moderation",
-                    "ban",
-                    "jarvis"
-                ],
-                "type": ""
-            },
-            "legal": {
-                "author": [
-                    "bencos18 (492089091320446976)"
-                ],
-                "description": "Random legal cog I made for a server I'm in.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Some random cogs I made for my own use and decided to make public.",
-                "tags": [
-                    "legal"
                 ],
                 "type": "COG"
             },
