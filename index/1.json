@@ -22383,7 +22383,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "A cog to display historical events for the current day.",
+                "description": "A cog to display historical events for a given day in your timezone.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -22399,7 +22399,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "A cog to display historical events for the current day.",
+                "short": "A cog to display historical events for a given day in your timezone.",
                 "tags": [
                     "history",
                     "history of the day",
