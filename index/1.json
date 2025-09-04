@@ -22179,7 +22179,7 @@
                 "min_bot_version": "3.5.21",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -22196,8 +22196,8 @@
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
                     "news",
-                    "auto publish",
-                    "autopublish"
+                    "autopublish",
+                    "autopublisher"
                 ],
                 "type": "COG"
             },
