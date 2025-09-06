@@ -6186,6 +6186,66 @@
         },
         "short": "Cogs made by Dav"
     },
+    "https://github.com/DidiDidi129/Didi-Cogs": {
+        "author": [
+            "Didi"
+        ],
+        "description": "Some cogs that have been made by Didi with the help of ChatGPT, I use them in my bot daily",
+        "name": "Didi-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "gemini": {
+                "author": [
+                    "Didi"
+                ],
+                "description": "Talk with Google Gemini AI inside Discord.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "datetime"
+                ],
+                "short": "Gemini API",
+                "tags": [
+                    "AI",
+                    "Gemini",
+                    "Google",
+                    "Chatbot"
+                ],
+                "type": ""
+            },
+            "profile": {
+                "author": [
+                    "Didi"
+                ],
+                "description": "Allows users to set bios and custom fields in their profile. Bot owners can add categories (text or URL types).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "User profiles with customizable fields.",
+                "tags": [
+                    "profile",
+                    "utility",
+                    "social"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Some cogs that have been made by Didi with the help of ChatGPT"
+    },
     "https://github.com/DragoPrime/Prime-Cogs": {
         "author": [
             "Drago Prime"
