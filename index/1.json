@@ -28489,7 +28489,6 @@
                 "requirements": [
                     "openai>=1.99.9",
                     "sqlite-vec==0.1.7a2",
-                    "pysqlite3",
                     "aiosqlite",
                     "fastembed",
                     "tenacity",
