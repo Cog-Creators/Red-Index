@@ -24136,6 +24136,29 @@
                     "verify"
                 ],
                 "type": "COG"
+            },
+            "web_verifier": {
+                "author": [
+                    "reediculous456"
+                ],
+                "description": "A Discord bot cog for verifying users via web requests and JWT tokens.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores the verified member ID of each user",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "PyJWT",
+                    "aiohttp",
+                    "discord",
+                    "Red-DiscordBot"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Cogs from reediculous456"
