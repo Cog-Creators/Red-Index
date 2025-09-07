@@ -24152,11 +24152,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "PyJWT",
-                    "aiohttp",
-                    "discord",
-                    "Red-DiscordBot"
+                    "aiohttp"
                 ],
-                "short": "",
+                "short": "Web-based verification system",
                 "tags": [],
                 "type": ""
             }
