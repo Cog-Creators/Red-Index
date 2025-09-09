@@ -27161,7 +27161,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "piccolo",
-                    "asyncpg"
+                    "asyncpg",
+                    "aiocache"
                 ],
                 "short": "Pickaxe in hand, fortune awaits",
                 "tags": [
