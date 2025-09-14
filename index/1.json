@@ -22748,7 +22748,8 @@
                     0
                 ],
                 "permissions": [
-                    "embed_links"
+                    "embed_links",
+                    "manage_webhooks"
                 ],
                 "required_cogs": {},
                 "requirements": [],
