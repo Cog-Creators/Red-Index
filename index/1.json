@@ -22439,6 +22439,35 @@
                 ],
                 "type": "COG"
             },
+            "heist": {
+                "author": [
+                    "max"
+                ],
+                "description": "A game where players commit heists to steal valuable items or currency, using tools to boost success and shields to reduce losses, with a risk of getting caught by police.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data however, it does store some of the following user data for gameplay purposes: Discord user ID, heist cooldowns, active heist status, inventory of items, debt, jail status, equipped items, and heat counters for police and material drop chances. This data is stored to track player progress and game state. All data can be deleted upon request using the bot's data deletion commands.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Commit daring heists to steal valuable items or currency, using tools to boost success and shields to reduce losses, but beware the risk of getting caught!",
+                "tags": [
+                    "heist",
+                    "commit crimes",
+                    "crime",
+                    "steal"
+                ],
+                "type": "COG"
+            },
             "history": {
                 "author": [
                     "max"
