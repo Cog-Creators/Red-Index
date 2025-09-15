@@ -6195,6 +6195,30 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "apod": {
+                "author": [
+                    "Didi"
+                ],
+                "description": "Fetches and posts NASA's Astronomy Picture of the Day. Supports daily auto-posting, configurable channel, time, and info toggle.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores channel IDs, post times, and configuration settings for each server. It does not store personal user data.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "NASA Astronomy Picture of the Day",
+                "tags": [
+                    "nasa",
+                    "apod",
+                    "astronomy",
+                    "space",
+                    "image"
+                ],
+                "type": "COG"
+            },
             "gemini": {
                 "author": [
                     "Didi"
