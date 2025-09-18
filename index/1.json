@@ -13132,7 +13132,7 @@
                 "author": [
                     "Vexed (@vexingvexed)"
                 ],
-                "description": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "description": "Calculate simple mathematical expressions, right in Discord with buttons or automatically from sent messages using reactions",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
@@ -13149,7 +13149,7 @@
                     "expr.py",
                     "asyncache"
                 ],
-                "short": "Calculate simple mathematical expressions, right in Discord with buttons.",
+                "short": "Calculate simple mathematical expressions, right in Discord with buttons or automatically from sent messages.",
                 "tags": [
                     "utility",
                     "calc",
