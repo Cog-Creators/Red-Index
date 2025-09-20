@@ -27347,7 +27347,8 @@
                     "pydantic",
                     "Pympler",
                     "tabulate",
-                    "plotly"
+                    "plotly",
+                    "sentry-sdk"
                 ],
                 "short": "Cog profiling tools for bot owners and developers",
                 "tags": [
