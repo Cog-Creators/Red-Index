@@ -27216,7 +27216,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "piccolo",
+                    "piccolo[postgres]",
                     "asyncpg",
                     "aiocache"
                 ],
