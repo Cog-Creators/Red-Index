@@ -27340,7 +27340,7 @@
                 "min_bot_version": "3.5.3",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [],
@@ -27364,7 +27364,9 @@
                     "botinfo",
                     "performance",
                     "tracking",
-                    "tracker"
+                    "tracker",
+                    "sentry",
+                    "logging"
                 ],
                 "type": "COG"
             },
