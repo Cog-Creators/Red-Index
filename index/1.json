@@ -82,16 +82,16 @@
                 "end_user_data_statement": "This cog does not store end user data, however it does send the following data to the API.Bible API:\n- The bot user's ID\n- The timestamp of the invoking message\n- The hashed user id of the invoking user",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    10,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1",
+                    "red-tidegear>=1.16.1",
                     "numpy",
                     "pillow"
                 ],
@@ -112,16 +112,16 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    10,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1",
+                    "red-tidegear>=1.16.1",
                     "colorthief"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -139,16 +139,16 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    8,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1",
+                    "red-tidegear>=1.16.1",
                     "watchdog"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -167,16 +167,16 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.17",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    10,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear[pydantic]>=1.3.1"
+                    "red-tidegear[pydantic]>=1.16.1"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -198,16 +198,16 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    8,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1"
+                    "red-tidegear>=1.16.1"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -229,13 +229,13 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    10,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1",
+                    "red-tidegear>=1.16.1",
                     "pymcsrvstatus>=1.1.2",
                     "websockets"
                 ],
@@ -257,16 +257,16 @@
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": true,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    10,
+                    11,
                     0
                 ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.3.1",
+                    "red-tidegear>=1.16.1",
                     "dnspython",
                     "beautifulsoup4",
                     "markdownify"
