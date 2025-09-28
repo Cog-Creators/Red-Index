@@ -6266,6 +6266,26 @@
                     "social"
                 ],
                 "type": ""
+            },
+            "restrict": {
+                "author": [
+                    "Didi"
+                ],
+                "description": "This cog allows admins to restrict users by assigning a predefined role. Includes commands to configure the restricted role and the role required to use the restrict command.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Restrict/unrestrict users by assigning a role.",
+                "tags": [
+                    "moderation"
+                ],
+                "type": ""
             }
         },
         "short": "Some cogs that have been made by Didi with the help of ChatGPT"
