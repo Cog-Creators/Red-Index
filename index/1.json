@@ -4393,7 +4393,8 @@
                     "aircraft",
                     "aircraft tracking",
                     "ADS-B",
-                    "plane spotting"
+                    "plane spotting",
+                    "dashboard"
                 ],
                 "type": ""
             },
