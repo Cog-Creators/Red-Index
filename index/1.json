@@ -28626,6 +28626,7 @@
                     "openai>=1.99.9",
                     "sqlite-vec==0.1.7a2",
                     "aiosqlite>=0.21.0",
+                    "pysqlite-binary==0.5.1.3380300",
                     "fastembed",
                     "tenacity",
                     "tiktoken",
