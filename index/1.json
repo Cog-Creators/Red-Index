@@ -28625,7 +28625,7 @@
                 "requirements": [
                     "openai>=1.99.9",
                     "sqlite-vec==0.1.7a2",
-                    "aiosqlite",
+                    "aiosqlite>=0.21.0",
                     "fastembed",
                     "tenacity",
                     "tiktoken",
