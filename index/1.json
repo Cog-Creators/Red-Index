@@ -18535,6 +18535,32 @@
                 ],
                 "type": ""
             },
+            "minigames": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot.",
+                "tags": [
+                    "crab",
+                    "game",
+                    "pvp",
+                    "connect4",
+                    "tictactoe",
+                    "connect 4",
+                    "tic-tac-toe"
+                ],
+                "type": ""
+            },
             "novelai": {
                 "author": [
                     "hollowstrawberry"
