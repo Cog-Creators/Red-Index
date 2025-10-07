@@ -18612,6 +18612,38 @@
                 ],
                 "type": ""
             },
+            "simplechess": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Play Chess against your friends or the bot, or make bots play against each other. Requires ImageMagick installed on the host machine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "chess",
+                    "Wand"
+                ],
+                "short": "Play Chess against your friends or the bot, or make bots play against each other.",
+                "tags": [
+                    "crab",
+                    "game",
+                    "pvp",
+                    "chess",
+                    "tabletop",
+                    "ai"
+                ],
+                "type": ""
+            },
             "simulator": {
                 "author": [
                     "hollowstrawberry"
@@ -27687,6 +27719,38 @@
                     "serverstats",
                     "ping",
                     "latency"
+                ],
+                "type": "COG"
+            },
+            "whitelabel": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Allow server owners to customize the bot's avatar, banner, and bio on a per-server basis with optional role-based access control.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "manage_guild"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Per-server bot profile customization with role-based access control",
+                "tags": [
+                    "whitelabel",
+                    "profile",
+                    "avatar",
+                    "banner",
+                    "bio",
+                    "customization",
+                    "branding"
                 ],
                 "type": "COG"
             },
