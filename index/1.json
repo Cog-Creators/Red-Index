@@ -18812,7 +18812,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai",
+                    "openai==1.102.0",
                     "tiktoken",
                     "expiringdict",
                     "trafilatura",
