@@ -9462,6 +9462,162 @@
         },
         "short": "How many paths must a man walk down?"
     },
+    "https://github.com/MrLDasVino/Elvin-Red-Cogs": {
+        "author": [
+            "Elvin"
+        ],
+        "description": "A variety of cogs for redbot",
+        "name": "Elvin-Red-Cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "charactergenerator": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Generate quirky characters with backstories for roleplay or GM use",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random character generator",
+                "tags": [
+                    "character",
+                    "generator",
+                    "roleplay"
+                ],
+                "type": ""
+            },
+            "fortunegarden": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Gain fortune seeds by chatting then plant them and get random rewards when they bloom.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "FortuneGarden Cog",
+                "tags": [
+                    "fun",
+                    "economy",
+                    "games"
+                ],
+                "type": ""
+            },
+            "freegames": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Notifies a configurable role when new giveaways appear on GamerPower using rich embeds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links",
+                    "manage_roles"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "GamerPower giveaway notifier with embeds",
+                "tags": [
+                    "games",
+                    "giveaways",
+                    "notifications",
+                    "gamerpower"
+                ],
+                "type": ""
+            },
+            "imagefilter": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Apply image effects (blur, Rain, etc.) using the Jeyy Image API.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Image manipulation via Jeyy API",
+                "tags": [
+                    "image",
+                    "manipulation",
+                    "jeyy"
+                ],
+                "type": ""
+            },
+            "pickerwheel": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Manage multiple named wheels and spin a random option via an animated spinning-wheel GIF.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pillow",
+                    "imageio"
+                ],
+                "short": "",
+                "tags": [],
+                "type": ""
+            },
+            "word_cloud": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Tracks words, Unicode emojis, custom Discord emojis and reactions per-user and per-guild and generates transparent PNG wordclouds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "wordcloud",
+                    "pillow",
+                    "regex",
+                    "aiosqlite",
+                    "aiohttp"
+                ],
+                "short": "Per-user and guild wordclouds with emoji support",
+                "tags": [
+                    "fun",
+                    "analytics",
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Some fun and useful cogs"
+    },
     "https://github.com/NeuroAssassin/Toxic-Cogs": {
         "author": [
             "Neuro Assassin"
