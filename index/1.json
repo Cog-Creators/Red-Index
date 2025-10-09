@@ -18845,7 +18845,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai==1.82.1",
+                    "openai==1.109.1",
+                    "pydantic==2.11.5",
                     "tiktoken",
                     "expiringdict",
                     "trafilatura",
