@@ -18612,6 +18612,39 @@
                 ],
                 "type": ""
             },
+            "simplecheckers": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Play Checkers against your friends or the bot, or make bots play against each other. Requires ImageMagick installed on the host machine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "pydraughts",
+                    "Wand"
+                ],
+                "short": "Play Checkers against your friends or the bot, or make bots play against each other.",
+                "tags": [
+                    "crab",
+                    "game",
+                    "pvp",
+                    "checkers",
+                    "draughts",
+                    "tabletop",
+                    "ai"
+                ],
+                "type": ""
+            },
             "simplechess": {
                 "author": [
                     "hollowstrawberry"
