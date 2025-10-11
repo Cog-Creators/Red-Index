@@ -27931,7 +27931,9 @@
                     "manage_guild"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "openai"
+                ],
                 "short": "Per-server bot profile customization with role-based access control",
                 "tags": [
                     "whitelabel",
