@@ -18651,7 +18651,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aiofiles"
+                ],
                 "short": "Owner cog to show the latest logs.",
                 "tags": [
                     "crab",
@@ -19006,7 +19008,8 @@
                     "tiktoken",
                     "expiringdict",
                     "trafilatura",
-                    "rapidfuzz"
+                    "rapidfuzz",
+                    "aiofiles"
                 ],
                 "short": "OpenAI-powered user with persistent memory and various tools. Experimental.",
                 "tags": [
