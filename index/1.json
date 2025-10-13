@@ -18697,7 +18697,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot.",
+                "description": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot. Configure payouts and let users bet against each other",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -18707,11 +18707,12 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "short": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot.",
+                "short": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
                     "game",
                     "pvp",
+                    "economy",
                     "connect4",
                     "tictactoe",
                     "connect 4",
@@ -18774,7 +18775,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Play Checkers against your friends or the bot, or make bots play against each other. Requires ImageMagick installed on the host machine.",
+                "description": "Play Checkers against your friends or the bot, or make bots play together. Configure payouts and let users bet against each other. Requires ImageMagick installed on the host machine.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -18791,11 +18792,12 @@
                     "pydraughts",
                     "Wand"
                 ],
-                "short": "Play Checkers against your friends or the bot, or make bots play against each other.",
+                "short": "Play Checkers against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
                     "game",
                     "pvp",
+                    "economy",
                     "checkers",
                     "draughts",
                     "tabletop",
@@ -18807,7 +18809,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Play Chess against your friends or the bot, or make bots play against each other. Requires ImageMagick installed on the host machine.",
+                "description": "Play Chess against your friends or the bot, or make bots play against each other. Configure payouts and let users bet against each other. Requires ImageMagick installed on the host machine.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -18824,11 +18826,12 @@
                     "chess",
                     "Wand"
                 ],
-                "short": "Play Chess against your friends or the bot, or make bots play against each other.",
+                "short": "Play Chess against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
                     "game",
                     "pvp",
+                    "economy",
                     "chess",
                     "tabletop",
                     "ai"
