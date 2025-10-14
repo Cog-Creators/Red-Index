@@ -18353,7 +18353,8 @@
                     "voice",
                     "audio",
                     "music",
-                    "slash"
+                    "slash",
+                    "interaction"
                 ],
                 "type": ""
             },
