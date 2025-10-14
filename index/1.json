@@ -18600,7 +18600,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai"
+                    "openai==1.109.1"
                 ],
                 "short": "Generate images with OpenAI",
                 "tags": [
@@ -19003,7 +19003,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai"
+                    "openai==1.109.1"
                 ],
                 "short": "Use OpenAI's reasoning models",
                 "tags": [
@@ -19037,7 +19037,6 @@
                 "required_cogs": {},
                 "requirements": [
                     "openai==1.109.1",
-                    "pydantic==2.11.5",
                     "tiktoken",
                     "expiringdict",
                     "trafilatura",
@@ -19074,7 +19073,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai"
+                    "openai==1.109.1"
                 ],
                 "short": "Uses AI to give a unique welcome message for each new user.",
                 "tags": [
