@@ -18450,6 +18450,34 @@
                 ],
                 "type": ""
             },
+            "economytweaks": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Improves the slot command, adds a configurable bonus for the payday command, and adds slash commands for those two.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "emoji"
+                ],
+                "short": "Improves the slot command, adds a configurable bonus for the payday command, and adds slash commands for those two.",
+                "tags": [
+                    "crab",
+                    "fun",
+                    "economy",
+                    "slot",
+                    "slots",
+                    "slash",
+                    "interaction"
+                ],
+                "type": ""
+            },
             "emojisteal": {
                 "author": [
                     "hollowstrawberry"
