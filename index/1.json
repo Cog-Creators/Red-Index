@@ -26841,7 +26841,7 @@
                     "numpy",
                     "openai>=1.99.2",
                     "pandas",
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "pytz",
                     "sentry_sdk",
                     "tenacity",
@@ -26975,7 +26975,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "pytz",
                     "apscheduler"
                 ],
@@ -27032,7 +27032,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "tenacity"
                 ],
                 "short": "Discord Server Backup/Restore",
@@ -27220,7 +27220,7 @@
                     "bankevents": "https://github.com/vertyco/vrt-cogs.git"
                 },
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "aiocache",
                     "plotly",
                     "pandas"
@@ -27267,7 +27267,7 @@
                     "openai",
                     "ujson",
                     "openai",
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Auto translation between two languages.",
                 "tags": [
@@ -27329,7 +27329,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Manage what kind of servers the bot can join",
                 "tags": [
@@ -27416,7 +27416,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Make suggestions and share ideas anonymously.",
                 "tags": [],
@@ -27453,7 +27453,7 @@
                     "fastapi",
                     "msgpack",
                     "plotly",
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "python-multipart",
                     "python-decouple",
                     "python-dotenv",
@@ -27615,7 +27615,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Anti-Nuke Cog",
                 "tags": [
@@ -27684,7 +27684,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "Pympler",
                     "tabulate",
                     "plotly",
@@ -27785,7 +27785,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "plotly",
                     "numpy"
                 ],
@@ -27821,7 +27821,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "apscheduler",
                     "openai",
                     "pytz"
