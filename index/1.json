@@ -122,7 +122,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1",
+                    "red-tidegear>=1.19.5",
                     "colorthief"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -149,7 +149,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1",
+                    "red-tidegear>=1.19.5",
                     "watchdog"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -177,7 +177,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear[pydantic]>=1.16.1"
+                    "red-tidegear>=1.19.5"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -208,7 +208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1"
+                    "red-tidegear>=1.19.5"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -236,7 +236,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1",
+                    "red-tidegear>=1.19.5",
                     "pymcsrvstatus>=1.1.2",
                     "websockets"
                 ],
@@ -267,7 +267,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1",
+                    "red-tidegear>=1.19.5",
                     "dnspython",
                     "beautifulsoup4",
                     "markdownify"
