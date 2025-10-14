@@ -92,9 +92,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.19.6",
-                    "aiocache",
-                    "numpy",
-                    "pillow"
+                    "aiocache~=0.12.3",
+                    "numpy~=2.3",
+                    "pillow~=11.3"
                 ],
                 "short": "Retrieve Bible verses from API.Bible.",
                 "tags": [
@@ -123,7 +123,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.19.6",
-                    "colorthief"
+                    "fast_colorthief~=0.0.5"
                 ],
                 "short": "Retrieve information about emojis.",
                 "tags": [
@@ -150,7 +150,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.19.6",
-                    "watchdog"
+                    "watchdog~=6.0"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
                 "tags": [
@@ -237,8 +237,8 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.19.6",
-                    "pymcsrvstatus>=1.1.2",
-                    "websockets"
+                    "pymcsrvstatus~=1.1",
+                    "websockets~=15.0"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
                 "tags": [
@@ -268,9 +268,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "red-tidegear>=1.19.6",
-                    "dnspython",
-                    "beautifulsoup4",
-                    "markdownify"
+                    "dnspython~=2.8",
+                    "beautifulsoup4~=4.14",
+                    "markdownify~=1.2"
                 ],
                 "short": "A collection of useful utilities.",
                 "tags": [],
