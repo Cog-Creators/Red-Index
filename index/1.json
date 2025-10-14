@@ -91,7 +91,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.16.1",
+                    "red-tidegear>=1.19.5",
+                    "aiocache",
                     "numpy",
                     "pillow"
                 ],
