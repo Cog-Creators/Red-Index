@@ -21564,7 +21564,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Receieve alerts whenever a Netdata alarm is triggered on the bot's machine.",
                 "tags": [
@@ -21670,7 +21670,7 @@
                 "requirements": [
                     "tabulate",
                     "emoji-country-flag",
-                    "pydantic"
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "Cog for interacting with W3Champions",
                 "tags": [
