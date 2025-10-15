@@ -9567,6 +9567,30 @@
                 ],
                 "type": ""
             },
+            "mealdb": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Fetch recipes via TheMealDB API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persist any personal data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "",
+                "tags": [
+                    "cooking",
+                    "recipes",
+                    "utility"
+                ],
+                "type": ""
+            },
             "pickerwheel": {
                 "author": [
                     "Elvin"
