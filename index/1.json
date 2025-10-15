@@ -9612,6 +9612,29 @@
                 "tags": [],
                 "type": ""
             },
+            "urbandictionary": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Fetch definitions, examples, and user ratings via the Urban Dictionary API.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Lookup slang definitions from Urban Dictionary",
+                "tags": [
+                    "utility",
+                    "fun"
+                ],
+                "type": ""
+            },
             "word_cloud": {
                 "author": [
                     "Elvin"
