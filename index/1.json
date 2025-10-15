@@ -18502,7 +18502,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Improves the slot command, adds a configurable bonus for the payday command, and adds slash commands for those two.",
+                "description": "Adds slash commands for the economy cog, improves the slot command, and adds a configurable bonus for the payday command.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
@@ -18514,7 +18514,7 @@
                 "requirements": [
                     "emoji"
                 ],
-                "short": "Improves the slot command, adds a configurable bonus for the payday command, and adds slash commands for those two.",
+                "short": "Adds slash commands for the economy cog, improves the slot command, and adds a configurable bonus for the payday command.",
                 "tags": [
                     "crab",
                     "fun",
