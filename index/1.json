@@ -275,6 +275,31 @@
                 "short": "A collection of useful utilities.",
                 "tags": [],
                 "type": ""
+            },
+            "tickchanger": {
+                "author": [
+                    "cswimr"
+                ],
+                "description": "Change the emojis used by the bot when calling `ctx.tick()` among other things.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.22",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "red-tidegear>=1.21.2",
+                    "emoji~=2.15"
+                ],
+                "short": "Change the emojis used by the bot when calling `ctx.tick()` among other things.",
+                "tags": [],
+                "type": ""
             }
         },
         "short": "Various cogs for Red, by cswimr"
