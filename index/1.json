@@ -18799,7 +18799,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot. Configure payouts and let users bet against each other",
+                "description": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot. Configure payouts and let users bet against each other.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
