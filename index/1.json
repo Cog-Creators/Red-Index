@@ -18458,40 +18458,6 @@
                 ],
                 "type": ""
             },
-            "casino": {
-                "author": [
-                    "hollowstrawberry"
-                ],
-                "description": "Gambling minigames for your economy bot: Poker, Blackjack, and an improved Slot Machine.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.21",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "aiofiles",
-                    "dataclasses-json"
-                ],
-                "short": "Gambling minigames for your economy bot: Poker, Blackjack, and an improved Slots.",
-                "tags": [
-                    "crab",
-                    "game",
-                    "economy",
-                    "casino",
-                    "gambling",
-                    "blackjack",
-                    "slot",
-                    "poker"
-                ],
-                "type": ""
-            },
             "draw": {
                 "author": [
                     "hollowstrawberry"
@@ -18902,6 +18868,40 @@
                     "fun",
                     "random",
                     "misc"
+                ],
+                "type": ""
+            },
+            "simplecasino": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Gambling minigames for your economy bot: Poker, Blackjack, and an improved Slot Machine.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiofiles",
+                    "dataclasses-json"
+                ],
+                "short": "Gambling minigames for your economy bot: Poker, Blackjack, and an improved Slots.",
+                "tags": [
+                    "crab",
+                    "game",
+                    "economy",
+                    "casino",
+                    "gambling",
+                    "blackjack",
+                    "slot",
+                    "poker"
                 ],
                 "type": ""
             },
