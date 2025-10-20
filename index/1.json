@@ -19549,7 +19549,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "emoji"
                 ],
                 "short": "Get updates on free games from Epic Games, Steam, and more!",
@@ -19875,7 +19875,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "Pillow"
                 ],
                 "short": "A rendition of the classic board game Risk on discord.",
@@ -20007,7 +20007,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "numpy",
                     "git+https://github.com/astanin/python-tabulate.git@master",
                     "fuzzywuzzy"
@@ -20085,7 +20085,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "pydantic",
+                    "pydantic>=2.11,<2.12",
                     "matplotlib",
                     "numpy",
                     "pandas"
