@@ -9592,6 +9592,28 @@
                 ],
                 "type": ""
             },
+            "lottery": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "A bank-backed lottery system with buy, inventory, manage, and draw commands, supports multiple lotteries and reward types, uses buttons and modals for easy use.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "economy",
+                    "fun",
+                    "gambling"
+                ],
+                "type": ""
+            },
             "mealdb": {
                 "author": [
                     "Elvin"
