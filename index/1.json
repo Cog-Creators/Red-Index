@@ -9705,6 +9705,32 @@
                 ],
                 "type": ""
             },
+            "wallhaven": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Fetch wallpapers from Wallhaven (random, search, category) with buttons and a dropdown. Guild-level NSFW toggle and owner config.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "discord.py"
+                ],
+                "short": "Wallhaven wallpapers with interactive navigation",
+                "tags": [
+                    "images",
+                    "wallpaper",
+                    "wallhaven",
+                    "ui"
+                ],
+                "type": ""
+            },
             "word_cloud": {
                 "author": [
                     "Elvin"
