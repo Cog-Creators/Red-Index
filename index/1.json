@@ -9659,6 +9659,28 @@
                 "tags": [],
                 "type": ""
             },
+            "reacter": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "Randomly reacts to messages with server emojis (includes animated emojis). Admin commands to enable/disable and set frequency and amount.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Random emoji reactions",
+                "tags": [
+                    "fun",
+                    "emoji",
+                    "reaction"
+                ],
+                "type": ""
+            },
             "shop": {
                 "author": [
                     "Elvin"
