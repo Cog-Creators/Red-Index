@@ -9681,6 +9681,30 @@
                 ],
                 "type": ""
             },
+            "scratchcards": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "buy configurable scratch cards, win weighted prizes deposited to Red's bank. Includes an admin UI to create/edit cards and prizes via buttons and modals.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Weighted multi-prize scratch card game integrated with Red's bank",
+                "tags": [
+                    "games",
+                    "economy",
+                    "fun",
+                    "bank",
+                    "scratch cards"
+                ],
+                "type": ""
+            },
             "shop": {
                 "author": [
                     "Elvin"
