@@ -9521,6 +9521,28 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "cardpacks": {
+                "author": [
+                    "Elvin"
+                ],
+                "description": "A simple to use collectible card pack minigame, create card packs and cards then pull cards from the packs using server currency, everything is customizable",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "",
+                "tags": [
+                    "economy",
+                    "cards",
+                    "ui"
+                ],
+                "type": ""
+            },
             "charactergenerator": {
                 "author": [
                     "Elvin"
