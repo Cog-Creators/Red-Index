@@ -19812,7 +19812,8 @@
                 },
                 "requirements": [
                     "git+https://github.com/astanin/python-tabulate.git@master",
-                    "dateparser"
+                    "dateparser",
+                    "pydantic>=2.11,<2.12"
                 ],
                 "short": "A cog for keeping track of player's vehicle stats and other things from the game MissionChief.",
                 "tags": [
@@ -19821,6 +19822,32 @@
                     "stats",
                     "vehicles"
                 ],
+                "type": "COG"
+            },
+            "mediamonitor": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "A cog used to monitor media attachments in messages sent in a server. This cog can log violations based on file name patterns, file types, and file sizes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "pydantic>=2.11,<2.12"
+                ],
+                "short": "",
+                "tags": [],
                 "type": "COG"
             },
             "memberhistory": {
