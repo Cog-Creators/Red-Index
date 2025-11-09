@@ -11721,6 +11721,33 @@
                 ],
                 "type": "COG"
             },
+            "WHMCS": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A Red DiscordBot cog for integrating with WHMCS billing and client management system.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp>=3.8.0"
+                ],
+                "short": "Integrate Discord with WHMCS billing and client management.",
+                "tags": [
+                    "whmcs",
+                    "billing",
+                    "hosting",
+                    "client-management",
+                    "api",
+                    "business"
+                ],
+                "type": "COG"
+            },
             "YALC": {
                 "author": [
                     "Taako"
