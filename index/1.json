@@ -29287,8 +29287,7 @@
                 "requirements": [
                     "openai==1.109.1",
                     "pydantic==2.11.5",
-                    "sqlite-vec==0.1.7a2",
-                    "aiosqlite>=0.21.0",
+                    "lancedb~=0.25",
                     "fastembed",
                     "tenacity",
                     "tiktoken",
