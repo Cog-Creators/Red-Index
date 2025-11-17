@@ -91,7 +91,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0",
+                    "red-tidegear>=1.22.0",
                     "aiocache~=0.12.3",
                     "numpy~=2.3",
                     "pillow~=11.3"
@@ -122,7 +122,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0",
+                    "red-tidegear>=1.22.0",
                     "fast_colorthief~=0.0.5"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -149,7 +149,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0",
+                    "red-tidegear>=1.22.0",
                     "watchdog~=6.0"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -177,7 +177,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0"
+                    "red-tidegear>=1.22.0"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -208,7 +208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0"
+                    "red-tidegear>=1.22.0"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -236,7 +236,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0",
+                    "red-tidegear>=1.22.0",
                     "pymcsrvstatus~=1.1",
                     "websockets~=15.0"
                 ],
@@ -267,7 +267,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.0",
+                    "red-tidegear>=1.22.0",
                     "dnspython~=2.8",
                     "beautifulsoup4~=4.14",
                     "markdownify~=1.2"
