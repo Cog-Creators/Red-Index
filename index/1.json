@@ -3887,7 +3887,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "Pillow"
+                ],
                 "short": "some random cogs I made for my own use and decided to make public.",
                 "tags": [
                     "emoji",
@@ -3949,6 +3951,26 @@
                 ],
                 "type": ""
             },
+            "facebookdownloader": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "-",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "yt_dlp"
+                ],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [],
+                "type": "COG"
+            },
             "imgen": {
                 "author": [
                     "bencos18 (492089091320446976)"
@@ -3983,7 +4005,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "reportlab"
+                ],
                 "short": "some random cogs I made for my own use and decided to make public.",
                 "tags": [
                     ""
@@ -4105,7 +4129,8 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "reportlab"
+                    "reportlab",
+                    "wtforms"
                 ],
                 "short": "Get aircraft and airport information thru Discord, enhanced with a variety of consumer APIs",
                 "tags": [
