@@ -29038,7 +29038,8 @@
                     "Pillow",
                     "trafilatura",
                     "aiohttp",
-                    "gradio_client"
+                    "gradio_client",
+                    "py-cpuinfo"
                 ],
                 "short": "Human-like user behavior powered by LLMs.",
                 "tags": [
