@@ -29259,7 +29259,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [
                     "read_messages",
                     "add_reactions"
@@ -29268,8 +29272,8 @@
                 "requirements": [
                     "openai==1.109.1",
                     "pydantic==2.11.5",
-                    "tenacity",
                     "tiktoken>=0.9.0",
+                    "tenacity",
                     "emoji"
                 ],
                 "short": "OpenAI-powered reacts",
@@ -29324,7 +29328,11 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [
                     "read_messages",
                     "send_messages",
@@ -29337,9 +29345,9 @@
                     "openai==1.109.1",
                     "pydantic==2.11.5",
                     "lancedb~=0.25",
+                    "tiktoken>=0.9.0",
                     "fastembed",
                     "tenacity",
-                    "tiktoken",
                     "Pillow",
                     "trafilatura",
                     "aiohttp",
