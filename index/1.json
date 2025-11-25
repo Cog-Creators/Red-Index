@@ -25944,7 +25944,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "atproto",
-                    "typer",
+                    "cyclopts",
                     "rich",
                     "apscheduler"
                 ],
