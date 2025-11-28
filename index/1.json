@@ -27437,6 +27437,40 @@
                 ],
                 "type": "COG"
             },
+            "commandlock": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Lock command or cog usage to specific channels and redirect users to the correct ones.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store data about end users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "manage_guild"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Lock command or cog usage to specific channels.",
+                "tags": [
+                    "utilities",
+                    "utility",
+                    "redirect",
+                    "channelredirect",
+                    "commandlock",
+                    "commands",
+                    "moderation",
+                    "mod",
+                    "admin"
+                ],
+                "type": "COG"
+            },
             "cowclicker": {
                 "author": [
                     "Vertyco"
