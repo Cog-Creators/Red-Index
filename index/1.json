@@ -28297,7 +28297,8 @@
                 "requirements": [
                     "numpy",
                     "chat-exporter",
-                    "pytz"
+                    "pytz",
+                    "Pillow"
                 ],
                 "short": "Advanced support ticket system",
                 "tags": [
