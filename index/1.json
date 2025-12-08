@@ -4437,7 +4437,7 @@
                     "reportlab",
                     "wtforms"
                 ],
-                "short": "Get aircraft and airport information thru Discord, enhanced with a variety of consumer APIs",
+                "short": "Get aircraft and airport information thru Discord, enhanced with a variety of consumer APIs, the maintained version of the one by beehive-cogs and originally written by bencos17",
                 "tags": [
                     "airplanes",
                     "airplaneslive",
@@ -4445,7 +4445,8 @@
                     "aircraft tracking",
                     "ADS-B",
                     "plane spotting",
-                    "dashboard"
+                    "dashboard",
+                    "planes"
                 ],
                 "type": ""
             },
