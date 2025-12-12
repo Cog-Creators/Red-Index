@@ -2166,7 +2166,8 @@
                 "requirements": [
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
                     "fuzzywuzzy",
-                    "async-cache"
+                    "async-cache",
+                    "pillow"
                 ],
                 "short": "Guess One Piece characters from their characteristics, their devil fruit, or their blury wanted poster!",
                 "tags": [
@@ -2965,7 +2966,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
+                    "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git",
+                    "pillow"
                 ],
                 "short": "Play a match of Wordle game, in multiple languages and lengths!",
                 "tags": [
