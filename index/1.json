@@ -91,7 +91,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1",
+                    "red-tidegear>=1.23.4",
                     "aiocache~=0.12.3",
                     "numpy~=2.3",
                     "pillow~=11.3"
@@ -122,7 +122,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1",
+                    "red-tidegear>=1.23.4",
                     "fast_colorthief~=0.0.5"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -149,7 +149,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1",
+                    "red-tidegear>=1.23.4",
                     "watchdog~=6.0"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -177,7 +177,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1"
+                    "red-tidegear>=1.23.4"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -208,7 +208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1"
+                    "red-tidegear>=1.23.4"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -236,7 +236,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1",
+                    "red-tidegear>=1.23.4",
                     "pymcsrvstatus~=1.1",
                     "websockets~=15.0"
                 ],
@@ -267,7 +267,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.1",
+                    "red-tidegear>=1.23.4",
                     "dnspython~=2.8",
                     "beautifulsoup4~=4.14",
                     "markdownify~=1.2"
@@ -23543,6 +23543,247 @@
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
+    },
+    "https://github.com/malvinarum/malvincogs": {
+        "author": [
+            "Malvinarum"
+        ],
+        "description": "A suite of advanced monitoring and utility cogs for Redbot, focusing on media servers, game servers, and system telemetry.",
+        "name": "malvincogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "PalworldWatch": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "Live Palworld server dashboard using REST API and Process monitoring.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Palworld Monitor",
+                "tags": [],
+                "type": ""
+            },
+            "dockermanager": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "Manage Docker containers directly from Discord. Start, stop, restart, and monitor containers.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "docker"
+                ],
+                "short": "Docker Container Manager",
+                "tags": [
+                    "docker",
+                    "devops",
+                    "server",
+                    "utility"
+                ],
+                "type": ""
+            },
+            "draperbundle": {
+                "author": [
+                    "Drapersniper",
+                    "Malvinarum"
+                ],
+                "description": "A bundle of utility cogs for voice channels, gaming profiles, and general management.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": [
+                    3,
+                    8,
+                    1
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "regex",
+                    "python-dateutil",
+                    "pytz"
+                ],
+                "short": "Voice, Gaming, and Profile Utilities",
+                "tags": [
+                    "voice-channels",
+                    "gaming",
+                    "profile",
+                    "utility"
+                ],
+                "type": "COG"
+            },
+            "plexactivity": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "Plex Activity",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Plex Activity",
+                "tags": [],
+                "type": ""
+            },
+            "rssfeed": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "A cog that automatically checks configured RSS and Atom feeds on a schedule and publishes new entries to designated Discord channels, using embeds for clean formatting.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores a list of RSS/Atom feed URLs, the Discord channel IDs they should be posted to, and the timestamp of the last published item for each feed to prevent duplicate posts. This data is stored globally and is necessary for the cog's functionality.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser",
+                    "python-dateutil"
+                ],
+                "short": "Posts updates from RSS/Atom feeds to Discord channels.",
+                "tags": [
+                    "rss",
+                    "feed",
+                    "news",
+                    "automation"
+                ],
+                "type": ""
+            },
+            "streamsentry": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "Streamer promotion suite: Live roles, alerts, and clip archiving.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Streamer Tools",
+                "tags": [],
+                "type": ""
+            },
+            "systemdmanager": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "Manage Linux systemd services (Start/Stop/Restart) via a Discord persistent panel.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Control Systemd services from Discord.",
+                "tags": [
+                    "system",
+                    "linux",
+                    "admin",
+                    "panel"
+                ],
+                "type": ""
+            },
+            "systemmonitor": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "System monitor",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "System monitor",
+                "tags": [],
+                "type": ""
+            },
+            "torrentswatch": {
+                "author": [
+                    "Malvin",
+                    "Gemini"
+                ],
+                "description": "Static dashboard for Sonarr/Radarr queues.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Download Monitor",
+                "tags": [],
+                "type": ""
+            },
+            "xfeed": {
+                "author": [
+                    "Malvinarum"
+                ],
+                "description": "A Redbot cog to periodically fetch and post new updates from specified X.com (Twitter) accounts to a Discord channel using the X API v2.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "3.6.0",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": {
+                    "bot": [
+                        "read_messages",
+                        "send_messages",
+                        "embed_links"
+                    ]
+                },
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "XFeed - X.com Updates",
+                "tags": [
+                    "social media",
+                    "twitter",
+                    "x.com",
+                    "api",
+                    "utility"
+                ],
+                "type": ""
+            }
+        },
+        "short": "Malvin's Server Utilities"
     },
     "https://github.com/nmbook/FalcomBot-cogs": {
         "author": [
