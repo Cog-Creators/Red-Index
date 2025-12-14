@@ -29648,7 +29648,6 @@
                 "requirements": [
                     "openai==1.109.1",
                     "pydantic==2.11.5",
-                    "lancedb~=0.25",
                     "tiktoken>=0.9.0",
                     "fastembed",
                     "tenacity",
@@ -29656,7 +29655,8 @@
                     "trafilatura",
                     "aiohttp",
                     "gradio_client",
-                    "py-cpuinfo"
+                    "aiosqlite",
+                    "rank-bm25"
                 ],
                 "short": "Human-like user behavior powered by LLMs.",
                 "tags": [
