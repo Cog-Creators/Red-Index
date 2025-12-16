@@ -29628,7 +29628,7 @@
                 ],
                 "description": "Human-like Discord interactions powered by OpenAI (+ other LLMs) for messages (and images)",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not autonomously store data or metadata concerning users. With user consent, chat messages/images may be forwarded to OpenAI or third parties to produce LLM responses. For further details, please consult: https://openai.com/policies/privacy-policy, https://openrouter.ai/privacy, https://stablehorde.net/privacy, and relevant third-party privacy policies.",
+                "end_user_data_statement": "This cog does not autonomously store data or metadata concerning users. With user consent, chat messages/images may be forwarded to OpenAI or third parties to produce LLM responses. For further details, please consult: https://openai.com/policies/privacy-policy, https://openrouter.ai/privacy, and relevant third-party privacy policies.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -29648,6 +29648,7 @@
                 "requirements": [
                     "openai==1.109.1",
                     "pydantic==2.11.5",
+                    "modal~=1.2.5",
                     "tiktoken>=0.9.0",
                     "fastembed",
                     "tenacity",
