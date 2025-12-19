@@ -91,7 +91,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4",
+                    "red-tidegear>=1.23.8",
                     "aiocache~=0.12.3",
                     "numpy~=2.3",
                     "pillow~=11.3"
@@ -122,7 +122,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4",
+                    "red-tidegear>=1.23.8",
                     "fast_colorthief~=0.0.5"
                 ],
                 "short": "Retrieve information about emojis.",
@@ -149,7 +149,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4",
+                    "red-tidegear>=1.23.8",
                     "watchdog~=6.0"
                 ],
                 "short": "Automatically reload cogs in local cog paths on file change.",
@@ -177,7 +177,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4"
+                    "red-tidegear>=1.23.8"
                 ],
                 "short": "Automatically fetch and post rich embeds for issues and pull/merge requests from configured Git hosting providers (GitHub, Forgejo, GitLab, etc.).",
                 "tags": [
@@ -208,7 +208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4"
+                    "red-tidegear>=1.23.8"
                 ],
                 "short": "Nerdify your text!",
                 "tags": [
@@ -236,7 +236,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4",
+                    "red-tidegear>=1.23.8",
                     "pymcsrvstatus~=1.1",
                     "websockets~=15.0"
                 ],
@@ -267,7 +267,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.23.4",
+                    "red-tidegear>=1.23.8",
                     "dnspython~=2.8",
                     "beautifulsoup4~=4.14",
                     "markdownify~=1.2"
@@ -294,7 +294,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "red-tidegear>=1.21.2",
+                    "red-tidegear>=1.23.8",
                     "emoji~=2.15"
                 ],
                 "short": "Change the emojis used by the bot when calling `ctx.tick()` among other things.",
@@ -25007,6 +25007,502 @@
             }
         },
         "short": "General bot cogs."
+    },
+    "https://github.com/psykzz/cogs": {
+        "author": [
+            "PsyKzz"
+        ],
+        "description": "A number of different cogs built to support gaming & social communities for Redbot.",
+        "name": "cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "activity_stats": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Automatically tracks what games members are playing and provides statistics on the most popular games and individual player activity.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages",
+                    "Read Message History"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track Discord activity and game statistics",
+                "tags": [
+                    "Statistics",
+                    "Games",
+                    "Activity",
+                    "Tracking"
+                ],
+                "type": ""
+            },
+            "albion_auth": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Allows users to authenticate their Discord identity with their Albion Online character name. The bot will search for the player and rename them if found. Admins can configure a role to be assigned upon successful authentication. Features automatic daily verification to ensure Discord nicknames still match Albion Online names, with mismatch reports sent to the bot owner.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1"
+                ],
+                "short": "Authenticate and verify users with Albion Online player names",
+                "tags": [
+                    "Albion Online",
+                    "Authentication",
+                    "API",
+                    "Verification"
+                ],
+                "type": ""
+            },
+            "albion_bandits": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Tracks role mentions for Albion Online bandit events, deduplicates similar messages within a time window, and provides commands to view last bandit time and predict next occurrence (4-6 hours after previous).",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages",
+                    "Read Message History"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Track bandit event role mentions with timing predictions",
+                "tags": [
+                    "Albion Online",
+                    "Tracking",
+                    "Timers"
+                ],
+                "type": ""
+            },
+            "albion_regear": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Calculates the cost to regear after a death in Albion Online using the unofficial game APIs.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1"
+                ],
+                "short": "Get regear costs for Albion Online deaths",
+                "tags": [
+                    "Albion Online",
+                    "API",
+                    "Game"
+                ],
+                "type": ""
+            },
+            "assign_roles": {
+                "author": [
+                    "psykzz (originally from HashCogs)"
+                ],
+                "description": "The cog functions like the Manage Roles permission, but for specific to pairs of roles.\nFor example, one could allow role A to give role B to anyone else, but without allowing role A to give role C, D, etc.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow users with specific roles to give specified roles to other users",
+                "tags": [
+                    "role",
+                    "permissions",
+                    "assign"
+                ],
+                "type": ""
+            },
+            "empty_voices": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Automatically manages voice channels by creating temporary channels when needed and cleaning up empty ones. Includes commands to manage watched categories and temporary channels.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Dynamic voice channel management",
+                "tags": [
+                    "channel",
+                    "empty",
+                    "voice",
+                    "dynamic",
+                    "auto",
+                    "management"
+                ],
+                "type": ""
+            },
+            "game_embed": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Monitor Steam game servers using the A2S protocol. Displays server name, game, player count, and provides a quick-join button. Supports any Steam server compatible with python-a2s.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages",
+                    "Embed Links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "python-a2s>=1.3.0"
+                ],
+                "short": "Monitor Steam game servers and display status embeds.",
+                "tags": [
+                    "Steam",
+                    "Server",
+                    "Status",
+                    "Gaming",
+                    "Monitoring"
+                ],
+                "type": ""
+            },
+            "hat": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "A cog that helps users create festive versions of their avatars by overlaying Christmas hats. Users can select from multiple hats, adjust scale, rotation, and position. Admins can upload and manage hat images. Supports both guild and DM usage.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs and their hat preferences (selected hat, scale, rotation, position) for future use.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links",
+                    "attach_files",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "Pillow>=10.2.0"
+                ],
+                "short": "Add festive Christmas hats to avatars",
+                "tags": [
+                    "christmas",
+                    "hat",
+                    "avatar",
+                    "festive",
+                    "holiday",
+                    "image"
+                ],
+                "type": ""
+            },
+            "ideas": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Allows users to suggest ideas that are automatically created as GitHub issues in a configurable repository. Bot owners can configure the target repository and toggle whether anyone can use the command or only the owner.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1"
+                ],
+                "short": "Suggest ideas by creating GitHub issues",
+                "tags": [
+                    "GitHub",
+                    "Issues",
+                    "Ideas",
+                    "API"
+                ],
+                "type": ""
+            },
+            "misc": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Misc things for your server.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Misc things for your server",
+                "tags": [
+                    "Roles",
+                    "Reactions",
+                    "Administration"
+                ],
+                "type": ""
+            },
+            "movie_vote": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "Adds upvote and downvote reactions to every message in a channel. Messages receiving excessive downvotes can be deleted automatically.\n\nDependencies: None",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "add_reactions"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "cinemagoer==2022.12.27"
+                ],
+                "short": "Handle votes for movies",
+                "tags": [
+                    "reaction",
+                    "vote",
+                    "upvote",
+                    "downvote"
+                ],
+                "type": ""
+            },
+            "nw_server_status": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Select a channel to keep updated with server information, additional posts to the same channel withs erver status updates.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages",
+                    "Manange Channels"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1"
+                ],
+                "short": "Update channel info based on server status.",
+                "tags": [
+                    "Server",
+                    "Status"
+                ],
+                "type": ""
+            },
+            "nw_timers": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "War timers continue to update channels with their timers and provide on demand queries via commands.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create war timers for new world.",
+                "tags": [
+                    "Timers"
+                ],
+                "type": ""
+            },
+            "party": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "A cog to create parties with role compositions and allow users to signup for specific roles using Discord buttons. Supports predefined and freeform roles, multiple signups per role (configurable), and role updates.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for party participation tracking.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links",
+                    "manage_messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Create and manage party signups",
+                "tags": [
+                    "party",
+                    "composition",
+                    "signup",
+                    "roles",
+                    "group"
+                ],
+                "type": ""
+            },
+            "quotesdb": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Allow uses to specify quotes paired with a trigger.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Storage for user generated quotes",
+                "tags": [
+                    "Quotes",
+                    "Fun"
+                ],
+                "type": ""
+            },
+            "react_roles": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Specific specific messages to track reactions on them and apply roles to users automatically.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "React to messages for roles",
+                "tags": [
+                    "Roles",
+                    "Reactions",
+                    "Administration"
+                ],
+                "type": ""
+            },
+            "secret_santa": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "A cog to manage Secret Santa events. Create events with target dates, max prices, and participants. Automatically match participants, allow anonymous messaging between pairs, and track gift sending/receiving status.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for Secret Santa event participation, gift status tracking, and anonymous message relay.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "send_messages",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage Secret Santa events",
+                "tags": [
+                    "secret santa",
+                    "christmas",
+                    "gift",
+                    "event",
+                    "holiday"
+                ],
+                "type": ""
+            },
+            "tgmc": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Interface for the TGMC API.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1"
+                ],
+                "short": "Interface for the TGMC API",
+                "tags": [
+                    "TGMC",
+                    "API"
+                ],
+                "type": ""
+            },
+            "user": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Commands to manage the bot's nickname and avatar in a guild.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Manage Nicknames",
+                    "Send Messages"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage bot user settings",
+                "tags": [
+                    "Bot",
+                    "User",
+                    "Administration"
+                ],
+                "type": ""
+            }
+        },
+        "short": "PsyKzz's cogs"
     },
     "https://github.com/raidensakura/raiden-cogs": {
         "author": [
