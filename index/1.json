@@ -25206,7 +25206,7 @@
                 "author": [
                     "PsyKzz"
                 ],
-                "description": "Background task that regularly checks the Portaler endpoints for Avalon road connections. Displays a graph showing connections from a configured home zone. Helps guilds track and navigate the Roads of Avalon efficiently.",
+                "description": "Fetches and displays Roads of Avalon connections from the Portaler API on-demand. Shows a graph of connections from a configured home zone. Helps guilds track and navigate the Roads of Avalon efficiently.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
