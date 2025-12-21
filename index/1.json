@@ -25202,6 +25202,33 @@
                 ],
                 "type": ""
             },
+            "albion_ava": {
+                "author": [
+                    "PsyKzz"
+                ],
+                "description": "Background task that regularly checks the Portaler endpoints for Avalon road connections. Displays a graph showing connections from a configured home zone. Helps guilds track and navigate the Roads of Avalon efficiently.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "httpx>=0.14.1",
+                    "Pillow>=10.2.0"
+                ],
+                "short": "Track Roads of Avalon connections via Portaler API",
+                "tags": [
+                    "Albion Online",
+                    "API",
+                    "Avalon",
+                    "Portaler",
+                    "Roads"
+                ],
+                "type": ""
+            },
             "albion_bandits": {
                 "author": [
                     "PsyKzz"
