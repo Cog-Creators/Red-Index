@@ -25719,6 +25719,30 @@
                 ],
                 "type": "COG"
             },
+            "hoyotools": {
+                "author": [
+                    "raidensakura"
+                ],
+                "description": "A cog for various utilities related to Hoyoverse games",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user provided Hoyolab account token to perform various actions on the user's behalf.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "git+https://github.com/seriaati/genshin.py"
+                ],
+                "short": "A companion cog for Hoyoverse games",
+                "tags": [
+                    "hoyolab",
+                    "genshin",
+                    "hoyotools"
+                ],
+                "type": "COG"
+            },
             "longcat": {
                 "author": [
                     "raidensakura",
