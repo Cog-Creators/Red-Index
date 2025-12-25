@@ -29442,6 +29442,32 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "Emoji": {
+                "author": [
+                    "willamette"
+                ],
+                "description": "Emoji-related commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores data provided by users for the express purpose of re-displaying. It does not store user data which was not provided through a command. Users may delete their own data with or without making a data request.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    8,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "requests"
+                ],
+                "short": "Emoji-related commands.",
+                "tags": [],
+                "type": ""
+            },
             "discordinfo": {
                 "author": [
                     "willamette"
@@ -29465,32 +29491,6 @@
                     "reactionmenu>=3.0.0"
                 ],
                 "short": "Get info on users, servers, and other things on Discord.",
-                "tags": [],
-                "type": ""
-            },
-            "emoji": {
-                "author": [
-                    "willamette"
-                ],
-                "description": "Emoji-related commands.",
-                "disabled": false,
-                "end_user_data_statement": "This cog stores data provided by users for the express purpose of re-displaying. It does not store user data which was not provided through a command. Users may delete their own data with or without making a data request.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": [
-                    3,
-                    8,
-                    0
-                ],
-                "permissions": [
-                    "embed_links"
-                ],
-                "required_cogs": {},
-                "requirements": [
-                    "requests"
-                ],
-                "short": "Emoji-related commands.",
                 "tags": [],
                 "type": ""
             },
