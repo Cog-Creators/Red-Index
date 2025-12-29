@@ -15856,6 +15856,35 @@
                     "permissions"
                 ],
                 "type": "COG"
+            },
+            "threadopener": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Open threads for every message in a channel.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store End User Data.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine==3.2.2"
+                ],
+                "short": "Thread opener.",
+                "tags": [
+                    "channels",
+                    "channel",
+                    "threads",
+                    "thread"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs for codzombies"
