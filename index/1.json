@@ -15834,6 +15834,38 @@
                 "tags": [],
                 "type": ""
             },
+            "nodms": {
+                "author": [
+                    "inthedark.org"
+                ],
+                "description": "Restrict messages or any commands in DMs from others, with various configuration settings.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "AdvancedTagScriptEngine",
+                    "diot"
+                ],
+                "short": "Restrict messages and/or commands in DMs.",
+                "tags": [
+                    "deny",
+                    "utility",
+                    "disallow",
+                    "restrict",
+                    "commands",
+                    "DMs"
+                ],
+                "type": "COG"
+            },
             "stickercontrol": {
                 "author": [
                     "Eternalll"
