@@ -4114,6 +4114,22 @@
                 ],
                 "type": ""
             },
+            "counter": {
+                "author": "bencos17",
+                "description": "Counters that users can create and modify, with server and unique scopes.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Flexible per-guild/user/global counters",
+                "tags": [],
+                "type": ""
+            },
             "currency": {
                 "author": [
                     "bencos18"
@@ -4492,6 +4508,30 @@
                     "notifier"
                 ],
                 "type": "COG"
+            },
+            "voice": {
+                "author": [
+                    "bencos17"
+                ],
+                "description": "Voice receive cog that integrates with discord-ext-voice-recv to record audio per user.",
+                "disabled": false,
+                "end_user_data_statement": "This cog may write audio recordings containing user speech to disk. The bot owner controls storage and retention; recordings are not uploaded by default, but can be optionally uploaded to the text channel that initiated the recording (the requesting user will be mentioned).",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "discord-ext-voice-recv"
+                ],
+                "short": "Voice receive and recording",
+                "tags": [
+                    "voice",
+                    "utility",
+                    "recording"
+                ],
+                "type": ""
             },
             "xkcd": {
                 "author": [
