@@ -10495,7 +10495,7 @@
     },
     "https://github.com/PhasecoreX/PCXCogs": {
         "author": [
-            "PhasecoreX (PhasecoreX#0635)"
+            "PhasecoreX"
         ],
         "description": "My cogs focus on automation, where the bot will automatically respond or perform actions when needed, even if commands are not used. There's also other stuff thrown in there for fun.",
         "name": "PCXCogs",
@@ -10504,7 +10504,7 @@
         "rx_cogs": {
             "autoroom": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "This cog facilitates automatic voice channel creation. When a member joins an AutoRoom Source (voice channel), this cog will move them to a brand new AutoRoom that they have control over. Once everyone leaves the AutoRoom, it is automatically deleted.",
                 "disabled": false,
@@ -10537,12 +10537,12 @@
             },
             "bancheck": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "This cog allows server admins to check their members against multiple external ban lists. It can also automatically check new members that join the server, and optionally ban them if they appear in a list.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
@@ -10568,7 +10568,7 @@
             },
             "bansync": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "This cog allows server admins to have moderation actions automatically applied to members on their server when those actions are performed on another server that the bot is in.",
                 "disabled": false,
@@ -10600,7 +10600,7 @@
             },
             "decodebinary": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Automatically decodes binary strings to human readable ones when detected in chat.",
                 "disabled": false,
@@ -10629,7 +10629,7 @@
             },
             "dice": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "This cog allows for rolling complex dice, such as 3d8+4 or (4d6+3)*2.",
                 "disabled": false,
@@ -10660,7 +10660,7 @@
             },
             "heartbeat": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Monitor the uptime of your bot by having it send heartbeat pings to a configurable URL (healthchecks.io for instance).",
                 "disabled": false,
@@ -10692,7 +10692,7 @@
             },
             "netspeed": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Runs an internet speedtest and prints the results. Only the owner can run this.",
                 "disabled": false,
@@ -10725,7 +10725,7 @@
             },
             "reactchannel": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Allows for channels to be set up to have reactions automatically added to messages. This can facilitate things such as an upvote/downvote system (with user karma), a checklist system (checked messages are deleted), or any custom emoji reaction systems (no actions performed).",
                 "disabled": false,
@@ -10758,7 +10758,7 @@
             },
             "remindme": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Allows for users to set reminders for themselves.",
                 "disabled": false,
@@ -10787,7 +10787,7 @@
             },
             "updatenotify": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "This cog will periodically check if there are updates to the Red-DiscordBot code. If you are using the phasecorex/red-discordbot Docker image, it will check for any updates to that as well.",
                 "disabled": false,
@@ -10816,7 +10816,7 @@
             },
             "uwu": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Takes the pwevious mwessage and uwuizes it. Sowwy.",
                 "disabled": false,
@@ -10841,7 +10841,7 @@
             },
             "wikipedia": {
                 "author": [
-                    "PhasecoreX (PhasecoreX#0635)"
+                    "PhasecoreX"
                 ],
                 "description": "Allows for looking up terms on Wikipedia, and having the results displayed in chat.",
                 "disabled": false,
