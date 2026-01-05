@@ -4135,7 +4135,9 @@
                 "type": "COG"
             },
             "counter": {
-                "author": "bencos17",
+                "author": [
+                    "bencos17"
+                ],
                 "description": "Counters that users can create and modify, with server and unique scopes.",
                 "disabled": false,
                 "end_user_data_statement": "",
