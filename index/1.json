@@ -4114,6 +4114,26 @@
                 ],
                 "type": ""
             },
+            "bible": {
+                "author": [
+                    "bencos18 (492089091320446976)"
+                ],
+                "description": "-",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "bible"
+                ],
+                "short": "some random cogs I made for my own use and decided to make public.",
+                "tags": [],
+                "type": "COG"
+            },
             "counter": {
                 "author": "bencos17",
                 "description": "Counters that users can create and modify, with server and unique scopes.",
@@ -4173,27 +4193,6 @@
                     "fun",
                     "meme",
                     "rating"
-                ],
-                "type": "COG"
-            },
-            "earthquake": {
-                "author": [
-                    "bencos18"
-                ],
-                "description": "DO NOT USE SPAMS channel and bot Get the latest earthquake information",
-                "disabled": true,
-                "end_user_data_statement": "This cog does not record end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "earthquake stuff",
-                "tags": [
-                    "api",
-                    "earthquake"
                 ],
                 "type": "COG"
             },
@@ -4273,47 +4272,6 @@
                     "monitoring"
                 ],
                 "type": ""
-            },
-            "facebookdownloader": {
-                "author": [
-                    "bencos18 (492089091320446976)"
-                ],
-                "description": "-",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "yt_dlp"
-                ],
-                "short": "some random cogs I made for my own use and decided to make public.",
-                "tags": [],
-                "type": "COG"
-            },
-            "imgen": {
-                "author": [
-                    "bencos18 (492089091320446976)"
-                ],
-                "description": "Imgen cog.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "some random cogs I made for my own use and decided to make public.",
-                "tags": [
-                    "emoji",
-                    "emojis"
-                ],
-                "type": "COG"
             },
             "invoice": {
                 "author": [
@@ -4508,30 +4466,6 @@
                     "notifier"
                 ],
                 "type": "COG"
-            },
-            "voice": {
-                "author": [
-                    "bencos17"
-                ],
-                "description": "Voice receive cog that integrates with discord-ext-voice-recv to record audio per user.",
-                "disabled": false,
-                "end_user_data_statement": "This cog may write audio recordings containing user speech to disk. The bot owner controls storage and retention; recordings are not uploaded by default, but can be optionally uploaded to the text channel that initiated the recording (the requesting user will be mentioned).",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "discord-ext-voice-recv"
-                ],
-                "short": "Voice receive and recording",
-                "tags": [
-                    "voice",
-                    "utility",
-                    "recording"
-                ],
-                "type": ""
             },
             "xkcd": {
                 "author": [
