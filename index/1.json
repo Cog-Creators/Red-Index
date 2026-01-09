@@ -19648,6 +19648,38 @@
                     "openai"
                 ],
                 "type": ""
+            },
+            "nanobanana": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generate and remix images with Google's NanoBanana. Uses openrouter API.",
+                "disabled": false,
+                "end_user_data_statement": "This cog allows users to send images in your server's chat to Google for remixing.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "openai==1.109.1"
+                ],
+                "short": "Generate and remix images with Google's NanoBanana.",
+                "tags": [
+                    "holo",
+                    "ai",
+                    "gpt",
+                    "google",
+                    "gemini",
+                    "nanobanana",
+                    "openrouter"
+                ],
+                "type": ""
             }
         },
         "short": "holo-cogs"
