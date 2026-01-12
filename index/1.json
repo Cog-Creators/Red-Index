@@ -4118,6 +4118,74 @@
         },
         "short": "Collection of utility cogs for Red v3"
     },
+    "https://github.com/CatalystND/RedCogs": {
+        "author": [
+            "Nick Daino"
+        ],
+        "description": "A collection of personal Red-Discord Bot cogs including NFL game schedules and Bristol Mountain ski conditions. Some cogs are location-specific, others are more general purpose.",
+        "name": "RedCogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "bristolMountainConditions": {
+                "author": [
+                    "Nick Daino"
+                ],
+                "description": "Fetches current ski conditions from Bristol Mountain including lift status and trail conditions, and displays them in Discord embeds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "beautifulsoup4"
+                ],
+                "short": "Shows Bristol Mountain ski lift and trail conditions",
+                "tags": [
+                    "skiing",
+                    "bristol mountain",
+                    "conditions",
+                    "lifts",
+                    "trails",
+                    "sports",
+                    "weather"
+                ],
+                "type": "COG"
+            },
+            "nfl": {
+                "author": [
+                    "Nick Daino"
+                ],
+                "description": "Fetches upcoming NFL game schedules from PlainTextSports and displays them in Discord embeds.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "beautifulsoup4"
+                ],
+                "short": "Shows upcoming NFL games from PlainTextSports",
+                "tags": [
+                    "nfl",
+                    "sports",
+                    "football",
+                    "games",
+                    "schedule"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Personal collection of Red-Discord Bot cogs"
+    },
     "https://github.com/ChaseCares/CCCogs": {
         "author": [
             "ChaseCares"
