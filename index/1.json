@@ -15385,6 +15385,30 @@
                 ],
                 "type": ""
             },
+            "modroles": {
+                "author": [
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
+                ],
+                "description": "Allow moderators without manage roles permission to assign configured roles to users.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": true,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Allow moderators without manage roles permission to assign configured roles to users.",
+                "tags": [
+                    "moderation",
+                    "modroles",
+                    "roles",
+                    "tools",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "nicknamer": {
                 "author": [
                     "Dav"
