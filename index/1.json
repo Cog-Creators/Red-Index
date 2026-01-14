@@ -4122,7 +4122,7 @@
         "author": [
             "Nick Daino"
         ],
-        "description": "A collection of personal Red-Discord Bot cogs including NFL game schedules and Bristol Mountain ski conditions. Some cogs are location-specific, others are more general purpose.",
+        "description": "A collection of personal Red-Discord Bot cogs including NFL, NHL, MLB, NBA game schedules and Bristol Mountain ski conditions.",
         "name": "RedCogs",
         "rx_branch": "",
         "rx_category": "unapproved",
@@ -4133,7 +4133,7 @@
                 ],
                 "description": "Fetches current ski conditions from Bristol Mountain including lift status and trail conditions, and displays them in Discord embeds.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
@@ -4156,13 +4156,67 @@
                 ],
                 "type": "COG"
             },
+            "mlb": {
+                "author": [
+                    "Nick Daino"
+                ],
+                "description": "Fetches upcoming MLB game schedules from PlainTextSports and displays them in Discord embeds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "beautifulsoup4"
+                ],
+                "short": "Shows upcoming MLB games from PlainTextSports",
+                "tags": [
+                    "mlb",
+                    "sports",
+                    "baseball",
+                    "games",
+                    "schedule"
+                ],
+                "type": "COG"
+            },
+            "nba": {
+                "author": [
+                    "Nick Daino"
+                ],
+                "description": "Fetches upcoming NBA game schedules from PlainTextSports and displays them in Discord embeds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "beautifulsoup4"
+                ],
+                "short": "Shows upcoming NBA games from PlainTextSports",
+                "tags": [
+                    "nba",
+                    "sports",
+                    "basketball",
+                    "games",
+                    "schedule"
+                ],
+                "type": "COG"
+            },
             "nfl": {
                 "author": [
                     "Nick Daino"
                 ],
                 "description": "Fetches upcoming NFL game schedules from PlainTextSports and displays them in Discord embeds.",
                 "disabled": false,
-                "end_user_data_statement": "",
+                "end_user_data_statement": "This cog does not store any end user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.4.0",
@@ -4178,6 +4232,33 @@
                     "nfl",
                     "sports",
                     "football",
+                    "games",
+                    "schedule"
+                ],
+                "type": "COG"
+            },
+            "nhl": {
+                "author": [
+                    "Nick Daino"
+                ],
+                "description": "Fetches upcoming NHL game schedules from PlainTextSports and displays them in Discord embeds.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.4.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp",
+                    "beautifulsoup4"
+                ],
+                "short": "Shows upcoming NHL games from PlainTextSports",
+                "tags": [
+                    "nhl",
+                    "sports",
+                    "hockey",
                     "games",
                     "schedule"
                 ],
