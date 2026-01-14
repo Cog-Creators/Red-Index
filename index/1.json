@@ -28513,6 +28513,41 @@
                 "tags": [],
                 "type": "COG"
             },
+            "imgen": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Generate and edit images using OpenAI's GPT-Image models. Supports turn-based image editing, reference images, and per-role access control with cooldowns.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user cooldown timestamps for rate limiting purposes. This data can be deleted upon request.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "embed_links",
+                    "attach_files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "openai",
+                    "pydantic>=2.11,<2.12"
+                ],
+                "short": "Generate and edit images with OpenAI's GPT-Image models",
+                "tags": [
+                    "image",
+                    "ai",
+                    "openai",
+                    "generation",
+                    "editing",
+                    "gpt"
+                ],
+                "type": "COG"
+            },
             "levelup": {
                 "author": [
                     "Vertyco"
