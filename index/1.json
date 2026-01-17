@@ -29132,11 +29132,11 @@
                 "end_user_data_statement": "This cog is stateless and retains no user or server data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.22",
                 "min_python_version": [
                     3,
-                    9,
-                    1
+                    10,
+                    0
                 ],
                 "permissions": [],
                 "required_cogs": {},
