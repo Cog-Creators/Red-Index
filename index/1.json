@@ -24918,6 +24918,29 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "access": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "Simplify access and permissions to channels for roles or members by managing channel-specific permission overrides.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Manage channel access permissions for roles and members",
+                "tags": [
+                    "permissions",
+                    "access",
+                    "channels",
+                    "roles"
+                ],
+                "type": ""
+            },
             "activity_stats": {
                 "author": [
                     "PsyKzz"
