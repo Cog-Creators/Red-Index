@@ -22971,7 +22971,7 @@
                 "author": [
                     "max"
                 ],
-                "description": "Posts live worldwide earthquake updates from USGS to a designated channel.",
+                "description": "Posts live worldwide or country-specific earthquake updates from USGS to a designated channel.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
@@ -22990,7 +22990,7 @@
                 "requirements": [
                     "tenacity"
                 ],
-                "short": "Posts live worldwide earthquake updates from USGS to a designated channel.",
+                "short": "Posts live worldwide or country-specifice earthquake updates from USGS to a designated channel.",
                 "tags": [
                     "Earthquake",
                     "USGS",
