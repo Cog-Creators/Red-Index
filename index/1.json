@@ -29147,7 +29147,7 @@
                 ],
                 "description": "Multi-Panel Discord support ticket system with buttons!",
                 "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data about users.",
+                "end_user_data_statement": "This cog stores ticket data and analytics about user support interactions.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
@@ -29171,7 +29171,9 @@
                     "numpy",
                     "chat-exporter",
                     "pytz",
-                    "Pillow"
+                    "Pillow",
+                    "pydantic>=2.11,<2.12",
+                    "orjson"
                 ],
                 "short": "Advanced support ticket system",
                 "tags": [
