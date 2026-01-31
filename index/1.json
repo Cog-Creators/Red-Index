@@ -25048,7 +25048,7 @@
                 "author": [
                     "PsyKzz"
                 ],
-                "description": "Tracks role mentions for Albion Online bandit events, deduplicates similar messages within a time window, and provides commands to view last bandit time and predict next occurrence (4-6 hours after previous).",
+                "description": "Tracks role mentions for Albion Online bandit events, deduplicates similar messages within a time window, and provides commands to view last bandit time and predict next occurrence (4-6 hours after previous). Supports real-time NATS integration with Albion Data Project.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -25060,7 +25060,9 @@
                     "Read Message History"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "nats-py>=2.0.0"
+                ],
                 "short": "Track bandit event role mentions with timing predictions",
                 "tags": [
                     "Albion Online",
