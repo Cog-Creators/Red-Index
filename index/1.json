@@ -3844,6 +3844,31 @@
                 ],
                 "type": "COG"
             },
+            "radiosonde": {
+                "author": [
+                    "bencos167"
+                ],
+                "description": "A Red Discord bot cog that tracks radiosondes using the SondeHub V2 API. Features include tracking specific sondes, querying by location, viewing telemetry history, and listening to live updates.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Track radiosondes using the SondeHub API",
+                "tags": [
+                    "radiosonde",
+                    "tracking",
+                    "api",
+                    "sondehub"
+                ],
+                "type": ""
+            },
             "scp": {
                 "author": [
                     "bencos18"
