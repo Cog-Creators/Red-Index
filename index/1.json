@@ -23526,6 +23526,31 @@
                     "tvshows"
                 ],
                 "type": "COG"
+            },
+            "vanish": {
+                "author": [
+                    "max"
+                ],
+                "description": "This will allow you to self-timeout yourself, similar to Twitch's timeout command from streamelemets and fossabot.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.21",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "This will allow you to self-timeout yourself, similar to Twitch's timeout command from streamelemets and fossabot.",
+                "tags": [
+                    "self-timeout",
+                    "timeout"
+                ],
+                "type": "COG"
             }
         },
         "short": "Cogs for Red-DiscordBot V3."
