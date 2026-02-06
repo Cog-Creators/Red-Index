@@ -23264,7 +23264,7 @@
                 "description": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.14",
                 "min_python_version": [
@@ -23459,6 +23459,41 @@
                     "attachments",
                     "links",
                     "restrict"
+                ],
+                "type": "COG"
+            },
+            "technews": {
+                "author": [
+                    "max"
+                ],
+                "description": "Auto posts new articles from Wccftech to a specified channel in your server.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.13",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "feedparser",
+                    "beautifulsoup4"
+                ],
+                "short": "Auto posts new articles from Wccftech to a specified channel in your server.",
+                "tags": [
+                    "technews",
+                    "wccftech",
+                    "news",
+                    "tech",
+                    "mobile",
+                    "gaming",
+                    "hardware"
                 ],
                 "type": "COG"
             },
