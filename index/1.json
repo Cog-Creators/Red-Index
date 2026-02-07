@@ -28104,6 +28104,7 @@
                 "required_cogs": {},
                 "requirements": [
                     "aiocache",
+                    "apscheduler>=3.10.0",
                     "chromadb",
                     "json5",
                     "msgpack",
