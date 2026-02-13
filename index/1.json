@@ -5058,37 +5058,6 @@
                 ],
                 "type": "COG"
             },
-            "movietar": {
-                "author": [
-                    "Glas"
-                ],
-                "description": "Inserts avatar into several videos.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    11,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "moviepy==2.1.2",
-                    "numpy>=1.25.0",
-                    "rapidfuzz",
-                    "Unidecode"
-                ],
-                "short": "Video + Avatar.",
-                "tags": [
-                    "video",
-                    "avatar",
-                    "bad-meme"
-                ],
-                "type": "COG"
-            },
             "ogey": {
                 "author": [
                     "Kuro",
@@ -5184,29 +5153,6 @@
                 ],
                 "type": "COG"
             },
-            "redbus": {
-                "author": [
-                    "TrustyJaid",
-                    "Glas"
-                ],
-                "description": "Generates a random firework from an API.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": true,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Find bus stop information in Chile.",
-                "tags": [
-                    "image",
-                    "firework",
-                    "gif"
-                ],
-                "type": "COG"
-            },
             "removebg": {
                 "author": [
                     "Glas"
@@ -5233,32 +5179,6 @@
                 "short": "",
                 "tags": [],
                 "type": "COG"
-            },
-            "rizz": {
-                "author": [
-                    "Glas",
-                    "PhasecoreX (PhasecoreX#0635)"
-                ],
-                "description": "Takes the pwevious mwessage and Rizzes it. nocap.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": [
-                    3,
-                    11,
-                    0
-                ],
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Rizzify messages.",
-                "tags": [
-                    "fun",
-                    "utility"
-                ],
-                "type": ""
             },
             "sekai": {
                 "author": [
@@ -5438,31 +5358,6 @@
                     "love",
                     "meme",
                     "valentine"
-                ],
-                "type": "COG"
-            },
-            "vwiki": {
-                "author": [
-                    "daffpy",
-                    "Glas"
-                ],
-                "description": "Search info on vtubers",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store end user data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.0",
-                "min_python_version": "",
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [
-                    "vtuberwiki-py"
-                ],
-                "short": "Obtains data from Virtual YouTuber Wiki!",
-                "tags": [
-                    "Vtuber",
-                    "Wiki",
-                    "Info"
                 ],
                 "type": "COG"
             },
