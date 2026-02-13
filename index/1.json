@@ -5207,6 +5207,33 @@
                 ],
                 "type": "COG"
             },
+            "removebg": {
+                "author": [
+                    "Glas"
+                ],
+                "description": "Remove the background from images using the rembg library.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "administrator"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "rembg",
+                    "pillow"
+                ],
+                "short": "",
+                "tags": [],
+                "type": "COG"
+            },
             "rizz": {
                 "author": [
                     "Glas",
