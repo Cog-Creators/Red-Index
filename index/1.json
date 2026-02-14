@@ -29610,7 +29610,9 @@
                 "requirements": [],
                 "short": "Updating server info channel",
                 "tags": [
-                    "utils"
+                    "utils",
+                    "stats",
+                    "server stats"
                 ],
                 "type": ""
             },
