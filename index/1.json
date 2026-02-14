@@ -4783,7 +4783,8 @@
             "anime": {
                 "author": [
                     "TheDiscordHistorian",
-                    "6days9weeks"
+                    "6days9weeks",
+                    "Glas"
                 ],
                 "description": "Get info about anime characters, shows, staff, studio and so much more.",
                 "disabled": false,
@@ -4818,7 +4819,7 @@
                 "requirements": [
                     "Pillow"
                 ],
-                "short": "",
+                "short": "Generates a bubble speech on images!",
                 "tags": [
                     "image",
                     "bubble",
@@ -4843,7 +4844,8 @@
                     "lxml",
                     "asyncio",
                     "aiohttp",
-                    "bs4"
+                    "bs4",
+                    "pillow"
                 ],
                 "short": "Find game deals in several storefronts.",
                 "tags": [
@@ -4968,7 +4970,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "unidecode"
+                    "unidecode",
+                    "beautifulsoup4"
                 ],
                 "short": "Obtains data from Hololive.wiki!",
                 "tags": [
@@ -4996,7 +4999,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "howlongtobeatpy",
+                    "howlongtobeatpy==1.0.20",
                     "fake-useragent>=2.0.3",
                     "fuzzywuzzy"
                 ],
@@ -5048,7 +5051,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "unidecode"
+                    "unidecode",
+                    "pillow",
+                    "rapidfuzz"
                 ],
                 "short": "Generates awesome gifs!",
                 "tags": [
@@ -5132,6 +5137,7 @@
             },
             "quoter": {
                 "author": [
+                    "TrustyJaid",
                     "Glas"
                 ],
                 "description": "Generates a quote based on a message !.",
@@ -5143,13 +5149,15 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow",
+                    "regex"
+                ],
                 "short": "Make epic quotes!.",
                 "tags": [
                     "image",
                     "quote",
-                    "meme",
-                    "quotes"
+                    "meme"
                 ],
                 "type": "COG"
             },
@@ -5194,7 +5202,9 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow==9.5.0"
+                    "pillow==9.5.0",
+                    "rapidfuzz",
+                    "unidecode"
                 ],
                 "short": "Makes a Proseka Sticker with custom text.",
                 "tags": [
@@ -5323,7 +5333,8 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow==9.5.0"
+                    "pillow==9.5.0",
+                    "regex"
                 ],
                 "short": "Umineko",
                 "tags": [
@@ -5349,9 +5360,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow==9.5.0",
-                    "unidecode",
-                    "rapidfuzz"
+                    "pillow==9.5.0"
                 ],
                 "short": "Send valentine cards to users!",
                 "tags": [
@@ -5399,7 +5408,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "pillow==9.5.0"
+                    "Pillow==9.5.0"
                 ],
                 "short": "Create comics from channel messages",
                 "tags": [],
@@ -5418,7 +5427,12 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "pillow",
+                    "regex",
+                    "rapidfuzz",
+                    "unidecode"
+                ],
                 "short": "Makes a yugioh card.",
                 "tags": [
                     "image",
