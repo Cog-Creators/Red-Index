@@ -28835,7 +28835,8 @@
                     "requests",
                     "tenacity",
                     "ujson",
-                    "uvicorn"
+                    "uvicorn",
+                    "jinja2"
                 ],
                 "short": "Discord leveling system",
                 "tags": [
