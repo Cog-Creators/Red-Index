@@ -19691,6 +19691,34 @@
                 ],
                 "type": "COG"
             },
+            "guildlimits": {
+                "author": [
+                    "crayyy_zee"
+                ],
+                "description": "Display Discord server limits including channels, roles, emojis, stickers, bitrate, file size, and video user limits with interactive progress bars and detailed breakdowns.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any end user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "View Discord server limits and usage with interactive displays",
+                "tags": [
+                    "utility",
+                    "server",
+                    "info",
+                    "limits",
+                    "stats"
+                ],
+                "type": "COG"
+            },
             "imageutils": {
                 "author": [
                     "crayyy_zee"
