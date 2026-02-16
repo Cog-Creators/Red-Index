@@ -238,7 +238,7 @@
                 "requirements": [
                     "red-tidegear~=1.26.9",
                     "pymcsrvstatus~=1.1",
-                    "websockets~=15.0"
+                    "websockets~=16.0"
                 ],
                 "short": "Interface with Pterodactyl through websockets.",
                 "tags": [
