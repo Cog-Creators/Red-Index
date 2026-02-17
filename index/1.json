@@ -280,7 +280,7 @@
                 "author": [
                     "cswimr"
                 ],
-                "description": "Change the emojis used by the bot when calling `ctx.tick()` among other things.",
+                "description": "Customize the emojis used for some chat formatting functions.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store end user data.",
                 "hidden": false,
@@ -297,7 +297,7 @@
                     "red-tidegear~=1.28.1",
                     "emoji~=2.15"
                 ],
-                "short": "Change the emojis used by the bot when calling `ctx.tick()` among other things.",
+                "short": "Customize the emojis used for some chat formatting functions.",
                 "tags": [],
                 "type": ""
             }
