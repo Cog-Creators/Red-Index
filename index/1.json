@@ -29063,7 +29063,7 @@
                     "Pympler",
                     "tabulate",
                     "plotly",
-                    "sentry-sdk"
+                    "py-spy"
                 ],
                 "short": "Cog profiling tools for bot owners and developers",
                 "tags": [
@@ -29078,7 +29078,6 @@
                     "performance",
                     "tracking",
                     "tracker",
-                    "sentry",
                     "logging"
                 ],
                 "type": "COG"
