@@ -29063,7 +29063,8 @@
                     "Pympler",
                     "tabulate",
                     "plotly",
-                    "py-spy"
+                    "py-spy",
+                    "watchdog"
                 ],
                 "short": "Cog profiling tools for bot owners and developers",
                 "tags": [
