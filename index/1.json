@@ -3615,8 +3615,10 @@
                 "type": "COG"
             },
             "clusters": {
-                "author": "bencos17",
-                "description": "Shows dynamic Marvel-themed cluster statuses for your bot.",
+                "author": [
+                    "bencos17"
+                ],
+                "description": "Shows dynamic Marvel-themed cluster statuses for your bot, curreently it doesn't support physical clusters though but I do want to add support to my red instance for it so some day it will",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -3628,7 +3630,6 @@
                 "requirements": [],
                 "short": "",
                 "tags": [
-                    "clusters",
                     "shards",
                     "status"
                 ],
