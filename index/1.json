@@ -8089,6 +8089,28 @@
                 ],
                 "type": "COG"
             },
+            "fluxerbridge": {
+                "author": [
+                    "Jakub Kuczys (https://github.com/Jackenmen)"
+                ],
+                "description": "Fluxer <-> Discord bridge relaying messages with webhooks.. Works by having two Red instances (Discord one and Fluxer one) sending received messages through other platform's webhook. Supports message editing and deletion on Fluxer->Discord path, the other direction requires Fluxer to allow webhook messages to be edited/deleted.",
+                "disabled": false,
+                "end_user_data_statement": "This cog sends messages sent by users on Discord to Fluxer servers and vice versa. The bot stores a mapping between users and the IDs of their messages on both sides of the bridge.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.22",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Fluxer <-> Discord bridge relaying messages with webhooks.",
+                "tags": [
+                    "bridge",
+                    "fluxer",
+                    "relay"
+                ],
+                "type": "COG"
+            },
             "linkwarner": {
                 "author": [
                     "Jakub Kuczys (https://github.com/Jackenmen)"
