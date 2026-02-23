@@ -28188,7 +28188,6 @@
                     "assistant": "https://github.com/vertyco/vrt-cogs"
                 },
                 "requirements": [
-                    "duckduckgo_search",
                     "pytz"
                 ],
                 "short": "Extended functionality for Assistant",
