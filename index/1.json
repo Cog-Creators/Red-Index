@@ -15543,6 +15543,30 @@
                 ],
                 "type": ""
             },
+            "gameinvitecontrol": {
+                "author": [
+                    "Eternalll"
+                ],
+                "description": "Monitor and control Discord Rich Presence game invites in your server. Log invite activity, restrict invite usage to specific channels, and manage who can send/receive game invites.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores game invite log data per guild, including user IDs and invite metadata. Use `[p]gameinvite clearlog` to remove stored data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.6",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Monitor and manage Discord Rich Presence game invites",
+                "tags": [
+                    "gaming",
+                    "invites",
+                    "rich presence",
+                    "moderation",
+                    "control"
+                ],
+                "type": "COG"
+            },
             "modroles": {
                 "author": [
                     "Jakub Kuczys (https://github.com/Jackenmen)"
