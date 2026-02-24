@@ -421,7 +421,8 @@
                     "nuke",
                     "protection",
                     "anti",
-                    "raid"
+                    "raid",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -445,7 +446,8 @@
                 "tags": [
                     "error",
                     "traceback",
-                    "dev"
+                    "dev",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -545,7 +547,8 @@
                 "tags": [
                     "cleanup",
                     "channel",
-                    "delete"
+                    "delete",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -595,7 +598,8 @@
                     "snippet",
                     "git",
                     "gist",
-                    "auto"
+                    "auto",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -648,7 +652,8 @@
                     "console",
                     "logs",
                     "dev",
-                    "errorlogs"
+                    "errorlogs",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -759,7 +764,8 @@
                     "python",
                     "code",
                     "eval",
-                    "repl"
+                    "repl",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -912,7 +918,8 @@
                     "disurl",
                     "votes",
                     "tracker",
-                    "reminder"
+                    "reminder",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1020,7 +1027,7 @@
                     "json",
                     "yaml",
                     "rich",
-                    "dashboard"
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1127,7 +1134,8 @@
                 "tags": [
                     "fast",
                     "click",
-                    "game"
+                    "game",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1165,7 +1173,8 @@
                     "discordapi",
                     "rtfm",
                     "rtd",
-                    "readthedocs"
+                    "readthedocs",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1330,7 +1339,8 @@
                 "tags": [
                     "ip",
                     "host",
-                    "machine"
+                    "machine",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1354,7 +1364,8 @@
                 "tags": [
                     "karuta",
                     "drops",
-                    "leaderboard"
+                    "leaderboard",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1380,7 +1391,8 @@
                     "tracker",
                     "donations",
                     "subscriptions",
-                    "orders"
+                    "orders",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1431,7 +1443,8 @@
                 "tags": [
                     "quote",
                     "message",
-                    "auto"
+                    "auto",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1569,7 +1582,8 @@
                 "short": "Play to Memory game, with buttons, leaderboard and Red bank!",
                 "tags": [
                     "memory",
-                    "game"
+                    "game",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1740,7 +1754,8 @@
                     "reaction",
                     "emoji",
                     "custom",
-                    "trigger"
+                    "trigger",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -1883,7 +1898,8 @@
                     "schedule",
                     "fifo",
                     "command",
-                    "say"
+                    "say",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -2146,7 +2162,8 @@
                     "sanction",
                     "user",
                     "ban",
-                    "quick"
+                    "quick",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -2172,7 +2189,8 @@
                     "snipe",
                     "deleted",
                     "edited",
-                    "message"
+                    "message",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -2302,7 +2320,8 @@
                     "support",
                     "system",
                     "modular",
-                    "help"
+                    "help",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
@@ -2328,7 +2347,8 @@
                 "tags": [
                     "tickets",
                     "tool",
-                    "system"
+                    "system",
+                    "Dashboard Integrated"
                 ],
                 "type": ""
             },
