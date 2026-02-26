@@ -15563,6 +15563,42 @@
                 ],
                 "type": ""
             },
+            "componentsv2utils": {
+                "author": [
+                    "EternalllZM",
+                    "AAA3A"
+                ],
+                "description": "A Red-DiscordBot cog to send, store, and post Discord Components V2 layout messages. Supports TextDisplay (markdown), Separators, Sections (with thumbnail/button accessories), MediaGalleries, and Containers \u2014 defined in clean YAML or JSON. No classic embeds required.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "PyYAML"
+                ],
+                "short": "Send rich Discord Components V2 messages from YAML or JSON.",
+                "tags": [
+                    "components",
+                    "layout",
+                    "embed",
+                    "yaml",
+                    "json",
+                    "text display",
+                    "separator",
+                    "section",
+                    "media gallery",
+                    "container"
+                ],
+                "type": ""
+            },
             "gameinvitecontrol": {
                 "author": [
                     "Eternalll"
@@ -15665,7 +15701,7 @@
                 "author": [
                     "Eternalll"
                 ],
-                "description": "Control where users can post Discord stickers using blacklist/whitelist systems",
+                "description": "Control where users can post Discord stickers using blacklist/whitelist systems.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any user data.",
                 "hidden": false,
