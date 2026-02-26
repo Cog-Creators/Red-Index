@@ -94,7 +94,7 @@
                     "red-tidegear~=2.0",
                     "aiocache~=0.12.3",
                     "numpy~=2.3",
-                    "pillow~=11.3"
+                    "pillow~=12.1"
                 ],
                 "short": "Retrieve Bible verses from API.Bible.",
                 "tags": [
