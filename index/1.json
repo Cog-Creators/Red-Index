@@ -5987,7 +5987,9 @@
                 "min_python_version": "",
                 "permissions": [],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "aiohttp"
+                ],
                 "short": "NASA Astronomy Picture of the Day",
                 "tags": [
                     "nasa",
@@ -6035,8 +6037,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "aiohttp",
-                    "datetime"
+                    "aiohttp"
                 ],
                 "short": "Gemini API",
                 "tags": [
