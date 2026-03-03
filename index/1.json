@@ -5998,6 +5998,29 @@
                 ],
                 "type": "COG"
             },
+            "count": {
+                "author": [
+                    "Didi"
+                ],
+                "description": "A fun counting game where users count together in a designated channel. Tracks individual counts and features a leaderboard with high score tracking.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs and their counting totals per guild for leaderboard tracking.",
+                "hidden": false,
+                "max_bot_version": "3.5.99",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A counting game for your server",
+                "tags": [
+                    "counting",
+                    "game",
+                    "fun",
+                    "leaderboard"
+                ],
+                "type": "COG"
+            },
             "gemini": {
                 "author": [
                     "Didi"
