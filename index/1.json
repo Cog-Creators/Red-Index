@@ -23298,6 +23298,36 @@
                 ],
                 "type": "COG"
             },
+            "enforce": {
+                "author": [
+                    "max"
+                ],
+                "description": "Requires users to accept ToS and privacy policy before using any bot commands.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.24",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Requires users to accept ToS and privacy policy before using any bot commands.",
+                "tags": [
+                    "tos enforcement",
+                    "terms of service",
+                    "enforce",
+                    "accept",
+                    "rules"
+                ],
+                "type": "COG"
+            },
             "forwarddeleter": {
                 "author": [
                     "max"
