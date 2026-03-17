@@ -4603,6 +4603,42 @@
         },
         "short": "Various engagement, quality of life cogs and tools"
     },
+    "https://github.com/Cognitohazard/cogs-cogs": {
+        "author": [
+            "Cognitohazard"
+        ],
+        "description": "A collection of cogs for Red-DiscordBot.",
+        "name": "cogs-cogs",
+        "rx_branch": "",
+        "rx_category": "unapproved",
+        "rx_cogs": {
+            "remindconfirm": {
+                "author": [
+                    "cogs-cogs"
+                ],
+                "description": "Schedule reminders on an interval or weekly basis. Each fire starts a nag loop that re-sends the message until all specified users confirm via reaction emoji, or the nag window expires. Confirmation state carries over within each occurrence.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs for reminder targets and confirmation tracking.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Recurring reminders that require reaction confirmations from specified users.",
+                "tags": [
+                    "reminder",
+                    "confirmation",
+                    "reaction",
+                    "recurring",
+                    "utility"
+                ],
+                "type": "COG"
+            }
+        },
+        "short": "Cogs by Cognitohazard"
+    },
     "https://github.com/Coltuna/unknown-cogs": {
         "author": [
             "unknown.in"
