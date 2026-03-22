@@ -11608,6 +11608,31 @@
                 ],
                 "type": "COG"
             },
+            "Welcome": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A Red DiscordBot cog for customizable welcome messages with placeholders, JSON embeds, and cached images.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.0.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "aiohttp"
+                ],
+                "short": "Custom welcome messages with placeholders, embeds, and cached images.",
+                "tags": [
+                    "welcome",
+                    "greetings",
+                    "embeds",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "YALC": {
                 "author": [
                     "Taako"
