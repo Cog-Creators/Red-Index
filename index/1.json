@@ -19115,6 +19115,41 @@
                 ],
                 "type": ""
             },
+            "linkfixer": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Sends modified links to embed content from popular social media sites. These \"fixed\" links have advantages such as allowing video or showing the full content instead of a snippet.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Sends modified links to embed content from popular social media sites.",
+                "tags": [
+                    "crab",
+                    "link",
+                    "url",
+                    "fix",
+                    "embed",
+                    "twitter",
+                    "x",
+                    "instagram",
+                    "pixiv",
+                    "reddit",
+                    "tiktok",
+                    "social"
+                ],
+                "type": ""
+            },
             "logs": {
                 "author": [
                     "hollowstrawberry"
