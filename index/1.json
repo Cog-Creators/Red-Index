@@ -26865,6 +26865,27 @@
                 ],
                 "type": ""
             },
+            "quoter": {
+                "author": [
+                    "sravan"
+                ],
+                "description": "Sends quote embeds to a configured guild channel. Use `quoteset` to set the destination channel and optionally enable auto-deletion for the interactive prompt; `quote` posts the quote and lets the user optionally pick an author.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores guild settings (quote channel and auto-delete preference) but does not persistently store any personal user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Send quote embeds with optional author",
+                "tags": [
+                    "quote",
+                    "fun"
+                ],
+                "type": "COG"
+            },
             "session": {
                 "author": [
                     "aikaterna",
