@@ -19115,7 +19115,7 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Scans images for AI parameters and other metadata. Supports context menus.",
+                "description": "Scans images for AI generation metadata, including A1111, ComfyUI, SwarmUI, and NovelAI.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
@@ -19129,7 +19129,7 @@
                     "expiringdict",
                     "sd_prompt_reader"
                 ],
-                "short": "Scans images for AI parameters and other metadata. Supports context menus.",
+                "short": "Scans images for AI generation metadata.",
                 "tags": [
                     "crab",
                     "message",
