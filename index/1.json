@@ -23389,33 +23389,6 @@
                 ],
                 "type": "COG"
             },
-            "forwarddeleter": {
-                "author": [
-                    "max"
-                ],
-                "description": "A cog that deletes forwarded messages and allows them in specified channels.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.24",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A cog that deletes forwarded messages and allows them in specified channels.",
-                "tags": [
-                    "forward"
-                ],
-                "type": "COG"
-            },
             "github": {
                 "author": [
                     "Obi-Wan3",
@@ -23568,6 +23541,40 @@
                 ],
                 "type": "COG"
             },
+            "messageguard": {
+                "author": [
+                    "max"
+                ],
+                "description": "A unified message moderation cog combining spoiler blocking, attachment restriction, and forwarded message deletion.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.24",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [
+                    "manage_channels",
+                    "manage_messages",
+                    "manage_threads",
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "A unified message moderation cog combining spoiler blocking, attachment restriction, and forwarded message deletion.",
+                "tags": [
+                    "restrict posts",
+                    "no spoilers",
+                    "delete forwarded messages",
+                    "automod",
+                    "automoderator",
+                    "moderation"
+                ],
+                "type": "COG"
+            },
             "nba": {
                 "author": [
                     "max"
@@ -23630,34 +23637,6 @@
                     "anime",
                     "kitsune",
                     "husbando"
-                ],
-                "type": "COG"
-            },
-            "nospoiler": {
-                "author": [
-                    "max"
-                ],
-                "description": "Prevent spoilers in the server by deleting messages with spoiler tags or attachments.",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.9",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "Prevent spoilers in the server by deleting messages with spoiler tags or attachments.",
-                "tags": [
-                    "spoiler",
-                    "nospoiler"
                 ],
                 "type": "COG"
             },
@@ -23740,36 +23719,6 @@
                 "tags": [
                     "botupdate",
                     "redupdate"
-                ],
-                "type": "COG"
-            },
-            "restrictposts": {
-                "author": [
-                    "max"
-                ],
-                "description": "A cog to restrict posts to attachments and links in a specific channel(s).",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.9",
-                "min_python_version": [
-                    3,
-                    9,
-                    0
-                ],
-                "permissions": [
-                    "embed_links",
-                    "manage_messages"
-                ],
-                "required_cogs": {},
-                "requirements": [],
-                "short": "A cog to restrict posts to attachments and links in a specific channel(s).",
-                "tags": [
-                    "moderation",
-                    "attachments",
-                    "links",
-                    "restrict"
                 ],
                 "type": "COG"
             },
