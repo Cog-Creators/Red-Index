@@ -29529,6 +29529,35 @@
                 ],
                 "type": "COG"
             },
+            "taalas": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Interact with the Taalas LLM API powered by custom silicon-embedded model weights.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores conversation history per user for continuity with the Taalas LLM. Users can clear their data with the clearconvo command.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "tiktoken"
+                ],
+                "short": "Chat with the Taalas LLM API.",
+                "tags": [
+                    "ai",
+                    "llm",
+                    "chat",
+                    "taalas"
+                ],
+                "type": "COG"
+            },
             "taskr": {
                 "author": [
                     "Vertyco"
