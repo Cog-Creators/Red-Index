@@ -3634,6 +3634,28 @@
                 "tags": [],
                 "type": "COG"
             },
+            "bloodontheclocktower": {
+                "author": [
+                    "benco"
+                ],
+                "description": "A Red-DiscordBot cog for running a lightweight Blood on the Clocktower game using a custom script.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Run a Blood on the Clocktower style game",
+                "tags": [
+                    "game",
+                    "social deduction",
+                    "blood on the clocktower"
+                ],
+                "type": "COG"
+            },
             "clusters": {
                 "author": [
                     "bencos17"
