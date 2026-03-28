@@ -23628,7 +23628,7 @@
                 "description": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store any End User Data.",
-                "hidden": true,
+                "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.14",
                 "min_python_version": [
