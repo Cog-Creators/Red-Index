@@ -23643,7 +23643,8 @@
                 "requirements": [
                     "orjson",
                     "feedparser",
-                    "pytz"
+                    "pytz",
+                    "cairosvg"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
