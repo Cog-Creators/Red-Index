@@ -23644,7 +23644,8 @@
                     "orjson",
                     "feedparser",
                     "pytz",
-                    "cairosvg"
+                    "cairosvg",
+                    "nba_api>=1.11.4"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
