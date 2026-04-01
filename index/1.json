@@ -28488,6 +28488,7 @@
                     "assistant": "https://github.com/vertyco/vrt-cogs"
                 },
                 "requirements": [
+                    "matplotlib",
                     "pytz",
                     "resvg-py"
                 ],
