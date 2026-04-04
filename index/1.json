@@ -23770,6 +23770,34 @@
                 ],
                 "type": "COG"
             },
+            "slashhelpmenu": {
+                "author": [
+                    "max"
+                ],
+                "description": "Slash Help Menu Cog that provides a help menu for slash commands only.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store any End User Data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.24",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [
+                    "embed_links"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Slash Help Menu Cog that provides a help menu for slash commands only.",
+                "tags": [
+                    "slash commands",
+                    "help menu",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "technews": {
                 "author": [
                     "max"
