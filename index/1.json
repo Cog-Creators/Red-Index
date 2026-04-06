@@ -5008,6 +5008,36 @@
                 ],
                 "type": "COG"
             },
+            "duckduckgo": {
+                "author": [
+                    "epic guy",
+                    "ow0x",
+                    "fixator10"
+                ],
+                "description": "This searches duckduckgo and fetches results using web scraping. The reverse search uses Yandex.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store any data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.3.10",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "html2text",
+                    "beautifulsoup4",
+                    "js2py",
+                    "ddgs",
+                    "git+https://github.com/npc203/redbot-ext-menus-views"
+                ],
+                "short": "A duckduckgo search cog with image support",
+                "tags": [
+                    "fun",
+                    "utility",
+                    "internet"
+                ],
+                "type": "COG"
+            },
             "fire": {
                 "author": [
                     "TrustyJaid",
