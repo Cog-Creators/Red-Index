@@ -19174,13 +19174,16 @@
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
                     "Pillow",
-                    "expiringdict",
-                    "sd_prompt_reader"
+                    "expiringdict"
                 ],
                 "short": "Scans images for AI generation metadata.",
                 "tags": [
@@ -19552,6 +19555,35 @@
         "rx_branch": "",
         "rx_category": "unapproved",
         "rx_cogs": {
+            "aimage": {
+                "author": [
+                    "hollowstrawberry"
+                ],
+                "description": "Generates an image with the Arc en Ciel API. Not really meant for public use but here it is.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not store user data.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [
+                    "expiringdict"
+                ],
+                "short": "Generates an image with the Arc en Ciel API. Not really meant for public use but here it is.",
+                "tags": [
+                    "ai",
+                    "image",
+                    "arcenciel",
+                    "stable diffusion"
+                ],
+                "type": ""
+            },
             "audioplayer": {
                 "author": [
                     "hollowstrawberry"
@@ -19623,7 +19655,7 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [],
@@ -19693,7 +19725,7 @@
                 "min_bot_version": "3.5.0",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [],
