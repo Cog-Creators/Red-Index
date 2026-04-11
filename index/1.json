@@ -23326,7 +23326,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
                     10,
@@ -23361,7 +23361,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
                     10,
@@ -23391,10 +23391,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [],
@@ -23416,10 +23416,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23448,7 +23448,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data although it does store Discord IDs to track user progress and economy data. This data can be deleted with the `[p]easterhunt resetme` command.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
                     10,
@@ -23480,7 +23480,7 @@
                 "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23508,11 +23508,11 @@
                 "end_user_data_statement": "This cog stores provided server settings, as well as the GitHub commit feed links provided by users (to fetch new commit updates).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    8,
-                    1
+                    10,
+                    0
                 ],
                 "permissions": [
                     "embed_links"
@@ -23542,10 +23542,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data however, it does store some of the following user data for gameplay purposes: Discord user ID, heist cooldowns, active heist status, inventory of items, debt, jail status, equipped items, and heat counters for police and material drop chances. This data is stored to track player progress and game state. All data can be deleted upon request using the bot's data deletion commands.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23571,10 +23571,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.13",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23600,10 +23600,10 @@
                 "end_user_data_statement": "This cog saves Discord user IDs to add you to the games you participate in, but these IDs are deleted once the game concludes. It does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23631,10 +23631,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.5",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23662,7 +23662,7 @@
                 "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23693,7 +23693,7 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.14",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
                     10,
@@ -23727,11 +23727,11 @@
                 "end_user_data_statement": "This cog stores Discord IDs for the count of each actions from any roleplay commands used. No privately informations is stored about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.0",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    8,
-                    5
+                    10,
+                    0
                 ],
                 "permissions": [
                     "embed_links"
@@ -23761,8 +23761,12 @@
                 "end_user_data_statement": "This cog stores data on users based off their interactions within the game. Examples of such data are their 'health state' (healthy or infected) or their 'game role' (user, doctor, plaguebearer).",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "",
-                "min_python_version": "",
+                "min_bot_version": "3.5.24",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -23787,8 +23791,12 @@
                 "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": "",
+                "min_bot_version": "3.5.24",
+                "min_python_version": [
+                    3,
+                    10,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
@@ -23813,10 +23821,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.3",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23873,7 +23881,7 @@
                 "min_bot_version": "3.5.13",
                 "min_python_version": [
                     3,
-                    9,
+                    10,
                     0
                 ],
                 "permissions": [
@@ -23905,10 +23913,10 @@
                 "end_user_data_statement": "This cog does not store any End User Data.",
                 "hidden": false,
                 "max_bot_version": "",
-                "min_bot_version": "3.5.21",
+                "min_bot_version": "3.5.24",
                 "min_python_version": [
                     3,
-                    9,
+                    11,
                     0
                 ],
                 "permissions": [
