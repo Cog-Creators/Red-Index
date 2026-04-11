@@ -11570,6 +11570,34 @@
                 ],
                 "type": "COG"
             },
+            "Giveaway": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A giveaway cog for Red-DiscordBot with timed giveaways, auto-ending, rerolls, and cancellation tools.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores giveaway metadata per guild, including message IDs, channel IDs, host IDs, winner IDs, prize text, and timestamps.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Timed reaction-based giveaways with auto-ending and rerolls.",
+                "tags": [
+                    "giveaway",
+                    "raffle",
+                    "events",
+                    "utility",
+                    "community"
+                ],
+                "type": "COG"
+            },
             "Paranoia": {
                 "author": [
                     "Taako"
