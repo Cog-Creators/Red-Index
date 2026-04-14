@@ -11065,6 +11065,27 @@
                 "tags": [],
                 "type": "COG"
             },
+            "counter": {
+                "author": [
+                    "SharkyIsAKing"
+                ],
+                "description": "A counting game cog. Users count up from 1, and if they mess up, the count resets to 1. They have 3 saves to prevent the reset, but they can also buy saves with their hard-earned coins.",
+                "disabled": false,
+                "end_user_data_statement": "This cog does not persistently store data or metadata about users.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "counter",
+                "tags": [
+                    "game",
+                    "counting"
+                ],
+                "type": "COG"
+            },
             "lockdown": {
                 "author": [
                     "Sharky The King"
