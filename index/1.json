@@ -29526,6 +29526,36 @@
                 ],
                 "type": "COG"
             },
+            "noping": {
+                "author": [
+                    "Vertyco"
+                ],
+                "description": "Manage AutoMod rules to let users opt out of being pinged, with per-user schedules.",
+                "disabled": false,
+                "end_user_data_statement": "This cog stores user IDs and their ping schedule preferences per guild.",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.3",
+                "min_python_version": [
+                    3,
+                    11,
+                    0
+                ],
+                "permissions": [
+                    "manage_guild"
+                ],
+                "required_cogs": {},
+                "requirements": [],
+                "short": "Let users opt out of being pinged with AutoMod rules and custom schedules.",
+                "tags": [
+                    "automod",
+                    "ping",
+                    "schedule",
+                    "moderation",
+                    "utility"
+                ],
+                "type": "COG"
+            },
             "pixl": {
                 "author": [
                     "Vertyco"
