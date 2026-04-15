@@ -26044,6 +26044,36 @@
                     "Administration"
                 ],
                 "type": ""
+            },
+            "video_dl": {
+                "author": [
+                    "psykzz"
+                ],
+                "description": "Downloads videos from YouTube, TikTok, and Instagram when sent via DM by the bot owner. Uses yt-dlp to download videos and sends them back as Discord attachments.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "",
+                "min_python_version": "",
+                "permissions": [
+                    "Send Messages",
+                    "Attach Files"
+                ],
+                "required_cogs": {},
+                "requirements": [
+                    "yt-dlp>=2023.1.1"
+                ],
+                "short": "Download videos from DMs for bot owner",
+                "tags": [
+                    "Video",
+                    "Download",
+                    "YouTube",
+                    "TikTok",
+                    "Instagram",
+                    "Owner"
+                ],
+                "type": ""
             }
         },
         "short": "PsyKzz's cogs"
