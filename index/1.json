@@ -26049,7 +26049,7 @@
                 "author": [
                     "psykzz"
                 ],
-                "description": "Downloads videos from YouTube, TikTok, and Instagram when sent via DM by the bot owner. Uses yt-dlp to download videos and sends them back as Discord attachments.",
+                "description": "Downloads videos from YouTube, TikTok, and Instagram. Supports automatic downloads in configured guilds and manual downloads via command. Uses yt-dlp to download videos and sends them back as Discord attachments.",
                 "disabled": false,
                 "end_user_data_statement": "",
                 "hidden": false,
@@ -26062,9 +26062,10 @@
                 ],
                 "required_cogs": {},
                 "requirements": [
-                    "yt-dlp>=2023.1.1"
+                    "yt-dlp>=2023.1.1",
+                    "catboxpy>=0.0.5"
                 ],
-                "short": "Download videos from DMs for bot owner",
+                "short": "Download videos from URLs in DMs and guilds",
                 "tags": [
                     "Video",
                     "Download",
