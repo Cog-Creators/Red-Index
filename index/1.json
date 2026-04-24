@@ -23968,7 +23968,9 @@
                     "embed_links"
                 ],
                 "required_cogs": {},
-                "requirements": [],
+                "requirements": [
+                    "git+https://github.com/ltzmax/maxcogs-utils.git"
+                ],
                 "short": "A cog to display historical events for a given day in your timezone.",
                 "tags": [
                     "history",
