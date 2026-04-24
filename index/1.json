@@ -24094,10 +24094,9 @@
                 "required_cogs": {},
                 "requirements": [
                     "orjson",
-                    "feedparser",
                     "pytz",
                     "cairosvg",
-                    "nba_api>=1.11.4"
+                    "git+https://github.com/ltzmax/maxcogs-utils.git"
                 ],
                 "short": "NBA Cog that provides NBA game updates, schedules, and news.",
                 "tags": [
