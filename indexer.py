@@ -1,4 +1,5 @@
 import datetime
+import hashlib
 import hmac
 import json
 import yaml
@@ -6,7 +7,6 @@ import re
 import sys
 from gzip import GzipFile
 from pathlib import Path
-import hashlib
 
 CACHE = Path("cache")
 
