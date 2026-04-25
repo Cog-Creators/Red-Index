@@ -101,6 +101,12 @@
         },
         "deleted_at": null
     },
+    "https://git.purplepanda.cc/blizz/blizz-cogs": {
+        "added_at": 1777150788.251274,
+        "approved_at": null,
+        "cogs": {},
+        "deleted_at": 1777150788.251274
+    },
     "https://github.com/AAA3A-AAA3A/AAA3A-cogs": {
         "added_at": 1635523988.0,
         "approved_at": 1687569957.0,
