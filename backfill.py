@@ -93,7 +93,7 @@ class InternalCogMetadata:
     _BUFFER_SIZE = 2**18
     _PREFERRED_ALGORITHMS = ("sha256",)
 
-    def __init__(self, repo_url, name, *, hashes, last_updated_at):
+    def __init__(self, repo_url, name, *, hashes, last_updated_at, added_to_repo_at):
         self.name = name
         self.hashes = hashes
         self.last_updated_at = last_updated_at
@@ -111,7 +111,11 @@ class InternalCogMetadata:
             raise RuntimeError(
                 f"Cog {name!r} does not exist in later index versions of the repo {repo_url}"
             )
-        self.added_at = added_at
+        self.added_at = (
+            min(added_to_repo_at, added_at)
+            if added_at < datetime.datetime(2020, 9, 1, tzinfo=datetime.timezone.utc)
+            else added_at
+        )
         self.deleted_at = None
 
     @classmethod
@@ -121,6 +125,7 @@ class InternalCogMetadata:
             name=name,
             hashes=cls.get_file_hashes(path),
             last_updated_at=cls.get_last_updated_at(path),
+            added_to_repo_at=cls.get_added_to_repo_at(path),
         )
         return obj
 
@@ -155,6 +160,14 @@ class InternalCogMetadata:
             subprocess.check_output(
                 ("git", "log", "-1", "--pretty=format:%ci", "."), text=True, cwd=path
             ).strip()
+        )
+
+    @classmethod
+    def get_added_to_repo_at(cls, path):
+        return datetime.datetime.fromisoformat(
+            subprocess.check_output(
+                ("git", "log", "--pretty=format:%ci", "."), text=True, cwd=path
+            ).splitlines()[-1]
         )
 
 
