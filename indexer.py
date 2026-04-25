@@ -102,8 +102,10 @@ class Repo:
         self._metadata._still_exists = True
         if self.rx_category == "approved" and self._metadata.approved_at is None:
             self._metadata.approved_at = NOW
-        self.rx_added_at = self._metadata.added_at.isoformat()
-        self.rx_approved_at = self._metadata.approved_at and self._metadata.approved_at.isoformat()
+        self.rx_added_at = self._metadata.added_at.isoformat(timespec="microseconds")
+        self.rx_approved_at = self._metadata.approved_at and self._metadata.approved_at.isoformat(
+            timespec="microseconds"
+        )
 
     def populate_cogs(self):
         if self._error:
@@ -195,8 +197,8 @@ class Cog:
         else:
             cog_metadata = InternalCogMetadata.from_path(self._name, self._path)
             repo_metadata.cogs[self._name] = cog_metadata
-        self.rx_added_at = cog_metadata.added_at.isoformat()
-        self.rx_last_updated_at = cog_metadata.last_updated_at.isoformat()
+        self.rx_added_at = cog_metadata.added_at.isoformat(timespec="microseconds")
+        self.rx_last_updated_at = cog_metadata.last_updated_at.isoformat(timespec="microseconds")
 
     def __json__(self):
         return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
