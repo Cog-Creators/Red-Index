@@ -32,8 +32,7 @@ jobs:
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "Indexer"
-        cd index
-        git add .
+        git add index metadata.json
         git commit -m "Index update"
     - name: Push changes
       uses: ad-m/github-push-action@v0.6.0
