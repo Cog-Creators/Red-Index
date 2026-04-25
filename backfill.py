@@ -111,7 +111,7 @@ class InternalCogMetadata:
                 f"Cog {name!r} does not exist in later index versions of the repo {repo_url}"
             )
         self.added_at = added_at
-        self.deleted_at = deleted_at
+        self.deleted_at = None
 
     @classmethod
     def from_path(cls, repo_url, name, path):
