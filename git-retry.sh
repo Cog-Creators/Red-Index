@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-for tries in {0..4}
+for tries in {0..1}
 do
     if ((tries)); then
         sleep_time=$((2**(tries-1) * 3))

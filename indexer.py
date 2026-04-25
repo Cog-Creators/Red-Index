@@ -226,7 +226,7 @@ def main():
     for r in repos:
         r.rx_cogs = [c for c in r.rx_cogs if not c._error]
 
-    if data["flagged-cogs"]:
+    if False and data["flagged-cogs"]:
         for url, flagged_cogs in data["flagged-cogs"].items():
             for r in repos:
                 # I'm doing this instead of comparing URLs in case of

@@ -54,11 +54,11 @@ if __name__ == "__main__":
         if branch:
             sha = sha1_digest(f"{url}@{branch}")
             dest = CACHE / Path(f"{prefix}{sha}")
-            sh += f"./git-retry.sh clone --depth=1 {url} --branch {branch} --single-branch {dest}\n"
+            sh += f"./git-retry.sh clone {url} --branch {branch} --single-branch {dest}\n"
         else:
             sha = sha1_digest(url)
             dest = CACHE / Path(f"{prefix}{sha}")
-            sh += f"./git-retry.sh clone --depth=1 {url} {dest}\n"
+            sh += f"./git-retry.sh clone {url} {dest}\n"
 
     with open(outfile, "w", opener=executable_opener) as f:
         f.write(sh)
