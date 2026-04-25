@@ -103,7 +103,8 @@ class InternalCogMetadata:
             rx_cogs = repositories.get(repo_url, {}).get("rx_cogs", {})
             if name in rx_cogs:
                 deleted_at = None
-                added_at = version_date
+                if added_at is None:
+                    added_at = version_date
             elif deleted_at is None:
                 deleted_at = version_date
         if added_at is None:
