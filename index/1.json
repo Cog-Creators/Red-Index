@@ -6414,8 +6414,8 @@
         ],
         "description": "Cogs for RED DiscordBot by Dav",
         "name": "Dav-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2020-04-04T17:37:30.103000+00:00",
+        "rx_approved_at": "2020-04-04T17:37:30.103000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -6461,7 +6461,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-14T21:04:55.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Anonymous reports",
                 "tags": [
@@ -6513,7 +6513,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-02-17T02:58:43.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Custom startup status",
                 "tags": [],
@@ -6533,7 +6533,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-04-19T14:56:02.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "A different approach to ``[p]casesfor``.",
                 "tags": [
@@ -6562,7 +6562,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-23T23:29:06.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Relay modlog cases.",
                 "tags": [
@@ -6591,7 +6591,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-01-06T00:44:52.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Mod-Check a user",
                 "tags": [
@@ -6618,7 +6618,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-11-26T16:59:48.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Make roles (truly) exclusive",
                 "tags": [
@@ -6691,7 +6691,7 @@
                 "requirements": [
                     "aio-mc-rcon"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-11T01:13:09.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Sync Minecraft whitelist with discord.",
                 "tags": [
@@ -6740,7 +6740,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-05T22:42:43.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Massmove voice users",
                 "tags": [
@@ -6764,7 +6764,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-11T18:53:27.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Nickname toolkit",
                 "tags": [],
@@ -6784,7 +6784,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-12-17T22:48:58.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Cleans up the member list.",
                 "tags": [
@@ -6809,7 +6809,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-28T21:45:18.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Sync roles to each other.",
                 "tags": [
@@ -6834,7 +6834,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-30T18:51:31.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Tools for voicechannels NEW: Private Text channels",
                 "tags": [
@@ -6891,7 +6891,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-25T15:06:15.000000+00:00",
                 "rx_last_updated_at": "2025-10-13T08:54:24.000000+00:00",
                 "short": "Force users to verify themselves.",
                 "tags": [
@@ -7981,8 +7981,8 @@
         ],
         "description": "A mixture of cogs made by Flame.",
         "name": "FlameCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-01-26T19:37:10.602000+00:00",
+        "rx_approved_at": "2019-01-26T19:37:10.602000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -8006,7 +8006,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-12T01:07:42.000000+00:00",
                 "rx_last_updated_at": "2024-01-29T19:09:05.000000+00:00",
                 "short": "Play battleship with a friend.",
                 "tags": [
@@ -8036,7 +8036,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-10T04:56:43.000000+00:00",
                 "rx_last_updated_at": "2024-03-25T21:03:38.000000+00:00",
                 "short": "Deepfry or nuke images.",
                 "tags": [
@@ -8067,7 +8067,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-09T16:28:14.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Find and describe the faces in an image.",
                 "tags": [
@@ -8094,7 +8094,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-08T01:45:53.000000+00:00",
                 "rx_last_updated_at": "2023-11-28T23:09:16.000000+00:00",
                 "short": "Grant roles when a user is playing a specific game.",
                 "tags": [
@@ -8121,7 +8121,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-01-12T19:53:48.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Create first come, first serve key giveaways.",
                 "tags": [
@@ -8147,7 +8147,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-11T20:24:52.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Play hangman with the bot.",
                 "tags": [
@@ -8175,7 +8175,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-14T04:00:06.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Hide commands from users in help.",
                 "tags": [
@@ -8203,7 +8203,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-12T04:41:22.000000+00:00",
                 "rx_last_updated_at": "2025-09-17T23:35:39.000000+00:00",
                 "short": "Play a game of monopoly.",
                 "tags": [
@@ -8231,7 +8231,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-17T18:05:04.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "View information about whether users on your server are using discord on desktop or mobile.",
                 "tags": [
@@ -8258,7 +8258,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-06T01:25:15.000000+00:00",
                 "rx_last_updated_at": "2025-02-17T20:30:00.000000+00:00",
                 "short": "Chat games focused on coming up with words from 3 letters.",
                 "tags": [
@@ -8314,7 +8314,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-18T16:50:12.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Simply send embeds.",
                 "tags": [
@@ -8342,7 +8342,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-20T18:32:38.000000+00:00",
                 "rx_last_updated_at": "2023-07-05T23:34:53.000000+00:00",
                 "short": "Buy and sell stocks with bot currency.",
                 "tags": [
@@ -8400,7 +8400,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-10T22:06:14.000000+00:00",
                 "rx_last_updated_at": "2024-12-15T17:16:49.000000+00:00",
                 "short": "Tracks commonly used words.",
                 "tags": [
@@ -9186,8 +9186,8 @@
         ],
         "description": "Cogs requested by others and those that I wanted for Red myself.",
         "name": "JackCogs",
-        "rx_added_at": "2023-05-14T00:30:37.000000+00:00",
-        "rx_approved_at": "2023-05-14T00:30:37.000000+00:00",
+        "rx_added_at": "2020-01-16T02:14:22.757000+00:00",
+        "rx_approved_at": "2020-01-16T02:14:22.757000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -9598,8 +9598,8 @@
         ],
         "description": "Awesome cogs made by the Jintaku community",
         "name": "Jintaku-Cogs-V3",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-11-06T21:10:51.241000+00:00",
+        "rx_approved_at": "2018-11-06T21:10:51.241000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -10363,8 +10363,8 @@
         ],
         "description": "Some cogs that i think are useful, feel free to use them !",
         "name": "discord_cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-25T00:13:48.052000+00:00",
+        "rx_approved_at": "2019-02-25T00:13:48.052000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -10959,8 +10959,8 @@
         ],
         "description": "This repo holds the several different cogs, for Red - Discord Bot by TwentySix.",
         "name": "Toxic-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-06-08T19:23:19.334000+00:00",
+        "rx_approved_at": "2019-06-08T19:23:19.334000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -11003,7 +11003,7 @@
                     "colour",
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-02-01T19:48:53.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Tells you the hexadecimal values, rgb values and names of colors",
                 "tags": [
@@ -11027,7 +11027,7 @@
                 "requirements": [
                     "matplotlib"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-28T12:53:28.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Tells the used and usages of commands!  Based off of aikaterna's chatchart cog.",
                 "tags": [
@@ -11049,7 +11049,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-12T19:16:32.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows bot owner to set cooldowns for commands",
                 "tags": [
@@ -11073,7 +11073,7 @@
                 "requirements": [
                     "markdown2"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-31T17:10:50.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Interact with your bot through a web dashboard.",
                 "tags": [
@@ -11095,7 +11095,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-22T18:14:01.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows for the auto-deletion of messages in a channel after a specified wait time.",
                 "tags": [
@@ -11117,7 +11117,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-17T16:41:18.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Edit one of the bot's messages easily.",
                 "tags": [
@@ -11163,7 +11163,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-05T19:18:02.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Buy and get animals to get more economy credits!",
                 "tags": [
@@ -11208,7 +11208,7 @@
                     "prettytable",
                     "fuzzywuzzy"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-08T21:41:34.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Gives you the permissions of a role/member guild wide or in a channel",
                 "tags": [
@@ -11230,7 +11230,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-25T20:00:23.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows the bot owner to put the bot on maintenance.",
                 "tags": [
@@ -11252,7 +11252,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-02-08T16:43:23.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows you to play Minesweeper inside of Discord!\nSmall warning: this cog can sometimes you up rate limits (depending how fast you play), so be careful while playing.",
                 "tags": [
@@ -11319,7 +11319,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-06-20T19:26:56.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Detects images being sent and checks whether they are inappropriate based on the set filters.",
                 "tags": [
@@ -11341,7 +11341,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-12T17:58:47.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows you to play Simon inside of Discord!\nWarning!  This cog uses a major portion of the bot's rate limits.",
                 "tags": [
@@ -11363,7 +11363,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-21T21:01:52.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Get information about a bunch of different things in Star Wars.",
                 "tags": [
@@ -11386,7 +11386,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-21T20:16:20.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Targets users based upon the passed arguments",
                 "tags": [
@@ -11408,7 +11408,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-12T15:52:26.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Allows you to play 2048 inside of Discord!",
                 "tags": [
@@ -11432,7 +11432,7 @@
                 "requirements": [
                     "feedparser"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-13T15:30:09.000000+00:00",
                 "rx_last_updated_at": "2023-08-05T01:28:20.000000+00:00",
                 "short": "Notifies you when an update for a repo is available.",
                 "tags": [
@@ -11561,8 +11561,8 @@
         ],
         "description": "My cogs focus on automation, where the bot will automatically respond or perform actions when needed, even if commands are not used. There's also other stuff thrown in there for fun.",
         "name": "PCXCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-18T07:07:30.443000+00:00",
+        "rx_approved_at": "2019-02-18T07:07:30.443000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -11587,7 +11587,7 @@
                     "func-timeout",
                     "jinja2"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-22T22:04:47.000000+00:00",
                 "rx_last_updated_at": "2026-02-14T19:18:00.000000+00:00",
                 "short": "Automatic voice channel management.",
                 "tags": [
@@ -11619,7 +11619,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-19T23:42:08.000000+00:00",
                 "rx_last_updated_at": "2026-02-14T19:18:00.000000+00:00",
                 "short": "Automatically check users against multiple global ban lists.",
                 "tags": [
@@ -11686,7 +11686,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-17T23:17:44.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Automatically decode binary strings in chat.",
                 "tags": [
@@ -11719,7 +11719,7 @@
                 "requirements": [
                     "pyhedrals"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-25T00:01:06.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Perform complex dice rolling.",
                 "tags": [
@@ -11750,7 +11750,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-17T03:28:53.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "A heartbeat uptime client.",
                 "tags": [
@@ -11786,7 +11786,7 @@
                 "requirements": [
                     "speedtest-cli>=2.1.3"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-29T21:39:03.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Test your servers internet speed.",
                 "tags": [
@@ -11819,7 +11819,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-10-23T23:40:00.000000+00:00",
                 "rx_last_updated_at": "2026-02-14T19:19:58.000000+00:00",
                 "short": "Per-channel automatic reaction tools.",
                 "tags": [
@@ -11857,7 +11857,7 @@
                     "pyparsing",
                     "python-dateutil"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-19T18:43:03.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Set reminders for yourself.",
                 "tags": [
@@ -11885,7 +11885,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-25T03:45:15.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Automatically check for updates to Red-DiscordBot.",
                 "tags": [
@@ -11916,7 +11916,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-09-25T02:17:32.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Uwuize messages.",
                 "tags": [
@@ -11945,7 +11945,7 @@
                 "requirements": [
                     "python-dateutil"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-21T15:03:59.000000+00:00",
                 "rx_last_updated_at": "2026-01-03T16:38:56.000000+00:00",
                 "short": "Look up articles on Wikipedia.",
                 "tags": [
@@ -11967,8 +11967,8 @@
         ],
         "description": "Various cogs, for utility purposes, like Converters, WhoPlays, DblTools and ServerInfo, but also informational like SpaceX cog, and to finish, image purposes with my Nsfw cog.",
         "name": "predacogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-07-02T22:16:50.308000+00:00",
+        "rx_approved_at": "2019-07-02T22:16:50.308000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -11986,7 +11986,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-21T22:00:22.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Some utility converters.",
                 "tags": [
@@ -12014,7 +12014,7 @@
                     "dblpy",
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-30T02:10:47.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Tools to get bots information from top.gg.",
                 "tags": [
@@ -12041,7 +12041,7 @@
                     "dblpy",
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-04-26T00:59:19.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Tools to get bots information from top.gg.",
                 "tags": [
@@ -12065,7 +12065,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-11-09T15:39:58.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Tools for FiveM servers.",
                 "tags": [
@@ -12092,7 +12092,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-29T13:34:18.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Grafana graphs in your Discord!",
                 "tags": [
@@ -12122,7 +12122,7 @@
                     "databases[sqlite]",
                     "babel"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-14T23:04:05.000000+00:00",
                 "rx_last_updated_at": "2023-05-05T15:11:03.000000+00:00",
                 "short": "Multiple tools that are originally used on Martine (https://martinebot.com).",
                 "tags": [
@@ -12149,7 +12149,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-25T00:02:26.000000+00:00",
                 "rx_last_updated_at": "2024-01-29T23:53:04.000000+00:00",
                 "short": "Send random NSFW images from random subreddits and Nekobot API.",
                 "tags": [
@@ -12208,7 +12208,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-06-27T20:59:48.000000+00:00",
                 "rx_last_updated_at": "2024-05-04T10:32:36.000000+00:00",
                 "short": "Send random images (animals, art ...) from different APIs.",
                 "tags": [
@@ -12233,7 +12233,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-01T00:04:14.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "Get multiple information about SpaceX using SpaceX-API.",
                 "tags": [
@@ -12258,7 +12258,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-11T15:25:21.000000+00:00",
                 "rx_last_updated_at": "2023-05-04T12:28:51.000000+00:00",
                 "short": "See who's playing what!",
                 "tags": [
@@ -12277,8 +12277,8 @@
         ],
         "description": "Contains several games for the community such has Casino, Heist, and Race. Also contains community tools like lottery and shop.",
         "name": "Jumper-Plugins",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-08-05T00:57:31.959000+00:00",
+        "rx_approved_at": "2018-08-05T00:57:31.959000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -13153,8 +13153,8 @@
         ],
         "description": "Various cogs for bot management and customisation, server administration and moderation, and some fun stuff for users too. All cogs are made to be easy for anyone to use!",
         "name": "Tobo-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-01-09T23:06:21.952000+00:00",
+        "rx_approved_at": "2019-01-09T23:06:21.952000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -13174,7 +13174,7 @@
                 "requirements": [
                     "sphinx"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-06-11T05:54:14.000000+00:00",
                 "rx_last_updated_at": "2023-02-18T06:05:39.000000+00:00",
                 "short": "Search for references on documentation webpages.",
                 "tags": [
@@ -13203,7 +13203,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-04-27T07:42:39.000000+00:00",
                 "rx_last_updated_at": "2023-02-18T06:05:39.000000+00:00",
                 "short": "Log error tracebacks in text channels.",
                 "tags": [
@@ -13227,7 +13227,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-08-10T15:49:14.000000+00:00",
                 "rx_last_updated_at": "2023-02-18T06:30:57.000000+00:00",
                 "short": "Like Reddit Karma, but with discord reactions!",
                 "tags": [
@@ -13251,7 +13251,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-23T02:17:24.000000+00:00",
                 "rx_last_updated_at": "2025-08-11T01:28:50.000000+00:00",
                 "short": "Sticky messages for your channels!",
                 "tags": [
@@ -13274,7 +13274,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-22T07:10:01.000000+00:00",
                 "rx_last_updated_at": "2023-07-02T09:54:11.000000+00:00",
                 "short": "Hoist users streaming on Twitch.",
                 "tags": [
@@ -13300,7 +13300,7 @@
                 "requirements": [
                     "tabulate[widechars]"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-23T05:52:03.000000+00:00",
                 "rx_last_updated_at": "2023-07-02T09:18:43.000000+00:00",
                 "short": "Strike misbehaving users.",
                 "tags": [
@@ -13325,7 +13325,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-08-13T16:23:29.000000+00:00",
                 "rx_last_updated_at": "2023-02-18T06:05:39.000000+00:00",
                 "short": "A command to update Red!",
                 "tags": [
@@ -13347,7 +13347,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-08-10T13:24:52.000000+00:00",
                 "rx_last_updated_at": "2023-02-18T06:05:39.000000+00:00",
                 "short": "Customisable welcome messages.",
                 "tags": [
@@ -13365,8 +13365,8 @@
         ],
         "description": "A plethora of potentially useful commands and functions for your bot. Create a starboard, trigger automatic responses, or even create your own fun badges.",
         "name": "Trusty-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-12-21T02:46:29.821000+00:00",
+        "rx_approved_at": "2018-12-21T02:46:29.821000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -13390,7 +13390,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-24T16:59:40.000000+00:00",
                 "short": "Add images for direct upload per guild and globally.",
                 "tags": [],
@@ -13416,7 +13416,7 @@
                     "adventure": "https://github.com/aikaterna/gobcog/"
                 },
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-16T17:10:07.000000+00:00",
                 "rx_last_updated_at": "2024-05-19T18:50:09.000000+00:00",
                 "short": "Receive notifications from adventure activities!",
                 "tags": [
@@ -13479,7 +13479,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-19T23:30:24.000000+00:00",
                 "rx_last_updated_at": "2023-05-10T16:18:49.000000+00:00",
                 "short": "Automatically filter animated PNG's.",
                 "tags": [
@@ -13537,7 +13537,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Create your own badge!",
                 "tags": [],
@@ -13663,7 +13663,7 @@
                 "requirements": [
                     "charset-normalizer"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Talk with Cleverbot!",
                 "tags": [
@@ -13691,7 +13691,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-10T16:18:49.000000+00:00",
                 "short": "Compliment people in a creative way",
                 "tags": [],
@@ -13717,7 +13717,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Conversions for currencies, crypto-currencies, and stocks.",
                 "tags": [],
@@ -13748,7 +13748,7 @@
                     "moviepy>=2.0.0",
                     "yt-dlp"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-02-24T06:43:20.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Make Crab rave videos, in discord!",
                 "tags": [
@@ -13778,7 +13778,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-24T23:25:01.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Destiny 2 information",
                 "tags": [
@@ -13810,7 +13810,7 @@
                 "requirements": [
                     "mendeleev"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-02-02T08:21:35.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Periodic table of elements",
                 "tags": [
@@ -13837,7 +13837,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-15T21:47:12.000000+00:00",
                 "short": "Encode messages into various types of encoding.",
                 "tags": [
@@ -13871,7 +13871,7 @@
                     "python-dateutil",
                     "pytz"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-04-08T19:12:49.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Admin approved announcments/events",
                 "tags": [
@@ -13900,7 +13900,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-07T17:58:16.000000+00:00",
                 "rx_last_updated_at": "2026-04-10T21:23:15.000000+00:00",
                 "short": "ExtendedModLog, track changes made in the server.",
                 "tags": [
@@ -13931,7 +13931,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-22T03:52:34.000000+00:00",
                 "rx_last_updated_at": "2023-05-23T18:21:38.000000+00:00",
                 "short": "Give users the option to kick, ban, or insult themselves via reactions.",
                 "tags": [],
@@ -13958,7 +13958,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2024-10-22T07:11:14.000000+00:00",
                 "short": "Various fun commands like react, textflip, and regional",
                 "tags": [],
@@ -13991,7 +13991,7 @@
                     "cairosvg",
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-04-12T18:34:06.000000+00:00",
                 "short": "Hockey commands",
                 "tags": [
@@ -14018,7 +14018,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-23T18:21:38.000000+00:00",
                 "short": "Control your philips hue lights with redbot!",
                 "tags": [],
@@ -14052,7 +14052,7 @@
                     "numpy",
                     "unidecode"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-18T01:44:11.000000+00:00",
                 "short": "Create your own feels!",
                 "tags": [
@@ -14081,7 +14081,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-06-28T19:24:44.000000+00:00",
                 "short": "Recreation of Red v1 meme generator",
                 "tags": [
@@ -14111,7 +14111,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2024-12-14T22:16:44.000000+00:00",
                 "short": "Insult people in a creative way",
                 "tags": [
@@ -14164,7 +14164,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-25T13:02:03.000000+00:00",
                 "rx_last_updated_at": "2026-02-20T05:24:44.000000+00:00",
                 "short": "Developer commands",
                 "tags": [],
@@ -14189,7 +14189,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-22T16:26:25.000000+00:00",
                 "rx_last_updated_at": "2023-05-23T18:21:38.000000+00:00",
                 "short": "This cog allows ping the bot to see the prefixes available.",
                 "tags": [
@@ -14217,7 +14217,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-23T18:21:38.000000+00:00",
                 "short": "Mock another user!",
                 "tags": [
@@ -14285,7 +14285,7 @@
                     "wand",
                     "unidecode"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Some working commands from NotSoBot",
                 "tags": [
@@ -14316,7 +14316,7 @@
                     "reactivepy>=1.9.0.dev0",
                     "git+https://github.com/TrustyJAID/aPRAW@setup-fix"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-05T01:59:30.000000+00:00",
                 "rx_last_updated_at": "2023-05-23T18:21:38.000000+00:00",
                 "short": "A cog to post updates from reddit.",
                 "tags": [
@@ -14345,7 +14345,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Get REKT",
                 "tags": [
@@ -14373,7 +14373,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Trigger events via Regular Expressions!",
                 "tags": [
@@ -14435,7 +14435,7 @@
                     "pytz",
                     "matplotlib"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Show your Runescape stats in discord!",
                 "tags": [
@@ -14472,7 +14472,7 @@
                     "python-dateutil",
                     "rapidfuzz"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "A plethora of potentially useful commands for any bot owner.",
                 "tags": [
@@ -14531,7 +14531,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Starboard",
                 "tags": [
@@ -14560,7 +14560,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "General commands",
                 "tags": [
@@ -14616,7 +14616,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Translate messages using google translate!",
                 "tags": [
@@ -14648,7 +14648,7 @@
                 "requirements": [
                     "tweepy[async]>=4.10.0"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-28T17:12:10.000000+00:00",
                 "short": "Cog for getting info from Twitter",
                 "tags": [
@@ -14677,7 +14677,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-04-02T19:58:15.000000+00:00",
                 "short": "Get basic twitch account information.",
                 "tags": [
@@ -14707,7 +14707,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Show the current weather in specified locations!",
                 "tags": [
@@ -14735,7 +14735,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
                 "rx_last_updated_at": "2026-03-22T01:48:37.000000+00:00",
                 "short": "Welcome new users to the server",
                 "tags": [
@@ -14802,7 +14802,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-28T22:01:28.000000+00:00",
                 "rx_last_updated_at": "2024-06-06T22:31:03.000000+00:00",
                 "short": "Easy cog discoverability with Red-Index",
                 "tags": [
@@ -15596,8 +15596,8 @@
         ],
         "description": "Play chess with your friends in discord, if thats your thing. Other Cogs comming soon?",
         "name": "WildCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-01-29T07:59:52.180000+00:00",
+        "rx_approved_at": "2019-01-29T07:59:52.180000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -15622,7 +15622,7 @@
                     "cssselect",
                     "jsonpickle"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-30T00:01:58.000000+00:00",
                 "rx_last_updated_at": "2022-05-29T17:42:15.000000+00:00",
                 "short": "Chess in discord",
                 "tags": [
@@ -15639,8 +15639,8 @@
         ],
         "description": "Cogs requested by others, personal cogs, or orphaned cogs.",
         "name": "aikaterna-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-12-19T19:00:13.963000+00:00",
+        "rx_approved_at": "2018-12-19T19:00:13.963000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -15660,7 +15660,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-16T04:42:31.000000+00:00",
                 "rx_last_updated_at": "2023-10-05T15:31:36.000000+00:00",
                 "short": "Away message toggle for users",
                 "tags": [
@@ -15686,7 +15686,7 @@
                 "requirements": [
                     "matplotlib"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-10-03T01:40:32.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T04:11:15.000000+00:00",
                 "short": "Generate a pie chart from the last 5000 messages",
                 "tags": [
@@ -15711,7 +15711,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-10-09T00:37:09.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Random dad jokes",
                 "tags": [
@@ -15738,7 +15738,7 @@
                 "requirements": [
                     "beautifulsoup4"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-07-24T00:06:45.000000+00:00",
                 "rx_last_updated_at": "2024-01-12T20:52:19.000000+00:00",
                 "short": "Gets definitions, antonyms, or synonyms for given words",
                 "tags": [
@@ -15784,7 +15784,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-03T19:00:27.000000+00:00",
                 "rx_last_updated_at": "2024-08-29T21:56:55.000000+00:00",
                 "short": "Audio addon cog for dislaying icecast/shoutcast info",
                 "tags": [
@@ -15810,7 +15810,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-07-24T17:36:56.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Fetch 'inspiring' messages.",
                 "tags": [
@@ -15836,7 +15836,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-24T00:25:21.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Invite count display and leaderboard.",
                 "tags": [
@@ -15861,7 +15861,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-31T18:31:10.000000+00:00",
+                "rx_added_at": "2020-08-31T18:25:34.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Generates an image for a LaTeX expression.",
                 "tags": [
@@ -15884,7 +15884,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-12T22:56:27.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "A Luigi poker minigame.",
                 "tags": [
@@ -15910,7 +15910,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-12-28T18:31:35.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T01:45:20.000000+00:00",
                 "short": "Alerts a role when bot(s) go offline.",
                 "tags": [
@@ -15937,7 +15937,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-07-09T18:55:52.000000+00:00",
                 "rx_last_updated_at": "2023-05-11T00:47:42.000000+00:00",
                 "short": "Post server invites.",
                 "tags": [
@@ -15959,7 +15959,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-04T00:21:47.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Ping pong.",
                 "tags": [
@@ -15983,7 +15983,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-10-09T23:47:48.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Press f to pay respects.",
                 "tags": [
@@ -16008,7 +16008,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-07T23:18:55.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Play a kahoot-like trivia game.",
                 "tags": [
@@ -16059,7 +16059,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-07-15T23:40:40.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Random bot statuses",
                 "tags": [
@@ -16110,7 +16110,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-16T04:42:31.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Check when the user was last active on a server.",
                 "tags": [
@@ -16134,7 +16134,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-11-01T16:49:29.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T01:05:13.000000+00:00",
                 "short": "\u0295 \u2022\u1d25\u2022\u0294 < It's snacktime, who wants snacks?",
                 "tags": [
@@ -16164,7 +16164,7 @@
                     "fuzzywuzzy",
                     "pytz"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-24T18:41:21.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T19:02:24.000000+00:00",
                 "short": "Check times for users and places.",
                 "tags": [
@@ -16194,7 +16194,7 @@
                     "tabulate",
                     "unidecode"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-16T23:48:14.000000+00:00",
                 "rx_last_updated_at": "2023-05-11T01:07:47.000000+00:00",
                 "short": "Mod and admin tools.",
                 "tags": [
@@ -16239,7 +16239,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-14T02:48:42.000000+00:00",
                 "rx_last_updated_at": "2023-10-04T18:04:57.000000+00:00",
                 "short": "Trick or treat.",
                 "tags": [
@@ -16341,7 +16341,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-06-30T22:12:31.000000+00:00",
                 "rx_last_updated_at": "2023-11-06T03:10:03.000000+00:00",
                 "short": "Query Wolfram|Alpha for answers.",
                 "tags": [
@@ -16364,7 +16364,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-07-24T21:37:01.000000+00:00",
                 "rx_last_updated_at": "2023-05-07T00:47:39.000000+00:00",
                 "short": "Search youtube for videos.",
                 "tags": [
@@ -16381,8 +16381,8 @@
         ],
         "description": "Cogs for RED Discord Bot by Bobloy",
         "name": "Fox-V3",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-11-04T00:20:59.192000+00:00",
+        "rx_approved_at": "2018-11-04T00:20:59.192000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -16400,7 +16400,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-16T15:33:57.000000+00:00",
                 "rx_last_updated_at": "2024-04-19T20:36:32.000000+00:00",
                 "short": "Send daily announcements",
                 "tags": [
@@ -16422,7 +16422,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-13T20:18:28.000000+00:00",
                 "rx_last_updated_at": "2024-04-18T19:42:01.000000+00:00",
                 "short": "Start an Audio Trivia game",
                 "tags": [
@@ -16447,7 +16447,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-10-26T17:01:21.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Creates commands that adjust roles",
                 "tags": [
@@ -16478,7 +16478,7 @@
                     "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.4.1/en_core_web_sm-3.4.1.tar.gz#egg=en_core_web_sm",
                     "https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.4.1/en_core_web_md-3.4.1.tar.gz#egg=en_core_web_md"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-02-19T20:11:56.000000+00:00",
                 "rx_last_updated_at": "2024-04-19T20:35:15.000000+00:00",
                 "short": "Local Chatbot run on machine learning",
                 "tags": [
@@ -16510,7 +16510,7 @@
                 "requirements": [
                     "Pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-10T21:03:25.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "War Game Map",
                 "tags": [
@@ -16540,7 +16540,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-04T14:59:20.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T13:18:54.000000+00:00",
                 "short": "Dad joke bot",
                 "tags": [
@@ -16564,7 +16564,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-13T17:27:59.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Set roles to be exclusive",
                 "tags": [
@@ -16653,7 +16653,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-16T20:10:50.000000+00:00",
                 "rx_last_updated_at": "2024-04-18T20:56:45.000000+00:00",
                 "short": "Add expiring flags to members",
                 "tags": [
@@ -16680,7 +16680,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-14T16:12:42.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Mention unmentionables",
                 "tags": [
@@ -16703,7 +16703,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-10-26T17:01:21.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Play Hangman",
                 "tags": [
@@ -16727,7 +16727,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-15T20:39:00.000000+00:00",
                 "rx_last_updated_at": "2024-04-19T20:21:11.000000+00:00",
                 "short": "Updating server info channel",
                 "tags": [
@@ -16777,7 +16777,7 @@
                 "requirements": [
                     "python-launch-library>=2.0.3"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-21T18:18:39.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Access launch data for space flights",
                 "tags": [
@@ -16804,7 +16804,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-10-26T17:01:21.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Send message on leave",
                 "tags": [
@@ -16831,7 +16831,7 @@
                 "requirements": [
                     "beautifulsoup4"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-14T20:12:40.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Calculate love percentage for two users.",
                 "tags": [
@@ -16857,7 +16857,7 @@
                 "requirements": [
                     "python-dateutil"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-09T20:51:21.000000+00:00",
                 "rx_last_updated_at": "2023-06-20T15:58:30.000000+00:00",
                 "short": "Last seen tracker",
                 "tags": [
@@ -16883,7 +16883,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-11T12:20:02.000000+00:00",
                 "rx_last_updated_at": "2024-04-18T20:56:45.000000+00:00",
                 "short": "Grow your own plants! Do `[p]gardening` to get started.",
                 "tags": [
@@ -16909,7 +16909,7 @@
                 "requirements": [
                     "MyQR"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-18T19:16:26.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Create a QR code invite",
                 "tags": [
@@ -16934,7 +16934,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-14T19:10:41.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Prevent reactions to messages",
                 "tags": [
@@ -16962,7 +16962,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-14T20:12:40.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Apply for a job at the recycling plant!",
                 "tags": [
@@ -16987,7 +16987,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-15T13:14:11.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T13:18:54.000000+00:00",
                 "short": "Play Rock Papers Scissor Lizard Spock in Discord!",
                 "tags": [
@@ -17013,7 +17013,7 @@
                 "requirements": [
                     "html2text"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-10T20:20:51.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Convert URL to text",
                 "tags": [
@@ -17037,7 +17037,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-15T13:14:11.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T13:18:54.000000+00:00",
                 "short": "Look up SCP articles.",
                 "tags": [
@@ -17060,7 +17060,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-11-22T21:02:55.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Steals custom emojis",
                 "tags": [
@@ -17084,7 +17084,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-14T13:58:18.000000+00:00",
                 "rx_last_updated_at": "2023-06-20T16:17:03.000000+00:00",
                 "short": "Apply roles after # of hours or days",
                 "tags": [
@@ -17112,7 +17112,7 @@
                 "requirements": [
                     "gTTS"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-15T19:41:26.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "Send TTS messages as uploaded mp3",
                 "tags": [
@@ -17137,7 +17137,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-15T13:14:11.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T13:18:54.000000+00:00",
                 "short": "Encode/Decode Unicode characters!",
                 "tags": [
@@ -17161,7 +17161,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-03-08T19:27:03.000000+00:00",
                 "rx_last_updated_at": "2023-06-19T14:10:08.000000+00:00",
                 "short": "[ALPHA] Play Werewolf (Mafia) Game in discord",
                 "tags": [
@@ -18250,8 +18250,8 @@
         ],
         "description": "Notes and Status cogs for SS13 servers",
         "name": "crossed-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-12-30T22:49:02.449000+00:00",
+        "rx_approved_at": "2018-12-30T22:49:02.449000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -18274,7 +18274,7 @@
                 "requirements": [
                     "httpx>=0.14.1"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-14T03:19:54.000000+00:00",
                 "rx_last_updated_at": "2023-11-30T07:25:56.000000+00:00",
                 "short": "References the CentCom ban database for any entries for a given user",
                 "tags": [
@@ -18305,7 +18305,7 @@
                 "requirements": [
                     "httpx"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-08-24T06:05:50.000000+00:00",
                 "rx_last_updated_at": "2023-05-15T01:17:29.000000+00:00",
                 "short": "",
                 "tags": [],
@@ -18330,7 +18330,7 @@
                 "requirements": [
                     "aiomysql>=0.0.20"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-14T02:03:55.000000+00:00",
                 "rx_last_updated_at": "2025-08-04T13:52:56.000000+00:00",
                 "short": "Obtains player notes and posts them into discord on command!",
                 "tags": [
@@ -18360,7 +18360,7 @@
                 ],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-18T04:41:07.000000+00:00",
                 "rx_last_updated_at": "2023-05-15T01:17:29.000000+00:00",
                 "short": "Pulls information from the current SS13 round",
                 "tags": [
@@ -18525,8 +18525,8 @@
         ],
         "description": "A few fun cogs for your repo and your general desire to abuse your moderator powers",
         "name": "CogsByAdrian",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-16T18:46:12.428000+00:00",
+        "rx_approved_at": "2019-02-16T18:46:12.428000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -18637,8 +18637,8 @@
         ],
         "description": "Cogs for RED Discord Bot by luna",
         "name": "Cogs.v3",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-01T22:03:45.302000+00:00",
+        "rx_approved_at": "2019-02-01T22:03:45.302000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -18660,7 +18660,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-15T23:39:36.000000+00:00",
                 "rx_last_updated_at": "2023-06-02T08:44:19.000000+00:00",
                 "short": "Randomly creates names for made up bands.",
                 "tags": [],
@@ -18684,7 +18684,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-28T23:30:45.000000+00:00",
                 "rx_last_updated_at": "2024-01-11T23:35:12.000000+00:00",
                 "short": "Allows users to submit anonymous feedback.",
                 "tags": [],
@@ -18708,7 +18708,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-28T23:24:36.000000+00:00",
                 "rx_last_updated_at": "2024-01-11T23:35:12.000000+00:00",
                 "short": "Allows users to self-assign roles",
                 "tags": [],
@@ -18732,7 +18732,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-23T05:06:59.000000+00:00",
                 "rx_last_updated_at": "2024-01-11T23:35:12.000000+00:00",
                 "short": "Testing running a web server as a cog",
                 "tags": [],
@@ -18758,7 +18758,7 @@
                 "requirements": [
                     "pillow"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-16T00:01:23.000000+00:00",
                 "rx_last_updated_at": "2024-01-11T23:35:12.000000+00:00",
                 "short": "Create comics from channel messages",
                 "tags": [],
@@ -18773,8 +18773,8 @@
         ],
         "description": "Just some cogs that I was searching for but couldn't find so I made my own.",
         "name": "SauriCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-05-16T20:01:56.837000+00:00",
+        "rx_approved_at": "2019-05-16T20:01:56.837000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -18878,8 +18878,8 @@
         ],
         "description": "Cogs for Red-DiscordBot. Including port of V2 leveler by Stevy.",
         "name": "Fixator10-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-04-11T19:13:13.743000+00:00",
+        "rx_approved_at": "2019-04-11T19:13:13.743000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -18899,7 +18899,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-29T10:10:38.000000+00:00",
                 "rx_last_updated_at": "2023-06-01T12:04:58.000000+00:00",
                 "short": "\u26a0Cog for doing things in bulk.\u26a0",
                 "tags": [],
@@ -18914,8 +18914,8 @@
         ],
         "description": "Thanks for using FlapJack Cogs. If you have any issues, please join the Cog Support server and post in the support_flapjack-cogs channel: <https://discord.gg/k5xbRqG> or open an issue on the repo.",
         "name": "FlapJack-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2020-08-10T19:38:06.680000+00:00",
+        "rx_approved_at": "2020-08-10T19:38:06.680000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -18936,7 +18936,7 @@
                     "beautifulsoup4",
                     "bleach"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-02-16T02:33:48.000000+00:00",
                 "rx_last_updated_at": "2020-09-30T19:42:39.000000+00:00",
                 "short": "Utilities for Blizzard games",
                 "tags": [
@@ -18969,7 +18969,7 @@
                     "bs4",
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-12-04T15:36:55.000000+00:00",
                 "rx_last_updated_at": "2020-08-25T15:31:04.000000+00:00",
                 "short": "Fetches cryptocurrency price data",
                 "tags": [
@@ -18989,8 +18989,8 @@
         ],
         "description": "Assortment of cogs written by flare.",
         "name": "Flare-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-05-19T17:59:49.969000+00:00",
+        "rx_approved_at": "2019-05-19T17:59:49.969000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -19008,7 +19008,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-01T16:36:35.000000+00:00",
                 "rx_last_updated_at": "2023-09-05T03:58:40.000000+00:00",
                 "short": "Block users who spam commands for a defined period of time.",
                 "tags": [
@@ -19057,7 +19057,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-15T01:00:15.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Post server count to various discord bot lists.",
                 "tags": [
@@ -19112,7 +19112,7 @@
                     "tabulate",
                     "pandas"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-01-18T17:11:27.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Track all commands used.",
                 "tags": [
@@ -19136,7 +19136,7 @@
                 "requirements": [
                     "validators"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-07T17:29:36.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Show Covid-19 (Novel Coronavirus) Statistics.",
                 "tags": [
@@ -19187,7 +19187,7 @@
                 "requirements": [
                     "validators"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-09T02:21:17.000000+00:00",
                 "rx_last_updated_at": "2024-07-22T09:28:35.000000+00:00",
                 "short": "DankMemer image generator.",
                 "tags": [
@@ -19210,7 +19210,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-04-03T15:47:44.000000+00:00",
                 "rx_last_updated_at": "2023-10-10T16:44:46.000000+00:00",
                 "short": "Respond with the bot invite link when DM'd a server invite link.",
                 "tags": [
@@ -19287,7 +19287,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-04-10T21:46:09.000000+00:00",
                 "rx_last_updated_at": "2023-05-06T13:15:00.000000+00:00",
                 "short": "List stats of faceit users, game history or specific games and even ongoing games!",
                 "tags": [
@@ -19312,7 +19312,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-01-16T13:27:51.000000+00:00",
                 "rx_last_updated_at": "2026-02-25T15:24:43.000000+00:00",
                 "short": "Forward messages sent to the bot to the bot owner or in a specified channel.",
                 "tags": [
@@ -19363,7 +19363,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-03-01T12:39:20.000000+00:00",
                 "rx_last_updated_at": "2023-05-12T09:03:09.000000+00:00",
                 "short": "Highlight certain words to be notified of if said in a certain channel.",
                 "tags": [
@@ -19385,7 +19385,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-06-19T23:58:42.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Send a message to a guilds general chat, system channel or first available channel.",
                 "tags": [
@@ -19433,7 +19433,7 @@
                 "requirements": [
                     "AdvancedTagScriptEngine"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-04-30T22:01:13.000000+00:00",
                 "rx_last_updated_at": "2024-07-22T09:24:28.000000+00:00",
                 "short": "Mod with custom messages.",
                 "tags": [
@@ -19458,7 +19458,7 @@
                     "validators",
                     "iso8601"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-03-31T23:01:41.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Grab the latest headlines, nationally or globally.",
                 "tags": [
@@ -19544,7 +19544,7 @@
                     "pillow",
                     "r6statsapi"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-20T21:41:31.000000+00:00",
                 "rx_last_updated_at": "2023-04-24T21:32:45.000000+00:00",
                 "short": "Show R6 Statistics.",
                 "tags": [
@@ -19572,7 +19572,7 @@
                     "tabulate",
                     "asyncpraw"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-26T21:57:09.000000+00:00",
                 "rx_last_updated_at": "2024-07-22T09:28:35.000000+00:00",
                 "short": "Reddit Autoposting of new content.",
                 "tags": [
@@ -19627,7 +19627,7 @@
                     "pillow",
                     "validators"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-07-23T13:39:53.000000+00:00",
                 "rx_last_updated_at": "2024-07-22T09:28:35.000000+00:00",
                 "short": "Football simulation league for discord - utilizing leveler as a way to determine performances.",
                 "tags": [
@@ -19649,7 +19649,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-01-25T01:48:24.000000+00:00",
                 "rx_last_updated_at": "2024-01-25T14:29:43.000000+00:00",
                 "short": "Snipe the last message deleted in a channel.",
                 "tags": [
@@ -19792,7 +19792,7 @@
                 "requirements": [
                     "tabulate"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-08-04T15:29:07.000000+00:00",
                 "rx_last_updated_at": "2025-10-08T15:42:42.000000+00:00",
                 "short": "Unbelievaboat economy commands converted for Red use.",
                 "tags": [
@@ -19817,7 +19817,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-10T20:20:54.000000+00:00",
                 "rx_last_updated_at": "2024-07-22T09:28:35.000000+00:00",
                 "short": "Userinfo with user badges and economy details.",
                 "tags": [
@@ -20805,8 +20805,8 @@
         ],
         "description": "Random selection of fandom cogs, especially for MXTX fans",
         "name": "FanCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2020-06-17T18:54:06.179000+00:00",
+        "rx_approved_at": "2020-06-17T18:54:06.179000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -24787,8 +24787,8 @@
         ],
         "description": "A bunch of general purpose cogs for stuff like intel cpu data lookup, space pictures and more.",
         "name": "kennnyshiwa-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-08-20T23:59:20.927000+00:00",
+        "rx_approved_at": "2019-08-20T23:59:20.927000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -26591,8 +26591,8 @@
         ],
         "description": "Useful utilities I created for the Falcom discord, generalized for any Red V3 bots.",
         "name": "FalcomBot-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-12-19T19:01:21.702000+00:00",
+        "rx_approved_at": "2018-12-19T19:01:21.702000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -26659,7 +26659,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-06T21:19:44.000000+00:00",
                 "rx_last_updated_at": "2023-11-03T18:02:52.000000+00:00",
                 "short": "Utility randomization commands.",
                 "tags": [
@@ -26683,7 +26683,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-02-02T19:58:59.000000+00:00",
                 "rx_last_updated_at": "2023-10-20T10:29:28.000000+00:00",
                 "short": "Allows users to request roles.",
                 "tags": [
@@ -26706,7 +26706,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-09T16:31:00.000000+00:00",
                 "rx_last_updated_at": "2023-11-03T18:02:52.000000+00:00",
                 "short": "ROT-13 command and reaction system.",
                 "tags": [
@@ -26730,7 +26730,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-06T23:33:08.000000+00:00",
                 "rx_last_updated_at": "2023-11-03T18:02:52.000000+00:00",
                 "short": "Utility text commands.",
                 "tags": [
@@ -26754,7 +26754,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-11T22:46:34.000000+00:00",
                 "rx_last_updated_at": "2023-11-03T18:02:52.000000+00:00",
                 "short": "View and edit topic command.",
                 "tags": [
@@ -26778,7 +26778,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-02-02T19:58:59.000000+00:00",
                 "rx_last_updated_at": "2023-11-03T18:02:52.000000+00:00",
                 "short": "Command to request FANDOM Wiki pages.",
                 "tags": [
@@ -27096,8 +27096,8 @@
         ],
         "description": "Cogs created by palmtree5 for varying purposes, some related to Minecraft",
         "name": "palmtree5-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-05T21:08:00.351000+00:00",
+        "rx_approved_at": "2019-02-05T21:08:00.351000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -27115,7 +27115,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-02-20T20:05:14.000000+00:00",
                 "rx_last_updated_at": "2021-03-16T05:21:05.000000+00:00",
                 "short": "Ban/unban by role.",
                 "tags": [
@@ -27138,7 +27138,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-03-07T19:03:47.000000+00:00",
                 "rx_last_updated_at": "2023-12-11T06:31:53.000000+00:00",
                 "short": "Event manager utility",
                 "tags": [
@@ -27167,7 +27167,7 @@
                 "requirements": [
                     "aiopixel==0.2.15"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-07-04T01:30:11.000000+00:00",
                 "rx_last_updated_at": "2021-06-24T05:16:30.000000+00:00",
                 "short": "Cog for getting info from the Hypixel API",
                 "tags": [
@@ -27191,7 +27191,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-04-18T23:33:10.000000+00:00",
                 "rx_last_updated_at": "2023-09-26T03:41:33.000000+00:00",
                 "short": "Cog for locking down a server in the event of a raid",
                 "tags": [
@@ -27218,7 +27218,7 @@
                     "mcstatus==10.0.1",
                     "validators"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-07-23T05:25:57.000000+00:00",
                 "rx_last_updated_at": "2023-12-11T06:31:53.000000+00:00",
                 "short": "Cog for getting Minecraft server status",
                 "tags": [
@@ -27242,7 +27242,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-03-24T20:15:34.000000+00:00",
                 "rx_last_updated_at": "2021-03-16T05:21:05.000000+00:00",
                 "short": "Pins messages containing specific text",
                 "tags": [
@@ -27265,7 +27265,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-08-06T15:40:46.000000+00:00",
                 "rx_last_updated_at": "2023-12-11T06:31:53.000000+00:00",
                 "short": "Cog for getting stuff from Reddit",
                 "tags": [
@@ -27289,7 +27289,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-03-19T04:46:08.000000+00:00",
                 "rx_last_updated_at": "2021-03-16T05:21:05.000000+00:00",
                 "short": "Slow mode in Discord",
                 "tags": [
@@ -27312,7 +27312,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-02-24T22:17:27.000000+00:00",
                 "rx_last_updated_at": "2021-03-16T05:21:05.000000+00:00",
                 "short": "Cog for getting world records for various games",
                 "tags": [
@@ -28796,8 +28796,8 @@
         ],
         "description": "A buch of utility and quality cogs that brings unique features for your server. Made by Laggron.",
         "name": "Laggrons-Dumb-Cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-03-14T22:05:49.817000+00:00",
+        "rx_approved_at": "2019-03-14T22:05:49.817000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -28817,7 +28817,7 @@
                 "requirements": [
                     "git+https://github.com/retke/laggron-utils"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-05-21T23:34:31.000000+00:00",
                 "rx_last_updated_at": "2023-10-30T10:51:33.000000+00:00",
                 "short": "Call of Duty MW stats.",
                 "tags": [
@@ -28841,7 +28841,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-05-11T14:37:32.000000+00:00",
                 "rx_last_updated_at": "2023-11-01T15:05:32.000000+00:00",
                 "short": "Instant command maker",
                 "tags": [
@@ -28867,7 +28867,7 @@
                 "requirements": [
                     "git+https://github.com/retke/laggron-utils"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-10-24T20:56:06.000000+00:00",
                 "rx_last_updated_at": "2025-04-05T21:22:45.000000+00:00",
                 "short": "Autorole based on server's invites",
                 "tags": [
@@ -28894,7 +28894,7 @@
                 "requirements": [
                     "git+https://github.com/retke/laggron-utils"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-08-02T18:27:56.000000+00:00",
                 "rx_last_updated_at": "2023-12-15T16:04:17.000000+00:00",
                 "short": "Speak as the bot through multiple options.",
                 "tags": [
@@ -28953,7 +28953,7 @@
                     "python-dateutil",
                     "git+https://github.com/retke/Laggron-utils.git"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-11-08T13:42:23.000000+00:00",
                 "rx_last_updated_at": "2024-11-26T13:13:14.000000+00:00",
                 "short": "Moderation tools, providing an alternative to core Red.",
                 "tags": [
@@ -28974,8 +28974,8 @@
         ],
         "description": "48G/46G related cogs and miscellaneous..",
         "name": "MayuYukirin",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-11-06T21:11:26.426000+00:00",
+        "rx_approved_at": "2018-11-06T21:11:26.426000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -28994,7 +28994,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-18T01:23:57.000000+00:00",
                 "rx_last_updated_at": "2023-06-08T18:26:59.000000+00:00",
                 "short": "Post animal pics",
                 "tags": [
@@ -29022,7 +29022,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-04T06:09:16.000000+00:00",
                 "rx_last_updated_at": "2023-06-08T18:26:42.000000+00:00",
                 "short": "Get user's Avatar URL",
                 "tags": [
@@ -29046,7 +29046,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-18T05:13:54.000000+00:00",
                 "rx_last_updated_at": "2023-06-08T18:26:59.000000+00:00",
                 "short": "Post random doujin (NSFW)",
                 "tags": [
@@ -29070,7 +29070,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-19T05:08:55.000000+00:00",
                 "rx_last_updated_at": "2023-06-08T18:26:42.000000+00:00",
                 "short": "Show your affection to other member",
                 "tags": [
@@ -29743,8 +29743,8 @@
         ],
         "description": "Red V3 Cogs for naturalists by SyntheticBee",
         "name": "dronefly",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2020-04-04T08:08:50.936000+00:00",
+        "rx_approved_at": "2020-04-04T08:08:50.936000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -29764,7 +29764,7 @@
                 "requirements": [
                     "ebird-api"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-09-01T19:55:10.000000+00:00",
                 "rx_last_updated_at": "2023-03-07T23:16:08.000000+00:00",
                 "short": "Commands using the eBird API 2.0.",
                 "tags": [
@@ -29797,7 +29797,7 @@
                     "aiohttp-retry>=2.4.5,<3.0.0",
                     "filelock>=3.13.3"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-09-18T20:17:10.000000+00:00",
                 "rx_last_updated_at": "2026-04-04T14:06:17.000000+00:00",
                 "short": "Commands using the iNat API v1.",
                 "tags": [
@@ -31094,8 +31094,8 @@
         ],
         "description": "Utilities, community tools, and goofy commands, all in one place.",
         "name": "tmerc-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-11-06T21:12:07.505000+00:00",
+        "rx_approved_at": "2018-11-06T21:12:07.505000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -31113,7 +31113,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-08-24T16:59:12.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:32:15.000000+00:00",
                 "short": "Gets a random cat fact.",
                 "tags": [
@@ -31139,7 +31139,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-01-15T22:37:57.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:32:15.000000+00:00",
                 "short": "( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)",
                 "tags": [
@@ -31165,7 +31165,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-10-10T22:06:52.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:32:15.000000+00:00",
                 "short": "DM a Role.",
                 "tags": [
@@ -31190,7 +31190,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-03-20T03:09:38.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:32:15.000000+00:00",
                 "short": "Nest commands together.",
                 "tags": [
@@ -31215,7 +31215,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2016-08-17T17:32:21.000000+00:00",
                 "rx_last_updated_at": "2025-04-15T17:36:15.000000+00:00",
                 "short": "Get some random animal images.",
                 "tags": [
@@ -31239,7 +31239,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2017-02-18T22:48:35.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:32:15.000000+00:00",
                 "short": "Streamers get a role.",
                 "tags": [
@@ -31264,7 +31264,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-03-27T00:44:24.000000+00:00",
                 "rx_last_updated_at": "2023-04-26T04:33:30.000000+00:00",
                 "short": "Announces membership events.",
                 "tags": [
@@ -33120,7 +33120,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-29T01:15:54.000000+00:00",
+                "rx_added_at": "2020-06-03T14:12:06.000000+00:00",
                 "rx_last_updated_at": "2024-09-08T14:11:57.000000+00:00",
                 "short": "Have you always wanted to kill someone? If so, do it in a creative way!",
                 "tags": [
@@ -33283,8 +33283,8 @@
         ],
         "description": "My cogs for utility, requests, or proof-of-concepts. Or memes, as is the case with the skyrim cog.",
         "name": "FluffyCogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2018-11-06T21:12:28.199000+00:00",
+        "rx_approved_at": "2018-11-06T21:12:28.199000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {
@@ -33304,7 +33304,7 @@
                 "requirements": [
                     "inflection"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-08-28T22:50:18.000000+00:00",
                 "rx_last_updated_at": "2026-02-07T01:54:42.000000+00:00",
                 "short": "Command the bot to perform an action on a fellow user.",
                 "tags": [
@@ -33374,7 +33374,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-05-02T20:56:53.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Automatically disconnect inactive VC users. Requires a set AFK channel.",
                 "tags": [
@@ -33419,7 +33419,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-14T09:06:12.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Track FitD projects with clocks.",
                 "tags": [
@@ -33466,7 +33466,7 @@
                 "requirements": [
                     "git+https://github.com/zephyrkul/proxyembed"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-06-27T21:36:40.000000+00:00",
                 "rx_last_updated_at": "2025-06-01T23:37:01.000000+00:00",
                 "short": "Create and manage roles and text channels for VC users. Useful for nomic / microphoneless setups.",
                 "tags": [
@@ -33493,7 +33493,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-18T13:47:55.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Log a specified channel to a markdown file.",
                 "tags": [
@@ -33519,7 +33519,7 @@
                     "sans>=1.2.0,<2.0.0",
                     "git+https://github.com/zephyrkul/proxyembed"
                 ],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-10-10T06:55:40.000000+00:00",
                 "rx_last_updated_at": "2025-01-01T02:45:47.000000+00:00",
                 "short": "Access information from NationStates.net.",
                 "tags": [
@@ -33541,7 +33541,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2019-06-30T21:09:50.000000+00:00",
                 "rx_last_updated_at": "2024-03-22T17:38:09.000000+00:00",
                 "short": "Allow users to run bot commands with edited messages, with a specified timeout.",
                 "tags": [
@@ -33590,7 +33590,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-08-31T18:21:15.000000+00:00",
                 "rx_last_updated_at": "2025-07-07T19:48:10.000000+00:00",
                 "short": "Allows cross-server communication through Red",
                 "tags": [
@@ -33639,7 +33639,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2020-01-07T03:03:43.000000+00:00",
                 "rx_last_updated_at": "2024-12-27T07:57:37.000000+00:00",
                 "short": "Set up secure invites.",
                 "tags": [
@@ -33661,7 +33661,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-08-29T18:18:45.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Say a random line from Skyrim. WARNING: Spoilers for Skyrim.",
                 "tags": [
@@ -33707,7 +33707,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-08-30T03:32:28.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Allows you to set themes to easily play accross all servers.",
                 "tags": [
@@ -33731,7 +33731,7 @@
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [],
-                "rx_added_at": "2020-08-28T22:21:37.000000+00:00",
+                "rx_added_at": "2018-09-27T05:54:18.000000+00:00",
                 "rx_last_updated_at": "2023-05-16T07:04:31.000000+00:00",
                 "short": "Track turns for posting in a channel.",
                 "tags": [
@@ -33935,8 +33935,8 @@
         ],
         "description": "Put this in your bot and smoke it",
         "name": "cbd-cogs",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2020-04-09T21:23:42.845000+00:00",
+        "rx_approved_at": "2020-04-09T21:23:42.845000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
@@ -33948,8 +33948,8 @@
         ],
         "description": "A collection of cogs for gathering information about technology, and other tech utility commands.\nThis repo is for V3 only!",
         "name": "TechCogsV3",
-        "rx_added_at": "2020-08-27T00:49:18.000000+00:00",
-        "rx_approved_at": "2020-08-27T00:49:18.000000+00:00",
+        "rx_added_at": "2019-02-15T21:36:11.687000+00:00",
+        "rx_approved_at": "2019-02-15T21:36:11.687000+00:00",
         "rx_branch": "",
         "rx_category": "approved",
         "rx_cogs": {},
