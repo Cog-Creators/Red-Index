@@ -326,44 +326,6 @@
         },
         "short": "Various cogs for Red, by cswimr"
     },
-    "https://codeberg.org/jakjakob/jak-cogs": {
-        "author": [
-            "jakjakob"
-        ],
-        "description": "Various cogs made by Jakob for the discord.red Discord bot",
-        "name": "jak-cogs",
-        "rx_added_at": "2024-07-24T22:21:41.000000+00:00",
-        "rx_approved_at": null,
-        "rx_branch": "",
-        "rx_category": "unapproved",
-        "rx_cogs": {
-            "songshare": {
-                "author": [
-                    "jakjakob"
-                ],
-                "description": "Easily share music thanks to universally translated links",
-                "disabled": false,
-                "end_user_data_statement": "This cog does not store any end user data, but remember that it interacts with the Songlink API.",
-                "hidden": false,
-                "max_bot_version": "",
-                "min_bot_version": "3.5.3",
-                "min_python_version": 3.8,
-                "permissions": [],
-                "required_cogs": {},
-                "requirements": [],
-                "rx_added_at": "2024-07-24T22:27:43.000000+00:00",
-                "rx_last_updated_at": "2024-07-24T16:28:18.000000+00:00",
-                "short": "Share music with every music service",
-                "tags": [
-                    "music",
-                    "songlink",
-                    "odesli"
-                ],
-                "type": ""
-            }
-        },
-        "short": "Jakob's cogs for discord.red"
-    },
     "https://github.com/AAA3A-AAA3A/AAA3A-cogs": {
         "author": [
             "AAA3A"

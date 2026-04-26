@@ -92,14 +92,14 @@
         "cogs": {
             "songshare": {
                 "added_at": 1721860063.0,
-                "deleted_at": null,
+                "deleted_at": 1777184985.06577,
                 "hashes": {
                     "sha256": "e0aff1470f362a3cb8dd6f681eb8346115c4a1d1a40dbb3ab19f6e9988537ce1"
                 },
                 "last_updated_at": 1721838498.0
             }
         },
-        "deleted_at": null
+        "deleted_at": 1777184985.06577
     },
     "https://git.purplepanda.cc/blizz/blizz-cogs": {
         "added_at": 1777150788.251274,
