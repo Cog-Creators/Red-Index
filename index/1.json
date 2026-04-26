@@ -2775,7 +2775,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2024-11-04T20:09:47.000000+00:00",
-                "rx_last_updated_at": "2026-04-24T16:30:38.000000+00:00",
+                "rx_last_updated_at": "2026-04-26T19:26:32.415325+00:00",
                 "short": "Configure and manage a tickets system for your server!",
                 "tags": [
                     "tickets",
@@ -4904,7 +4904,7 @@
             "Nick Daino"
         ],
         "description": "A collection of personal Red-Discord Bot cogs including NFL, NHL, MLB, NBA game schedules and Bristol Mountain ski conditions.",
-        "name": "RedCogs",
+        "name": "catalystnd-cogs",
         "rx_added_at": "2026-01-11T17:39:42.000000+00:00",
         "rx_approved_at": null,
         "rx_branch": "",
@@ -5334,7 +5334,7 @@
             "Cognitohazard"
         ],
         "description": "A collection of cogs for Red-DiscordBot.",
-        "name": "cogs-cogs",
+        "name": "cognitohazard-cogs",
         "rx_added_at": "2026-03-17T03:23:14.000000+00:00",
         "rx_approved_at": null,
         "rx_branch": "",
@@ -10362,7 +10362,7 @@
             "Malarne (Malarne#1418)"
         ],
         "description": "Some cogs that i think are useful, feel free to use them !",
-        "name": "discord_cogs",
+        "name": "malarne-cogs",
         "rx_added_at": "2019-02-25T00:13:48.052000+00:00",
         "rx_approved_at": "2019-02-25T00:13:48.052000+00:00",
         "rx_branch": "",
@@ -18636,7 +18636,7 @@
             "luna"
         ],
         "description": "Cogs for RED Discord Bot by luna",
-        "name": "Cogs.v3",
+        "name": "luna-cogs",
         "rx_added_at": "2019-02-01T22:03:45.302000+00:00",
         "rx_approved_at": "2019-02-01T22:03:45.302000+00:00",
         "rx_branch": "",
@@ -21784,7 +21784,7 @@
             "crayyy_zee"
         ],
         "description": "Utility and fun cogs made by crayyy_zee. (Mostly targeted towards a dank memer audience).",
-        "name": "bounty-cogs",
+        "name": "cray-bounty-cogs",
         "rx_added_at": "2023-10-24T23:10:41.000000+00:00",
         "rx_approved_at": null,
         "rx_branch": "",
@@ -27925,7 +27925,7 @@
             "PsyKzz"
         ],
         "description": "A number of different cogs built to support gaming & social communities for Redbot.",
-        "name": "cogs",
+        "name": "psykzz-cogs",
         "rx_added_at": "2025-12-19T02:45:25.000000+00:00",
         "rx_approved_at": null,
         "rx_branch": "",
