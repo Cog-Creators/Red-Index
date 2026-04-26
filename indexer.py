@@ -18,7 +18,7 @@ GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json")  # Minified, for user 
 GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz")  # Gzipped
 GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml")  # Error log
 METADATA_FILE = Path("metadata.json")  # internal metadata, used for e.g. last_updated_at dates
-NOW = datetime.datetime.now(datetime.timezone.utc)
+NOW = datetime.datetime.now(datetime.UTC)
 
 
 class CustomEncoder(json.JSONEncoder):
@@ -52,7 +52,7 @@ class Repo:
         self.rx_approved_at = ""
         try:
             self.parse_name_branch_url(metadata.url)
-        except:
+        except Exception:
             self._error = "Something went wrong while parsing the url. Is it a valid address?"
 
     def parse_name_branch_url(self, url):
@@ -62,12 +62,10 @@ class Repo:
         self._owner_repo = url.split("/")[3] + "/" + url.split("/")[4]
         if "@" in name:
             name, branch = name.split("@")
-        if name.endswith("/"):
-            name = name[:-1]
+        name = name.removesuffix("/")
 
         url = url.replace("/@", "@")
-        if url.endswith("/"):
-            url = url[:-1]
+        url = url.removesuffix("/")
 
         if not self.name:
             self.name = name
@@ -96,7 +94,7 @@ class Repo:
         try:
             with open(str(infofile)) as f:
                 info = json.load(f)
-        except:
+        except Exception:
             self._error = "Error reading repo info.json. Possibly invalid."
             return
 
@@ -180,7 +178,7 @@ class Cog:
         try:
             with open(str(info_path)) as f:
                 data = json.load(f)
-        except:
+        except Exception:
             self._error = "Error reading cog info.json. Possibly invalid."
             return
 
@@ -307,11 +305,11 @@ class InternalCogMetadata:
             self.last_updated_at = NOW
 
     @classmethod
-    def get_file_hashes(cls, path):
+    def get_file_hashes(cls, cog_path):
         buffer = bytearray(cls._BUFFER_SIZE)
         view = memoryview(buffer)
         digests = {algorithm: hashlib.new(algorithm) for algorithm in ("sha256",)}
-        for path in sorted(path.rglob("**/*")):
+        for path in sorted(cog_path.rglob("**/*")):
             if not path.is_file():
                 continue
             with path.open("rb") as fp:
@@ -345,14 +343,15 @@ class InternalCogMetadata:
         raise RuntimeError("No matching hashes were found.")
 
 
-def get_datetime(timestamp: int = None):
+def get_datetime(timestamp: int | None = None):
     if timestamp is None:
         return None
-    return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.timezone.utc)
+    return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.UTC)
 
 
 def sha1_digest(url):
-    return hashlib.sha1(url.encode("utf-8")).hexdigest()
+    # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
+    return hashlib.sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
 def make_error_log(repos):
@@ -382,7 +381,7 @@ def main():
         data = yaml.safe_load(f.read())
 
     try:
-        with open(METADATA_FILE, "r") as fp:
+        with open(METADATA_FILE) as fp:
             raw_metadata = json.load(fp)
     except FileNotFoundError:
         metadata = {}
@@ -437,10 +436,7 @@ def main():
                 # slashes and such. Owner/Reponame is close enough.
                 if r._owner_repo not in url:
                     continue
-                to_remove = []
-                for c in r.rx_cogs:
-                    if c._name in flagged_cogs:
-                        to_remove.append(c)
+                to_remove = [c for c in r.rx_cogs if c._name in flagged_cogs]
                 if to_remove:
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 

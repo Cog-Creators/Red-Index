@@ -1,12 +1,12 @@
 # Red-Index
-Auto-indexer of repositories and cogs for [Red Discord bot](https://github.com/Cog-Creators/Red-DiscordBot/).  
-Scheduled to run every 15 minutes and provide an up-to-date [index list](https://github.com/Cog-Creators/Red-Index/tree/master/index) of every repo listed in [repositories.yaml](repositories.yaml)  
-See [repositories-example.yaml](repositories-example.yaml) to learn how to compile it  
+Auto-indexer of repositories and cogs for [Red Discord bot](https://github.com/Cog-Creators/Red-DiscordBot/).\
+Scheduled to run every 15 minutes and provide an up-to-date [index list](https://github.com/Cog-Creators/Red-Index/tree/master/index) of every repo listed in [repositories.yaml](repositories.yaml)\
+See [repositories-example.yaml](repositories-example.yaml) to learn how to compile it
 
 ## FAQ
 ### What services are using this?
-[https://index.discord.red/](https://index.discord.red/), web interface for Red-Index  
-[Index](https://github.com/Twentysix26/x26-Cogs/), cog to search Red-Index and easily install repos / cogs directly from your Red instance  
+[https://index.discord.red/](https://index.discord.red/), web interface for Red-Index\
+[Index](https://github.com/Twentysix26/x26-Cogs/), cog to search Red-Index and easily install repos / cogs directly from your Red instance\
 
 Made a service that uses Red-Index as a source? [Make a PR](https://github.com/Cog-Creators/Red-Index/pulls) and we'll add it here!
 

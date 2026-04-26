@@ -15,15 +15,15 @@ def executable_opener(path, flags):
 
 
 def sha1_digest(url):
-    return sha1(url.encode("utf-8")).hexdigest()
+    # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
+    return sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
 def get_name(url):
     name = url.split("/")[4]
     if "@" in name:
         name, _ = name.split("@")
-    if name.endswith("/"):
-        name = name[:-1]
+    name = name.removesuffix("/")
     return name
 
 
@@ -31,8 +31,7 @@ def get_clean_url(url):
     branch = ""
     if "@" in url:
         url, branch = url.split("@")
-    if url.endswith("/"):
-        url = url[:-1]
+    url = url.removesuffix("/")
     return url, branch
 
 
