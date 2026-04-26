@@ -343,7 +343,7 @@ class InternalCogMetadata:
         raise RuntimeError("No matching hashes were found.")
 
 
-def get_datetime(timestamp: int = None):
+def get_datetime(timestamp: int | None = None):
     if timestamp is None:
         return None
     return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.UTC)
