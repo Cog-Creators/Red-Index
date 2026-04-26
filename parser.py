@@ -22,8 +22,7 @@ def get_name(url):
     name = url.split("/")[4]
     if "@" in name:
         name, _ = name.split("@")
-    if name.endswith("/"):
-        name = name[:-1]
+    name = name.removesuffix("/")
     return name
 
 
@@ -31,8 +30,7 @@ def get_clean_url(url):
     branch = ""
     if "@" in url:
         url, branch = url.split("@")
-    if url.endswith("/"):
-        url = url[:-1]
+    url = url.removesuffix("/")
     return url, branch
 
 

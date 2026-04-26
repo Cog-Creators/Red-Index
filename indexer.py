@@ -18,7 +18,7 @@ GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json")  # Minified, for user 
 GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz")  # Gzipped
 GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml")  # Error log
 METADATA_FILE = Path("metadata.json")  # internal metadata, used for e.g. last_updated_at dates
-NOW = datetime.datetime.now(datetime.timezone.utc)
+NOW = datetime.datetime.now(datetime.UTC)
 
 
 class CustomEncoder(json.JSONEncoder):
@@ -62,12 +62,10 @@ class Repo:
         self._owner_repo = url.split("/")[3] + "/" + url.split("/")[4]
         if "@" in name:
             name, branch = name.split("@")
-        if name.endswith("/"):
-            name = name[:-1]
+        name = name.removesuffix("/")
 
         url = url.replace("/@", "@")
-        if url.endswith("/"):
-            url = url[:-1]
+        url = url.removesuffix("/")
 
         if not self.name:
             self.name = name
@@ -348,7 +346,7 @@ class InternalCogMetadata:
 def get_datetime(timestamp: int = None):
     if timestamp is None:
         return None
-    return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.timezone.utc)
+    return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.UTC)
 
 
 def sha1_digest(url):
@@ -382,7 +380,7 @@ def main():
         data = yaml.safe_load(f.read())
 
     try:
-        with open(METADATA_FILE, "r") as fp:
+        with open(METADATA_FILE) as fp:
             raw_metadata = json.load(fp)
     except FileNotFoundError:
         metadata = {}
