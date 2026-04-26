@@ -350,7 +350,8 @@ def get_datetime(timestamp: int = None):
 
 
 def sha1_digest(url):
-    return hashlib.sha1(url.encode("utf-8")).hexdigest()
+    # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
+    return hashlib.sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
 def make_error_log(repos):

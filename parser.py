@@ -15,7 +15,8 @@ def executable_opener(path, flags):
 
 
 def sha1_digest(url):
-    return sha1(url.encode("utf-8")).hexdigest()
+    # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
+    return sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
 def get_name(url):
