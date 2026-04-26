@@ -1,3 +1,4 @@
+import itertools
 import os
 import re
 import sys
@@ -41,10 +42,11 @@ if __name__ == "__main__":
 
     repos = []
 
-    if data["approved"]:
-        repos.extend(data["approved"])
-    if data["unapproved"]:
-        repos.extend(data["unapproved"])
+    for repo_info in itertools.chain(data["approved"] or (), data["unapproved"] or ()):
+        if isinstance(repo_info, str):
+            repos.append(repo_info)
+        else:
+            repos.append(repo_info["url"])
 
     for r in repos:
         name = get_name(r)
