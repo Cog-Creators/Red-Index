@@ -20,12 +20,14 @@ approved:
   - https://github.com/Tobotimus/Tobo-Cogs
   - https://github.com/Flame442/FlameCogs
   - https://github.com/WildStriker/WildCogs
-  - https://github.com/dualmoon/Cogs.v3
+  - url: https://github.com/dualmoon/Cogs.v3
+    name: luna-cogs
   - https://github.com/palmtree5/palmtree5-cogs
   - https://github.com/designbyadrian/CogsByAdrian
   - https://gitlab.com/Eragon5779/TechCogsV3
   - https://github.com/PhasecoreX/PCXCogs
-  - https://github.com/Malarne/discord_cogs
+  - url: https://github.com/Malarne/discord_cogs
+    name: malarne-cogs
   - https://github.com/retke/Laggrons-Dumb-Cogs
   - https://github.com/fixator10/Fixator10-Cogs
   - https://github.com/flaree/Flare-Cogs
@@ -86,7 +88,8 @@ unapproved:
   - https://github.com/T14D3/T14D3-Cogs
   - https://github.com/Viking-Studios-Arma/VSCogs
   - https://github.com/CryptoLover705/cryptolover-cogs
-  - https://github.com/i-am-zaidali/bounty-cogs
+  - url: https://github.com/i-am-zaidali/bounty-cogs
+    name: cray-bounty-cogs
   - https://c.csw.im/cswimr/SeaCogs
   - https://github.com/space-wizards/wizard-cogs
   - https://git.purplepanda.cc/blizz/blizz-cogs
@@ -111,9 +114,12 @@ unapproved:
   - https://github.com/MrLDasVino/Elvin-Red-Cogs
   - https://github.com/malvinarum/malvincogs
   - https://github.com/codzombies/Codz-Cogs
-  - https://github.com/psykzz/cogs
-  - https://github.com/CatalystND/RedCogs
-  - https://github.com/Cognitohazard/cogs-cogs
+  - url: https://github.com/psykzz/cogs
+    name: psykzz-cogs
+  - url: https://github.com/CatalystND/RedCogs
+    name: catalystnd-cogs
+  - url: https://github.com/Cognitohazard/cogs-cogs
+    name: cognitohazard-cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
