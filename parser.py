@@ -10,16 +10,16 @@ import yaml
 CACHE = Path("cache")
 
 
-def executable_opener(path, flags):
+def executable_opener(path: str, flags: int) -> int:
     return os.open(path, flags, 0o755)
 
 
-def sha1_digest(url):
+def sha1_digest(url: str) -> str:
     # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
     return sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
-def get_name(url):
+def get_name(url: str) -> str:
     name = url.split("/")[4]
     if "@" in name:
         name, _ = name.split("@")
@@ -27,7 +27,7 @@ def get_name(url):
     return name
 
 
-def get_clean_url(url):
+def get_clean_url(url: str) -> tuple[str, str]:
     branch = ""
     if "@" in url:
         url, branch = url.split("@")

@@ -6,6 +6,7 @@ import re
 import sys
 from gzip import GzipFile
 from pathlib import Path
+from typing import Any, Self, TypedDict, overload
 
 import yaml
 
@@ -22,15 +23,17 @@ NOW = datetime.datetime.now(datetime.UTC)
 
 
 class CustomEncoder(json.JSONEncoder):
-    def default(self, obj):
-        if hasattr(obj, "__json__"):
-            return obj.__json__()
+    def default(self, o: Any) -> Any:
+        if hasattr(o, "__json__"):
+            return o.__json__()
         else:
-            return json.JSONEncoder.default(self, obj)
+            return json.JSONEncoder.default(self, o)
 
 
 class Repo:
-    def __init__(self, metadata, category: str, *, name=""):
+    _path: Path
+
+    def __init__(self, metadata: InternalRepoMetadata, category: str, *, name: str = "") -> None:
         """Anything exposed here will be serialized later
 
         Attributes starting with rx_ deviate from the info.json spec
@@ -38,7 +41,6 @@ class Repo:
         self.rx_category = category  # approved / unapproved
         self._owner_repo = ""
         self._error = ""
-        self._path = None
         self.rx_cogs = []
         self.author = []
         self.description = ""
@@ -55,7 +57,7 @@ class Repo:
         except Exception:
             self._error = "Something went wrong while parsing the url. Is it a valid address?"
 
-    def parse_name_branch_url(self, url):
+    def parse_name_branch_url(self, url: str) -> None:
         branch = ""
         name = url.split("/")[4]
         # Owner/RepoName will be useful when it's time to exclude cogs
@@ -73,7 +75,7 @@ class Repo:
         self._url = url
         self._url_name = name
 
-    def folder_check_and_get_info(self):
+    def folder_check_and_get_info(self) -> None:
         if self._error:
             return
 
@@ -109,7 +111,7 @@ class Repo:
             timespec="microseconds"
         )
 
-    def populate_cogs(self):
+    def populate_cogs(self) -> None:
         if self._error:
             return
         sub_dirs = [p for p in self._path.iterdir() if p.is_dir() and not p.name.startswith(".")]
@@ -122,7 +124,7 @@ class Repo:
         if not self.rx_cogs:
             self._error = "Repo contains no valid cogs"
 
-    def process_cogs(self):
+    def process_cogs(self) -> None:
         if self._error:
             return
 
@@ -130,14 +132,14 @@ class Repo:
             cog.get_info(self._metadata)
             cog.check_cog_validity()
 
-    def __json__(self):
+    def __json__(self) -> dict[str, Any]:
         return {
             k: v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)
         }
 
 
 class Cog:
-    def __init__(self, name: str, path: Path):
+    def __init__(self, name: str, path: Path) -> None:
         """Anything exposed here will be serialized later
 
         Attributes starting with rx_ deviate from the info.json spec
@@ -162,7 +164,7 @@ class Cog:
         self.rx_last_updated_at = ""
         self._error = ""
 
-    def check_cog_validity(self):
+    def check_cog_validity(self) -> None:
         if self._error:
             return
 
@@ -170,7 +172,7 @@ class Cog:
         if not initpath.exists():
             self._error = "Info.json is present but no __init__.py was found. Invalid cog package."
 
-    def get_info(self, repo_metadata):
+    def get_info(self, repo_metadata: InternalRepoMetadata) -> None:
         if self._error:
             return
         info_path = self._path / Path("info.json")
@@ -205,14 +207,29 @@ class Cog:
         self.rx_added_at = cog_metadata.added_at.isoformat(timespec="microseconds")
         self.rx_last_updated_at = cog_metadata.last_updated_at.isoformat(timespec="microseconds")
 
-    def __json__(self):
+    def __json__(self) -> dict[str, Any]:
         return {
             k: v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)
         }
 
 
+class InternalRepoMetadataDict(TypedDict):
+    added_at: int
+    approved_at: int | None
+    cogs: dict[str, InternalCogMetadataDict]
+    deleted_at: int | None
+
+
 class InternalRepoMetadata:
-    def __init__(self, url, cogs=None, *, added_at=None, approved_at=None, deleted_at=None):
+    def __init__(
+        self,
+        url: str,
+        cogs: dict[str, InternalCogMetadata] | None = None,
+        *,
+        added_at: datetime.datetime | None = None,
+        approved_at: datetime.datetime | None = None,
+        deleted_at: datetime.datetime | None = None,
+    ) -> None:
         self.url = url
         self.cogs = cogs or {}
         self.added_at = added_at or NOW
@@ -221,16 +238,16 @@ class InternalRepoMetadata:
         self.__still_exists = False
 
     @property
-    def _still_exists(self):
+    def _still_exists(self) -> bool:
         return self.__still_exists
 
     @_still_exists.setter
-    def _still_exists(self, value):
+    def _still_exists(self, value: bool) -> None:
         self.__still_exists = value
         self.deleted_at = None
 
     @classmethod
-    def from_dict(cls, url, data):
+    def from_dict(cls, url: str, data: InternalRepoMetadataDict) -> Self:
         cogs = {
             name: InternalCogMetadata.from_dict(name, cog_metadata)
             for name, cog_metadata in data["cogs"].items()
@@ -246,7 +263,7 @@ class InternalRepoMetadata:
             deleted_at=deleted_at,
         )
 
-    def __json__(self):
+    def __json__(self) -> dict[str, Any]:
         return {
             "cogs": self.cogs,
             "added_at": self.added_at.timestamp(),
@@ -255,11 +272,26 @@ class InternalRepoMetadata:
         }
 
 
+class InternalCogMetadataDict(TypedDict):
+    added_at: int
+    last_updated_at: int
+    deleted_at: int | None
+    hashes: dict[str, str]
+
+
 class InternalCogMetadata:
     _BUFFER_SIZE = 2**18
     _PREFERRED_ALGORITHMS = ("sha256",)
 
-    def __init__(self, name, *, added_at, last_updated_at, deleted_at, hashes):
+    def __init__(
+        self,
+        name: str,
+        *,
+        added_at: datetime.datetime,
+        last_updated_at: datetime.datetime,
+        deleted_at: datetime.datetime | None,
+        hashes: dict[str, str],
+    ) -> None:
         self.name = name
         self.added_at = added_at
         self.last_updated_at = last_updated_at
@@ -268,7 +300,7 @@ class InternalCogMetadata:
         self._still_exists = False
 
     @classmethod
-    def from_dict(cls, name, data):
+    def from_dict(cls, name: str, data: InternalCogMetadataDict) -> Self:
         return cls(
             name=name,
             added_at=get_datetime(data["added_at"]),
@@ -278,7 +310,7 @@ class InternalCogMetadata:
         )
 
     @classmethod
-    def from_path(cls, name, path):
+    def from_path(cls, name: str, path: Path) -> Self:
         obj = cls(
             name=name,
             added_at=NOW,
@@ -289,7 +321,7 @@ class InternalCogMetadata:
         obj._still_exists = True
         return obj
 
-    def __json__(self):
+    def __json__(self) -> dict[str, Any]:
         return {
             "added_at": self.added_at.timestamp(),
             "last_updated_at": self.last_updated_at.timestamp(),
@@ -297,7 +329,7 @@ class InternalCogMetadata:
             "hashes": self.hashes,
         }
 
-    def update_from_path(self, path):
+    def update_from_path(self, path: Path) -> None:
         self._still_exists = True
         self.deleted_at = None
         hashes = self.get_file_hashes(path)
@@ -305,7 +337,7 @@ class InternalCogMetadata:
             self.last_updated_at = NOW
 
     @classmethod
-    def get_file_hashes(cls, cog_path):
+    def get_file_hashes(cls, cog_path: Path) -> dict[str, str]:
         buffer = bytearray(cls._BUFFER_SIZE)
         view = memoryview(buffer)
         digests = {algorithm: hashlib.new(algorithm) for algorithm in ("sha256",)}
@@ -321,7 +353,7 @@ class InternalCogMetadata:
                         digestobj.update(view[:size])
         return {algorithm: digestobj.hexdigest() for algorithm, digestobj in digests.items()}
 
-    def verify_hashes(self, hashes):
+    def verify_hashes(self, hashes: dict[str, str]) -> bool:
         for algorithm in self._PREFERRED_ALGORITHMS:
             try:
                 a = self.hashes[algorithm]
@@ -343,18 +375,22 @@ class InternalCogMetadata:
         raise RuntimeError("No matching hashes were found.")
 
 
-def get_datetime(timestamp: int | None = None):
+@overload
+def get_datetime(timestamp: int) -> datetime.datetime: ...
+@overload
+def get_datetime(timestamp: None = None) -> None: ...
+def get_datetime(timestamp: int | None = None) -> datetime.datetime | None:
     if timestamp is None:
         return None
     return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.UTC)
 
 
-def sha1_digest(url):
+def sha1_digest(url: str) -> str:
     # this is only used with URLs from repositories.yaml list, there's no risk of collision attacks
     return hashlib.sha1(url.encode("utf-8")).hexdigest()  # noqa: S324
 
 
-def make_error_log(repos):
+def make_error_log(repos: list[Repo]) -> str:
     log = {}
 
     for r in repos:
@@ -374,7 +410,7 @@ def make_error_log(repos):
         return ""
 
 
-def main():
+def main() -> None:
     yamlfile = sys.argv[1]
 
     with open(yamlfile) as f:
