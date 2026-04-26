@@ -34,8 +34,8 @@ jobs:
         git add index metadata.json
         git commit -m "Index update"
     - name: Push changes
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        credential="$(echo -n "x-access-token:$GITHUB_TOKEN" | base64 -w0)"
-        echo "::add-mask::$credential"
-        git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic $credential"
+        gh auth setup-git
         git push
