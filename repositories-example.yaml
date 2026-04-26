@@ -7,15 +7,26 @@
 # List of approved repos
 # Will be parsed and categorized as "approved" by the indexer
 approved:
-  - https://github.com/User1/RepoName
-  - https://github.com/User2/RepoName@branchname
-  - https://github.com/User3/RepoName
+  # Long form allowing to specify the name to put in the `name` key of the repo
+  - url: https://github.com/User1/RepoName
+    name: user1-repo-name
+  - url: https://github.com/User2/RepoName@branchname
+    name: user2-repo-name
+  # Short form that will automatically use `RepoName` as the `name` key of the repo
+  - https://github.com/User3/User3RepoName
+  - https://github.com/User4/User4RepoName@branchname
 
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
-  - https://github.com/User4/RepoName@branchname
-  - https://gitlab.com/User5/RepoName
+  # Long form allowing to specify the name to put in the `name` key of the repo
+  - url: https://github.com/User5/RepoName
+    name: user5-repo-name
+  - url: https://github.com/User6/RepoName@branchname
+    name: user6-repo-name
+  # Short form that will automatically use `RepoName` as the `name` key of the repo
+  - https://github.com/User3/User7RepoName
+  - https://github.com/User4/User8RepoName@branchname
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer.
@@ -23,7 +34,7 @@ flagged-cogs:
   https://gitlab.com/User5/RepoName:   # <- Mind the colon!
     - cogname1
     - cogname2
-  https://github.com/User3/RepoName:
+  https://github.com/User2/RepoName:
     - cogname1
   https://github.com/User1/RepoName:
     - cogname8

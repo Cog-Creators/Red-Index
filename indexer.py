@@ -28,7 +28,7 @@ class CustomEncoder(json.JSONEncoder):
             return json.JSONEncoder.default(self, obj)
 
 class Repo:
-    def __init__(self, metadata, category: str):
+    def __init__(self, metadata, category: str, *, name=""):
         """Anything exposed here will be serialized later
 
         Attributes starting with rx_ deviate from the info.json spec
@@ -43,7 +43,8 @@ class Repo:
         self.short = ""
         self._metadata = metadata
         self._url = metadata.url
-        self.name = ""
+        self._url_name = ""
+        self.name = name
         self.rx_branch = ""
         self.rx_added_at = ""
         self.rx_approved_at = ""
@@ -67,15 +68,17 @@ class Repo:
         if url.endswith("/"):
             url = url[:-1]
 
-        self.name = name
+        if not self.name:
+            self.name = name
         self.rx_branch = branch
         self._url = url
+        self._url_name = name
 
     def folder_check_and_get_info(self):
         if self._error:
             return
 
-        safe_name = re.sub(r"[^a-zA-Z0-9_\-\.]", "", self.name).strip(".")
+        safe_name = re.sub(r"[^a-zA-Z0-9_\-\.]", "", self._url_name).strip(".")
         prefix = f"{safe_name}_" if safe_name else ""
         base_path = CACHE / Path(f"{prefix}{sha1_digest(self._url)}")
         if not base_path.is_dir():
@@ -379,14 +382,19 @@ def main():
     repos = []
 
     for k in ("approved", "unapproved"):
-        if data[k]: # Can be None if empty
-            for url in data[k]:
-                if url in metadata:
-                    repo_metadata = metadata[url]
-                else:
-                    repo_metadata = InternalRepoMetadata(url)
-                    metadata[url] = repo_metadata
-                repos.append(Repo(repo_metadata, k))
+        if not data[k]: # Can be None if empty
+            continue
+        for repo_info in data[k]:
+            if isinstance(repo_info, str):
+                repo_info = {"url": repo_info}
+            url = repo_info["url"]
+            if url in metadata:
+                repo_metadata = metadata[url]
+            else:
+                repo_metadata = InternalRepoMetadata(url)
+                metadata[url] = repo_metadata
+            name = repo_info.get("name", "")
+            repos.append(Repo(repo_metadata, k, name=name))
 
     for r in repos:
         r.folder_check_and_get_info()
