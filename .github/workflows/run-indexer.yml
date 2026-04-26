@@ -4,7 +4,6 @@ on:
   schedule:
   - cron: "*/15 * * * *"
   workflow_dispatch:
-    branches: [ master ]
 
 permissions:
   contents: write
@@ -13,13 +12,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v6
       with:
         persist-credentials: false
-    - name: Set up Python 3.8
-      uses: actions/setup-python@v4
+    - name: Set up Python 3.14
+      uses: actions/setup-python@v6
       with:
-        python-version: 3.8
+        python-version: "3.14"
     - name: Create bash file for cloning
       run: |
         make clonerepos.sh
@@ -35,7 +34,8 @@ jobs:
         git add index metadata.json
         git commit -m "Index update"
     - name: Push changes
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        branch: ${{ github.ref }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        credential="x-access-token:$(echo -n "$GITHUB_TOKEN" | base64 -w0)"
+        echo "::add-mask::$credential"
+        git config --local http.https://github.com/.extraheader "AUTHORIZATION: basic $credential"
+        git push
