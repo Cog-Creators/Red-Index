@@ -2775,7 +2775,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2024-11-04T20:09:47.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T19:26:32.415325+00:00",
+                "rx_last_updated_at": "2026-04-26T20:01:08.202849+00:00",
                 "short": "Configure and manage a tickets system for your server!",
                 "tags": [
                     "tickets",
@@ -13013,6 +13013,32 @@
                     "atmospheric",
                     "immersion",
                     "timezone"
+                ],
+                "type": "COG"
+            },
+            "Toolz": {
+                "author": [
+                    "Taako"
+                ],
+                "description": "A Red DiscordBot cog with helpful role and user lookup, search, list, audit, and export tools.",
+                "disabled": false,
+                "end_user_data_statement": "",
+                "hidden": false,
+                "max_bot_version": "",
+                "min_bot_version": "3.5.0",
+                "min_python_version": "",
+                "permissions": [],
+                "required_cogs": {},
+                "requirements": [],
+                "rx_added_at": "2026-04-26T20:01:08.202849+00:00",
+                "rx_last_updated_at": "2026-04-26T20:01:08.202849+00:00",
+                "short": "Role and user utility tools for larger servers.",
+                "tags": [
+                    "roles",
+                    "users",
+                    "utility",
+                    "moderation",
+                    "server management"
                 ],
                 "type": "COG"
             },

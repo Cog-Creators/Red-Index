@@ -693,7 +693,7 @@
                 "hashes": {
                     "sha256": "811e3cac4fffa6386ecfb0c185e6aee084c5db6a8a123d4b60c260459807710a"
                 },
-                "last_updated_at": 1777231592.415325
+                "last_updated_at": 1777233668.202849
             },
             "tickettool": {
                 "added_at": 1643467595.0,
@@ -4319,6 +4319,14 @@
                     "sha256": "e4065536035525d25e130f2b3d9872e73f13ecbed1fbd061c28b9c9ea34bdbc0"
                 },
                 "last_updated_at": 1753477171.0
+            },
+            "Toolz": {
+                "added_at": 1777233668.202849,
+                "deleted_at": null,
+                "hashes": {
+                    "sha256": "f19bf2a540b6d2e3a3b9310e48c734e14207869bf9235ea2fa124eb03cad94e9"
+                },
+                "last_updated_at": 1777233668.202849
             },
             "WHMCS": {
                 "added_at": 1762699696.0,
