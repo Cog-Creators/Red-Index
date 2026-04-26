@@ -436,10 +436,7 @@ def main():
                 # slashes and such. Owner/Reponame is close enough.
                 if r._owner_repo not in url:
                     continue
-                to_remove = []
-                for c in r.rx_cogs:
-                    if c._name in flagged_cogs:
-                        to_remove.append(c)
+                to_remove = [c for c in r.rx_cogs if c._name in flagged_cogs]
                 if to_remove:
                     r.rx_cogs = [c for c in r.rx_cogs if c not in to_remove]
 
