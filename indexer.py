@@ -305,11 +305,11 @@ class InternalCogMetadata:
             self.last_updated_at = NOW
 
     @classmethod
-    def get_file_hashes(cls, path):
+    def get_file_hashes(cls, cog_path):
         buffer = bytearray(cls._BUFFER_SIZE)
         view = memoryview(buffer)
         digests = {algorithm: hashlib.new(algorithm) for algorithm in ("sha256",)}
-        for path in sorted(path.rglob("**/*")):
+        for path in sorted(cog_path.rglob("**/*")):
             if not path.is_file():
                 continue
             with path.open("rb") as fp:
