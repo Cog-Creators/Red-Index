@@ -9,11 +9,14 @@ import yaml
 
 CACHE = Path("cache")
 
+
 def executable_opener(path, flags):
     return os.open(path, flags, 0o755)
 
+
 def sha1_digest(url):
-    return sha1(url.encode('utf-8')).hexdigest()
+    return sha1(url.encode("utf-8")).hexdigest()
+
 
 def get_name(url):
     name = url.split("/")[4]
@@ -23,6 +26,7 @@ def get_name(url):
         name = name[:-1]
     return name
 
+
 def get_clean_url(url):
     branch = ""
     if "@" in url:
@@ -30,6 +34,7 @@ def get_clean_url(url):
     if url.endswith("/"):
         url = url[:-1]
     return url, branch
+
 
 if __name__ == "__main__":
     infile = sys.argv[1]
@@ -56,7 +61,9 @@ if __name__ == "__main__":
         if branch:
             sha = sha1_digest(f"{url}@{branch}")
             dest = CACHE / Path(f"{prefix}{sha}")
-            sh += f"./git-retry.sh clone --depth=1 {url} --branch {branch} --single-branch {dest}\n"
+            sh += (
+                f"./git-retry.sh clone --depth=1 {url} --branch {branch} --single-branch {dest}\n"
+            )
         else:
             sha = sha1_digest(url)
             dest = CACHE / Path(f"{prefix}{sha}")
