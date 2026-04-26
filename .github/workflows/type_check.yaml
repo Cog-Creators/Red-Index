@@ -1,0 +1,21 @@
+name: Type check
+on:
+  push:
+  pull_request:
+
+jobs:
+  type_check:
+    name: Type check
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+
+      - name: Setup uv
+        uses: astral-sh/setup-uv@v8.1.0
+
+      - name: Run ty
+        run: uv run --frozen ty check --output-format=github

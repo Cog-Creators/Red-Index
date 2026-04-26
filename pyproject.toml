@@ -1,6 +1,13 @@
+[project]
+name = "Red-Index"
+version = "1.0.0"
+requires-python = ">=3.14"
+dependencies = [
+    "pyyaml",
+]
+
 [tool.ruff]
 line-length = 99
-target-version = "py314"
 
 [tool.ruff.format]
 line-ending = "lf"
@@ -27,6 +34,8 @@ select = [
     # refurb rules
     "FURB",
     "FURB148",  # unnecessary-enumerate (in preview)
+    # require type annotations
+    "ANN",
     # flake8-simplify rules
     "SIM",
     # flake8-logging rules
@@ -54,6 +63,8 @@ select = [
     "TID",
 ]
 ignore = [
+    # allow use of `Any`
+    "ANN401",
     # setattr is needed to make type checkers happy when creating new attributes on objects
     "B010",
     # disable __all__ sorting
@@ -72,3 +83,9 @@ combine-as-imports = true
 
 [tool.ruff.lint.flake8-boolean-trap]
 extend-allowed-calls = ["logging.captureWarnings"]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.12",
+    "ty>=0.0.32",
+]
