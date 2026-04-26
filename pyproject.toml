@@ -1,0 +1,74 @@
+[tool.ruff]
+line-length = 99
+target-version = "py314"
+
+[tool.ruff.format]
+line-ending = "lf"
+
+[tool.ruff.lint]
+select = [
+    # pyflakes rules
+    "F",
+    # pycodestyle rules
+    "E",
+    "W",
+    # import sorting
+    "I",
+    # pyupgrade rules
+    "UP",
+    # flake8-bugbear rules
+    "B",
+    # flake8-bandit rules
+    "S",
+    # builtin shadowing rules
+    "A",
+    # unused arguments
+    "ARG",
+    # refurb rules
+    "FURB",
+    "FURB148",  # unnecessary-enumerate (in preview)
+    # flake8-simplify rules
+    "SIM",
+    # flake8-logging rules
+    "LOG",
+    # flake8-logging-format rules
+    "G",
+    # flake8-comprehensions rules
+    "C4",
+    # "boolean trap" rules
+    "FBT",
+    # disallow implicitly concatenated strings on a single line
+    # and explicitly concatenated strings
+    "ISC",
+    # perflint rules
+    "PERF",
+    # pygrep-hooks rules
+    "PGH",
+    # flake8-pie rules
+    "PIE",
+    # collection of rules unique to Ruff
+    "RUF",
+    # leftover `breakpoint()`
+    "T100",
+    # flake8-tidy-imports rules
+    "TID",
+]
+ignore = [
+    # setattr is needed to make type checkers happy when creating new attributes on objects
+    "B010",
+    # disable __all__ sorting
+    # see https://github.com/astral-sh/ruff/issues/20952
+    "RUF022",
+    # `assert` is expected to be used in code (to appease type checkers)
+    "S101",
+    # `contextlib.suppress()` is slower than `try-except-pass`
+    "SIM105",
+]
+preview = true
+explicit-preview-rules = true
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+
+[tool.ruff.lint.flake8-boolean-trap]
+extend-allowed-calls = ["logging.captureWarnings"]
