@@ -52,7 +52,7 @@ class Repo:
         self.rx_approved_at = ""
         try:
             self.parse_name_branch_url(metadata.url)
-        except:
+        except Exception:
             self._error = "Something went wrong while parsing the url. Is it a valid address?"
 
     def parse_name_branch_url(self, url):
@@ -94,7 +94,7 @@ class Repo:
         try:
             with open(str(infofile)) as f:
                 info = json.load(f)
-        except:
+        except Exception:
             self._error = "Error reading repo info.json. Possibly invalid."
             return
 
@@ -178,7 +178,7 @@ class Cog:
         try:
             with open(str(info_path)) as f:
                 data = json.load(f)
-        except:
+        except Exception:
             self._error = "Error reading cog info.json. Possibly invalid."
             return
 
