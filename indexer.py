@@ -2,21 +2,22 @@ import datetime
 import hashlib
 import hmac
 import json
-import yaml
 import re
 import sys
 from gzip import GzipFile
 from pathlib import Path
 
+import yaml
+
 CACHE = Path("cache")
 
-RX_PROTOCOL = 1 # This should be incremented when breaking changes to the format are implemented
-GEN_PATH = Path("index") # exposed Index endpoints
-GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json") # Pretty, for QA checking
-GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json") # Minified, for user download
-GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz") # Gzipped
-GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml") # Error log
-METADATA_FILE = Path("metadata.json") # internal metadata, used for e.g. last_updated_at dates
+RX_PROTOCOL = 1  # This should be incremented when breaking changes to the format are implemented
+GEN_PATH = Path("index")  # exposed Index endpoints
+GEN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}.json")  # Pretty, for QA checking
+GEN_MIN_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json")  # Minified, for user download
+GEN_GZ_FILE = GEN_PATH / Path(f"{RX_PROTOCOL}-min.json.gz")  # Gzipped
+GEN_ERROR_LOG = GEN_PATH / Path(f"{RX_PROTOCOL}-errors.yaml")  # Error log
+METADATA_FILE = Path("metadata.json")  # internal metadata, used for e.g. last_updated_at dates
 NOW = datetime.datetime.now(datetime.timezone.utc)
 
 
@@ -27,13 +28,14 @@ class CustomEncoder(json.JSONEncoder):
         else:
             return json.JSONEncoder.default(self, obj)
 
+
 class Repo:
     def __init__(self, metadata, category: str, *, name=""):
         """Anything exposed here will be serialized later
 
         Attributes starting with rx_ deviate from the info.json spec
         and as such they have this prefix to avoid future conflicts"""
-        self.rx_category = category # approved / unapproved
+        self.rx_category = category  # approved / unapproved
         self._owner_repo = ""
         self._error = ""
         self._path = None
@@ -51,8 +53,7 @@ class Repo:
         try:
             self.parse_name_branch_url(metadata.url)
         except:
-            self._error = ("Something went wrong while parsing the url. "
-                            "Is it a valid address?")
+            self._error = "Something went wrong while parsing the url. Is it a valid address?"
 
     def parse_name_branch_url(self, url):
         branch = ""
@@ -117,7 +118,7 @@ class Repo:
 
         for d in sub_dirs:
             path = d / Path("info.json")
-            if path.is_file(): # Dirs with no info.json inside are simply ignored
+            if path.is_file():  # Dirs with no info.json inside are simply ignored
                 self.rx_cogs.append(Cog(d.name, d))
 
         if not self.rx_cogs:
@@ -132,7 +133,10 @@ class Repo:
             cog.check_cog_validity()
 
     def __json__(self):
-        return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
+        return {
+            k: v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)
+        }
+
 
 class Cog:
     def __init__(self, name: str, path: Path):
@@ -155,7 +159,7 @@ class Cog:
         self.required_cogs = {}
         self.requirements = []
         self.tags = []
-        self.type = "" # Still a thing?
+        self.type = ""  # Still a thing?
         self.rx_added_at = ""
         self.rx_last_updated_at = ""
         self._error = ""
@@ -204,7 +208,10 @@ class Cog:
         self.rx_last_updated_at = cog_metadata.last_updated_at.isoformat(timespec="microseconds")
 
     def __json__(self):
-        return {k:v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)}
+        return {
+            k: v for (k, v) in self.__dict__.items() if not k.startswith("_") and not callable(k)
+        }
+
 
 class InternalRepoMetadata:
     def __init__(self, url, cogs=None, *, added_at=None, approved_at=None, deleted_at=None):
@@ -248,6 +255,7 @@ class InternalRepoMetadata:
             "approved_at": self.approved_at and self.approved_at.timestamp(),
             "deleted_at": self.deleted_at and self.deleted_at.timestamp(),
         }
+
 
 class InternalCogMetadata:
     _BUFFER_SIZE = 2**18
@@ -336,13 +344,16 @@ class InternalCogMetadata:
 
         raise RuntimeError("No matching hashes were found.")
 
+
 def get_datetime(timestamp: int = None):
     if timestamp is None:
         return None
     return datetime.datetime.fromtimestamp(timestamp).astimezone(datetime.timezone.utc)
 
+
 def sha1_digest(url):
-    return hashlib.sha1(url.encode('utf-8')).hexdigest()
+    return hashlib.sha1(url.encode("utf-8")).hexdigest()
+
 
 def make_error_log(repos):
     log = {}
@@ -363,6 +374,7 @@ def make_error_log(repos):
     else:
         return ""
 
+
 def main():
     yamlfile = sys.argv[1]
 
@@ -382,7 +394,7 @@ def main():
     repos = []
 
     for k in ("approved", "unapproved"):
-        if not data[k]: # Can be None if empty
+        if not data[k]:  # Can be None if empty
             continue
         for repo_info in data[k]:
             if isinstance(repo_info, str):
@@ -448,7 +460,9 @@ def main():
         if not GEN_PATH.exists():
             GEN_PATH.mkdir()
 
-        minified_str = json.dumps(repos_index, separators=(',', ':'), sort_keys=True, cls=CustomEncoder)
+        minified_str = json.dumps(
+            repos_index, separators=(",", ":"), sort_keys=True, cls=CustomEncoder
+        )
 
         # Minified json file
         with open(str(GEN_MIN_FILE), "w") as f:
@@ -456,7 +470,7 @@ def main():
 
         # Gzipped minified json file
         with open(str(GEN_GZ_FILE), "wb") as f:
-            gz = GzipFile(GEN_MIN_FILE.name, "wb", 9, f, 0.)
+            gz = GzipFile(GEN_MIN_FILE.name, "wb", 9, f, 0.0)
             gz.write(minified_str.encode())
             gz.close()
 
