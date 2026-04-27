@@ -679,7 +679,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-04-28T08:47:28.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to send code content from a GitHub/Gist/GitLab/BitBucket/Pastebin/Hastebin!",
                 "tags": [
                     "code",
@@ -849,7 +849,7 @@
                     "itsdangerous"
                 ],
                 "rx_added_at": "2024-04-07T23:31:44.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Interact with your bot through a web Dashboard!",
                 "tags": [
                     "dashboard",
@@ -881,7 +881,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-07-08T10:28:05.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Various development focused utilities!",
                 "tags": [
                     "dev",
@@ -1108,7 +1108,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2023-05-08T13:25:36.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to make pixel arts on Discord!",
                 "tags": [
                     "draw",
@@ -1201,7 +1201,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-10-22T01:38:26.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Create, send, and store rich embeds, from Red-Web-Dashboard too!",
                 "tags": [
                     "embed",
@@ -1302,7 +1302,7 @@
                     "pycountry"
                 ],
                 "rx_added_at": "2024-12-24T18:48:54.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Generate random and fake identities, including names, addresses, emails, and phone numbers!",
                 "tags": [
                     "identity",
@@ -1751,7 +1751,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-06-20T15:46:56.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to lint a code from Discord, with Flake8, PyLint, MyPy, Bandit, Black, Isort, Yapf, AutoFlake8, PyRight and Ruff!",
                 "tags": [
                     "dev",
@@ -1782,7 +1782,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2025-01-03T23:25:24.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Play the Mafia game, with many roles (Mafia/Villagers/Neutral), modes (including Random and Custom), anomalies...!",
                 "tags": [
                     "game",
@@ -2254,7 +2254,7 @@
                     "recurrent"
                 ],
                 "rx_added_at": "2023-05-28T19:16:53.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands scheduler, say scheduler... With 'Me Too', snooze and buttons.",
                 "tags": [
                     "remind",
@@ -2417,7 +2417,7 @@
                     "fuzzywuzzy"
                 ],
                 "rx_added_at": "2023-03-05T19:20:21.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to compile and run codes in some languages!",
                 "tags": [
                     "dev",
@@ -2488,7 +2488,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2025-06-08T21:08:48.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Protect your servers from unwanted members, spam, but also from nuke attacks and more! This includes a quarantine/modlog system, and many modules like Auto Mod, Reports, Logging, Anti Nuke, Protected Roles, and more!",
                 "tags": [
                     "security",
@@ -2521,7 +2521,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2022-08-05T12:11:38.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
                 "tags": [
                     "seen",
@@ -2775,7 +2775,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2024-11-04T20:09:47.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Configure and manage a tickets system for your server!",
                 "tags": [
                     "tickets",
@@ -2841,7 +2841,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2021-11-20T09:36:33.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "A cog to transfer messages from a channel to another channel, with many options!",
                 "tags": [
                     "transfer",
@@ -13031,7 +13031,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-04-26T20:01:08.202849+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Role and user utility tools for larger servers.",
                 "tags": [
                     "roles",
@@ -21127,20 +21127,25 @@
                 "author": [
                     "hollowstrawberry"
                 ],
-                "description": "Generate images with OpenAI",
+                "description": "Connects to OpenAI to generate images, with an /imagine slash command and a Remix app command. Requires an api key and ongoing monetary cost per image (depending on settings, may be fractions of a cent or fractions of a dollar). Configurable hourly quota per user, with an option to add a VIP role and specific VIP users that can generate as much as they want.",
                 "disabled": false,
                 "end_user_data_statement": "This cog does not store user data.",
                 "hidden": false,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
-                "min_python_version": "",
+                "min_python_version": [
+                    3,
+                    9,
+                    0
+                ],
                 "permissions": [],
                 "required_cogs": {},
                 "requirements": [
-                    "openai==1.109.1"
+                    "openai==1.109.1",
+                    "Pillow"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-03-09T14:24:36.000000+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Generate images with OpenAI",
                 "tags": [
                     "crab",
@@ -21148,9 +21153,10 @@
                     "ai",
                     "generation",
                     "imagine",
-                    "dalle",
-                    "dall-e",
-                    "openai"
+                    "gpt",
+                    "openai",
+                    "gpt-image-2",
+                    "remix"
                 ],
                 "type": ""
             },
@@ -21268,7 +21274,7 @@
                     "aiofiles"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2025-10-12T02:14:24.000000+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Owner cog to show the latest logs.",
                 "tags": [
                     "crab",
@@ -21346,7 +21352,7 @@
                 "description": "Generate anime images with NovelAI v3.",
                 "disabled": false,
                 "end_user_data_statement": "This cog stores user preferences related to cog functionality.",
-                "hidden": false,
+                "hidden": true,
                 "max_bot_version": "",
                 "min_bot_version": "3.5.0",
                 "min_python_version": "",
@@ -21357,7 +21363,7 @@
                     "Pillow"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-03-09T14:24:36.000000+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Generate anime images with NovelAI v3.",
                 "tags": [
                     "crab",
@@ -25780,7 +25786,7 @@
                     "tenacity"
                 ],
                 "rx_added_at": "2025-07-19T11:09:37.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Posts live worldwide earthquake updates from USGS to a designated channel.",
                 "tags": [
                     "Earthquake",
@@ -33890,7 +33896,7 @@
                     "aiosqlite"
                 ],
                 "rx_added_at": "2023-06-18T17:31:32.000000+00:00",
-                "rx_last_updated_at": "2026-04-26T23:24:10.125917+00:00",
+                "rx_last_updated_at": "2026-04-27T00:01:22.733285+00:00",
                 "short": "Human-like user behavior powered by LLMs.",
                 "tags": [
                     "openai",
