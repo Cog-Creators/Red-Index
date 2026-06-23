@@ -7,5 +7,3 @@ https://github.com/BeeHiveSafety/BeeHive-Cogs:
   staffmonitor: Error reading cog info.json. Possibly invalid.
 https://github.com/BenCos17/ben-cogs:
   airframes: Error reading cog info.json. Possibly invalid.
-https://github.com/hollowstrawberry/holo-cogs:
-  aimage: Info.json is present but no __init__.py was found. Invalid cog package.
