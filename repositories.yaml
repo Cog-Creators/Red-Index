@@ -120,6 +120,7 @@ unapproved:
     name: catalystnd-cogs
   - url: https://github.com/Cognitohazard/cogs-cogs
     name: cognitohazard-cogs
+  - https://github.com/livetennisapi/livetennis-redbot
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
