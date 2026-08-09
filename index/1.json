@@ -69,7 +69,7 @@
                     "red-tidegear>=1.3.1"
                 ],
                 "rx_added_at": "2025-11-23T03:54:13.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "tags": [
                     "utility",
@@ -397,7 +397,7 @@
                     "prettytable"
                 ],
                 "rx_added_at": "2023-04-28T08:33:47.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play a random match of Acrononym game, with Modals!",
                 "tags": [
                     "acronym",
@@ -428,7 +428,7 @@
                     "plotly"
                 ],
                 "rx_added_at": "2024-10-05T12:48:19.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Set up an Advent Calendar for your members, with custom rewards or messages each day! Work in december only...",
                 "tags": [
                     "advent",
@@ -555,7 +555,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2025-05-23T21:33:59.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play the Bot Says... game, where the bot says something easy to do, and you have to do it to not be eliminated!",
                 "tags": [
                     "bot",
@@ -587,7 +587,7 @@
                     "expr.py"
                 ],
                 "rx_added_at": "2022-02-07T08:30:47.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to do simple calculations from Discord with buttons!",
                 "tags": [
                     "calculation",
@@ -679,7 +679,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-04-28T08:47:28.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to send code content from a GitHub/Gist/GitLab/BitBucket/Pastebin/Hastebin!",
                 "tags": [
                     "code",
@@ -745,7 +745,7 @@
                     "colorama"
                 ],
                 "rx_added_at": "2023-07-02T13:32:01.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to display the console logs, with buttons and filter options, and to send commands errors in configured channels!",
                 "tags": [
                     "error",
@@ -778,7 +778,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2024-08-27T10:08:55.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Revert some actions in servers, from the audit logs!",
                 "tags": [
                     "revert",
@@ -849,7 +849,7 @@
                     "itsdangerous"
                 ],
                 "rx_added_at": "2024-04-07T23:31:44.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Interact with your bot through a web Dashboard!",
                 "tags": [
                     "dashboard",
@@ -881,7 +881,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-07-08T10:28:05.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Various development focused utilities!",
                 "tags": [
                     "dev",
@@ -977,7 +977,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2022-10-12T16:19:28.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to edit Discord default objects, like guilds, roles, text channels, voice channels, threads and AutoMod!",
                 "tags": [
                     "discord",
@@ -1072,7 +1072,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2024-07-20T23:32:19.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track votes on Disurl, assign roles to voters and remind them to vote!",
                 "tags": [
                     "disurl",
@@ -1108,7 +1108,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2023-05-08T13:25:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to make pixel arts on Discord!",
                 "tags": [
                     "draw",
@@ -1201,7 +1201,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-10-22T01:38:26.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create, send, and store rich embeds, from Red-Web-Dashboard too!",
                 "tags": [
                     "embed",
@@ -1302,7 +1302,7 @@
                     "pycountry"
                 ],
                 "rx_added_at": "2024-12-24T18:48:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generate random and fake identities, including names, addresses, emails, and phone numbers!",
                 "tags": [
                     "identity",
@@ -1337,7 +1337,7 @@
                     "prettytable"
                 ],
                 "rx_added_at": "2024-08-04T21:32:51.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play to click on the right button as fast as you can!",
                 "tags": [
                     "fast",
@@ -1448,7 +1448,7 @@
                     "git+https://github.com/WitherredAway/gists.py"
                 ],
                 "rx_added_at": "2023-04-28T08:47:28.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to create new Gists and edit/delete existing ones!",
                 "tags": [
                     "dev",
@@ -1480,7 +1480,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2024-09-29T20:08:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Recognise the correct candy as fast as you can!",
                 "tags": [
                     "guess",
@@ -1516,7 +1516,7 @@
                     "fonttools"
                 ],
                 "rx_added_at": "2023-07-27T09:47:13.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to generate images with messages and voice stats, for members, roles, guilds, categories, text channels, voice channels and activities!",
                 "tags": [
                     "stats",
@@ -1611,7 +1611,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2025-05-18T10:47:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get a leaderboard of Karuta drops in your server!",
                 "tags": [
                     "karuta",
@@ -1678,7 +1678,7 @@
                     "plotly"
                 ],
                 "rx_added_at": "2025-08-18T11:40:16.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Check the last mentions you received easily and get your or server statistics!",
                 "tags": [
                     "mentions",
@@ -1751,7 +1751,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-06-20T15:46:56.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to lint a code from Discord, with Flake8, PyLint, MyPy, Bandit, Black, Isort, Yapf, AutoFlake8, PyRight and Ruff!",
                 "tags": [
                     "dev",
@@ -1782,7 +1782,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2025-01-03T23:25:24.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play the Mafia game, with many roles (Mafia/Villagers/Neutral), modes (including Random and Custom), anomalies...!",
                 "tags": [
                     "game",
@@ -1942,7 +1942,7 @@
                     "one-piece-wanted-poster"
                 ],
                 "rx_added_at": "2025-04-29T21:27:37.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Give One Piece's bounties to your members, based on their time in the server, their level and their roles, then generate their wanted posters, and also welcome them when they join!",
                 "tags": [
                     "one",
@@ -2119,7 +2119,7 @@
                     "kaleido"
                 ],
                 "rx_added_at": "2023-10-31T22:46:32.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to make a chart with the different Discord statuses (presence) of a Discord member, in the previous x days (last 100 days maximum)!",
                 "tags": [
                     "presence",
@@ -2254,7 +2254,7 @@
                     "recurrent"
                 ],
                 "rx_added_at": "2023-05-28T19:16:53.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Don't forget anything anymore! Reminders in DMs, channels, FIFO commands scheduler, say scheduler... With 'Me Too', snooze and buttons.",
                 "tags": [
                     "remind",
@@ -2322,7 +2322,7 @@
                     "prettytable"
                 ],
                 "rx_added_at": "2024-07-28T13:09:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play a match of Rollout game, with buttons!",
                 "tags": [
                     "rollout",
@@ -2417,7 +2417,7 @@
                     "fuzzywuzzy"
                 ],
                 "rx_added_at": "2023-03-05T19:20:21.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to compile and run codes in some languages!",
                 "tags": [
                     "dev",
@@ -2489,7 +2489,7 @@
                     "imagehash"
                 ],
                 "rx_added_at": "2025-06-08T21:08:48.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Protect your servers from unwanted members, spam, but also from nuke attacks and more! This includes a quarantine/modlog system, and many modules like Auto Mod, Reports, Logging, Anti Nuke, Protected Roles, and more!",
                 "tags": [
                     "security",
@@ -2522,7 +2522,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2022-08-05T12:11:38.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to check when a member/role/channel/category/user/guild was last active!",
                 "tags": [
                     "seen",
@@ -2552,7 +2552,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2025-06-19T22:11:20.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track and give roles to supporters, members using the server tag or having a server invite link in their status!",
                 "tags": [
                     "server",
@@ -2583,7 +2583,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2022-01-01T13:46:17.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to sanction members, with buttons!",
                 "tags": [
                     "sanction",
@@ -2616,7 +2616,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-10-22T18:46:33.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Bulk sniping deleted and edited messages, for moderation purpose!",
                 "tags": [
                     "snipe",
@@ -2648,7 +2648,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-06-04T13:05:26.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to play a match of SplitOrSteal game!",
                 "tags": [
                     "split",
@@ -2710,7 +2710,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2025-07-14T16:43:52.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Manage teams with captains, vice captains and members, and points, leaderboard and contributor leaderboard!",
                 "tags": [
                     "team",
@@ -2743,7 +2743,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-07-14T09:46:55.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to assign temporary roles to users, expiring after a set duration!",
                 "tags": [
                     "roles",
@@ -2776,7 +2776,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2024-11-04T20:09:47.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Configure and manage a tickets system for your server!",
                 "tags": [
                     "tickets",
@@ -2811,7 +2811,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2022-01-29T14:46:35.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to manage a Tickets system!",
                 "tags": [
                     "tickets",
@@ -2842,7 +2842,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2021-11-20T09:36:33.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to transfer messages from a channel to another channel, with many options!",
                 "tags": [
                     "transfer",
@@ -2905,7 +2905,7 @@
                     "git+https://github.com/AAA3A-AAA3A/AAA3A_utils.git"
                 ],
                 "rx_added_at": "2023-10-14T13:04:29.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to display permissions for roles and members, at guild level or in a specified channel!",
                 "tags": [
                     "permissions",
@@ -4268,7 +4268,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-01-06T15:37:18.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "",
                 "tags": [
                     "shards",
@@ -4653,7 +4653,7 @@
                     "Pillow"
                 ],
                 "rx_added_at": "2025-07-15T13:49:38.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Server management utilities.",
                 "tags": [
                     "server",
@@ -4683,7 +4683,7 @@
                     "wtforms"
                 ],
                 "rx_added_at": "2025-07-12T19:25:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get aircraft and airport information thru Discord, enhanced with a variety of consumer APIs, the maintained version of the one by beehive-cogs and originally written by bencos17",
                 "tags": [
                     "airplanes",
@@ -5175,7 +5175,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-05-08T13:47:44.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "For you competitive bumpers",
                 "tags": [],
                 "type": "COG"
@@ -5219,7 +5219,7 @@
                     "async-lru"
                 ],
                 "rx_added_at": "2024-10-30T12:53:17.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Eases the application process for the Genesis server",
                 "tags": [
                     "wufoo",
@@ -5252,7 +5252,7 @@
                     "pytz"
                 ],
                 "rx_added_at": "2024-10-06T12:48:35.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Talk about time easier across timezones",
                 "tags": [
                     "time",
@@ -8576,7 +8576,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2024-12-19T11:47:14.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "VirusTotal Link Scanning for RedBot-Discord 3.x",
                 "tags": [
                     "Grommish VirusTotal"
@@ -10554,7 +10554,7 @@
                     "yt-dlp"
                 ],
                 "rx_added_at": "2022-10-06T23:41:32.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Subscribe to channels on YouTube.",
                 "tags": [
                     "YouTube"
@@ -10641,7 +10641,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-11-01T03:54:50.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "",
                 "tags": [
                     "economy",
@@ -10740,7 +10740,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-10-09T12:19:09.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "FortuneGarden Cog",
                 "tags": [
                     "fun",
@@ -10768,7 +10768,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-10-09T12:19:09.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "GamerPower giveaway notifier with embeds",
                 "tags": [
                     "games",
@@ -10871,7 +10871,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-28T13:01:37.419802+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create memes from countless templates using an interactive browser and modals.",
                 "tags": [
                     "memes",
@@ -10998,7 +10998,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-10-19T21:26:04.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "",
                 "tags": [
                     "economy",
@@ -11108,7 +11108,7 @@
                     "aiohttp"
                 ],
                 "rx_added_at": "2025-10-09T12:19:09.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Per-user and guild wordclouds with emoji support",
                 "tags": [
                     "fun",
@@ -12996,7 +12996,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Review and certify sensitive role access with safe, auditable campaigns.",
                 "tags": [
                     "access",
@@ -13028,7 +13028,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Application forms with panels, review buttons, role actions, exports, polls, and dashboard support.",
                 "tags": [
                     "applications",
@@ -13060,7 +13060,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-09T23:36:02.137353+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Random-code modal verification with configurable role rewards.",
                 "tags": [
                     "captcha",
@@ -13094,7 +13094,7 @@
                     "aiohttp"
                 ],
                 "rx_added_at": "2026-07-08T22:54:45.796716+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Auto-updating official Cfx.re service status panel.",
                 "tags": [
                     "cfx",
@@ -13156,7 +13156,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Scheduled channel and forum recaps with highlights, links, and activity summaries.",
                 "tags": [
                     "digest",
@@ -13188,7 +13188,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Onboarding, activation, retention, churn, inactivity, and role-adoption analytics.",
                 "tags": [
                     "analytics",
@@ -13220,7 +13220,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Dry-run-first retention policies and privacy request workflows.",
                 "tags": [
                     "privacy",
@@ -13252,7 +13252,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-28T08:50:12.677103+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A living, persistent old-school text RPG for Discord.",
                 "tags": [
                     "game",
@@ -13298,7 +13298,7 @@
                     "aiohttp"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Copy emojis and stickers between Discord servers.",
                 "tags": [
                     "utility",
@@ -13329,7 +13329,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "RSVPs, waitlists, reminders, attendance check-ins, no-shows, and rewards.",
                 "tags": [
                     "events",
@@ -13365,7 +13365,7 @@
                     "google-auth>=2.0.0"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Advanced RP world tracker with characters, relationships, and timelines.",
                 "tags": [
                     "roleplay",
@@ -13400,7 +13400,7 @@
                     "aiohttp"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Live FiveM server status panel.",
                 "tags": [
                     "fivem",
@@ -13430,7 +13430,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Coin flip utility for Red.",
                 "tags": [
                     "fun",
@@ -13459,7 +13459,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Solved help-forum workflows, assignments, tags, stale queues, and metrics.",
                 "tags": [
                     "forum",
@@ -13491,7 +13491,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Timed reaction-based giveaways with auto-ending, rerolls, and dashboard support.",
                 "tags": [
                     "giveaway",
@@ -13522,7 +13522,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Invite tracking, join sources, fake joins, leavers, and leaderboards.",
                 "tags": [
                     "invites",
@@ -13556,7 +13556,7 @@
                     "aiohttp>=3.8.0"
                 ],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Monitor resource links, redirects, failures, and TLS certificate expiry.",
                 "tags": [
                     "links",
@@ -13590,7 +13590,7 @@
                     "PyYAML>=6.0"
                 ],
                 "rx_added_at": "2026-07-13T03:55:27.323624+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create, store, send, edit, and visually build embeds and Components V2 messages.",
                 "tags": [
                     "components v2",
@@ -13622,7 +13622,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Incident channels, commanders, timelines, updates, actions, and postmortems.",
                 "tags": [
                     "incident",
@@ -13654,7 +13654,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog for playing the social party game Paranoia in Discord.",
                 "tags": [
                     "game",
@@ -13687,7 +13687,7 @@
                     "pytz"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Advanced weather simulation with seasonal accuracy and extreme events.",
                 "tags": [
                     "weather",
@@ -13720,7 +13720,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Community reputation, kudos, rep boards, leaderboards, and exports.",
                 "tags": [
                     "reputation",
@@ -13751,7 +13751,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "ReviewHub-style reviews, vouches, requests, stats, and configurable buttons.",
                 "tags": [
                     "reviews",
@@ -13783,7 +13783,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-15T23:39:41.915054+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Community role packs, activity XP, ranks, leaderboards, and level rewards.",
                 "tags": [
                     "roles",
@@ -13820,7 +13820,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-10T01:14:51.636728+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Audited role automation, advanced targeting, panels, resilient autoroles, migrations, lifecycle tools, and dashboard operations.",
                 "tags": [
                     "roles",
@@ -13860,7 +13860,7 @@
                     "pytz"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Advanced RP calendar with daily updates, moon phases, and blood moon events.",
                 "tags": [
                     "roleplay",
@@ -13893,7 +13893,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-09T23:36:02.137353+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Expose prefix-only cogs through Red's built-in slash manager.",
                 "tags": [
                     "slash",
@@ -13924,7 +13924,7 @@
                     "Pillow>=10.0.0"
                 ],
                 "rx_added_at": "2026-07-16T06:40:33.474412+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Animated, colorful, cryptographically random wheels with saved presets and dashboard controls.",
                 "tags": [
                     "wheel",
@@ -13956,7 +13956,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Synchronize sponsor membership tiers to Discord roles with grace periods and audits.",
                 "tags": [
                     "sponsor",
@@ -13989,7 +13989,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-08-04T04:53:29.424419+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Staff shifts, availability, leave, on-call rotations, handoffs, and reports.",
                 "tags": [
                     "staff",
@@ -14021,7 +14021,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Community suggestions with voting, threads, review states, comments, exports, and dashboard support.",
                 "tags": [
                     "suggestions",
@@ -14053,7 +14053,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Temporary voice channels with embedded owner control panels.",
                 "tags": [
                     "voice",
@@ -14087,7 +14087,7 @@
                     "chat-exporter>=3.1.0"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Ticket panels, member controls, lifecycle automation, recovery, and transcripts.",
                 "tags": [
                     "tickets",
@@ -14121,7 +14121,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Role and user utility tools for larger servers.",
                 "tags": [
                     "roles",
@@ -14152,7 +14152,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create and rename visibly uppercase text channels.",
                 "tags": [
                     "channels",
@@ -14185,7 +14185,7 @@
                     "Pillow"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Custom welcome messages with placeholders, embeds, cached images, avatar overlays, and dashboard support.",
                 "tags": [
                     "welcome",
@@ -14217,7 +14217,7 @@
                     "aiohttp>=3.8.0"
                 ],
                 "rx_added_at": "2026-05-20T22:49:35.367436+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Integrate Discord with WHMCS billing and client management.",
                 "tags": [
                     "whmcs",
@@ -14248,7 +14248,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-09T23:36:02.137353+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Fast, audit-accurate server logging with complete dashboard control.",
                 "tags": [
                     "logging",
@@ -15030,7 +15030,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2018-12-07T17:58:16.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "ExtendedModLog, track changes made in the server.",
                 "tags": [
                     "mod",
@@ -15121,7 +15121,7 @@
                     "pillow"
                 ],
                 "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Hockey commands",
                 "tags": [
                     "hockey",
@@ -15565,7 +15565,7 @@
                     "matplotlib"
                 ],
                 "rx_added_at": "2018-12-06T04:10:56.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Show your Runescape stats in discord!",
                 "tags": [
                     "runescape",
@@ -16115,7 +16115,7 @@
                     "pillow"
                 ],
                 "rx_added_at": "2021-03-31T14:51:08.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A better uptime command that tracks the bot's uptime as a percentage over the last 30 days, and has a new `downtime` command that shows when downtime happened.",
                 "tags": [
                     "utility",
@@ -18504,7 +18504,7 @@
                     "red-tidegear>=1.3.1"
                 ],
                 "rx_added_at": "2025-12-20T04:39:28.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A utility to make reinstalling repositories and cogs after migrating the bot far easier.",
                 "tags": [
                     "utility",
@@ -18882,7 +18882,7 @@
                     "aiohttp"
                 ],
                 "rx_added_at": "2023-06-20T23:31:35.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Search for anime, manga, manhwa, manhua/donghua, light novels, and characters. See series info, status, episodes/chapters, and tags.",
                 "tags": [
                     "anime",
@@ -19435,7 +19435,7 @@
                     "httpx"
                 ],
                 "rx_added_at": "2020-08-24T06:05:50.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "",
                 "tags": [],
                 "type": ""
@@ -21971,7 +21971,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-06-23T06:03:32.637454+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Live audio player with buttons for the audio cog.",
                 "tags": [
                     "crab",
@@ -22003,7 +22003,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-10T01:14:51.636728+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Restores the current audio track progress when the bot restarts.",
                 "tags": [
                     "crab",
@@ -22036,7 +22036,7 @@
                     "yt-dlp"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Audio cog commands in the form of slash commands, with YouTube and playlist autocomplete.",
                 "tags": [
                     "crab",
@@ -22065,7 +22065,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Make the bot react along with everyone else.",
                 "tags": [
                     "crab",
@@ -22099,7 +22099,7 @@
                     "opencv_python_headless"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Fun image filters and an avatar context menu.",
                 "tags": [
                     "crab",
@@ -22132,7 +22132,7 @@
                     "googletrans-py"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Translate messages using Google Translate for free. Supports context menu commands.",
                 "tags": [
                     "crab",
@@ -22161,7 +22161,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-10-14T03:40:50.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Adds slash commands for the economy cog and a configurable bonus for the payday command.",
                 "tags": [
                     "crab",
@@ -22189,7 +22189,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Steals emotes and stickers sent by other people.",
                 "tags": [
                     "crab",
@@ -22250,7 +22250,7 @@
                     "expiringdict"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Searches images on Gelbooru with slash command and tag completion support.",
                 "tags": [
                     "crab",
@@ -22305,7 +22305,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-06-23T06:03:32.637454+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Use OpenAI's reasoning models",
                 "tags": [
                     "crab",
@@ -22342,7 +22342,7 @@
                     "pillow"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generate images with OpenAI",
                 "tags": [
                     "crab",
@@ -22379,7 +22379,7 @@
                     "pydantic==2.11.5"
                 ],
                 "rx_added_at": "2026-06-23T06:03:32.637454+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Uses AI to give a unique welcome message for each new user.",
                 "tags": [
                     "crab",
@@ -22409,7 +22409,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Logs deleted images for moderation purposes.",
                 "tags": [
                     "crab",
@@ -22443,7 +22443,7 @@
                     "expiringdict"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Scans images for AI generation metadata.",
                 "tags": [
                     "crab",
@@ -22473,7 +22473,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-03-23T20:03:18.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Sends modified links to embed content from popular social media sites.",
                 "tags": [
                     "crab",
@@ -22508,7 +22508,7 @@
                     "aiofiles"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Owner cog to show the latest logs.",
                 "tags": [
                     "crab",
@@ -22541,7 +22541,7 @@
                     "mcstatus"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Manage a Minecraft server from within Discord.",
                 "tags": [
                     "crab",
@@ -22567,7 +22567,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-10-06T22:10:31.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play Connect 4 and Tic-Tac-Toe against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
@@ -22600,7 +22600,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-06-23T06:03:32.637454+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generate and remix images with Google's NanoBanana.",
                 "tags": [
                     "holo",
@@ -22631,7 +22631,7 @@
                     "Pillow"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generate anime images with NovelAI v3.",
                 "tags": [
                     "crab",
@@ -22658,7 +22658,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A few fun commands involving randomness: [p]rate, [p]pp, [p]donut",
                 "tags": [
                     "crab",
@@ -22690,7 +22690,7 @@
                     "dataclasses-json"
                 ],
                 "rx_added_at": "2025-10-18T16:34:23.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Gambling minigames for your economy bot: Poker, Blackjack, and an improved Slots.",
                 "tags": [
                     "crab",
@@ -22726,7 +22726,7 @@
                     "Wand"
                 ],
                 "rx_added_at": "2025-10-09T03:41:01.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play Checkers against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
@@ -22762,7 +22762,7 @@
                     "Wand"
                 ],
                 "rx_added_at": "2025-10-07T21:48:02.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play Chess against your friends or the bot, with economy support.",
                 "tags": [
                     "crab",
@@ -22825,7 +22825,7 @@
                     "googletrans-py"
                 ],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Plays text to speech in voice chat. Briefly interrupts music.",
                 "tags": [
                     "crab",
@@ -22882,7 +22882,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-08-12T02:42:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Logs users joining and leaving a VC, inside the VC chat itself.",
                 "tags": [
                     "crab",
@@ -22936,7 +22936,7 @@
                     "tavily-python"
                 ],
                 "rx_added_at": "2026-06-23T01:59:37.382731+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A custom-built conversational agent for Discord",
                 "tags": [
                     "holo",
@@ -22972,7 +22972,7 @@
                     "expiringdict"
                 ],
                 "rx_added_at": "2026-06-23T01:59:37.382731+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generates an image with the Arc en Ciel API. Not really useful for public use but here it is.",
                 "tags": [
                     "ai",
@@ -23322,7 +23322,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2024-09-30T19:32:44.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get updates on free games from Epic Games, Steam, and more!",
                 "tags": [
                     "free",
@@ -23517,7 +23517,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2025-11-08T18:38:05.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "",
                 "tags": [],
                 "type": "COG"
@@ -25756,7 +25756,7 @@
                     "colorgram.py"
                 ],
                 "rx_added_at": "2022-10-24T12:17:01.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Display a Go Live stream alert.",
                 "tags": [
                     "discord",
@@ -26001,7 +26001,7 @@
                     "beautifulsoup4"
                 ],
                 "rx_added_at": "2022-03-30T02:10:50.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Cog for interacting with World of Warcraft",
                 "tags": [
                     "warcraft",
@@ -26884,7 +26884,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-07-24T21:19:38.469982+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Live tennis scores, match details, head-to-head and player lookups.",
                 "tags": [
                     "tennis",
@@ -26968,7 +26968,7 @@
                     "tabulate"
                 ],
                 "rx_added_at": "2023-05-15T01:55:59.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Automatically publish messages from a news channel.",
                 "tags": [
                     "news",
@@ -27002,7 +27002,7 @@
                     "emoji>=2.0.0"
                 ],
                 "rx_added_at": "2024-09-11T11:47:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Count from 1 to infinity! with some customizable settings.",
                 "tags": [
                     "counting",
@@ -27029,7 +27029,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-03-17T14:31:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to convert currencies using ExchangeRate-API.",
                 "tags": [
                     "currency",
@@ -27061,7 +27061,7 @@
                     "tenacity"
                 ],
                 "rx_added_at": "2025-07-19T11:09:37.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Posts live worldwide earthquake updates from USGS to a designated channel.",
                 "tags": [
                     "Earthquake",
@@ -27092,7 +27092,7 @@
                     "aiosqlite"
                 ],
                 "rx_added_at": "2025-04-09T11:46:33.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Easter hunt cog that provides a fun Easter-themed game where users can hunt for eggs, work for egg shards, give eggs to others or steal, and earn achievements.",
                 "tags": [
                     "easter",
@@ -27123,7 +27123,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-03-17T17:39:25.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Requires users to accept ToS and privacy policy before using any bot commands.",
                 "tags": [
                     "tos enforcement",
@@ -27159,7 +27159,7 @@
                     "html2text"
                 ],
                 "rx_added_at": "2024-07-10T16:30:45.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "GitHub RSS Commit Feeds",
                 "tags": [
                     "utility",
@@ -27192,7 +27192,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-09-14T13:14:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Commit daring heists to steal valuable items or currency, using tools to boost success and shields to reduce losses, but beware the risk of getting caught!",
                 "tags": [
                     "heist",
@@ -27225,7 +27225,7 @@
                     "git+https://github.com/ltzmax/maxcogs-utils.git"
                 ],
                 "rx_added_at": "2025-02-27T11:09:05.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A cog to display historical events for a given day in your timezone.",
                 "tags": [
                     "history",
@@ -27257,7 +27257,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-01-06T16:11:16.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play a Honeycombs challenge game.",
                 "tags": [
                     "honeycombs",
@@ -27287,7 +27287,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2024-05-09T13:31:42.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Let moderators lockdown a channel to prevent messages from being sent.",
                 "tags": [
                     "lockdown",
@@ -27320,7 +27320,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-03-24T09:09:23.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A unified message moderation cog combining spoiler blocking, attachment restriction, and forwarded message deletion.",
                 "tags": [
                     "restrict posts",
@@ -27355,7 +27355,7 @@
                     "orjson"
                 ],
                 "rx_added_at": "2022-08-05T13:00:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Random Nekos.best images + RolePlay Commands.",
                 "tags": [
                     "images",
@@ -27390,7 +27390,7 @@
                     "rapidfuzz"
                 ],
                 "rx_added_at": "2023-10-16T13:27:40.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Infect users with the plague!",
                 "tags": [
                     "fun",
@@ -27421,7 +27421,7 @@
                     "pillow"
                 ],
                 "rx_added_at": "2024-07-16T10:26:35.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Play a game of Who's That Pok\u00e9mon or Fetch Pok\u00e9mon cards based on Pok\u00e9mon Trading Card Game.",
                 "tags": [
                     "pokemon",
@@ -27455,7 +27455,7 @@
                 },
                 "requirements": [],
                 "rx_added_at": "2023-09-10T12:34:56.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Update your bot to latest dev version of red.",
                 "tags": [
                     "botupdate",
@@ -27484,7 +27484,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-04-04T10:24:03.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Slash Help Menu Cog that provides a help menu for slash commands only.",
                 "tags": [
                     "slash commands",
@@ -27517,7 +27517,7 @@
                     "beautifulsoup4"
                 ],
                 "rx_added_at": "2026-02-06T15:07:03.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Auto posts new articles from Wccftech to a specified channel in your server.",
                 "tags": [
                     "technews",
@@ -27552,7 +27552,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2023-07-11T21:04:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Search for informations of movies and TV shows from themoviedb.org.",
                 "tags": [
                     "movies",
@@ -27581,7 +27581,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-02-06T17:14:01.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "This will allow you to self-timeout yourself, similar to Twitch's timeout command from streamelemets and fossabot.",
                 "tags": [
                     "self-timeout",
@@ -27618,7 +27618,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-14T02:54:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Palworld Monitor",
                 "tags": [],
                 "type": ""
@@ -27767,7 +27767,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-14T02:54:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Control Systemd services from Discord.",
                 "tags": [
                     "system",
@@ -29216,7 +29216,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-01-19T10:19:02.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Manage channel access permissions for roles and members",
                 "tags": [
                     "permissions",
@@ -29244,7 +29244,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track Discord activity and game statistics",
                 "tags": [
                     "Statistics",
@@ -29271,7 +29271,7 @@
                     "httpx>=0.14.1"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Authenticate and verify users with Albion Online player names",
                 "tags": [
                     "Albion Online",
@@ -29299,7 +29299,7 @@
                     "Pillow>=10.2.0"
                 ],
                 "rx_added_at": "2025-12-21T11:48:40.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track Roads of Avalon connections via Portaler API",
                 "tags": [
                     "Albion Online",
@@ -29330,7 +29330,7 @@
                     "nats-py>=2.0.0"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track bandit event role mentions with timing predictions",
                 "tags": [
                     "Albion Online",
@@ -29356,7 +29356,7 @@
                     "httpx>=0.14.1"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get regear costs for Albion Online deaths",
                 "tags": [
                     "Albion Online",
@@ -29380,7 +29380,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Allow users with specific roles to give specified roles to other users",
                 "tags": [
                     "role",
@@ -29404,7 +29404,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Dynamic voice channel management",
                 "tags": [
                     "channel",
@@ -29436,7 +29436,7 @@
                     "python-a2s>=1.3.0"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Monitor Steam game servers and display status embeds.",
                 "tags": [
                     "Steam",
@@ -29469,7 +29469,7 @@
                     "Pillow>=10.2.0"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Add festive Christmas hats to avatars",
                 "tags": [
                     "christmas",
@@ -29498,7 +29498,7 @@
                     "httpx>=0.14.1"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Suggest ideas by creating GitHub issues",
                 "tags": [
                     "GitHub",
@@ -29525,7 +29525,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Misc things for your server",
                 "tags": [
                     "Roles",
@@ -29553,7 +29553,7 @@
                     "cinemagoer==2022.12.27"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Handle votes for movies",
                 "tags": [
                     "reaction",
@@ -29583,7 +29583,7 @@
                     "httpx>=0.14.1"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Update channel info based on server status.",
                 "tags": [
                     "Server",
@@ -29608,7 +29608,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create war timers for new world.",
                 "tags": [
                     "Timers"
@@ -29634,7 +29634,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Create and manage party signups",
                 "tags": [
                     "party",
@@ -29663,7 +29663,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-21T10:35:18.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Bot owner administration commands",
                 "tags": [
                     "Bot",
@@ -29689,7 +29689,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Storage for user generated quotes",
                 "tags": [
                     "Quotes",
@@ -29714,7 +29714,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "React to messages for roles",
                 "tags": [
                     "Roles",
@@ -29771,7 +29771,7 @@
                     "httpx>=0.14.1"
                 ],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Interface for the TGMC API",
                 "tags": [
                     "TGMC",
@@ -29797,7 +29797,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-12-19T03:53:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Manage bot user settings",
                 "tags": [
                     "Bot",
@@ -29827,7 +29827,7 @@
                     "catboxpy>=0.0.5"
                 ],
                 "rx_added_at": "2026-04-15T19:59:43.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Download videos from URLs in DMs and guilds",
                 "tags": [
                     "Video",
@@ -29881,7 +29881,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-06-22T22:22:29.028628+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Multiplayer PvP word guessing game played in Discord threads.",
                 "tags": [
                     "game",
@@ -29996,7 +29996,7 @@
                     "pillow"
                 ],
                 "rx_added_at": "2025-07-23T07:17:38.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "PCMasterRace cog to track PC build combo and rank them among other builds in the server.",
                 "tags": [
                     "pcmastterrace"
@@ -30625,7 +30625,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-02-05T22:08:30.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Spidey Games",
                 "tags": [
                     "spideysimp",
@@ -31121,7 +31121,7 @@
                     "filelock>=3.13.3"
                 ],
                 "rx_added_at": "2019-09-18T20:17:10.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "iNaturalist for Discord",
                 "tags": [
                     "inaturalist",
@@ -32637,7 +32637,7 @@
                     "aiosqlite"
                 ],
                 "rx_added_at": "2024-12-06T03:13:44.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Intuitive ban appeal system.",
                 "tags": [
                     "appeal",
@@ -32694,7 +32694,7 @@
                     "ddgs"
                 ],
                 "rx_added_at": "2023-04-21T01:47:11.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Advanced AI assistant (or chat) cog for your server with OpenAI's ChatGPT language models",
                 "tags": [
                     "utility",
@@ -32737,7 +32737,7 @@
                     "resvg-py"
                 ],
                 "rx_added_at": "2023-11-24T22:03:27.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Extended functionality for Assistant",
                 "tags": [
                     "assistant",
@@ -32773,7 +32773,7 @@
                     "pandas"
                 ],
                 "rx_added_at": "2023-01-02T23:46:43.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "EZ Cog Doc Generation",
                 "tags": [
                     "utility",
@@ -32805,7 +32805,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2022-04-27T03:59:23.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Backup and restore bank balances for all members in a server",
                 "tags": [
                     "utility",
@@ -32837,7 +32837,7 @@
                     "apscheduler"
                 ],
                 "rx_added_at": "2023-11-13T19:02:54.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Inactivity-based economy credit decay",
                 "tags": [],
                 "type": "COG"
@@ -32861,7 +32861,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2024-03-24T22:06:06.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Bank transaction listener events for 3rd party cogs",
                 "tags": [
                     "bank",
@@ -32903,7 +32903,7 @@
                     "imageio-ffmpeg"
                 ],
                 "rx_added_at": "2026-01-21T17:36:06.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Build and battle robots",
                 "tags": [
                     "game",
@@ -32941,7 +32941,7 @@
                     "tenacity"
                 ],
                 "rx_added_at": "2023-10-14T20:32:03.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Discord Server Backup/Restore",
                 "tags": [
                     "backup",
@@ -32972,7 +32972,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2025-11-28T23:11:15.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Lock command or cog usage to specific channels.",
                 "tags": [
                     "utilities",
@@ -33008,7 +33008,7 @@
                     "piccolo>=1.0.0"
                 ],
                 "rx_added_at": "2024-08-28T02:55:27.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Click the cow!",
                 "tags": [
                     "cow",
@@ -33042,7 +33042,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2024-05-12T03:07:28.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get crafting information for Ark Survival Evolved!",
                 "tags": [
                     "ark",
@@ -33075,7 +33075,7 @@
                     "kaleido"
                 ],
                 "rx_added_at": "2022-08-20T22:28:10.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Economy tracker",
                 "tags": [
                     "utility",
@@ -33143,7 +33143,7 @@
                     "tabulate"
                 ],
                 "rx_added_at": "2022-02-04T07:31:29.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Emoji tracker",
                 "tags": [
                     "emoji",
@@ -33177,7 +33177,7 @@
                     "aiocache"
                 ],
                 "rx_added_at": "2022-10-11T14:08:09.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Host and manage events in your server",
                 "tags": [
                     "event",
@@ -33213,7 +33213,7 @@
                     "pandas"
                 ],
                 "rx_added_at": "2024-04-06T02:49:19.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Extended bot currency economy features.",
                 "tags": [
                     "economy",
@@ -33259,7 +33259,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2021-08-30T01:22:40.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Auto translation between two languages.",
                 "tags": [
                     "utility",
@@ -33293,7 +33293,7 @@
                     "aiosmtplib"
                 ],
                 "rx_added_at": "2024-05-12T21:20:52.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Send emails through your Gmail account!",
                 "tags": [
                     "email",
@@ -33327,7 +33327,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2026-03-24T15:19:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Reward users for completing Google Form surveys.",
                 "tags": [
                     "economy",
@@ -33359,7 +33359,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2023-10-16T20:46:31.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Manage what kind of servers the bot can join",
                 "tags": [
                     "guild",
@@ -33392,7 +33392,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2022-02-16T03:04:04.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Log bot guild joins/leaves",
                 "tags": [
                     "utility",
@@ -33422,7 +33422,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2022-04-04T22:46:16.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "A bird hunting game.",
                 "tags": [
                     "hunting",
@@ -33452,7 +33452,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2024-01-28T19:16:25.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Make suggestions and share ideas anonymously.",
                 "tags": [],
                 "type": "COG"
@@ -33482,7 +33482,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2026-01-14T04:09:00.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Generate and edit images with OpenAI's GPT-Image models",
                 "tags": [
                     "image",
@@ -33538,7 +33538,7 @@
                     "jinja2"
                 ],
                 "rx_added_at": "2022-01-12T08:51:27.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Discord leveling system",
                 "tags": [
                     "activity",
@@ -33571,7 +33571,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2021-09-09T04:04:20.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Meow",
                 "tags": [
                     "meow",
@@ -33605,7 +33605,7 @@
                     "kaleido"
                 ],
                 "rx_added_at": "2025-09-27T21:25:05.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Track and visualize server statistics over time.",
                 "tags": [
                     "economy",
@@ -33639,7 +33639,7 @@
                     "aiocache"
                 ],
                 "rx_added_at": "2025-08-26T02:23:24.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Pickaxe in hand, fortune awaits",
                 "tags": [
                     "mining",
@@ -33669,7 +33669,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-07T17:24:22.022587+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Extra modlog + warning tooling.",
                 "tags": [
                     "moderation",
@@ -33701,7 +33701,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2021-10-03T21:23:32.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Filter bot messages",
                 "tags": [
                     "utility",
@@ -33730,7 +33730,7 @@
                     "pydantic>=2.11,<2.12"
                 ],
                 "rx_added_at": "2022-08-15T04:32:46.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Anti-Nuke Cog",
                 "tags": [
                     "nuke",
@@ -33761,7 +33761,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-04-14T14:46:36.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Let users opt out of being pinged with AutoMod rules and custom schedules.",
                 "tags": [
                     "automod",
@@ -33797,7 +33797,7 @@
                     "tzdata"
                 ],
                 "rx_added_at": "2026-07-26T17:32:05.733985+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "PalWorld server management via REST API",
                 "tags": [
                     "palworld",
@@ -33837,7 +33837,7 @@
                     "tabulate"
                 ],
                 "rx_added_at": "2022-11-05T04:39:39.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Image guessing game!",
                 "tags": [
                     "fun",
@@ -33877,7 +33877,7 @@
                     "watchdog"
                 ],
                 "rx_added_at": "2024-02-17T03:46:52.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Cog profiling tools for bot owners and developers",
                 "tags": [
                     "profiler",
@@ -33915,7 +33915,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2022-09-03T03:13:58.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Pet the dog.",
                 "tags": [
                     "pets"
@@ -33945,7 +33945,7 @@
                     "aiosqlite"
                 ],
                 "rx_added_at": "2025-01-04T04:11:11.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Simple referral system with economy",
                 "tags": [
                     "referrals",
@@ -33977,7 +33977,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2026-05-06T23:05:51.192699+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Show current Discord server limits.",
                 "tags": [
                     "discord",
@@ -34008,7 +34008,7 @@
                     "numpy"
                 ],
                 "rx_added_at": "2024-03-17T16:25:31.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Space Engineers Server Manager",
                 "tags": [
                     "space",
@@ -34044,7 +34044,7 @@
                     "tiktoken"
                 ],
                 "rx_added_at": "2026-03-25T14:04:12.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Chat with the Taalas LLM API.",
                 "tags": [
                     "ai",
@@ -34078,7 +34078,7 @@
                     "pytz"
                 ],
                 "rx_added_at": "2024-12-31T06:13:02.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Schedule bot commands within a simple menu",
                 "tags": [
                     "taskr",
@@ -34129,7 +34129,7 @@
                     "orjson"
                 ],
                 "rx_added_at": "2022-08-14T23:46:43.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Advanced support ticket system",
                 "tags": [
                     "utility",
@@ -34159,7 +34159,7 @@
                 "required_cogs": {},
                 "requirements": [],
                 "rx_added_at": "2022-08-13T05:25:56.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Upgrade.Chat API Economy Integration",
                 "tags": [
                     "utility",
@@ -34197,7 +34197,7 @@
                     "chat-exporter"
                 ],
                 "rx_added_at": "2022-07-19T03:09:45.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Assorted utility commands",
                 "tags": [
                     "utility",
@@ -34233,7 +34233,7 @@
                     "openai"
                 ],
                 "rx_added_at": "2025-10-07T21:48:02.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Per-server bot profile customization with role-based access control",
                 "tags": [
                     "whitelabel",
@@ -34278,7 +34278,7 @@
                     "httpx"
                 ],
                 "rx_added_at": "2021-07-27T01:02:34.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Get Xbox Live Info and Player Stats.",
                 "tags": [
                     "fun",
@@ -34970,7 +34970,7 @@
                     "git+https://github.com/zephyrkul/proxyembed"
                 ],
                 "rx_added_at": "2018-10-10T06:55:40.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Access information from NationStates.net.",
                 "tags": [
                     "utility"
@@ -35231,7 +35231,7 @@
                     "emoji"
                 ],
                 "rx_added_at": "2023-06-16T07:20:03.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "OpenAI-powered reacts",
                 "tags": [
                     "openai",
@@ -35313,7 +35313,7 @@
                     "aiosqlite"
                 ],
                 "rx_added_at": "2023-06-18T17:31:32.000000+00:00",
-                "rx_last_updated_at": "2026-08-09T21:56:43.898691+00:00",
+                "rx_last_updated_at": "2026-08-09T22:18:51.912954+00:00",
                 "short": "Human-like user behavior powered by LLMs.",
                 "tags": [
                     "openai",
