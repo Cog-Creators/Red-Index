@@ -123,6 +123,7 @@ unapproved:
   - https://github.com/livetennisapi/livetennis-redbot
   - url: https://github.com/ToHubLab/ToHubLab-Cogs
     name: ToHubLab-Cogs
+  - https://github.com/SickProdigy/Sick-Cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
