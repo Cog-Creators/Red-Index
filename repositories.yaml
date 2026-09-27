@@ -124,6 +124,7 @@ unapproved:
   - url: https://github.com/ToHubLab/ToHubLab-Cogs
     name: ToHubLab-Cogs
   - https://github.com/SickProdigy/Sick-Cogs
+  - https://github.com/RobLoach/robloach-cogs
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
