@@ -126,7 +126,7 @@ unapproved:
   - https://github.com/SickProdigy/Sick-Cogs
   - https://github.com/RobLoach/robloach-cogs
   - https://github.com/SinOfStrife/strife-cogs
-  
+
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
 flagged-cogs:
@@ -281,3 +281,4 @@ flagged-cogs:
     - uploadstreaks
   https://github.com/phenom4n4n/phen-cogs:
     - slashtags
+    
