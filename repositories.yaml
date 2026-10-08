@@ -125,8 +125,8 @@ unapproved:
     name: ToHubLab-Cogs
   - https://github.com/SickProdigy/Sick-Cogs
   - https://github.com/RobLoach/robloach-cogs
-  - url: https://github.com/SinOfStrife/strife-cogs
-    name: strife-cogs
+  - https://github.com/SinOfStrife/strife-cogs
+  
     
 
 # List of flagged cogs
