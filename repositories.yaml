@@ -71,7 +71,6 @@ approved:
 # List of unapproved repos.
 # Will be parsed and categorized as "unapproved" by the indexer
 unapproved:
-  - https://github.com/SKIZZOO/red-juicevault
   - https://github.com/thedataleek/eris-cogs
   - https://github.com/coffeebank/coffee-cogs
   - https://github.com/Injabie3/lui-cogs-v3
@@ -128,6 +127,7 @@ unapproved:
   - https://github.com/RobLoach/robloach-cogs
   - https://github.com/SinOfStrife/strife-cogs
   - https://github.com/cens0r3d/freak-cogs
+  - https://github.com/SKIZZOO/red-juicevault
 
 # List of flagged cogs
 # Cogs present in this list will be ignored by the indexer
